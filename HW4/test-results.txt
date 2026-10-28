@@ -1,0 +1,17 @@
+test_01_legit_login_and_balance (test_security.SecureServerTest.test_01_legit_login_and_balance) ... ok
+test_02_legit_transfer (test_security.SecureServerTest.test_02_legit_transfer) ... ok
+test_03_sql_injection_login_fails (test_security.SecureServerTest.test_03_sql_injection_login_fails) ... ok
+test_04_admin_sql_denied (test_security.SecureServerTest.test_04_admin_sql_denied) ... ok
+test_05_negative_transfer_rejected (test_security.SecureServerTest.test_05_negative_transfer_rejected) ... ok
+test_06_zero_transfer_rejected (test_security.SecureServerTest.test_06_zero_transfer_rejected) ... ok
+test_07_self_transfer_rejected (test_security.SecureServerTest.test_07_self_transfer_rejected) ... ok
+test_08_idor_history_only_own (test_security.SecureServerTest.test_08_idor_history_only_own) ... ok
+test_09_replay_rejected (test_security.SecureServerTest.test_09_replay_rejected) ... ok
+test_10_bruteforce_lockout (test_security.SecureServerTest.test_10_bruteforce_lockout) ... ok
+test_11_oversized_line_rejected (test_security.SecureServerTest.test_11_oversized_line_rejected) ... ok
+test_12_race_no_overspend (test_security.SecureServerTest.test_12_race_no_overspend) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 11.302s
+
+OK

@@ -1,0 +1,12 @@
+# Не копируем в образ лишнее и чувствительное
+__pycache__/
+*.pyc
+*.log
+bank_db.json
+bank_db.json.tmp
+attack_*.py
+bank_client.py
+smoke.py
+race.py
+.git
+.gitignore
