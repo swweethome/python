@@ -1,28 +1,23 @@
-# Запуск одной командой: docker compose up --build
-# Усиленная конфигурация: контейнер максимально ограничен в правах и ресурсах.
 services:
   bank:
     build: .
     image: secure-bank:latest
     container_name: secure-bank
     ports:
-      - "9999:9999"                 # проброс порта: хост:9999 -> контейнер:9999
+      - "9999:9999"            
 
-    # --- Безопасность ---
-    user: "10001:10001"             # запуск от непривилегированного пользователя
-    read_only: true                 # корневая ФС только для чтения
+    user: "10001:10001"          
+    read_only: true          
     security_opt:
-      - no-new-privileges:true      # процесс не может повысить свои привилегии
+      - no-new-privileges:true    
     cap_drop:
-      - ALL                         # отобрать все Linux-capabilities
+      - ALL                     
 
-    # --- Запись только туда, где действительно нужно ---
     volumes:
-      - bank-data:/data             # БД (том остаётся записываемым при read_only)
+      - bank-data:/data         
     tmpfs:
-      - /tmp                        # временные файлы — в оперативной памяти
+      - /tmp                  
 
-    # --- Ограничение ресурсов (защита от DoS/утечек) ---
     mem_limit: 256m
     cpus: 1.0
     pids_limit: 200
