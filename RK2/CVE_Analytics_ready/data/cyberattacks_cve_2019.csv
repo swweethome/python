@@ -1,0 +1,1037 @@
+cve_id,date,attack_type,vendor,product,cvss_score,severity,attack_vector,access_complexity,privileges_required,user_interaction,confidentiality_impact,integrity_impact,availability_impact,attacker_country,target_sector,affected_hosts,status,exploit_available
+CVE-2019-38413,2019-11-11,Phishing,Nginx,Nginx,3.6,Low,Local,High,Low,None,Low,None,High,China,Retail,34072,Exploited,Yes
+CVE-2019-14498,2019-04-03,XXE,IBM,MQ,8.7,High,Local,Low,None,None,High,High,Low,Turkey,Retail,40860,Resolved,No
+CVE-2019-51464,2019-12-15,MITM,Zimbra,Collaboration Suite,4.1,Medium,Adjacent,Low,Low,Required,None,High,Low,Ukraine,Finance,9745,Actively Exploited,No
+CVE-2019-21435,2019-02-18,Brute Force,Adobe,ColdFusion,5.5,Medium,Network,High,Low,Required,Low,Low,High,France,Transport,48314,Resolved,Yes
+CVE-2019-49662,2019-02-23,MITM,Oracle,Java SE,4.8,Medium,Physical,High,None,None,None,High,High,USA,Energy,12891,Exploited,No
+CVE-2019-57639,2019-01-24,Credential Stuffing,Microsoft,Azure AD,9.5,Critical,Network,Low,None,None,None,High,None,France,Defense,11697,Under Investigation,Yes
+CVE-2019-10835,2019-10-09,SQL Injection,Drupal,Modules,9.7,Critical,Adjacent,High,None,None,High,High,High,Canada,Defense,49364,Patched,Yes
+CVE-2019-05599,2019-01-29,Brute Force,Zimbra,Collaboration Suite,8.2,High,Adjacent,High,High,None,None,High,None,Brazil,Energy,6856,Resolved,Yes
+CVE-2019-89236,2019-04-01,CSRF,Cisco,IOS,1.3,Low,Network,High,None,None,High,Low,Low,India,Energy,12001,Exploited,Yes
+CVE-2019-70998,2019-12-23,Buffer Overflow,SAP,Business One,8.8,High,Network,Low,None,None,None,None,High,Turkey,Government,29650,Exploited,Yes
+CVE-2019-95737,2019-02-05,MITM,Fortinet,FortiOS,5.3,Medium,Local,Low,High,Required,None,High,High,Russia,Manufacturing,23252,Under Investigation,No
+CVE-2019-99986,2019-11-19,CSRF,Cisco,Webex,7.8,High,Local,High,Low,Required,Low,None,Low,France,Telecom,23929,Exploited,No
+CVE-2019-27112,2019-02-16,Ransomware,Apple,Safari,8.1,High,Local,Low,High,None,High,Low,None,South Korea,Transport,19526,Under Investigation,Yes
+CVE-2019-99058,2019-06-22,RCE,SAP,Business One,2.2,Low,Local,Low,High,None,None,None,Low,North Korea,Education,41967,Patched,Yes
+CVE-2019-53521,2019-02-12,Ransomware,Google,Workspace,5.9,Medium,Network,Low,None,None,Low,High,None,Vietnam,Energy,29207,Patched,No
+CVE-2019-03065,2019-10-06,Buffer Overflow,Juniper,Junos,7.5,High,Physical,High,Low,None,High,None,Low,China,Manufacturing,10276,Patched,Yes
+CVE-2019-52813,2019-07-27,Brute Force,Zimbra,Collaboration Suite,4.4,Medium,Network,High,High,None,Low,High,High,UK,Education,18056,Exploited,No
+CVE-2019-08151,2019-05-06,DoS/DDoS,Linux,systemd,4.3,Medium,Network,Low,None,Required,High,None,None,Romania,Healthcare,39431,Resolved,Yes
+CVE-2019-67521,2019-05-15,XXE,Cisco,Firepower,7.9,High,Local,Low,Low,None,Low,Low,None,India,Energy,14001,Exploited,No
+CVE-2019-28743,2019-03-07,Privilege Escalation,Cisco,AnyConnect,3.5,Low,Local,High,High,None,None,None,Low,Brazil,Energy,47356,Exploited,No
+CVE-2019-59455,2019-11-14,Logic Flaw,Palo Alto,GlobalProtect,7.1,High,Local,Low,High,Required,High,None,None,Brazil,Finance,34393,Patched,Yes
+CVE-2019-53800,2019-04-10,SQL Injection,Apache,HTTP Server,2.7,Low,Network,High,Low,Required,None,High,None,Indonesia,Energy,8669,Resolved,Yes
+CVE-2019-12406,2019-08-31,RCE,Linux,Kernel,6.6,Medium,Physical,Low,None,None,Low,High,None,Iran,Healthcare,2971,Resolved,No
+CVE-2019-87424,2019-06-19,Command Injection,Drupal,Core,4.1,Medium,Local,High,Low,None,Low,High,Low,Iran,Transport,20238,Exploited,No
+CVE-2019-13003,2019-02-17,Phishing,Apple,Safari,4.2,Medium,Adjacent,High,High,None,None,Low,Low,Germany,Education,6306,Patched,Yes
+CVE-2019-25411,2019-07-25,Logic Flaw,VMware,Horizon,0.8,Low,Local,High,High,None,Low,High,Low,France,IT,17608,Resolved,No
+CVE-2019-18186,2019-05-18,Credential Stuffing,Adobe,Acrobat,7.6,High,Local,Low,High,Required,Low,High,High,Canada,Manufacturing,41866,Exploited,No
+CVE-2019-39859,2019-01-10,XSS,Linux,glibc,9.6,Critical,Network,High,High,None,None,None,Low,China,Defense,41674,Under Investigation,No
+CVE-2019-18270,2019-02-26,Ransomware,Apple,macOS,8.7,High,Network,High,Low,Required,Low,None,Low,Romania,Energy,14566,Under Investigation,No
+CVE-2019-50020,2019-05-12,Ransomware,Apache,Struts,7.9,High,Network,Low,Low,Required,High,Low,None,Netherlands,IT,28176,Actively Exploited,Yes
+CVE-2019-37968,2019-12-02,XSS,Palo Alto,PAN-OS,4.9,Medium,Network,High,High,None,Low,High,None,China,Government,48688,Actively Exploited,No
+CVE-2019-66482,2019-11-13,SSRF,Palo Alto,PAN-OS,8.3,High,Physical,Low,Low,Required,None,High,Low,France,Education,4023,Under Investigation,No
+CVE-2019-79736,2019-08-09,Credential Stuffing,Drupal,Modules,9.3,Critical,Physical,Low,Low,Required,Low,None,Low,Nigeria,IT,404,Exploited,Yes
+CVE-2019-72061,2019-01-11,Zero-Day Exploit,Apple,Safari,0.2,Low,Adjacent,Low,High,None,None,None,High,Indonesia,Government,47723,Under Investigation,Yes
+CVE-2019-28805,2019-07-24,Zero-Day Exploit,Adobe,Photoshop,3.4,Low,Physical,Low,None,None,High,Low,None,Germany,Telecom,21733,Resolved,No
+CVE-2019-91494,2019-11-16,Credential Stuffing,Linux,systemd,5.7,Medium,Network,High,High,Required,High,High,Low,Romania,Energy,37824,Under Investigation,No
+CVE-2019-71333,2019-11-24,XSS,Apple,Safari,1.6,Low,Adjacent,Low,High,Required,Low,High,None,Netherlands,Government,10833,Actively Exploited,Yes
+CVE-2019-70611,2019-08-21,Deserialization,SAP,Business One,5.8,Medium,Adjacent,High,None,Required,Low,High,None,Nigeria,Energy,27111,Resolved,No
+CVE-2019-83002,2019-01-19,Phishing,VMware,Workstation,3.6,Low,Physical,Low,High,Required,High,None,High,Germany,IT,4839,Patched,No
+CVE-2019-91414,2019-07-23,Phishing,Microsoft,Exchange Server,0.5,Low,Physical,High,None,Required,None,Low,None,Germany,IT,34633,Exploited,No
+CVE-2019-05855,2019-01-27,DoS/DDoS,Fortinet,FortiManager,7.6,High,Network,High,None,None,High,None,High,China,Energy,3175,Under Investigation,No
+CVE-2019-96817,2019-02-15,Buffer Overflow,Drupal,Modules,9.9,Critical,Adjacent,Low,Low,Required,None,High,High,India,Defense,12725,Patched,No
+CVE-2019-97487,2019-08-18,Zero-Day Exploit,F5,BIG-IP,9.1,Critical,Local,Low,Low,Required,Low,None,None,Nigeria,Manufacturing,11939,Exploited,No
+CVE-2019-36704,2019-06-18,Ransomware,VMware,ESXi,2.1,Low,Local,Low,High,Required,Low,High,Low,Indonesia,Manufacturing,45116,Exploited,Yes
+CVE-2019-03744,2019-05-05,Brute Force,Drupal,Modules,6.8,Medium,Local,High,None,None,Low,Low,Low,Indonesia,IT,47509,Exploited,Yes
+CVE-2019-00154,2019-11-06,Deserialization,Apple,Safari,3.9,Low,Adjacent,Low,Low,None,Low,High,Low,South Korea,Retail,29292,Resolved,No
+CVE-2019-59968,2019-06-18,SQL Injection,Adobe,Photoshop,5.6,Medium,Network,High,None,None,Low,High,Low,North Korea,Telecom,42867,Under Investigation,Yes
+CVE-2019-51788,2019-12-29,Logic Flaw,Juniper,Junos,0.8,Low,Physical,High,Low,None,High,None,High,Russia,Retail,5383,Exploited,No
+CVE-2019-84937,2019-09-22,Deserialization,SAP,Business One,5.4,Medium,Adjacent,Low,None,Required,Low,Low,High,Netherlands,Defense,43492,Resolved,Yes
+CVE-2019-17473,2019-11-10,Ransomware,Adobe,Acrobat,6.5,Medium,Network,High,None,None,None,High,None,Ukraine,Healthcare,27829,Actively Exploited,No
+CVE-2019-38818,2019-04-30,MITM,Google,Chrome,0.7,Low,Physical,High,High,Required,Low,High,High,Indonesia,Healthcare,27490,Under Investigation,No
+CVE-2019-35268,2019-04-23,Buffer Overflow,Atlassian,Jira,7.0,High,Local,Low,Low,Required,None,None,Low,USA,Healthcare,17961,Actively Exploited,Yes
+CVE-2019-43570,2019-05-23,Brute Force,SAP,HANA,1.0,Low,Network,High,High,None,None,Low,High,Ukraine,Education,18111,Exploited,Yes
+CVE-2019-54013,2019-08-21,SQL Injection,WordPress,Plugins,2.9,Low,Local,Low,None,Required,Low,Low,Low,India,Education,38826,Under Investigation,Yes
+CVE-2019-59641,2019-05-19,SQL Injection,SAP,HANA,7.7,High,Physical,High,High,None,High,None,None,Brazil,Energy,28465,Under Investigation,Yes
+CVE-2019-94554,2019-03-20,DoS/DDoS,Microsoft,Office,7.4,High,Local,High,None,None,Low,Low,None,Germany,Healthcare,16950,Resolved,No
+CVE-2019-47993,2019-10-19,MITM,IBM,MQ,4.2,Medium,Network,Low,High,None,High,High,High,Romania,Retail,25235,Resolved,Yes
+CVE-2019-92909,2019-07-20,Privilege Escalation,Zimbra,Collaboration Suite,6.0,Medium,Network,Low,High,None,Low,None,High,Romania,Telecom,43660,Actively Exploited,No
+CVE-2019-61872,2019-04-21,CSRF,Atlassian,Confluence,6.5,Medium,Local,Low,Low,None,Low,Low,High,Vietnam,Transport,21019,Exploited,Yes
+CVE-2019-93251,2019-07-04,Privilege Escalation,Nginx,Nginx,1.2,Low,Network,Low,Low,None,High,None,Low,Indonesia,Telecom,1882,Actively Exploited,No
+CVE-2019-40656,2019-10-28,MITM,Juniper,Junos,7.5,High,Network,Low,None,Required,High,High,High,Netherlands,Government,43030,Actively Exploited,Yes
+CVE-2019-78186,2019-10-14,RCE,Microsoft,Office,7.8,High,Adjacent,Low,None,Required,Low,None,Low,Vietnam,Government,19117,Resolved,No
+CVE-2019-75299,2019-12-16,Command Injection,Fortinet,FortiOS,5.9,Medium,Network,High,High,Required,None,High,Low,Nigeria,Energy,16113,Under Investigation,Yes
+CVE-2019-80362,2019-09-10,DoS/DDoS,Google,Chrome,8.0,High,Network,High,None,Required,High,None,None,Germany,Energy,33573,Actively Exploited,Yes
+CVE-2019-47937,2019-03-25,Command Injection,Fortinet,FortiGate,1.0,Low,Physical,High,High,Required,None,High,Low,Iran,Energy,19891,Resolved,No
+CVE-2019-60987,2019-02-04,Command Injection,Drupal,Core,2.4,Low,Local,High,Low,Required,Low,High,Low,USA,Telecom,10476,Under Investigation,No
+CVE-2019-95444,2019-04-29,MITM,VMware,ESXi,6.9,Medium,Local,Low,High,Required,High,None,None,India,IT,33465,Actively Exploited,No
+CVE-2019-78564,2019-07-17,Brute Force,VMware,Horizon,0.3,Low,Physical,Low,High,Required,High,None,Low,Netherlands,Defense,2357,Patched,Yes
+CVE-2019-96058,2019-12-16,SSRF,Apple,Safari,8.5,High,Adjacent,Low,None,Required,High,None,High,Romania,Manufacturing,27849,Resolved,Yes
+CVE-2019-87057,2019-03-03,Ransomware,Linux,systemd,9.3,Critical,Network,High,High,None,High,Low,Low,North Korea,Energy,2805,Exploited,Yes
+CVE-2019-63165,2019-04-09,Zero-Day Exploit,Juniper,Junos,0.9,Low,Adjacent,Low,None,Required,High,High,Low,China,Telecom,21198,Actively Exploited,Yes
+CVE-2019-34055,2019-05-17,Privilege Escalation,Apple,Safari,7.2,High,Network,Low,Low,None,High,Low,Low,South Korea,Finance,42651,Under Investigation,Yes
+CVE-2019-67888,2019-06-22,XXE,Cisco,Firepower,0.9,Low,Local,Low,Low,None,High,None,Low,UK,Healthcare,1465,Actively Exploited,Yes
+CVE-2019-06984,2019-09-28,Privilege Escalation,Nginx,Nginx,8.3,High,Adjacent,High,Low,Required,Low,Low,High,UK,IT,16583,Resolved,Yes
+CVE-2019-85861,2019-05-15,SSRF,Linux,Kernel,8.4,High,Network,Low,None,Required,None,Low,None,Brazil,Telecom,42393,Actively Exploited,Yes
+CVE-2019-14191,2019-09-15,Command Injection,Linux,Kernel,8.6,High,Network,Low,High,None,Low,Low,High,Russia,Defense,32373,Exploited,No
+CVE-2019-38283,2019-10-10,Zero-Day Exploit,Juniper,Junos,6.9,Medium,Local,High,None,None,None,Low,High,UK,Defense,27091,Under Investigation,No
+CVE-2019-87901,2019-01-22,Zero-Day Exploit,Zimbra,Collaboration Suite,6.0,Medium,Physical,High,Low,Required,High,None,None,Russia,IT,43788,Resolved,Yes
+CVE-2019-48221,2019-01-24,Path Traversal,F5,BIG-IP,8.9,High,Adjacent,High,High,Required,None,High,High,South Korea,Healthcare,20008,Resolved,No
+CVE-2019-77025,2019-01-14,Logic Flaw,Juniper,Junos,6.1,Medium,Network,High,None,Required,None,None,High,Russia,Government,47738,Resolved,Yes
+CVE-2019-31883,2019-03-10,SQL Injection,Apache,Struts,4.8,Medium,Network,Low,High,None,Low,High,High,India,Manufacturing,32002,Patched,No
+CVE-2019-65155,2019-02-06,Zero-Day Exploit,Linux,glibc,6.2,Medium,Local,High,Low,None,None,High,High,Russia,Telecom,39933,Exploited,No
+CVE-2019-71323,2019-09-11,Phishing,Microsoft,Exchange Server,9.9,Critical,Local,High,Low,None,None,High,Low,France,Telecom,29210,Resolved,No
+CVE-2019-57799,2019-09-12,Logic Flaw,VMware,ESXi,5.9,Medium,Local,High,Low,None,Low,Low,High,India,Manufacturing,25270,Exploited,Yes
+CVE-2019-48183,2019-12-23,Brute Force,Zimbra,Collaboration Suite,1.4,Low,Network,Low,None,Required,Low,None,Low,USA,Government,8380,Under Investigation,Yes
+CVE-2019-66579,2019-05-15,CSRF,Fortinet,FortiManager,8.4,High,Network,Low,None,Required,Low,High,Low,Nigeria,Government,45942,Resolved,No
+CVE-2019-10191,2019-09-29,CSRF,Zimbra,Collaboration Suite,9.3,Critical,Physical,High,High,Required,High,None,None,Iran,Telecom,10997,Patched,Yes
+CVE-2019-84452,2019-09-09,MITM,Linux,systemd,7.8,High,Local,High,High,None,High,None,Low,Romania,Energy,17102,Patched,Yes
+CVE-2019-05876,2019-06-07,MITM,Palo Alto,GlobalProtect,6.7,Medium,Physical,High,Low,Required,High,None,Low,China,Manufacturing,40479,Under Investigation,No
+CVE-2019-57138,2019-07-17,CSRF,Adobe,Flash,9.9,Critical,Adjacent,High,High,None,Low,High,High,France,Energy,16791,Patched,No
+CVE-2019-75263,2019-08-02,Path Traversal,Drupal,Modules,10.0,Critical,Physical,High,Low,None,None,None,High,UK,Retail,5792,Patched,Yes
+CVE-2019-87809,2019-11-12,SQL Injection,Google,Workspace,7.8,High,Adjacent,Low,None,Required,None,None,High,Turkey,Telecom,10261,Under Investigation,Yes
+CVE-2019-47970,2019-11-21,MITM,SAP,Business One,1.4,Low,Physical,High,None,None,None,Low,High,Pakistan,Energy,25582,Actively Exploited,No
+CVE-2019-51870,2019-01-18,Deserialization,VMware,Horizon,9.2,Critical,Physical,Low,Low,Required,None,None,High,North Korea,Government,48425,Patched,No
+CVE-2019-16389,2019-11-17,Command Injection,Zimbra,Collaboration Suite,2.3,Low,Local,Low,Low,Required,High,Low,High,South Korea,IT,20140,Actively Exploited,No
+CVE-2019-73127,2019-02-01,Brute Force,Microsoft,Windows,4.8,Medium,Network,Low,None,None,None,None,Low,Vietnam,IT,5576,Under Investigation,No
+CVE-2019-24900,2019-07-24,XXE,Drupal,Core,1.2,Low,Physical,High,Low,Required,Low,None,None,Germany,IT,14050,Under Investigation,Yes
+CVE-2019-06011,2019-03-16,Privilege Escalation,Apache,Log4j,8.1,High,Adjacent,High,High,Required,High,Low,None,North Korea,IT,33203,Actively Exploited,No
+CVE-2019-85687,2019-09-13,XSS,Oracle,Java SE,3.1,Low,Adjacent,High,High,None,High,High,None,North Korea,Finance,26201,Exploited,No
+CVE-2019-67730,2019-10-27,Brute Force,IBM,QRadar,7.4,High,Adjacent,High,High,Required,Low,None,High,North Korea,Education,22817,Actively Exploited,No
+CVE-2019-96180,2019-06-11,Buffer Overflow,SAP,NetWeaver,9.3,Critical,Adjacent,High,High,Required,High,Low,None,Russia,Telecom,31759,Under Investigation,No
+CVE-2019-35998,2019-07-14,Path Traversal,Juniper,Junos,1.5,Low,Network,High,None,None,None,None,Low,Indonesia,Transport,87,Patched,Yes
+CVE-2019-76676,2019-07-01,CSRF,Apple,macOS,2.7,Low,Network,High,High,None,Low,Low,None,Pakistan,IT,8199,Exploited,No
+CVE-2019-94301,2019-05-28,Logic Flaw,F5,BIG-IP,8.6,High,Network,Low,Low,Required,High,Low,High,Turkey,Education,19475,Patched,Yes
+CVE-2019-51568,2019-08-05,MITM,Cisco,AnyConnect,4.0,Medium,Local,Low,None,Required,High,High,High,North Korea,Education,34885,Patched,Yes
+CVE-2019-01535,2019-04-04,Command Injection,Cisco,Webex,3.5,Low,Network,Low,High,Required,Low,High,High,India,Finance,21935,Patched,No
+CVE-2019-02333,2019-10-29,XXE,Zimbra,Collaboration Suite,5.3,Medium,Physical,Low,High,Required,Low,High,High,Pakistan,Energy,43492,Actively Exploited,No
+CVE-2019-26114,2019-07-06,Ransomware,IBM,QRadar,1.6,Low,Local,High,High,None,None,None,High,North Korea,Government,43705,Actively Exploited,Yes
+CVE-2019-74787,2019-03-12,Ransomware,Apache,HTTP Server,6.5,Medium,Local,High,None,Required,High,High,High,India,Defense,15204,Patched,No
+CVE-2019-79820,2019-03-30,Buffer Overflow,Cisco,IOS,1.6,Low,Physical,High,High,None,None,None,None,Ukraine,Education,47286,Actively Exploited,Yes
+CVE-2019-77582,2019-09-28,Path Traversal,Juniper,Junos,1.5,Low,Adjacent,Low,Low,Required,Low,None,None,North Korea,Transport,18070,Actively Exploited,No
+CVE-2019-10820,2019-07-06,Privilege Escalation,VMware,ESXi,7.5,High,Network,High,Low,Required,High,Low,High,France,Retail,48273,Exploited,No
+CVE-2019-09890,2019-09-02,Brute Force,Fortinet,FortiGate,5.2,Medium,Adjacent,Low,None,Required,Low,Low,None,Ukraine,Manufacturing,24099,Resolved,Yes
+CVE-2019-79338,2019-12-15,Command Injection,Atlassian,Confluence,8.0,High,Physical,High,High,None,None,Low,High,Germany,Finance,1140,Actively Exploited,Yes
+CVE-2019-22361,2019-07-22,Ransomware,Apache,Kafka,6.9,Medium,Local,Low,High,None,None,High,None,Russia,Transport,36857,Actively Exploited,No
+CVE-2019-35730,2019-12-08,DoS/DDoS,Google,Workspace,8.1,High,Network,High,Low,Required,High,None,High,Ukraine,Energy,37597,Under Investigation,Yes
+CVE-2019-64975,2019-07-10,Credential Stuffing,Microsoft,Azure AD,5.2,Medium,Physical,High,High,Required,High,Low,None,South Korea,Manufacturing,3873,Resolved,Yes
+CVE-2019-91792,2019-03-24,XXE,SAP,Business One,4.5,Medium,Adjacent,Low,None,Required,High,Low,None,Nigeria,Manufacturing,8523,Patched,Yes
+CVE-2019-56412,2019-10-25,XXE,Drupal,Modules,2.9,Low,Adjacent,Low,None,None,Low,High,None,Ukraine,Manufacturing,12820,Exploited,No
+CVE-2019-46603,2019-11-07,SSRF,Adobe,Acrobat,4.0,Medium,Network,High,None,Required,High,None,None,Ukraine,Healthcare,33863,Patched,No
+CVE-2019-87746,2019-01-10,Buffer Overflow,Cisco,Webex,0.2,Low,Adjacent,Low,High,None,High,None,None,South Korea,IT,41389,Exploited,Yes
+CVE-2019-45974,2019-07-17,MITM,Atlassian,Confluence,3.0,Low,Local,Low,High,Required,None,None,High,Vietnam,Healthcare,49863,Patched,No
+CVE-2019-16892,2019-11-27,XXE,Apple,Safari,7.2,High,Network,High,Low,None,None,Low,Low,China,Retail,12750,Resolved,No
+CVE-2019-21794,2019-05-31,SQL Injection,Fortinet,FortiOS,6.1,Medium,Local,High,High,None,None,None,None,Romania,Healthcare,23372,Patched,No
+CVE-2019-30170,2019-11-08,Path Traversal,Nginx,Nginx,7.0,High,Local,Low,High,None,High,Low,High,Iran,Retail,20377,Actively Exploited,Yes
+CVE-2019-24982,2019-02-15,Phishing,Atlassian,Confluence,5.7,Medium,Physical,High,Low,None,High,None,None,Ukraine,Energy,26608,Exploited,Yes
+CVE-2019-47100,2019-11-19,Ransomware,Juniper,Junos,3.1,Low,Network,Low,None,None,Low,High,Low,Pakistan,Finance,3207,Exploited,Yes
+CVE-2019-89453,2019-06-24,Command Injection,Apache,Tomcat,3.1,Low,Adjacent,High,Low,None,Low,Low,High,North Korea,IT,26418,Patched,Yes
+CVE-2019-86177,2019-10-12,Buffer Overflow,Google,Workspace,4.1,Medium,Network,High,None,Required,High,None,None,UK,Manufacturing,378,Under Investigation,Yes
+CVE-2019-33689,2019-01-17,RCE,Apache,Struts,1.3,Low,Local,Low,High,None,High,Low,High,North Korea,Healthcare,17306,Exploited,No
+CVE-2019-92882,2019-02-10,Path Traversal,Apache,HTTP Server,6.0,Medium,Local,Low,None,None,Low,High,High,China,Telecom,16473,Patched,Yes
+CVE-2019-25532,2019-04-17,SQL Injection,Palo Alto,GlobalProtect,6.7,Medium,Network,Low,Low,None,High,Low,None,Russia,Manufacturing,12461,Under Investigation,No
+CVE-2019-01206,2019-03-01,XXE,Adobe,Acrobat,9.4,Critical,Network,Low,High,Required,None,High,Low,France,Manufacturing,23264,Actively Exploited,No
+CVE-2019-80019,2019-08-02,XSS,Apache,Struts,0.7,Low,Physical,High,High,Required,Low,None,Low,China,IT,15733,Actively Exploited,Yes
+CVE-2019-04611,2019-07-25,Command Injection,Juniper,Junos,0.9,Low,Local,High,Low,None,None,High,None,USA,Transport,18953,Actively Exploited,No
+CVE-2019-17020,2019-01-13,Deserialization,Microsoft,Exchange Server,7.5,High,Physical,Low,Low,None,Low,Low,High,UK,Defense,14991,Patched,Yes
+CVE-2019-52999,2019-09-26,SSRF,Palo Alto,GlobalProtect,7.2,High,Adjacent,Low,Low,Required,High,None,High,Russia,Healthcare,34360,Resolved,No
+CVE-2019-90450,2019-12-15,DoS/DDoS,Palo Alto,GlobalProtect,8.8,High,Local,Low,High,Required,None,None,None,Netherlands,Retail,17851,Patched,Yes
+CVE-2019-31418,2019-07-11,Logic Flaw,VMware,vCenter,1.8,Low,Local,High,None,None,High,None,None,Vietnam,Manufacturing,12103,Resolved,Yes
+CVE-2019-37706,2019-05-12,Phishing,IBM,WebSphere,1.8,Low,Adjacent,Low,High,None,None,None,Low,Nigeria,Education,18166,Patched,Yes
+CVE-2019-94945,2019-10-24,Logic Flaw,Nginx,Nginx,4.6,Medium,Physical,Low,High,Required,Low,None,None,Russia,Retail,37562,Actively Exploited,No
+CVE-2019-39826,2019-03-24,Ransomware,SAP,Business One,7.0,High,Network,High,High,None,Low,None,High,Russia,Transport,4947,Resolved,Yes
+CVE-2019-15430,2019-07-02,Deserialization,Apple,Safari,5.7,Medium,Adjacent,High,Low,Required,High,High,Low,Netherlands,Transport,30454,Actively Exploited,Yes
+CVE-2019-11908,2019-03-11,Logic Flaw,IBM,QRadar,6.4,Medium,Physical,Low,High,None,Low,Low,None,Turkey,Transport,43575,Under Investigation,Yes
+CVE-2019-07715,2019-11-15,CSRF,Google,Chrome,5.6,Medium,Physical,High,Low,Required,High,None,None,Nigeria,Transport,9170,Resolved,Yes
+CVE-2019-71255,2019-11-12,RCE,Linux,glibc,5.2,Medium,Local,High,High,None,High,Low,Low,Romania,IT,49729,Resolved,Yes
+CVE-2019-79905,2019-02-27,Privilege Escalation,Linux,glibc,7.7,High,Adjacent,Low,Low,None,Low,None,Low,Germany,Retail,19933,Resolved,Yes
+CVE-2019-05707,2019-04-03,Brute Force,Adobe,ColdFusion,4.3,Medium,Adjacent,Low,None,Required,High,None,None,Canada,Education,22598,Actively Exploited,No
+CVE-2019-69235,2019-02-23,XXE,Palo Alto,PAN-OS,2.9,Low,Local,Low,Low,None,High,Low,None,Turkey,Transport,3571,Under Investigation,No
+CVE-2019-17195,2019-02-09,Deserialization,SAP,Business One,1.0,Low,Adjacent,High,None,Required,High,Low,High,China,Education,24568,Actively Exploited,No
+CVE-2019-55008,2019-11-03,XXE,Apache,HTTP Server,6.0,Medium,Network,High,Low,Required,None,None,None,Russia,Retail,46797,Resolved,No
+CVE-2019-47462,2019-12-25,CSRF,VMware,ESXi,0.1,Low,Network,High,High,None,Low,Low,None,Pakistan,Defense,27224,Actively Exploited,Yes
+CVE-2019-59892,2019-05-18,DoS/DDoS,Palo Alto,GlobalProtect,3.8,Low,Local,High,Low,None,Low,Low,High,Ukraine,Transport,17979,Exploited,Yes
+CVE-2019-53592,2019-03-13,DoS/DDoS,IBM,WebSphere,0.7,Low,Network,High,None,Required,High,Low,Low,Germany,Manufacturing,7328,Exploited,Yes
+CVE-2019-41972,2019-04-27,Privilege Escalation,VMware,vCenter,6.1,Medium,Network,High,None,None,Low,None,Low,Vietnam,Education,4640,Under Investigation,No
+CVE-2019-40090,2019-07-05,DoS/DDoS,Drupal,Core,0.8,Low,Adjacent,Low,None,None,Low,None,High,Germany,Energy,36161,Patched,Yes
+CVE-2019-97325,2019-05-04,Buffer Overflow,Juniper,Junos,4.8,Medium,Adjacent,High,Low,Required,None,Low,High,UK,Healthcare,18125,Patched,Yes
+CVE-2019-70109,2019-05-04,MITM,Fortinet,FortiManager,0.9,Low,Physical,Low,High,None,Low,None,None,South Korea,Finance,43168,Actively Exploited,No
+CVE-2019-88736,2019-01-08,CSRF,Drupal,Core,6.4,Medium,Local,Low,Low,Required,High,Low,High,Nigeria,Telecom,21419,Exploited,Yes
+CVE-2019-06703,2019-02-19,Ransomware,Drupal,Modules,2.2,Low,Adjacent,Low,None,Required,High,None,High,Germany,Government,18500,Actively Exploited,Yes
+CVE-2019-19235,2019-11-24,Zero-Day Exploit,Nginx,Nginx,1.3,Low,Physical,Low,High,Required,High,Low,None,South Korea,Energy,37053,Resolved,No
+CVE-2019-41235,2019-01-03,CSRF,Drupal,Core,1.5,Low,Network,Low,Low,Required,High,High,Low,Romania,Education,23027,Patched,No
+CVE-2019-89908,2019-07-14,XXE,Juniper,Junos,4.3,Medium,Network,High,High,None,None,Low,Low,Turkey,Defense,5063,Exploited,Yes
+CVE-2019-33648,2019-09-27,Buffer Overflow,Nginx,Nginx,2.1,Low,Physical,High,None,None,None,None,High,Nigeria,Manufacturing,21781,Actively Exploited,No
+CVE-2019-87552,2019-11-16,Logic Flaw,Juniper,Junos,7.1,High,Local,High,Low,None,High,High,High,Ukraine,Government,48871,Patched,Yes
+CVE-2019-55562,2019-07-25,CSRF,WordPress,Plugins,8.1,High,Network,High,None,None,Low,Low,Low,Romania,Finance,2596,Patched,No
+CVE-2019-76474,2019-07-07,SSRF,Atlassian,Jira,6.6,Medium,Physical,Low,Low,None,None,High,High,France,Manufacturing,9817,Under Investigation,No
+CVE-2019-63301,2019-07-17,DoS/DDoS,Juniper,Junos,1.2,Low,Physical,High,None,None,Low,High,High,Russia,Finance,2079,Patched,Yes
+CVE-2019-62474,2019-04-20,CSRF,F5,BIG-IP,4.3,Medium,Network,High,None,None,Low,Low,Low,Ukraine,Defense,48927,Patched,Yes
+CVE-2019-74190,2019-11-05,Logic Flaw,Linux,systemd,4.9,Medium,Local,Low,None,Required,Low,None,High,Brazil,Retail,22716,Resolved,No
+CVE-2019-24352,2019-05-07,Ransomware,Linux,glibc,0.7,Low,Network,High,None,Required,Low,None,None,Turkey,Healthcare,47970,Resolved,Yes
+CVE-2019-31856,2019-11-14,MITM,F5,BIG-IP,1.0,Low,Physical,Low,Low,None,High,Low,High,Russia,Energy,34332,Under Investigation,No
+CVE-2019-40922,2019-04-17,SQL Injection,Juniper,Junos,5.9,Medium,Adjacent,Low,High,None,Low,None,High,Netherlands,Telecom,18243,Actively Exploited,No
+CVE-2019-40028,2019-10-16,RCE,Fortinet,FortiGate,2.8,Low,Adjacent,High,Low,Required,High,None,None,Romania,Healthcare,19739,Exploited,No
+CVE-2019-83102,2019-02-24,Deserialization,Palo Alto,GlobalProtect,7.6,High,Local,High,High,Required,Low,None,None,Pakistan,Telecom,5440,Exploited,No
+CVE-2019-35585,2019-09-10,DoS/DDoS,Atlassian,Jira,0.1,Low,Physical,High,High,None,Low,High,High,Vietnam,Healthcare,6442,Exploited,No
+CVE-2019-58985,2019-12-15,Command Injection,Apple,macOS,7.2,High,Network,High,High,Required,Low,None,High,UK,Telecom,5338,Resolved,Yes
+CVE-2019-00330,2019-02-16,XSS,Fortinet,FortiGate,7.2,High,Adjacent,High,Low,Required,High,None,Low,Brazil,Telecom,31242,Patched,Yes
+CVE-2019-27067,2019-05-26,Deserialization,Google,Workspace,0.4,Low,Adjacent,Low,None,Required,Low,Low,High,Pakistan,Finance,9497,Actively Exploited,No
+CVE-2019-04595,2019-07-25,SSRF,Oracle,E-Business Suite,1.5,Low,Adjacent,Low,Low,Required,Low,High,High,Romania,Healthcare,16542,Patched,No
+CVE-2019-84073,2019-11-23,SQL Injection,Linux,glibc,0.4,Low,Physical,High,High,None,High,None,None,USA,Education,13200,Exploited,Yes
+CVE-2019-23350,2019-07-03,RCE,Palo Alto,PAN-OS,4.8,Medium,Network,Low,High,None,High,None,None,Turkey,Energy,1516,Under Investigation,No
+CVE-2019-73988,2019-12-06,CSRF,Apple,macOS,3.3,Low,Network,High,Low,None,High,High,High,Turkey,Energy,29490,Actively Exploited,Yes
+CVE-2019-12140,2019-06-22,Ransomware,WordPress,Plugins,5.2,Medium,Network,High,High,None,None,Low,Low,Netherlands,Finance,26653,Patched,Yes
+CVE-2019-99677,2019-02-09,Logic Flaw,Fortinet,FortiManager,2.4,Low,Adjacent,High,None,Required,None,Low,Low,Ukraine,Healthcare,45708,Exploited,No
+CVE-2019-05518,2019-01-10,Phishing,Cisco,ASA,7.3,High,Network,Low,Low,Required,None,Low,Low,Nigeria,Telecom,30073,Actively Exploited,Yes
+CVE-2019-60733,2019-02-07,Ransomware,WordPress,Core,0.3,Low,Local,Low,None,Required,None,High,Low,UK,Manufacturing,41209,Resolved,Yes
+CVE-2019-62723,2019-12-31,SSRF,Adobe,Acrobat,7.5,High,Network,Low,Low,Required,High,High,High,Indonesia,Government,19997,Under Investigation,Yes
+CVE-2019-36528,2019-03-09,Phishing,IBM,MQ,4.0,Medium,Physical,High,Low,None,Low,None,High,USA,Telecom,5645,Patched,Yes
+CVE-2019-91049,2019-02-07,Logic Flaw,Palo Alto,GlobalProtect,9.2,Critical,Local,High,None,Required,Low,None,None,Russia,Healthcare,47717,Patched,No
+CVE-2019-77979,2019-04-09,Deserialization,Apache,Kafka,1.5,Low,Physical,High,Low,None,High,Low,High,Turkey,Education,900,Actively Exploited,No
+CVE-2019-12499,2019-12-20,Phishing,Palo Alto,PAN-OS,2.7,Low,Physical,High,High,Required,Low,High,Low,Netherlands,Finance,10611,Under Investigation,No
+CVE-2019-98561,2019-05-23,XSS,Atlassian,Confluence,6.3,Medium,Adjacent,High,None,None,None,None,High,UK,Manufacturing,42814,Patched,Yes
+CVE-2019-95663,2019-05-12,XSS,IBM,WebSphere,5.2,Medium,Physical,Low,High,Required,None,None,Low,North Korea,Defense,4140,Resolved,No
+CVE-2019-67093,2019-07-17,Privilege Escalation,Oracle,Java SE,1.5,Low,Local,Low,High,None,High,High,None,Turkey,Defense,43968,Actively Exploited,Yes
+CVE-2019-73257,2019-12-08,Phishing,Google,Android,6.9,Medium,Network,Low,Low,Required,None,High,Low,South Korea,Defense,18595,Under Investigation,No
+CVE-2019-81390,2019-09-20,DoS/DDoS,Google,Workspace,7.6,High,Physical,Low,Low,None,High,Low,High,Russia,Defense,29005,Under Investigation,Yes
+CVE-2019-08505,2019-12-21,Privilege Escalation,Zimbra,Collaboration Suite,7.5,High,Network,High,None,None,Low,High,High,India,Transport,35680,Under Investigation,No
+CVE-2019-89534,2019-05-12,Command Injection,Juniper,Junos,2.4,Low,Local,High,High,None,High,High,Low,Romania,Defense,5985,Patched,No
+CVE-2019-75755,2019-05-25,Ransomware,SAP,NetWeaver,8.3,High,Adjacent,High,None,Required,Low,Low,Low,Ukraine,Telecom,35048,Actively Exploited,No
+CVE-2019-49080,2019-08-15,Brute Force,Atlassian,Bitbucket,3.9,Low,Physical,Low,Low,None,Low,High,None,Canada,Finance,39989,Actively Exploited,Yes
+CVE-2019-68195,2019-04-17,Deserialization,Palo Alto,GlobalProtect,1.8,Low,Adjacent,High,High,Required,Low,None,Low,Turkey,Retail,15683,Under Investigation,Yes
+CVE-2019-75359,2019-10-22,SSRF,Apache,HTTP Server,5.6,Medium,Physical,High,Low,None,Low,High,None,Nigeria,Finance,45504,Actively Exploited,No
+CVE-2019-65783,2019-08-15,XSS,Adobe,Photoshop,3.5,Low,Network,Low,High,None,High,Low,Low,Ukraine,Defense,2189,Under Investigation,Yes
+CVE-2019-67204,2019-06-17,XXE,Oracle,Java SE,0.8,Low,Adjacent,High,Low,Required,None,None,High,Netherlands,Manufacturing,40604,Exploited,Yes
+CVE-2019-56694,2019-06-05,SSRF,Linux,Kernel,3.7,Low,Adjacent,Low,None,Required,None,None,High,Netherlands,Retail,34056,Resolved,Yes
+CVE-2019-91337,2019-12-07,Command Injection,Fortinet,FortiGate,4.4,Medium,Network,Low,High,None,None,None,None,Nigeria,Retail,15801,Actively Exploited,Yes
+CVE-2019-21355,2019-08-30,XSS,Palo Alto,PAN-OS,4.0,Medium,Adjacent,High,None,Required,Low,Low,None,Germany,Government,29868,Resolved,No
+CVE-2019-33455,2019-12-13,Privilege Escalation,SAP,Business One,7.6,High,Physical,Low,Low,Required,High,Low,None,Russia,IT,8788,Patched,No
+CVE-2019-13454,2019-08-05,Brute Force,Cisco,ASA,3.6,Low,Physical,High,Low,None,Low,None,High,Canada,Government,42081,Exploited,No
+CVE-2019-85877,2019-08-28,Command Injection,Oracle,Java SE,0.9,Low,Physical,High,High,Required,Low,High,None,India,Healthcare,33816,Exploited,Yes
+CVE-2019-85409,2019-12-15,Ransomware,Fortinet,FortiGate,4.8,Medium,Network,Low,High,Required,Low,Low,High,Indonesia,Education,11501,Actively Exploited,No
+CVE-2019-45175,2019-08-11,Command Injection,Microsoft,SharePoint,5.9,Medium,Physical,High,None,Required,High,Low,Low,UK,Manufacturing,46700,Patched,Yes
+CVE-2019-25208,2019-01-15,Path Traversal,Adobe,Acrobat,7.5,High,Adjacent,High,None,Required,Low,Low,Low,Indonesia,Finance,10245,Exploited,Yes
+CVE-2019-88394,2019-03-31,Ransomware,Fortinet,FortiOS,8.0,High,Adjacent,Low,None,None,Low,High,None,Indonesia,Healthcare,681,Resolved,No
+CVE-2019-40282,2019-05-22,XSS,Cisco,ASA,3.1,Low,Physical,High,None,None,Low,Low,None,Vietnam,Retail,14543,Under Investigation,No
+CVE-2019-92636,2019-07-23,Phishing,Zimbra,Collaboration Suite,6.7,Medium,Network,High,None,Required,None,Low,High,Pakistan,Telecom,31904,Actively Exploited,No
+CVE-2019-03097,2019-07-24,Logic Flaw,Linux,systemd,0.1,Low,Adjacent,Low,None,Required,Low,None,High,Russia,IT,47921,Actively Exploited,Yes
+CVE-2019-35149,2019-11-04,Command Injection,Drupal,Core,2.7,Low,Local,Low,None,None,None,High,None,Indonesia,Education,31044,Actively Exploited,No
+CVE-2019-35089,2019-03-29,Path Traversal,Apple,Safari,7.9,High,Network,High,High,Required,Low,Low,Low,Vietnam,Retail,35248,Resolved,No
+CVE-2019-90664,2019-03-05,SSRF,Linux,glibc,5.5,Medium,Local,High,Low,None,Low,High,High,China,Retail,10763,Under Investigation,No
+CVE-2019-11906,2019-08-13,Zero-Day Exploit,Nginx,Nginx,0.5,Low,Local,Low,High,Required,Low,None,Low,Turkey,Retail,16126,Patched,Yes
+CVE-2019-33263,2019-03-31,Path Traversal,Atlassian,Confluence,4.3,Medium,Network,High,Low,None,None,High,High,North Korea,Telecom,27208,Patched,No
+CVE-2019-62715,2019-01-02,Buffer Overflow,Microsoft,SharePoint,3.3,Low,Physical,High,Low,Required,High,None,Low,Brazil,Transport,14733,Patched,Yes
+CVE-2019-46762,2019-08-12,Phishing,Adobe,Flash,1.6,Low,Physical,Low,None,None,High,High,None,Russia,Telecom,181,Under Investigation,No
+CVE-2019-79159,2019-08-10,Brute Force,Palo Alto,PAN-OS,7.8,High,Adjacent,Low,High,None,None,None,None,France,Transport,11228,Actively Exploited,No
+CVE-2019-17820,2019-10-02,Deserialization,IBM,WebSphere,9.3,Critical,Adjacent,High,High,None,High,High,Low,Nigeria,Healthcare,20432,Actively Exploited,Yes
+CVE-2019-03641,2019-11-08,Path Traversal,Drupal,Modules,0.1,Low,Local,Low,High,Required,None,High,Low,Ukraine,Finance,5481,Actively Exploited,No
+CVE-2019-31333,2019-04-19,Phishing,Google,Android,5.3,Medium,Adjacent,High,High,Required,High,None,None,Germany,Healthcare,34365,Resolved,Yes
+CVE-2019-46019,2019-12-31,MITM,VMware,Horizon,5.5,Medium,Adjacent,High,High,None,High,None,Low,France,Retail,14875,Actively Exploited,No
+CVE-2019-33552,2019-02-25,XSS,Linux,Kernel,5.6,Medium,Network,Low,Low,Required,None,Low,High,Nigeria,Healthcare,6476,Actively Exploited,No
+CVE-2019-93137,2019-03-08,Deserialization,Apache,Tomcat,1.7,Low,Local,High,None,None,High,Low,High,Romania,Retail,26843,Resolved,No
+CVE-2019-03208,2019-07-29,Buffer Overflow,Palo Alto,PAN-OS,3.8,Low,Adjacent,High,High,Required,Low,None,Low,Indonesia,Retail,17322,Patched,Yes
+CVE-2019-02212,2019-10-20,MITM,WordPress,Plugins,4.9,Medium,Adjacent,Low,High,None,High,Low,None,Indonesia,Healthcare,5706,Patched,Yes
+CVE-2019-76439,2019-04-21,Privilege Escalation,Linux,Kernel,5.5,Medium,Physical,High,Low,Required,None,None,None,Ukraine,Finance,15108,Under Investigation,No
+CVE-2019-31972,2019-10-24,SQL Injection,Fortinet,FortiGate,7.0,High,Adjacent,High,High,Required,None,None,Low,Russia,Manufacturing,19026,Exploited,No
+CVE-2019-13233,2019-09-28,Credential Stuffing,Atlassian,Jira,2.0,Low,Local,High,High,None,None,High,High,China,Education,19198,Resolved,No
+CVE-2019-05417,2019-03-09,Credential Stuffing,Atlassian,Confluence,8.0,High,Physical,Low,High,Required,Low,None,Low,South Korea,Finance,12852,Resolved,Yes
+CVE-2019-97868,2019-01-07,SQL Injection,Palo Alto,PAN-OS,4.3,Medium,Adjacent,High,High,Required,Low,Low,High,USA,Telecom,29502,Patched,Yes
+CVE-2019-56861,2019-10-16,DoS/DDoS,Drupal,Core,1.2,Low,Network,Low,None,None,Low,None,None,Russia,Healthcare,16328,Resolved,Yes
+CVE-2019-21083,2019-11-05,SSRF,Zimbra,Collaboration Suite,6.4,Medium,Physical,Low,High,None,None,None,High,Iran,IT,10760,Patched,No
+CVE-2019-46315,2019-07-11,Command Injection,Linux,systemd,3.4,Low,Adjacent,High,High,None,High,Low,Low,Canada,Defense,33274,Actively Exploited,Yes
+CVE-2019-69906,2019-12-29,Ransomware,Palo Alto,GlobalProtect,6.2,Medium,Network,High,None,None,High,Low,Low,Netherlands,Retail,39757,Resolved,Yes
+CVE-2019-77148,2019-04-19,XSS,Zimbra,Collaboration Suite,5.5,Medium,Adjacent,High,High,Required,Low,High,None,Indonesia,Defense,24539,Resolved,No
+CVE-2019-16283,2019-05-19,Brute Force,Google,Chrome,7.4,High,Local,High,None,Required,High,None,Low,South Korea,Healthcare,32933,Resolved,Yes
+CVE-2019-05125,2019-02-19,RCE,Google,Workspace,5.3,Medium,Network,High,None,Required,High,None,High,UK,Transport,34996,Patched,Yes
+CVE-2019-00553,2019-01-19,Credential Stuffing,Juniper,Junos,8.9,High,Network,High,High,Required,None,Low,Low,Germany,Education,37511,Resolved,No
+CVE-2019-05271,2019-10-31,RCE,Apache,Tomcat,6.4,Medium,Local,Low,High,None,None,None,None,Brazil,Retail,19457,Under Investigation,Yes
+CVE-2019-32753,2019-09-10,Credential Stuffing,Zimbra,Collaboration Suite,8.1,High,Physical,High,High,None,None,None,High,Ukraine,Healthcare,16298,Actively Exploited,No
+CVE-2019-90576,2019-05-02,Credential Stuffing,SAP,NetWeaver,0.2,Low,Network,Low,None,Required,None,High,Low,Vietnam,Education,43370,Exploited,No
+CVE-2019-14511,2019-03-26,SSRF,Nginx,Nginx,3.1,Low,Adjacent,Low,Low,Required,High,Low,None,UK,Manufacturing,43145,Actively Exploited,No
+CVE-2019-22336,2019-01-29,Privilege Escalation,WordPress,Core,5.1,Medium,Local,Low,High,Required,Low,High,Low,South Korea,IT,17568,Actively Exploited,Yes
+CVE-2019-85726,2019-09-22,Phishing,Adobe,ColdFusion,4.2,Medium,Physical,Low,None,None,High,None,Low,India,IT,4988,Exploited,No
+CVE-2019-98027,2019-02-10,DoS/DDoS,Apple,Safari,3.3,Low,Physical,Low,None,None,None,Low,None,Canada,IT,41718,Resolved,Yes
+CVE-2019-62753,2019-07-16,XXE,Atlassian,Confluence,6.5,Medium,Local,Low,None,None,None,High,Low,Russia,Manufacturing,41767,Actively Exploited,Yes
+CVE-2019-48927,2019-06-24,Credential Stuffing,Microsoft,Azure AD,6.7,Medium,Physical,Low,Low,None,High,High,High,Pakistan,Defense,48613,Exploited,No
+CVE-2019-79758,2019-12-10,Privilege Escalation,Oracle,E-Business Suite,0.9,Low,Network,High,Low,Required,Low,Low,Low,North Korea,Manufacturing,17259,Exploited,Yes
+CVE-2019-39895,2019-08-03,Logic Flaw,Drupal,Modules,9.5,Critical,Adjacent,High,High,Required,Low,High,None,Turkey,Manufacturing,20595,Patched,Yes
+CVE-2019-99413,2019-06-08,XXE,Nginx,Nginx,5.6,Medium,Adjacent,Low,High,None,None,Low,None,Germany,IT,36765,Exploited,Yes
+CVE-2019-85086,2019-02-24,Credential Stuffing,Google,Chrome,4.3,Medium,Physical,Low,Low,Required,None,Low,Low,Russia,Education,26672,Resolved,No
+CVE-2019-77311,2019-08-19,CSRF,Microsoft,Office,1.6,Low,Physical,Low,None,None,None,None,None,Romania,Government,49421,Actively Exploited,No
+CVE-2019-24440,2019-06-15,XSS,Google,Android,0.6,Low,Physical,High,Low,Required,None,Low,Low,India,Retail,18155,Patched,No
+CVE-2019-79335,2019-12-11,Brute Force,Linux,glibc,3.1,Low,Network,High,Low,None,High,None,High,Nigeria,Transport,5329,Actively Exploited,No
+CVE-2019-63349,2019-07-21,Privilege Escalation,Cisco,Firepower,1.9,Low,Adjacent,High,None,None,None,Low,None,France,Government,48382,Patched,No
+CVE-2019-90736,2019-05-06,SQL Injection,Palo Alto,GlobalProtect,1.8,Low,Physical,Low,None,None,None,Low,High,North Korea,IT,25083,Resolved,Yes
+CVE-2019-67287,2019-07-29,CSRF,F5,BIG-IP,9.1,Critical,Network,Low,None,None,Low,None,High,China,Telecom,2962,Resolved,Yes
+CVE-2019-35527,2019-11-22,Credential Stuffing,Oracle,Java SE,6.8,Medium,Local,High,High,None,Low,High,High,South Korea,Transport,15445,Under Investigation,No
+CVE-2019-23846,2019-07-10,Zero-Day Exploit,Apple,macOS,7.2,High,Network,Low,High,Required,Low,Low,Low,Nigeria,Telecom,6626,Exploited,Yes
+CVE-2019-33961,2019-08-08,SQL Injection,Juniper,Junos,5.7,Medium,Physical,High,Low,Required,Low,High,Low,India,Education,20974,Patched,No
+CVE-2019-09874,2019-06-12,DoS/DDoS,Apple,macOS,5.8,Medium,Physical,Low,High,None,Low,High,Low,North Korea,Retail,2939,Actively Exploited,No
+CVE-2019-25437,2019-11-20,XSS,Zimbra,Collaboration Suite,3.9,Low,Adjacent,High,Low,None,High,Low,None,Ukraine,IT,13549,Actively Exploited,Yes
+CVE-2019-38373,2019-04-04,XSS,Google,Chrome,8.3,High,Network,Low,High,Required,Low,Low,Low,Canada,IT,16711,Under Investigation,Yes
+CVE-2019-03439,2019-10-06,Deserialization,Linux,glibc,7.6,High,Adjacent,Low,High,None,High,High,Low,Brazil,Education,14400,Actively Exploited,Yes
+CVE-2019-43997,2019-05-19,RCE,Apache,Tomcat,6.3,Medium,Local,Low,None,Required,Low,Low,None,Netherlands,IT,25684,Actively Exploited,No
+CVE-2019-56296,2019-02-11,Brute Force,F5,BIG-IP,4.4,Medium,Network,High,None,None,None,None,High,Russia,Telecom,8211,Exploited,Yes
+CVE-2019-69080,2019-08-06,Ransomware,Adobe,Photoshop,2.0,Low,Physical,Low,None,Required,High,High,High,China,Energy,18304,Resolved,No
+CVE-2019-49646,2019-07-19,CSRF,Apple,macOS,8.5,High,Physical,Low,High,None,High,Low,High,Canada,Healthcare,20378,Resolved,Yes
+CVE-2019-48749,2019-05-15,Credential Stuffing,Fortinet,FortiGate,1.0,Low,Adjacent,Low,Low,Required,None,High,High,Turkey,Telecom,45963,Patched,No
+CVE-2019-62525,2019-08-01,SSRF,Adobe,Photoshop,1.7,Low,Adjacent,Low,High,None,High,High,Low,China,Manufacturing,8035,Patched,No
+CVE-2019-53589,2019-11-04,Zero-Day Exploit,F5,BIG-IP,9.7,Critical,Adjacent,High,Low,Required,High,High,None,Germany,Defense,19530,Actively Exploited,No
+CVE-2019-30172,2019-05-20,Deserialization,Drupal,Modules,6.1,Medium,Physical,High,High,None,Low,None,High,Turkey,Government,46364,Actively Exploited,Yes
+CVE-2019-85423,2019-01-27,XXE,VMware,vCenter,8.0,High,Adjacent,High,Low,None,High,Low,None,USA,IT,16120,Under Investigation,No
+CVE-2019-63702,2019-12-25,DoS/DDoS,WordPress,Plugins,7.3,High,Physical,High,None,Required,Low,None,Low,India,Education,7790,Under Investigation,Yes
+CVE-2019-79349,2019-01-05,Brute Force,F5,BIG-IP,0.1,Low,Adjacent,Low,Low,None,None,None,High,Iran,Government,14487,Exploited,Yes
+CVE-2019-14506,2019-03-23,Command Injection,Juniper,Junos,0.2,Low,Local,Low,None,Required,Low,Low,High,Germany,Education,45571,Under Investigation,Yes
+CVE-2019-47936,2019-12-26,Privilege Escalation,Atlassian,Bitbucket,2.0,Low,Local,Low,High,Required,Low,Low,None,Germany,Telecom,19213,Exploited,Yes
+CVE-2019-64456,2019-06-14,Buffer Overflow,Microsoft,Office,0.6,Low,Physical,High,Low,Required,High,Low,High,Canada,Finance,19190,Actively Exploited,No
+CVE-2019-77393,2019-01-23,XXE,Linux,Kernel,10.0,Critical,Local,Low,High,Required,None,Low,None,Turkey,Defense,3384,Under Investigation,Yes
+CVE-2019-03800,2019-08-26,Credential Stuffing,Fortinet,FortiGate,3.5,Low,Physical,High,None,None,None,None,None,Pakistan,IT,384,Exploited,No
+CVE-2019-64490,2019-04-10,Command Injection,Atlassian,Confluence,0.9,Low,Local,Low,None,Required,Low,High,High,India,Finance,25158,Resolved,Yes
+CVE-2019-94090,2019-06-25,CSRF,Drupal,Core,9.0,Critical,Local,Low,High,None,None,High,High,Turkey,Transport,12141,Resolved,No
+CVE-2019-01801,2019-04-05,Buffer Overflow,Adobe,Acrobat,8.7,High,Adjacent,High,High,None,None,Low,Low,Brazil,Retail,41879,Resolved,No
+CVE-2019-67042,2019-01-20,RCE,Drupal,Modules,8.3,High,Adjacent,Low,Low,Required,Low,Low,None,Netherlands,Transport,16808,Actively Exploited,Yes
+CVE-2019-85829,2019-05-27,XXE,Drupal,Modules,5.3,Medium,Local,Low,None,None,High,High,High,Turkey,Retail,11223,Actively Exploited,Yes
+CVE-2019-23708,2019-06-26,SQL Injection,Atlassian,Confluence,3.0,Low,Network,Low,None,None,Low,High,Low,Indonesia,Manufacturing,1904,Under Investigation,Yes
+CVE-2019-96117,2019-08-14,SSRF,Juniper,Junos,5.5,Medium,Adjacent,Low,Low,None,High,None,Low,Ukraine,Defense,29874,Patched,Yes
+CVE-2019-39488,2019-12-05,Path Traversal,Juniper,Junos,8.1,High,Physical,Low,High,None,Low,High,None,USA,Retail,23987,Patched,No
+CVE-2019-95605,2019-09-04,DoS/DDoS,Oracle,E-Business Suite,4.5,Medium,Local,High,None,None,High,None,None,Pakistan,Telecom,23908,Resolved,Yes
+CVE-2019-99166,2019-05-18,Phishing,VMware,vCenter,2.9,Low,Adjacent,High,Low,Required,High,None,High,China,Retail,12393,Patched,No
+CVE-2019-84940,2019-02-28,DoS/DDoS,Zimbra,Collaboration Suite,9.7,Critical,Adjacent,Low,High,Required,High,High,None,Ukraine,IT,28251,Under Investigation,No
+CVE-2019-47113,2019-08-10,Zero-Day Exploit,Cisco,IOS,8.5,High,Network,Low,Low,Required,High,High,Low,Ukraine,Manufacturing,4208,Under Investigation,No
+CVE-2019-94262,2019-12-07,Brute Force,Juniper,Junos,4.9,Medium,Physical,Low,None,None,None,High,High,USA,Defense,28381,Actively Exploited,Yes
+CVE-2019-16043,2019-03-16,SSRF,Drupal,Modules,8.1,High,Adjacent,High,High,Required,None,Low,None,Russia,IT,6735,Under Investigation,Yes
+CVE-2019-03737,2019-11-28,Brute Force,Juniper,Junos,5.0,Medium,Local,Low,Low,Required,Low,Low,High,USA,IT,43731,Actively Exploited,Yes
+CVE-2019-63503,2019-11-23,Logic Flaw,Microsoft,Exchange Server,8.9,High,Local,Low,None,Required,None,High,None,Indonesia,Healthcare,2856,Actively Exploited,Yes
+CVE-2019-54095,2019-08-21,Buffer Overflow,Juniper,Junos,6.0,Medium,Adjacent,Low,High,Required,High,Low,High,Nigeria,Finance,40835,Patched,Yes
+CVE-2019-14807,2019-10-09,Command Injection,Apache,Tomcat,7.8,High,Local,Low,High,Required,High,High,None,Iran,Manufacturing,46858,Under Investigation,Yes
+CVE-2019-24131,2019-04-06,DoS/DDoS,VMware,Horizon,2.5,Low,Network,High,Low,None,High,None,None,Romania,Government,43828,Resolved,Yes
+CVE-2019-45834,2019-12-23,Brute Force,Adobe,ColdFusion,9.0,Critical,Network,High,Low,Required,Low,High,Low,Canada,Government,10112,Actively Exploited,Yes
+CVE-2019-14286,2019-09-04,MITM,Fortinet,FortiGate,1.5,Low,Network,Low,Low,Required,None,None,Low,Iran,Education,48279,Resolved,Yes
+CVE-2019-54134,2019-03-08,Deserialization,IBM,WebSphere,4.3,Medium,Physical,Low,High,None,Low,None,High,Netherlands,Defense,3687,Resolved,No
+CVE-2019-75155,2019-05-30,SSRF,WordPress,Plugins,6.4,Medium,Physical,Low,High,None,Low,None,Low,South Korea,IT,3339,Actively Exploited,Yes
+CVE-2019-51480,2019-02-10,Deserialization,Linux,systemd,0.8,Low,Local,Low,High,Required,High,Low,High,Netherlands,IT,4748,Exploited,No
+CVE-2019-81561,2019-01-15,CSRF,SAP,NetWeaver,9.7,Critical,Physical,Low,Low,Required,None,Low,High,Russia,IT,30762,Exploited,Yes
+CVE-2019-98847,2019-10-25,CSRF,Drupal,Core,3.7,Low,Network,High,Low,None,None,High,None,Pakistan,Retail,2488,Under Investigation,Yes
+CVE-2019-45530,2019-01-04,Zero-Day Exploit,WordPress,Core,3.0,Low,Adjacent,Low,High,Required,None,None,None,Germany,IT,25343,Patched,No
+CVE-2019-27098,2019-07-12,Zero-Day Exploit,IBM,WebSphere,3.3,Low,Adjacent,High,High,Required,High,None,None,Romania,Retail,18453,Patched,No
+CVE-2019-32048,2019-06-02,Logic Flaw,SAP,NetWeaver,7.3,High,Adjacent,Low,Low,None,Low,High,Low,Indonesia,Transport,2624,Actively Exploited,Yes
+CVE-2019-56792,2019-01-04,Ransomware,Zimbra,Collaboration Suite,0.3,Low,Local,Low,High,None,High,None,High,Ukraine,Healthcare,601,Under Investigation,Yes
+CVE-2019-11104,2019-12-29,SQL Injection,Oracle,Database,2.8,Low,Local,Low,None,Required,High,High,None,North Korea,Transport,9637,Under Investigation,No
+CVE-2019-01141,2019-03-27,XSS,Nginx,Nginx,5.6,Medium,Physical,Low,High,Required,Low,None,Low,North Korea,Transport,23652,Actively Exploited,Yes
+CVE-2019-84116,2019-09-23,Ransomware,IBM,MQ,0.8,Low,Physical,High,Low,None,High,High,None,China,Defense,42931,Actively Exploited,Yes
+CVE-2019-79106,2019-07-10,Privilege Escalation,Fortinet,FortiOS,9.0,Critical,Network,Low,None,None,Low,Low,Low,India,Healthcare,44008,Under Investigation,No
+CVE-2019-42423,2019-12-16,MITM,Microsoft,SharePoint,4.4,Medium,Physical,High,Low,Required,None,Low,High,Iran,Energy,11461,Patched,Yes
+CVE-2019-00555,2019-07-16,Credential Stuffing,Nginx,Nginx,8.0,High,Physical,High,Low,Required,High,High,None,Iran,Healthcare,3687,Resolved,Yes
+CVE-2019-35118,2019-10-02,DoS/DDoS,Apple,iOS,6.0,Medium,Adjacent,High,Low,Required,None,High,None,South Korea,Telecom,21335,Resolved,Yes
+CVE-2019-00655,2019-10-11,XSS,Nginx,Nginx,7.3,High,Physical,High,Low,Required,High,None,None,China,Education,1538,Patched,No
+CVE-2019-82539,2019-04-01,Path Traversal,Atlassian,Jira,0.9,Low,Network,High,Low,Required,None,High,None,Netherlands,Retail,34932,Actively Exploited,No
+CVE-2019-91618,2019-11-22,RCE,Microsoft,Windows,9.1,Critical,Adjacent,Low,None,Required,Low,High,None,Turkey,Healthcare,39311,Under Investigation,Yes
+CVE-2019-18410,2019-07-08,Ransomware,Adobe,ColdFusion,0.8,Low,Physical,Low,High,Required,Low,Low,Low,South Korea,Government,45825,Patched,No
+CVE-2019-15864,2019-03-08,Phishing,F5,BIG-IP,3.7,Low,Adjacent,High,None,Required,None,None,High,Netherlands,IT,542,Patched,No
+CVE-2019-19746,2019-08-11,Path Traversal,IBM,QRadar,9.9,Critical,Network,Low,Low,None,None,None,None,Pakistan,Education,36197,Resolved,Yes
+CVE-2019-17153,2019-12-10,SQL Injection,F5,BIG-IP,9.7,Critical,Network,Low,High,None,None,High,None,USA,Healthcare,4348,Exploited,Yes
+CVE-2019-38374,2019-08-31,CSRF,Drupal,Modules,1.5,Low,Physical,High,Low,Required,Low,High,None,Germany,Finance,29905,Patched,Yes
+CVE-2019-00886,2019-04-03,Ransomware,Linux,Kernel,5.0,Medium,Local,High,High,None,Low,High,High,Iran,Telecom,49097,Under Investigation,Yes
+CVE-2019-26371,2019-01-17,RCE,Apache,Struts,4.0,Medium,Adjacent,High,High,Required,High,None,High,USA,IT,4000,Patched,No
+CVE-2019-05387,2019-08-07,Buffer Overflow,Apple,macOS,8.3,High,Adjacent,Low,Low,None,High,Low,High,Iran,Energy,47981,Patched,No
+CVE-2019-56769,2019-05-20,Path Traversal,IBM,QRadar,0.8,Low,Adjacent,Low,None,None,High,High,Low,Brazil,Transport,30552,Patched,Yes
+CVE-2019-57726,2019-08-17,Deserialization,Adobe,Acrobat,9.6,Critical,Local,Low,Low,Required,Low,Low,Low,Vietnam,Energy,756,Patched,Yes
+CVE-2019-46498,2019-11-28,RCE,Microsoft,SharePoint,3.1,Low,Adjacent,Low,None,Required,None,High,None,Ukraine,IT,39132,Under Investigation,No
+CVE-2019-86277,2019-07-31,Buffer Overflow,Oracle,WebLogic,0.1,Low,Local,Low,None,None,Low,Low,Low,Netherlands,Healthcare,8936,Patched,No
+CVE-2019-03754,2019-01-06,Phishing,Nginx,Nginx,6.4,Medium,Network,High,Low,Required,High,High,High,Russia,Telecom,11660,Exploited,No
+CVE-2019-96434,2019-09-26,Logic Flaw,Microsoft,Azure AD,3.9,Low,Local,Low,Low,None,High,None,Low,Turkey,Transport,23673,Under Investigation,No
+CVE-2019-39931,2019-05-21,Buffer Overflow,Nginx,Nginx,9.4,Critical,Physical,Low,High,Required,None,Low,None,USA,Retail,26736,Actively Exploited,Yes
+CVE-2019-23488,2019-08-22,CSRF,WordPress,Plugins,5.9,Medium,Local,Low,None,Required,None,High,Low,France,Transport,29318,Exploited,Yes
+CVE-2019-96995,2019-01-01,Phishing,Google,Android,2.7,Low,Physical,High,None,None,Low,Low,High,UK,Energy,40184,Under Investigation,Yes
+CVE-2019-49863,2019-02-13,XSS,Apache,Struts,4.1,Medium,Physical,High,High,None,None,None,None,Russia,Healthcare,9439,Resolved,Yes
+CVE-2019-19679,2019-06-28,DoS/DDoS,Nginx,Nginx,7.3,High,Network,Low,High,None,Low,Low,None,China,Energy,14342,Resolved,No
+CVE-2019-43778,2019-05-21,RCE,Cisco,IOS,0.7,Low,Physical,High,High,Required,None,None,None,Turkey,Finance,7189,Patched,Yes
+CVE-2019-63304,2019-02-11,Privilege Escalation,Adobe,Flash,7.3,High,Network,Low,Low,Required,Low,High,None,North Korea,Defense,26270,Patched,Yes
+CVE-2019-51641,2019-10-22,Buffer Overflow,Oracle,E-Business Suite,9.3,Critical,Physical,Low,Low,None,Low,Low,High,North Korea,Healthcare,17761,Under Investigation,No
+CVE-2019-93949,2019-08-20,XSS,Nginx,Nginx,8.7,High,Adjacent,High,None,Required,High,Low,None,South Korea,IT,24738,Exploited,Yes
+CVE-2019-08967,2019-09-12,RCE,Palo Alto,GlobalProtect,4.0,Medium,Adjacent,High,High,Required,Low,Low,Low,Netherlands,Retail,39277,Actively Exploited,Yes
+CVE-2019-86411,2019-03-28,Logic Flaw,Nginx,Nginx,4.1,Medium,Network,Low,Low,Required,None,High,None,USA,Manufacturing,39130,Patched,Yes
+CVE-2019-35917,2019-01-10,CSRF,Zimbra,Collaboration Suite,6.7,Medium,Physical,Low,Low,None,High,None,High,Vietnam,Defense,10764,Actively Exploited,Yes
+CVE-2019-01885,2019-12-13,Deserialization,Google,Chrome,7.5,High,Adjacent,High,Low,Required,None,High,Low,France,Education,20881,Actively Exploited,No
+CVE-2019-63121,2019-09-15,XSS,Juniper,Junos,5.7,Medium,Physical,Low,Low,None,None,Low,Low,Canada,Telecom,20273,Patched,No
+CVE-2019-37335,2019-12-30,DoS/DDoS,Adobe,Flash,3.8,Low,Local,High,Low,Required,None,High,Low,Brazil,Government,14559,Exploited,Yes
+CVE-2019-00246,2019-01-04,RCE,Microsoft,SharePoint,6.4,Medium,Adjacent,High,High,Required,High,None,Low,Russia,Energy,39823,Under Investigation,Yes
+CVE-2019-37446,2019-01-26,CSRF,Linux,glibc,2.3,Low,Adjacent,High,None,None,High,High,None,Russia,Education,27516,Exploited,Yes
+CVE-2019-52374,2019-04-24,Ransomware,Atlassian,Jira,5.8,Medium,Local,Low,Low,None,None,None,None,South Korea,Defense,22962,Under Investigation,Yes
+CVE-2019-18447,2019-07-31,DoS/DDoS,VMware,Workstation,1.3,Low,Network,Low,High,Required,None,None,None,Canada,Healthcare,47707,Resolved,No
+CVE-2019-61386,2019-11-01,XSS,Atlassian,Confluence,3.0,Low,Local,Low,None,None,High,Low,High,USA,Healthcare,7643,Actively Exploited,Yes
+CVE-2019-73482,2019-03-14,Ransomware,Zimbra,Collaboration Suite,1.5,Low,Local,High,Low,Required,Low,High,High,UK,Manufacturing,24889,Actively Exploited,No
+CVE-2019-26038,2019-05-24,SQL Injection,Cisco,AnyConnect,2.5,Low,Local,High,Low,None,Low,Low,None,Nigeria,Telecom,27633,Under Investigation,No
+CVE-2019-06412,2019-07-13,DoS/DDoS,Palo Alto,PAN-OS,1.2,Low,Network,High,None,None,None,None,None,Germany,Transport,32364,Actively Exploited,No
+CVE-2019-17985,2019-10-27,Brute Force,Adobe,Photoshop,7.3,High,Local,High,None,None,None,None,High,Iran,Transport,8870,Under Investigation,No
+CVE-2019-96556,2019-01-18,XXE,Apache,Tomcat,7.4,High,Local,Low,Low,None,None,High,None,Vietnam,Telecom,32518,Patched,Yes
+CVE-2019-69815,2019-11-23,Zero-Day Exploit,Linux,systemd,3.5,Low,Adjacent,High,Low,Required,None,None,High,Canada,Manufacturing,45370,Under Investigation,No
+CVE-2019-76102,2019-08-21,Brute Force,Google,Chrome,9.2,Critical,Network,Low,High,Required,None,Low,High,Brazil,Transport,16697,Under Investigation,Yes
+CVE-2019-46716,2019-09-28,Deserialization,Oracle,WebLogic,4.5,Medium,Network,High,High,None,High,High,None,Canada,Transport,10697,Resolved,Yes
+CVE-2019-51703,2019-01-21,Buffer Overflow,Microsoft,Azure AD,3.0,Low,Local,Low,High,Required,None,High,High,USA,Transport,4429,Under Investigation,No
+CVE-2019-35494,2019-11-26,Ransomware,WordPress,Plugins,3.6,Low,Physical,Low,High,Required,High,Low,High,UK,Education,15033,Patched,No
+CVE-2019-09295,2019-03-05,Brute Force,Adobe,Photoshop,7.7,High,Adjacent,High,High,None,Low,High,Low,UK,Finance,9351,Patched,No
+CVE-2019-07757,2019-12-21,Privilege Escalation,Juniper,Junos,7.5,High,Network,High,High,Required,None,High,Low,France,IT,14728,Resolved,No
+CVE-2019-73117,2019-07-19,Privilege Escalation,Adobe,Photoshop,8.5,High,Network,Low,High,None,High,High,Low,USA,Transport,2612,Actively Exploited,Yes
+CVE-2019-73925,2019-10-12,CSRF,Nginx,Nginx,5.3,Medium,Local,High,None,Required,None,None,None,France,IT,10354,Under Investigation,Yes
+CVE-2019-15385,2019-08-13,Path Traversal,Adobe,ColdFusion,3.2,Low,Physical,High,None,Required,None,High,High,Canada,Energy,11060,Actively Exploited,Yes
+CVE-2019-13358,2019-10-20,Zero-Day Exploit,Cisco,AnyConnect,8.9,High,Adjacent,High,High,Required,None,None,Low,Indonesia,Energy,29849,Exploited,No
+CVE-2019-89936,2019-03-08,MITM,Palo Alto,PAN-OS,2.9,Low,Physical,High,None,None,None,High,High,Ukraine,Finance,30438,Patched,No
+CVE-2019-25052,2019-04-02,MITM,Adobe,Photoshop,2.6,Low,Adjacent,High,High,Required,High,Low,High,Vietnam,IT,7455,Patched,No
+CVE-2019-28131,2019-05-11,DoS/DDoS,Microsoft,Windows,1.4,Low,Adjacent,High,Low,None,Low,Low,High,Nigeria,Manufacturing,21122,Exploited,No
+CVE-2019-53436,2019-04-27,RCE,Atlassian,Bitbucket,0.0,None,Physical,Low,None,None,Low,None,High,France,Energy,11153,Exploited,No
+CVE-2019-08788,2019-12-13,XXE,WordPress,Plugins,8.8,High,Network,Low,None,Required,None,High,High,India,Defense,12556,Actively Exploited,No
+CVE-2019-51889,2019-03-10,XSS,Linux,systemd,3.9,Low,Local,High,High,None,High,Low,None,China,Education,21660,Under Investigation,No
+CVE-2019-65485,2019-09-12,Credential Stuffing,SAP,NetWeaver,6.3,Medium,Adjacent,High,None,Required,Low,None,Low,Nigeria,Healthcare,22986,Resolved,Yes
+CVE-2019-18291,2019-12-23,CSRF,WordPress,Core,1.2,Low,Physical,Low,Low,None,None,None,High,Russia,Energy,27576,Resolved,Yes
+CVE-2019-65758,2019-10-01,XXE,Cisco,Firepower,9.5,Critical,Local,High,Low,None,None,High,Low,Turkey,Defense,32845,Under Investigation,Yes
+CVE-2019-91939,2019-08-25,DoS/DDoS,F5,BIG-IP,3.3,Low,Local,High,High,Required,High,None,High,Canada,Retail,1067,Patched,Yes
+CVE-2019-24250,2019-10-30,MITM,Microsoft,SharePoint,3.4,Low,Adjacent,High,High,None,Low,High,Low,South Korea,Telecom,7669,Patched,No
+CVE-2019-09765,2019-06-10,SQL Injection,Nginx,Nginx,2.9,Low,Network,Low,High,None,None,Low,None,France,Healthcare,35030,Patched,No
+CVE-2019-72454,2019-09-23,Deserialization,SAP,NetWeaver,0.0,None,Physical,Low,None,Required,None,None,High,Russia,Telecom,37091,Under Investigation,No
+CVE-2019-29392,2019-02-18,RCE,Apple,iOS,0.2,Low,Adjacent,High,None,None,High,None,None,Nigeria,Finance,46112,Actively Exploited,Yes
+CVE-2019-08008,2019-03-22,DoS/DDoS,Cisco,ASA,1.8,Low,Physical,Low,None,Required,Low,None,High,North Korea,Energy,5571,Resolved,Yes
+CVE-2019-36036,2019-09-05,Command Injection,Juniper,Junos,7.8,High,Local,Low,Low,None,None,Low,High,South Korea,Government,47496,Resolved,Yes
+CVE-2019-17012,2019-05-12,Phishing,Adobe,Acrobat,8.7,High,Physical,Low,None,Required,Low,High,None,Iran,Energy,2048,Patched,No
+CVE-2019-79827,2019-02-11,Logic Flaw,Zimbra,Collaboration Suite,6.1,Medium,Adjacent,Low,Low,None,High,Low,Low,Turkey,IT,39000,Patched,No
+CVE-2019-92552,2019-11-30,Privilege Escalation,SAP,NetWeaver,7.9,High,Local,Low,High,None,Low,High,Low,Pakistan,Education,15327,Exploited,Yes
+CVE-2019-03211,2019-06-12,MITM,Oracle,Database,1.2,Low,Local,High,None,Required,Low,High,High,Turkey,Manufacturing,4687,Exploited,Yes
+CVE-2019-99749,2019-04-21,Command Injection,Google,Android,5.7,Medium,Physical,High,Low,None,Low,Low,High,Indonesia,Retail,48822,Exploited,No
+CVE-2019-00023,2019-11-11,XSS,Apache,Kafka,8.8,High,Network,Low,High,None,Low,None,High,South Korea,Finance,27873,Patched,No
+CVE-2019-62128,2019-06-03,Credential Stuffing,Apple,Safari,0.7,Low,Adjacent,Low,None,None,Low,None,None,Brazil,Government,45504,Patched,Yes
+CVE-2019-82911,2019-01-29,DoS/DDoS,WordPress,Plugins,7.0,High,Physical,Low,None,None,None,Low,None,India,Manufacturing,16549,Patched,No
+CVE-2019-25667,2019-10-28,DoS/DDoS,Google,Chrome,5.3,Medium,Physical,Low,None,Required,Low,None,High,UK,Education,37498,Actively Exploited,Yes
+CVE-2019-23969,2019-08-13,Zero-Day Exploit,Fortinet,FortiGate,5.7,Medium,Physical,Low,High,None,Low,Low,None,Brazil,Manufacturing,31455,Under Investigation,No
+CVE-2019-30608,2019-12-19,Ransomware,Apache,Tomcat,4.0,Medium,Adjacent,High,Low,Required,None,None,None,Indonesia,Transport,19313,Exploited,No
+CVE-2019-47171,2019-08-10,Zero-Day Exploit,Palo Alto,GlobalProtect,3.4,Low,Adjacent,High,High,Required,High,None,None,South Korea,Defense,47370,Under Investigation,No
+CVE-2019-90492,2019-03-19,SQL Injection,Atlassian,Jira,7.1,High,Physical,High,Low,None,High,High,High,North Korea,Telecom,27911,Exploited,No
+CVE-2019-83469,2019-04-25,Ransomware,Cisco,IOS,7.8,High,Local,Low,None,None,Low,High,Low,Turkey,IT,10272,Patched,No
+CVE-2019-73122,2019-01-12,Path Traversal,Juniper,Junos,4.6,Medium,Adjacent,High,High,Required,High,None,Low,USA,IT,24933,Resolved,Yes
+CVE-2019-29969,2019-10-08,SSRF,Oracle,Database,3.5,Low,Physical,Low,None,Required,High,High,None,France,Healthcare,12680,Under Investigation,No
+CVE-2019-73698,2019-02-22,Credential Stuffing,F5,BIG-IP,8.7,High,Local,Low,Low,None,None,Low,Low,Nigeria,Defense,43579,Resolved,No
+CVE-2019-29304,2019-01-14,Privilege Escalation,IBM,MQ,5.8,Medium,Physical,High,None,None,High,None,None,Turkey,Telecom,15598,Under Investigation,No
+CVE-2019-91298,2019-05-02,Privilege Escalation,Fortinet,FortiManager,5.4,Medium,Adjacent,High,High,Required,High,Low,Low,Turkey,Retail,20790,Exploited,No
+CVE-2019-71802,2019-09-06,SQL Injection,Apache,Tomcat,6.5,Medium,Local,Low,Low,None,Low,Low,High,Canada,Government,18357,Under Investigation,Yes
+CVE-2019-25323,2019-02-14,SQL Injection,Drupal,Core,5.6,Medium,Local,Low,Low,Required,High,High,Low,China,Transport,45306,Resolved,No
+CVE-2019-33810,2019-04-12,MITM,Microsoft,Azure AD,10.0,Critical,Physical,High,Low,Required,High,Low,High,North Korea,Telecom,33434,Actively Exploited,Yes
+CVE-2019-68031,2019-04-10,Zero-Day Exploit,Palo Alto,GlobalProtect,0.7,Low,Network,Low,High,Required,None,Low,Low,Brazil,Manufacturing,2260,Patched,Yes
+CVE-2019-34817,2019-11-18,Command Injection,WordPress,Plugins,5.9,Medium,Adjacent,High,None,None,Low,None,None,Canada,Telecom,32104,Actively Exploited,No
+CVE-2019-25893,2019-09-03,Phishing,Cisco,AnyConnect,6.6,Medium,Adjacent,High,Low,Required,High,None,Low,Iran,Transport,20152,Under Investigation,No
+CVE-2019-74331,2019-02-09,SSRF,Apple,iOS,2.0,Low,Physical,High,Low,None,Low,High,High,Iran,IT,17546,Actively Exploited,No
+CVE-2019-85888,2019-01-06,XXE,Oracle,Java SE,0.7,Low,Local,High,None,Required,None,Low,None,Canada,Finance,4404,Patched,Yes
+CVE-2019-95002,2019-07-17,SSRF,Palo Alto,PAN-OS,5.9,Medium,Local,High,High,Required,Low,Low,None,Russia,Energy,1954,Exploited,No
+CVE-2019-60124,2019-07-11,XSS,Nginx,Nginx,1.4,Low,Network,Low,Low,Required,High,None,None,Ukraine,Government,39829,Resolved,Yes
+CVE-2019-40195,2019-01-26,MITM,Atlassian,Confluence,5.6,Medium,Network,Low,High,Required,Low,None,Low,Russia,IT,14327,Exploited,No
+CVE-2019-47356,2019-10-08,Brute Force,Fortinet,FortiOS,6.6,Medium,Physical,High,High,Required,Low,High,Low,USA,Defense,15805,Patched,No
+CVE-2019-60086,2019-04-22,Buffer Overflow,Adobe,Flash,9.9,Critical,Adjacent,Low,High,None,High,None,High,UK,Healthcare,26660,Resolved,Yes
+CVE-2019-98155,2019-11-11,Brute Force,Nginx,Nginx,4.4,Medium,Physical,Low,None,Required,Low,High,Low,Ukraine,Transport,17426,Resolved,Yes
+CVE-2019-64481,2019-12-27,SSRF,Apache,Kafka,2.8,Low,Adjacent,High,None,Required,None,High,High,Nigeria,Government,9587,Patched,Yes
+CVE-2019-67410,2019-08-03,Brute Force,Microsoft,SharePoint,8.6,High,Adjacent,High,None,Required,High,High,None,Indonesia,IT,49241,Exploited,No
+CVE-2019-23051,2019-05-03,SQL Injection,WordPress,Plugins,6.3,Medium,Adjacent,Low,Low,Required,High,Low,Low,Romania,Healthcare,40080,Patched,No
+CVE-2019-69751,2019-08-02,Command Injection,Google,Workspace,1.3,Low,Adjacent,Low,None,Required,None,None,None,Romania,Healthcare,5085,Under Investigation,Yes
+CVE-2019-95216,2019-09-09,Zero-Day Exploit,Adobe,Photoshop,5.2,Medium,Network,Low,None,None,Low,High,Low,Russia,Retail,33763,Patched,No
+CVE-2019-36795,2019-01-07,Buffer Overflow,Drupal,Core,2.6,Low,Physical,Low,Low,Required,None,High,None,France,Finance,1171,Under Investigation,No
+CVE-2019-49087,2019-03-18,MITM,SAP,NetWeaver,4.1,Medium,Physical,Low,Low,Required,High,None,Low,Indonesia,Transport,33311,Patched,Yes
+CVE-2019-69009,2019-01-05,XXE,Palo Alto,GlobalProtect,5.7,Medium,Adjacent,Low,High,Required,High,Low,Low,Turkey,Retail,3395,Patched,No
+CVE-2019-39695,2019-09-06,Buffer Overflow,Atlassian,Bitbucket,5.1,Medium,Adjacent,Low,High,None,None,Low,Low,Pakistan,Government,33911,Actively Exploited,Yes
+CVE-2019-43421,2019-01-03,Command Injection,Apache,HTTP Server,4.2,Medium,Adjacent,High,High,Required,Low,Low,Low,India,Healthcare,28599,Exploited,No
+CVE-2019-06718,2019-07-10,Ransomware,Fortinet,FortiManager,8.5,High,Physical,High,Low,None,High,Low,None,Ukraine,Healthcare,657,Actively Exploited,Yes
+CVE-2019-89994,2019-06-21,XSS,Apple,Safari,1.4,Low,Physical,Low,Low,Required,High,High,None,UK,Healthcare,45488,Patched,Yes
+CVE-2019-11458,2019-05-19,Credential Stuffing,Palo Alto,GlobalProtect,3.4,Low,Local,High,None,Required,Low,None,Low,Germany,Manufacturing,28794,Exploited,Yes
+CVE-2019-84722,2019-05-10,SQL Injection,Juniper,Junos,8.8,High,Local,Low,None,Required,High,None,None,North Korea,Finance,26266,Exploited,No
+CVE-2019-30404,2019-09-01,Buffer Overflow,Apache,Log4j,7.5,High,Local,High,High,None,None,Low,None,Brazil,Finance,38946,Patched,Yes
+CVE-2019-84748,2019-09-14,MITM,Cisco,ASA,2.5,Low,Physical,Low,High,Required,Low,Low,High,Nigeria,Retail,17036,Patched,No
+CVE-2019-92890,2019-06-13,RCE,Apple,Safari,9.1,Critical,Adjacent,High,High,None,None,High,None,Iran,Telecom,38197,Actively Exploited,Yes
+CVE-2019-48539,2019-05-20,Brute Force,Atlassian,Confluence,0.0,None,Network,Low,Low,None,High,Low,Low,Brazil,Telecom,34245,Under Investigation,Yes
+CVE-2019-94635,2019-01-15,XSS,Zimbra,Collaboration Suite,3.2,Low,Network,Low,Low,Required,High,None,None,Pakistan,IT,49372,Resolved,No
+CVE-2019-54272,2019-06-25,SSRF,Linux,systemd,9.6,Critical,Physical,Low,None,None,High,High,None,Brazil,Retail,16733,Patched,No
+CVE-2019-51299,2019-08-18,Brute Force,Adobe,Acrobat,4.2,Medium,Physical,High,None,Required,High,Low,Low,Vietnam,Finance,45776,Actively Exploited,Yes
+CVE-2019-88019,2019-02-06,Command Injection,IBM,QRadar,0.3,Low,Adjacent,Low,None,Required,High,Low,Low,France,Telecom,39461,Actively Exploited,No
+CVE-2019-38467,2019-10-02,Credential Stuffing,Apple,macOS,5.7,Medium,Adjacent,Low,None,None,None,None,High,Canada,IT,37173,Under Investigation,No
+CVE-2019-52121,2019-10-20,Path Traversal,Atlassian,Jira,4.8,Medium,Local,Low,High,Required,None,Low,Low,Netherlands,Telecom,42490,Patched,Yes
+CVE-2019-56378,2019-06-28,Brute Force,WordPress,Plugins,7.3,High,Physical,Low,High,None,High,None,Low,Iran,IT,46311,Exploited,Yes
+CVE-2019-62448,2019-03-30,XSS,VMware,Horizon,7.5,High,Local,Low,Low,Required,None,Low,High,USA,Retail,31671,Patched,No
+CVE-2019-54121,2019-02-10,XSS,VMware,Workstation,8.1,High,Physical,Low,High,None,Low,None,None,Vietnam,Retail,7361,Exploited,No
+CVE-2019-94538,2019-04-24,RCE,Juniper,Junos,0.9,Low,Adjacent,High,Low,None,Low,None,High,North Korea,Telecom,17224,Exploited,No
+CVE-2019-76324,2019-10-08,SQL Injection,Cisco,AnyConnect,1.7,Low,Physical,Low,None,None,Low,High,None,Pakistan,IT,31634,Resolved,Yes
+CVE-2019-22186,2019-01-06,RCE,Linux,systemd,6.8,Medium,Adjacent,Low,None,None,High,High,Low,Iran,Government,29522,Exploited,Yes
+CVE-2019-94398,2019-02-26,Path Traversal,WordPress,Plugins,7.2,High,Adjacent,High,High,Required,None,None,Low,China,Transport,12754,Resolved,No
+CVE-2019-59845,2019-11-20,Zero-Day Exploit,SAP,HANA,0.9,Low,Local,High,None,None,Low,Low,Low,Ukraine,Finance,2687,Actively Exploited,No
+CVE-2019-12801,2019-05-27,DoS/DDoS,Fortinet,FortiManager,1.6,Low,Adjacent,High,Low,None,High,High,None,Ukraine,Manufacturing,16588,Exploited,No
+CVE-2019-86640,2019-04-01,CSRF,Drupal,Core,9.2,Critical,Local,High,None,Required,Low,None,High,North Korea,Telecom,7492,Resolved,Yes
+CVE-2019-53435,2019-10-21,Command Injection,IBM,WebSphere,8.4,High,Network,High,High,Required,None,None,Low,Netherlands,Retail,46502,Actively Exploited,Yes
+CVE-2019-39072,2019-07-22,Brute Force,IBM,WebSphere,3.5,Low,Adjacent,High,High,Required,None,None,Low,Nigeria,Manufacturing,45650,Exploited,Yes
+CVE-2019-97685,2019-07-12,RCE,VMware,vCenter,1.2,Low,Adjacent,High,High,None,Low,None,None,Iran,Defense,49998,Actively Exploited,No
+CVE-2019-45200,2019-12-10,Zero-Day Exploit,Cisco,IOS,5.1,Medium,Local,High,None,None,None,None,None,Netherlands,Finance,13531,Actively Exploited,No
+CVE-2019-00781,2019-09-04,Command Injection,Juniper,Junos,3.1,Low,Adjacent,High,Low,None,None,High,Low,Netherlands,Transport,28761,Resolved,Yes
+CVE-2019-28336,2019-04-05,Command Injection,Oracle,WebLogic,8.2,High,Local,Low,None,None,Low,None,Low,USA,Government,25204,Patched,No
+CVE-2019-87979,2019-11-16,SSRF,Microsoft,Azure AD,8.4,High,Network,Low,High,Required,High,High,None,France,Defense,42165,Resolved,No
+CVE-2019-77213,2019-06-12,XSS,Google,Android,8.2,High,Physical,High,None,None,None,None,High,India,Education,4249,Under Investigation,No
+CVE-2019-74232,2019-04-13,SQL Injection,Apache,Struts,5.1,Medium,Adjacent,High,High,Required,None,None,Low,France,Defense,6967,Under Investigation,No
+CVE-2019-34299,2019-01-07,MITM,IBM,WebSphere,8.5,High,Local,High,High,None,Low,Low,None,China,Telecom,31047,Actively Exploited,Yes
+CVE-2019-50839,2019-07-26,CSRF,Adobe,Acrobat,3.7,Low,Physical,Low,None,None,Low,None,None,Romania,Healthcare,25912,Under Investigation,Yes
+CVE-2019-35193,2019-10-15,Phishing,VMware,ESXi,4.5,Medium,Local,High,None,None,None,Low,None,Iran,Telecom,48306,Resolved,Yes
+CVE-2019-13120,2019-10-15,Brute Force,Nginx,Nginx,4.4,Medium,Physical,Low,High,Required,High,Low,High,India,Healthcare,18587,Actively Exploited,Yes
+CVE-2019-33285,2019-08-16,CSRF,Apache,HTTP Server,3.6,Low,Adjacent,Low,Low,None,None,High,None,Nigeria,Healthcare,7129,Exploited,No
+CVE-2019-24624,2019-09-28,Privilege Escalation,IBM,QRadar,3.5,Low,Physical,High,High,None,High,None,High,Netherlands,Manufacturing,22293,Resolved,No
+CVE-2019-95440,2019-03-10,DoS/DDoS,IBM,WebSphere,7.3,High,Local,High,High,Required,High,High,High,Nigeria,Finance,47469,Resolved,Yes
+CVE-2019-59325,2019-05-31,MITM,Fortinet,FortiOS,6.4,Medium,Local,High,High,None,High,None,High,Vietnam,IT,15976,Actively Exploited,No
+CVE-2019-47689,2019-08-19,SQL Injection,Apple,iOS,7.4,High,Local,Low,Low,Required,Low,None,High,USA,Government,30296,Resolved,Yes
+CVE-2019-25979,2019-02-22,Command Injection,Atlassian,Jira,3.9,Low,Network,Low,High,None,None,High,Low,Indonesia,Retail,21284,Actively Exploited,No
+CVE-2019-20481,2019-01-19,RCE,IBM,MQ,0.2,Low,Adjacent,Low,High,None,None,None,High,Brazil,Energy,7469,Patched,No
+CVE-2019-00608,2019-02-18,Ransomware,Palo Alto,GlobalProtect,7.2,High,Local,High,High,None,Low,High,None,Netherlands,Finance,38230,Resolved,No
+CVE-2019-62014,2019-05-28,Deserialization,Nginx,Nginx,5.7,Medium,Network,High,Low,None,None,Low,None,Netherlands,Education,30949,Exploited,Yes
+CVE-2019-10746,2019-02-28,Path Traversal,Drupal,Core,4.1,Medium,Adjacent,High,Low,Required,Low,Low,None,South Korea,Energy,2591,Actively Exploited,Yes
+CVE-2019-26934,2019-04-05,Brute Force,Atlassian,Bitbucket,7.1,High,Adjacent,High,Low,Required,Low,High,Low,Brazil,Defense,35314,Under Investigation,No
+CVE-2019-86557,2019-02-26,Logic Flaw,Microsoft,Office,3.0,Low,Network,Low,Low,None,None,Low,None,Canada,Education,34374,Patched,Yes
+CVE-2019-08406,2019-01-03,SSRF,Apache,Tomcat,2.9,Low,Physical,Low,Low,Required,None,None,None,Russia,Telecom,28134,Actively Exploited,Yes
+CVE-2019-89488,2019-07-10,SQL Injection,IBM,MQ,4.0,Medium,Local,High,Low,Required,Low,Low,None,Turkey,Telecom,3436,Under Investigation,No
+CVE-2019-49495,2019-11-24,Credential Stuffing,Google,Chrome,2.8,Low,Local,Low,None,None,High,None,Low,Pakistan,Manufacturing,5284,Under Investigation,No
+CVE-2019-42453,2019-02-24,Brute Force,Apple,iOS,1.1,Low,Adjacent,Low,None,Required,High,High,Low,Ukraine,Transport,7755,Resolved,No
+CVE-2019-60299,2019-02-27,Ransomware,Apple,macOS,8.5,High,Network,High,None,Required,Low,Low,High,South Korea,Government,15599,Under Investigation,No
+CVE-2019-46621,2019-04-12,CSRF,Oracle,Database,1.8,Low,Adjacent,Low,Low,None,High,High,High,France,Finance,14620,Resolved,Yes
+CVE-2019-73076,2019-08-26,RCE,Drupal,Modules,5.1,Medium,Local,High,None,Required,None,High,None,Indonesia,Telecom,24843,Under Investigation,No
+CVE-2019-66645,2019-07-31,Deserialization,Microsoft,Azure AD,2.4,Low,Local,Low,None,Required,High,High,Low,Vietnam,Energy,9737,Patched,Yes
+CVE-2019-38311,2019-10-25,Command Injection,Oracle,E-Business Suite,8.7,High,Network,High,None,None,Low,High,None,India,Defense,46747,Actively Exploited,Yes
+CVE-2019-79962,2019-07-28,DoS/DDoS,F5,BIG-IP,8.9,High,Adjacent,High,Low,Required,Low,High,High,USA,Manufacturing,20754,Actively Exploited,No
+CVE-2019-26829,2019-07-17,Privilege Escalation,Cisco,IOS,9.5,Critical,Adjacent,Low,Low,None,None,Low,None,Vietnam,Telecom,2417,Patched,No
+CVE-2019-36844,2019-06-26,Privilege Escalation,IBM,QRadar,2.6,Low,Local,Low,High,None,High,High,Low,Netherlands,Transport,1678,Under Investigation,Yes
+CVE-2019-86184,2019-12-11,Path Traversal,Cisco,Firepower,0.9,Low,Physical,High,None,None,None,Low,Low,France,Retail,43011,Resolved,Yes
+CVE-2019-12697,2019-12-15,SQL Injection,Cisco,Webex,1.4,Low,Physical,Low,High,Required,None,Low,High,South Korea,Healthcare,22728,Resolved,Yes
+CVE-2019-49350,2019-11-02,Credential Stuffing,Oracle,WebLogic,8.5,High,Physical,High,None,Required,High,Low,Low,Vietnam,Energy,5601,Under Investigation,No
+CVE-2019-01711,2019-09-14,Phishing,Fortinet,FortiManager,3.8,Low,Network,High,High,Required,High,High,High,Turkey,Defense,14911,Under Investigation,Yes
+CVE-2019-07661,2019-05-07,Zero-Day Exploit,Linux,Kernel,5.3,Medium,Physical,Low,Low,Required,Low,Low,Low,Canada,Finance,9229,Exploited,Yes
+CVE-2019-15349,2019-08-05,XSS,IBM,WebSphere,2.8,Low,Physical,High,Low,None,Low,High,Low,Vietnam,Retail,44969,Exploited,Yes
+CVE-2019-35953,2019-10-22,Ransomware,Apache,Log4j,6.0,Medium,Adjacent,High,High,Required,High,Low,Low,Russia,Transport,16986,Actively Exploited,Yes
+CVE-2019-58979,2019-01-30,Privilege Escalation,Nginx,Nginx,0.3,Low,Local,Low,Low,Required,High,Low,High,Ukraine,Education,48120,Under Investigation,Yes
+CVE-2019-36945,2019-06-06,Phishing,Cisco,AnyConnect,2.2,Low,Adjacent,Low,High,None,High,Low,None,USA,Transport,18347,Exploited,No
+CVE-2019-18773,2019-04-13,Logic Flaw,Palo Alto,PAN-OS,9.2,Critical,Physical,Low,Low,None,High,High,High,Netherlands,Telecom,45199,Patched,No
+CVE-2019-42333,2019-05-27,DoS/DDoS,Juniper,Junos,8.0,High,Local,High,None,None,Low,None,Low,Brazil,Telecom,30031,Patched,No
+CVE-2019-12094,2019-12-06,Brute Force,Adobe,ColdFusion,2.9,Low,Adjacent,High,Low,None,High,None,High,Netherlands,Government,38214,Exploited,Yes
+CVE-2019-38814,2019-01-16,Zero-Day Exploit,IBM,MQ,0.7,Low,Network,Low,Low,None,High,High,Low,China,Education,2793,Exploited,No
+CVE-2019-33056,2019-12-24,Ransomware,Fortinet,FortiOS,1.0,Low,Network,Low,Low,None,High,High,Low,Ukraine,Telecom,30914,Patched,No
+CVE-2019-08694,2019-12-20,SQL Injection,Juniper,Junos,1.0,Low,Local,Low,Low,Required,High,None,Low,France,Defense,3892,Actively Exploited,No
+CVE-2019-46215,2019-02-13,SQL Injection,Linux,Kernel,0.8,Low,Network,Low,High,Required,High,Low,None,Canada,Education,4223,Patched,No
+CVE-2019-10496,2019-12-15,Zero-Day Exploit,SAP,Business One,4.7,Medium,Adjacent,High,Low,Required,None,None,None,North Korea,Manufacturing,15008,Patched,No
+CVE-2019-69567,2019-01-06,Path Traversal,Drupal,Core,9.7,Critical,Network,Low,High,None,Low,Low,Low,North Korea,Transport,42631,Patched,No
+CVE-2019-32651,2019-12-04,Privilege Escalation,Palo Alto,PAN-OS,1.2,Low,Local,Low,None,Required,High,High,High,Vietnam,Transport,20502,Actively Exploited,No
+CVE-2019-92582,2019-04-07,DoS/DDoS,Palo Alto,PAN-OS,1.3,Low,Network,High,None,None,High,Low,None,Turkey,Telecom,23429,Resolved,Yes
+CVE-2019-65906,2019-09-23,CSRF,Zimbra,Collaboration Suite,7.0,High,Network,High,High,None,High,None,High,North Korea,Government,4855,Under Investigation,Yes
+CVE-2019-67976,2019-05-22,XXE,Atlassian,Confluence,6.9,Medium,Local,Low,Low,None,None,Low,None,China,Transport,40967,Resolved,No
+CVE-2019-40191,2019-07-27,Command Injection,Zimbra,Collaboration Suite,9.1,Critical,Local,High,None,Required,None,Low,High,Ukraine,Government,19487,Patched,No
+CVE-2019-10517,2019-09-08,XSS,Juniper,Junos,9.0,Critical,Adjacent,High,High,Required,None,None,Low,Russia,Transport,21831,Patched,Yes
+CVE-2019-46582,2019-08-25,Zero-Day Exploit,Apache,Log4j,3.6,Low,Physical,High,Low,Required,None,Low,Low,South Korea,Government,12861,Exploited,No
+CVE-2019-57064,2019-03-02,XSS,SAP,Business One,9.5,Critical,Adjacent,Low,Low,None,Low,Low,Low,UK,Transport,19464,Exploited,Yes
+CVE-2019-79117,2019-08-20,Credential Stuffing,Apple,macOS,6.4,Medium,Adjacent,Low,High,Required,High,Low,Low,Brazil,Manufacturing,4389,Under Investigation,No
+CVE-2019-49736,2019-11-30,Zero-Day Exploit,Cisco,IOS,2.4,Low,Adjacent,High,Low,Required,None,None,None,North Korea,Manufacturing,20025,Actively Exploited,Yes
+CVE-2019-37721,2019-01-13,Buffer Overflow,Oracle,Java SE,4.0,Medium,Local,Low,High,Required,None,High,High,USA,Transport,23725,Under Investigation,No
+CVE-2019-99522,2019-06-08,Buffer Overflow,WordPress,Plugins,3.7,Low,Physical,High,None,Required,None,Low,None,Brazil,Finance,28820,Resolved,Yes
+CVE-2019-04353,2019-08-25,Privilege Escalation,F5,BIG-IP,8.7,High,Network,High,None,Required,None,Low,None,Russia,Government,28097,Patched,No
+CVE-2019-05497,2019-09-08,Brute Force,Drupal,Modules,0.2,Low,Local,Low,High,Required,High,None,None,USA,Finance,14726,Exploited,No
+CVE-2019-72503,2019-04-08,Buffer Overflow,IBM,WebSphere,1.1,Low,Local,Low,High,None,High,None,None,Brazil,Government,13587,Actively Exploited,No
+CVE-2019-39960,2019-05-17,Phishing,Drupal,Modules,7.9,High,Network,Low,None,None,None,High,Low,Iran,Manufacturing,3084,Patched,No
+CVE-2019-63248,2019-02-06,Logic Flaw,Palo Alto,PAN-OS,9.5,Critical,Adjacent,Low,High,Required,Low,None,Low,Vietnam,Finance,4920,Under Investigation,Yes
+CVE-2019-99352,2019-12-02,Brute Force,Microsoft,SharePoint,9.3,Critical,Local,Low,High,Required,High,None,Low,Iran,Education,8843,Actively Exploited,Yes
+CVE-2019-99735,2019-11-03,Logic Flaw,Palo Alto,PAN-OS,1.0,Low,Adjacent,Low,None,None,None,None,None,China,Defense,13468,Resolved,No
+CVE-2019-23709,2019-12-28,CSRF,Zimbra,Collaboration Suite,5.7,Medium,Physical,High,High,Required,None,Low,High,Nigeria,Government,38000,Patched,Yes
+CVE-2019-24925,2019-08-05,Logic Flaw,Apple,Safari,8.9,High,Adjacent,High,High,Required,Low,High,High,South Korea,Telecom,18637,Actively Exploited,Yes
+CVE-2019-79322,2019-08-13,SSRF,Palo Alto,GlobalProtect,2.8,Low,Adjacent,Low,Low,Required,None,None,Low,Canada,Energy,15970,Under Investigation,Yes
+CVE-2019-70414,2019-01-08,Logic Flaw,Adobe,ColdFusion,2.7,Low,Network,High,High,None,High,High,None,Iran,Government,10021,Resolved,No
+CVE-2019-41240,2019-02-16,SQL Injection,Zimbra,Collaboration Suite,7.9,High,Local,Low,Low,Required,None,Low,Low,India,Healthcare,12057,Exploited,No
+CVE-2019-76926,2019-01-31,Phishing,WordPress,Core,4.6,Medium,Physical,Low,Low,None,High,Low,None,Russia,Manufacturing,25791,Patched,No
+CVE-2019-23501,2019-02-25,DoS/DDoS,WordPress,Plugins,2.8,Low,Physical,Low,High,Required,None,Low,None,Canada,Energy,42616,Resolved,No
+CVE-2019-50136,2019-12-14,SSRF,F5,BIG-IP,5.4,Medium,Adjacent,Low,None,None,High,High,High,Germany,Education,15722,Resolved,Yes
+CVE-2019-50484,2019-01-15,Phishing,Palo Alto,GlobalProtect,8.9,High,Physical,Low,None,None,None,High,None,Ukraine,Retail,45236,Exploited,No
+CVE-2019-85201,2019-03-27,Buffer Overflow,F5,BIG-IP,0.2,Low,Physical,Low,None,None,None,Low,Low,Vietnam,Retail,16806,Under Investigation,No
+CVE-2019-90391,2019-07-20,DoS/DDoS,WordPress,Core,3.4,Low,Physical,Low,None,Required,None,High,High,USA,Energy,5825,Patched,Yes
+CVE-2019-43800,2019-08-04,MITM,Fortinet,FortiOS,4.2,Medium,Local,High,High,Required,None,None,None,South Korea,Finance,24483,Exploited,Yes
+CVE-2019-70239,2019-11-16,Privilege Escalation,Fortinet,FortiOS,3.6,Low,Local,Low,None,None,Low,High,High,Canada,Transport,12703,Patched,Yes
+CVE-2019-72171,2019-05-13,Phishing,Palo Alto,PAN-OS,5.9,Medium,Physical,High,Low,None,Low,None,None,China,Manufacturing,40648,Under Investigation,No
+CVE-2019-84822,2019-10-07,MITM,Microsoft,Azure AD,8.4,High,Network,High,Low,Required,Low,None,High,Ukraine,Manufacturing,12110,Exploited,No
+CVE-2019-00701,2019-03-21,SSRF,Juniper,Junos,7.1,High,Physical,High,Low,Required,None,High,High,Ukraine,Education,33266,Exploited,No
+CVE-2019-34406,2019-04-20,Path Traversal,Adobe,Flash,1.5,Low,Adjacent,High,Low,None,Low,None,High,South Korea,Transport,23287,Exploited,Yes
+CVE-2019-81306,2019-11-13,Credential Stuffing,Apple,Safari,0.5,Low,Physical,High,Low,None,High,None,High,Romania,Government,32755,Patched,No
+CVE-2019-57951,2019-06-02,XSS,Zimbra,Collaboration Suite,1.4,Low,Local,High,High,None,Low,None,None,Russia,Defense,5737,Patched,No
+CVE-2019-69957,2019-05-03,XSS,Oracle,Database,4.9,Medium,Network,Low,None,Required,None,High,Low,Germany,Manufacturing,41635,Resolved,Yes
+CVE-2019-71625,2019-10-24,MITM,IBM,QRadar,2.9,Low,Network,High,None,Required,None,Low,High,Indonesia,Energy,38114,Under Investigation,Yes
+CVE-2019-17575,2019-09-18,Command Injection,WordPress,Core,5.7,Medium,Local,Low,None,Required,Low,High,High,Canada,Energy,3379,Actively Exploited,Yes
+CVE-2019-68569,2019-05-02,XSS,Atlassian,Confluence,4.6,Medium,Adjacent,Low,High,Required,High,High,Low,Pakistan,Manufacturing,6418,Patched,Yes
+CVE-2019-29644,2019-10-21,DoS/DDoS,Adobe,ColdFusion,1.4,Low,Network,Low,High,None,Low,Low,None,Turkey,Manufacturing,3710,Patched,No
+CVE-2019-61868,2019-10-17,DoS/DDoS,Linux,Kernel,0.4,Low,Network,High,High,None,None,High,High,USA,Telecom,1650,Under Investigation,Yes
+CVE-2019-84998,2019-10-28,XXE,Apache,Kafka,8.8,High,Local,Low,None,None,High,High,None,Turkey,Telecom,35816,Patched,No
+CVE-2019-59051,2019-02-21,Buffer Overflow,Adobe,Photoshop,8.1,High,Adjacent,High,High,None,None,High,Low,Canada,Government,32271,Under Investigation,No
+CVE-2019-55393,2019-03-19,XXE,Zimbra,Collaboration Suite,0.0,None,Adjacent,High,None,Required,Low,None,Low,Russia,Telecom,39654,Patched,No
+CVE-2019-14508,2019-03-15,Buffer Overflow,F5,BIG-IP,2.5,Low,Physical,Low,Low,Required,Low,None,Low,France,Defense,12620,Actively Exploited,No
+CVE-2019-94622,2019-04-14,Command Injection,Adobe,Acrobat,0.8,Low,Local,High,Low,None,Low,High,High,USA,Manufacturing,25934,Under Investigation,No
+CVE-2019-09003,2019-08-19,CSRF,Drupal,Modules,4.7,Medium,Adjacent,Low,None,Required,Low,High,Low,UK,Manufacturing,2982,Patched,No
+CVE-2019-56510,2019-10-08,MITM,Microsoft,Windows,0.4,Low,Physical,High,None,Required,High,High,Low,Vietnam,Transport,3955,Under Investigation,No
+CVE-2019-44160,2019-12-28,RCE,Atlassian,Jira,9.6,Critical,Local,Low,None,Required,None,High,High,Pakistan,Education,31456,Actively Exploited,Yes
+CVE-2019-97733,2019-11-01,DoS/DDoS,SAP,NetWeaver,6.4,Medium,Network,High,Low,Required,High,Low,None,North Korea,Telecom,31850,Patched,Yes
+CVE-2019-77150,2019-11-30,MITM,Juniper,Junos,9.0,Critical,Adjacent,Low,Low,Required,None,High,None,Turkey,Retail,11305,Resolved,No
+CVE-2019-29019,2019-11-20,Privilege Escalation,Cisco,IOS,3.6,Low,Local,High,Low,Required,Low,High,High,Germany,Education,21035,Exploited,No
+CVE-2019-65422,2019-09-03,XXE,Atlassian,Jira,1.9,Low,Physical,High,None,Required,High,High,Low,South Korea,Telecom,29574,Exploited,No
+CVE-2019-24276,2019-01-07,Privilege Escalation,Apache,Struts,6.1,Medium,Adjacent,Low,High,Required,Low,Low,None,Brazil,Manufacturing,44460,Actively Exploited,No
+CVE-2019-20930,2019-04-20,Logic Flaw,Google,Chrome,8.5,High,Network,High,Low,Required,High,None,High,South Korea,Healthcare,37302,Under Investigation,No
+CVE-2019-36979,2019-05-16,XXE,F5,BIG-IP,4.4,Medium,Network,Low,None,Required,High,None,None,Russia,Defense,42334,Resolved,Yes
+CVE-2019-18774,2019-05-29,CSRF,Cisco,Firepower,8.6,High,Network,Low,Low,Required,High,Low,High,China,Transport,37600,Patched,No
+CVE-2019-99914,2019-03-06,Deserialization,Apache,Log4j,1.6,Low,Network,Low,High,None,Low,None,Low,Pakistan,Defense,23002,Patched,No
+CVE-2019-81565,2019-06-23,SSRF,VMware,ESXi,0.6,Low,Local,High,None,None,None,Low,Low,Iran,Telecom,28570,Exploited,No
+CVE-2019-74452,2019-12-04,SSRF,Apple,Safari,5.4,Medium,Local,Low,None,None,Low,Low,High,France,Healthcare,27205,Under Investigation,Yes
+CVE-2019-47922,2019-07-20,Ransomware,F5,BIG-IP,4.8,Medium,Local,High,Low,None,Low,None,Low,Turkey,Government,10994,Under Investigation,Yes
+CVE-2019-87409,2019-10-29,XSS,Fortinet,FortiManager,1.2,Low,Network,High,None,None,Low,None,None,UK,Energy,17069,Exploited,Yes
+CVE-2019-73976,2019-04-28,Command Injection,Nginx,Nginx,3.4,Low,Adjacent,High,High,None,None,Low,Low,Indonesia,Telecom,45215,Resolved,Yes
+CVE-2019-63711,2019-11-05,SSRF,Adobe,Flash,1.4,Low,Adjacent,Low,Low,Required,High,Low,High,Nigeria,Government,39168,Exploited,Yes
+CVE-2019-31381,2019-12-12,Command Injection,Atlassian,Confluence,6.4,Medium,Local,Low,High,None,None,High,Low,Germany,Defense,8165,Actively Exploited,Yes
+CVE-2019-02499,2019-06-13,SSRF,Zimbra,Collaboration Suite,1.3,Low,Adjacent,High,High,None,Low,Low,High,Vietnam,Telecom,37441,Exploited,No
+CVE-2019-43133,2019-06-07,Path Traversal,Google,Android,1.4,Low,Local,Low,High,Required,High,None,None,South Korea,Manufacturing,26290,Under Investigation,No
+CVE-2019-18670,2019-05-12,Ransomware,SAP,HANA,0.3,Low,Local,Low,Low,Required,High,None,High,India,Telecom,26327,Exploited,No
+CVE-2019-83011,2019-04-09,Brute Force,SAP,HANA,4.4,Medium,Adjacent,Low,Low,Required,None,Low,High,Iran,Telecom,8218,Actively Exploited,No
+CVE-2019-35380,2019-03-17,CSRF,Palo Alto,GlobalProtect,5.7,Medium,Physical,High,High,Required,None,High,Low,Brazil,Energy,40272,Actively Exploited,No
+CVE-2019-76796,2019-07-16,Buffer Overflow,Apple,macOS,0.9,Low,Adjacent,Low,High,None,Low,None,High,Germany,Education,20604,Exploited,No
+CVE-2019-68636,2019-12-17,Phishing,Apple,macOS,7.9,High,Physical,Low,Low,None,None,High,None,India,IT,23190,Resolved,Yes
+CVE-2019-52621,2019-05-02,CSRF,Nginx,Nginx,5.1,Medium,Physical,High,None,None,High,High,High,Germany,Retail,23246,Actively Exploited,No
+CVE-2019-17656,2019-08-31,Deserialization,Apple,Safari,9.7,Critical,Adjacent,Low,Low,None,None,None,Low,Germany,Energy,8599,Exploited,No
+CVE-2019-80822,2019-04-26,Deserialization,Apple,macOS,9.9,Critical,Physical,High,High,Required,High,None,None,Russia,Telecom,44093,Exploited,Yes
+CVE-2019-24255,2019-11-09,SSRF,Google,Workspace,9.4,Critical,Adjacent,Low,High,Required,Low,Low,High,Pakistan,Government,21098,Patched,Yes
+CVE-2019-82885,2019-07-15,SSRF,SAP,NetWeaver,3.0,Low,Local,Low,High,None,None,High,None,South Korea,Energy,44213,Under Investigation,Yes
+CVE-2019-92908,2019-08-20,CSRF,Palo Alto,GlobalProtect,7.1,High,Network,High,None,Required,Low,Low,None,South Korea,Transport,20654,Patched,No
+CVE-2019-23244,2019-02-15,Phishing,VMware,vCenter,4.1,Medium,Network,High,Low,Required,Low,High,Low,South Korea,IT,16117,Resolved,Yes
+CVE-2019-91876,2019-09-28,MITM,Oracle,Database,2.8,Low,Network,Low,High,None,None,None,None,France,Defense,3398,Patched,Yes
+CVE-2019-78498,2019-01-29,RCE,IBM,MQ,7.5,High,Physical,Low,None,None,High,High,Low,Germany,Finance,14682,Patched,No
+CVE-2019-22493,2019-09-18,Buffer Overflow,F5,BIG-IP,6.7,Medium,Physical,High,None,None,Low,High,High,Iran,Healthcare,41091,Resolved,Yes
+CVE-2019-94860,2019-03-19,Phishing,Palo Alto,PAN-OS,5.5,Medium,Adjacent,High,Low,Required,High,Low,Low,France,Retail,41221,Actively Exploited,Yes
+CVE-2019-29678,2019-07-11,XSS,SAP,HANA,2.5,Low,Adjacent,Low,High,Required,Low,High,High,Romania,Defense,27731,Actively Exploited,Yes
+CVE-2019-00259,2019-02-20,Zero-Day Exploit,Apache,Struts,8.1,High,Local,High,None,None,Low,High,High,Pakistan,Transport,40627,Exploited,No
+CVE-2019-51978,2019-07-22,MITM,VMware,Horizon,0.7,Low,Local,Low,Low,Required,High,None,Low,Canada,Education,110,Exploited,Yes
+CVE-2019-43757,2019-08-24,Logic Flaw,Apache,HTTP Server,1.1,Low,Local,Low,High,None,High,High,High,Ukraine,Telecom,36762,Actively Exploited,No
+CVE-2019-58818,2019-06-19,Privilege Escalation,Palo Alto,GlobalProtect,5.2,Medium,Network,High,Low,Required,High,None,High,Pakistan,Retail,31820,Exploited,Yes
+CVE-2019-44002,2019-10-12,Deserialization,Google,Android,3.5,Low,Physical,Low,None,None,High,Low,High,Nigeria,Telecom,7134,Resolved,Yes
+CVE-2019-87000,2019-07-11,Phishing,Apache,Tomcat,1.2,Low,Adjacent,High,None,None,None,High,High,USA,Retail,3305,Patched,Yes
+CVE-2019-63398,2019-12-07,MITM,F5,BIG-IP,6.8,Medium,Physical,High,Low,Required,None,High,High,Canada,Telecom,47446,Exploited,Yes
+CVE-2019-16489,2019-01-17,Ransomware,Cisco,ASA,3.8,Low,Network,High,High,Required,None,High,None,North Korea,Transport,3259,Under Investigation,No
+CVE-2019-15500,2019-07-15,XSS,Google,Android,4.2,Medium,Physical,Low,High,Required,Low,None,Low,Ukraine,Manufacturing,22759,Actively Exploited,Yes
+CVE-2019-84909,2019-03-15,Brute Force,Palo Alto,PAN-OS,4.5,Medium,Adjacent,High,High,Required,High,None,None,India,Education,26378,Patched,No
+CVE-2019-00612,2019-01-11,SQL Injection,Juniper,Junos,8.2,High,Adjacent,High,High,Required,High,High,High,USA,IT,43387,Under Investigation,No
+CVE-2019-23925,2019-12-25,SSRF,Adobe,Flash,1.3,Low,Adjacent,Low,High,Required,High,None,Low,Iran,Finance,15442,Under Investigation,No
+CVE-2019-94531,2019-06-26,MITM,SAP,HANA,0.6,Low,Local,Low,None,Required,High,High,High,India,Finance,1951,Patched,Yes
+CVE-2019-07160,2019-12-10,Ransomware,WordPress,Core,4.4,Medium,Physical,High,Low,Required,Low,None,Low,France,Telecom,12129,Patched,Yes
+CVE-2019-78937,2019-11-04,Path Traversal,Adobe,ColdFusion,9.4,Critical,Physical,High,None,None,High,None,High,Netherlands,Defense,6827,Patched,Yes
+CVE-2019-06772,2019-03-24,DoS/DDoS,Google,Workspace,0.7,Low,Physical,High,High,None,None,High,None,Vietnam,Telecom,9147,Resolved,Yes
+CVE-2019-93015,2019-02-01,Command Injection,Nginx,Nginx,9.6,Critical,Network,High,Low,Required,None,Low,High,Pakistan,Healthcare,46996,Patched,Yes
+CVE-2019-67320,2019-12-28,CSRF,Juniper,Junos,7.5,High,Network,Low,None,Required,Low,High,High,Brazil,Finance,45542,Resolved,Yes
+CVE-2019-98610,2019-08-24,Command Injection,Nginx,Nginx,9.1,Critical,Network,Low,High,Required,None,Low,High,France,Telecom,12956,Exploited,No
+CVE-2019-75105,2019-07-13,Zero-Day Exploit,Palo Alto,GlobalProtect,1.8,Low,Adjacent,High,None,None,Low,High,High,Canada,Government,22016,Under Investigation,No
+CVE-2019-74797,2019-07-09,Command Injection,WordPress,Plugins,8.7,High,Adjacent,Low,Low,Required,None,None,High,Germany,Energy,2033,Patched,No
+CVE-2019-60060,2019-04-08,Ransomware,WordPress,Plugins,4.2,Medium,Physical,High,High,Required,None,None,Low,Vietnam,Telecom,36146,Resolved,No
+CVE-2019-91120,2019-02-07,XXE,F5,BIG-IP,8.7,High,Network,High,None,Required,High,High,Low,Ukraine,Energy,3615,Patched,No
+CVE-2019-60077,2019-06-03,RCE,Linux,glibc,7.2,High,Adjacent,Low,None,Required,None,None,None,Germany,Finance,6058,Patched,Yes
+CVE-2019-05767,2019-01-19,Logic Flaw,SAP,Business One,1.2,Low,Adjacent,Low,Low,Required,Low,High,Low,USA,Transport,31353,Under Investigation,Yes
+CVE-2019-93396,2019-10-09,Command Injection,Drupal,Modules,7.9,High,Network,High,Low,None,Low,High,Low,South Korea,Finance,43417,Actively Exploited,No
+CVE-2019-83703,2019-10-28,CSRF,VMware,Workstation,8.7,High,Physical,High,High,None,High,None,None,France,Manufacturing,4515,Exploited,No
+CVE-2019-82698,2019-08-17,SQL Injection,Linux,Kernel,4.7,Medium,Network,High,High,Required,High,None,Low,Turkey,Education,35805,Exploited,Yes
+CVE-2019-51919,2019-02-14,Buffer Overflow,Atlassian,Confluence,1.8,Low,Physical,High,None,None,None,High,None,Netherlands,IT,26005,Patched,No
+CVE-2019-75326,2019-03-20,Privilege Escalation,Zimbra,Collaboration Suite,8.3,High,Local,Low,Low,None,None,High,High,South Korea,Defense,43620,Resolved,Yes
+CVE-2019-21713,2019-02-21,Privilege Escalation,SAP,HANA,3.4,Low,Local,High,Low,None,High,None,None,Netherlands,Healthcare,20563,Patched,No
+CVE-2019-80474,2019-02-14,Command Injection,Linux,Kernel,5.9,Medium,Physical,High,Low,None,Low,None,Low,Pakistan,Government,13415,Patched,No
+CVE-2019-01284,2019-04-04,XSS,Apache,HTTP Server,4.7,Medium,Adjacent,Low,High,Required,Low,High,None,Turkey,Healthcare,3713,Exploited,Yes
+CVE-2019-99062,2019-01-05,CSRF,Cisco,Firepower,7.7,High,Adjacent,High,None,Required,High,High,None,Nigeria,Government,47041,Resolved,Yes
+CVE-2019-18076,2019-03-09,Brute Force,Zimbra,Collaboration Suite,6.5,Medium,Adjacent,High,Low,Required,None,None,None,Russia,Manufacturing,3502,Actively Exploited,Yes
+CVE-2019-08466,2019-09-02,Deserialization,Oracle,Java SE,3.2,Low,Physical,Low,High,None,Low,High,Low,Nigeria,Retail,24992,Actively Exploited,Yes
+CVE-2019-30898,2019-08-19,Phishing,Nginx,Nginx,2.0,Low,Local,High,Low,None,High,Low,None,USA,Transport,39263,Exploited,No
+CVE-2019-01130,2019-10-13,XXE,Drupal,Core,6.9,Medium,Physical,Low,Low,Required,Low,None,Low,USA,Education,21203,Resolved,Yes
+CVE-2019-51948,2019-08-01,Brute Force,Cisco,AnyConnect,4.9,Medium,Physical,High,None,Required,Low,High,High,France,IT,41366,Actively Exploited,No
+CVE-2019-39824,2019-05-17,DoS/DDoS,Google,Chrome,6.0,Medium,Adjacent,High,High,Required,Low,None,High,Nigeria,Finance,22994,Actively Exploited,Yes
+CVE-2019-07988,2019-10-24,Zero-Day Exploit,Juniper,Junos,0.8,Low,Adjacent,High,None,Required,Low,Low,None,Iran,Government,7663,Resolved,No
+CVE-2019-19945,2019-02-14,SSRF,Apache,Kafka,7.4,High,Local,Low,None,None,None,High,None,Netherlands,Transport,29228,Resolved,No
+CVE-2019-20749,2019-10-03,CSRF,Drupal,Modules,8.0,High,Physical,Low,High,None,None,None,None,Turkey,Education,4076,Under Investigation,No
+CVE-2019-77690,2019-09-13,Phishing,F5,BIG-IP,8.1,High,Physical,Low,Low,Required,Low,High,High,Canada,Finance,40822,Actively Exploited,No
+CVE-2019-93082,2019-03-14,CSRF,Google,Workspace,2.4,Low,Network,Low,High,None,None,High,High,Germany,IT,44750,Exploited,Yes
+CVE-2019-92915,2019-10-19,Logic Flaw,Adobe,Flash,0.7,Low,Physical,High,None,None,None,None,Low,Russia,Finance,38154,Actively Exploited,Yes
+CVE-2019-76382,2019-12-01,Command Injection,Oracle,E-Business Suite,6.4,Medium,Network,High,High,Required,High,High,High,Iran,IT,40379,Under Investigation,No
+CVE-2019-83347,2019-09-15,Path Traversal,VMware,ESXi,6.6,Medium,Network,High,None,Required,High,High,Low,Netherlands,Healthcare,10576,Resolved,Yes
+CVE-2019-91592,2019-10-03,DoS/DDoS,Linux,systemd,1.8,Low,Network,Low,None,Required,High,None,High,Vietnam,Healthcare,12702,Actively Exploited,No
+CVE-2019-42322,2019-10-26,Zero-Day Exploit,F5,BIG-IP,9.0,Critical,Adjacent,Low,High,Required,Low,High,None,Ukraine,Finance,6898,Actively Exploited,Yes
+CVE-2019-26513,2019-11-28,Path Traversal,Drupal,Core,4.3,Medium,Network,High,None,Required,Low,High,High,Nigeria,Healthcare,27000,Patched,No
+CVE-2019-49529,2019-08-10,Credential Stuffing,Atlassian,Jira,7.5,High,Network,High,Low,Required,Low,Low,High,Russia,Government,32954,Patched,No
+CVE-2019-90085,2019-02-21,Logic Flaw,Cisco,ASA,0.3,Low,Adjacent,Low,High,Required,None,None,Low,Vietnam,Defense,44170,Exploited,Yes
+CVE-2019-22203,2019-07-19,Buffer Overflow,SAP,Business One,3.4,Low,Adjacent,High,Low,None,High,Low,None,Netherlands,Energy,13427,Under Investigation,No
+CVE-2019-92659,2019-01-11,SSRF,Zimbra,Collaboration Suite,9.8,Critical,Local,High,None,Required,High,Low,None,Ukraine,Transport,42763,Exploited,No
+CVE-2019-89137,2019-09-16,Privilege Escalation,Drupal,Core,8.0,High,Local,Low,Low,Required,Low,High,High,South Korea,Finance,2877,Actively Exploited,No
+CVE-2019-63969,2019-09-11,Privilege Escalation,Apple,iOS,0.9,Low,Network,Low,None,None,High,Low,Low,Germany,Government,5881,Exploited,No
+CVE-2019-92405,2019-01-17,Buffer Overflow,Linux,glibc,8.6,High,Physical,Low,Low,Required,Low,Low,Low,Iran,Healthcare,46558,Patched,No
+CVE-2019-28149,2019-09-22,RCE,Oracle,Java SE,6.5,Medium,Physical,High,None,None,None,Low,High,Germany,IT,6785,Exploited,No
+CVE-2019-19189,2019-05-08,Phishing,WordPress,Plugins,9.4,Critical,Adjacent,Low,None,None,None,None,Low,China,Finance,29633,Patched,Yes
+CVE-2019-67958,2019-08-20,Path Traversal,Google,Chrome,5.5,Medium,Local,Low,Low,None,None,None,High,France,Retail,22412,Actively Exploited,No
+CVE-2019-81042,2019-10-18,Zero-Day Exploit,Linux,Kernel,8.7,High,Adjacent,Low,None,Required,High,None,None,Romania,Manufacturing,34225,Under Investigation,Yes
+CVE-2019-32594,2019-03-10,SSRF,Nginx,Nginx,7.4,High,Network,Low,Low,None,High,None,High,Romania,Healthcare,12536,Patched,No
+CVE-2019-04219,2019-03-25,Zero-Day Exploit,Fortinet,FortiOS,1.2,Low,Local,Low,None,None,Low,High,Low,France,Defense,30859,Resolved,No
+CVE-2019-26093,2019-11-10,DoS/DDoS,Linux,systemd,1.1,Low,Physical,Low,Low,Required,Low,None,High,Brazil,Retail,18121,Exploited,Yes
+CVE-2019-09883,2019-03-17,Path Traversal,Palo Alto,GlobalProtect,5.6,Medium,Physical,Low,High,Required,None,Low,None,Vietnam,IT,12067,Actively Exploited,No
+CVE-2019-42272,2019-10-15,Logic Flaw,Apple,iOS,3.2,Low,Physical,Low,Low,None,None,High,High,Indonesia,Education,44609,Under Investigation,No
+CVE-2019-82655,2019-09-28,Deserialization,F5,BIG-IP,8.9,High,Local,High,Low,Required,None,High,Low,South Korea,Education,44839,Resolved,No
+CVE-2019-35903,2019-09-03,XXE,Adobe,Flash,8.1,High,Network,Low,Low,None,Low,None,High,Germany,Education,24384,Exploited,No
+CVE-2019-88461,2019-12-02,MITM,Juniper,Junos,2.8,Low,Physical,High,None,Required,Low,High,None,Canada,IT,21308,Under Investigation,Yes
+CVE-2019-58934,2019-02-16,XXE,Drupal,Core,4.9,Medium,Local,Low,None,None,Low,High,None,Netherlands,Healthcare,7096,Actively Exploited,No
+CVE-2019-97958,2019-12-10,SSRF,Zimbra,Collaboration Suite,2.9,Low,Local,High,High,Required,High,High,High,Canada,Energy,39603,Patched,Yes
+CVE-2019-48896,2019-10-03,XSS,Palo Alto,GlobalProtect,3.2,Low,Local,Low,High,None,Low,Low,High,India,Telecom,40430,Exploited,Yes
+CVE-2019-40989,2019-06-18,DoS/DDoS,SAP,HANA,8.8,High,Local,Low,Low,None,None,High,Low,France,Finance,5809,Actively Exploited,No
+CVE-2019-68317,2019-11-24,Command Injection,SAP,HANA,7.4,High,Adjacent,High,None,Required,None,None,Low,USA,Finance,22983,Patched,Yes
+CVE-2019-54221,2019-05-05,XSS,SAP,HANA,2.0,Low,Adjacent,High,Low,None,Low,None,Low,USA,Energy,49772,Actively Exploited,No
+CVE-2019-80901,2019-07-20,XSS,Zimbra,Collaboration Suite,0.1,Low,Network,High,High,None,None,High,High,Nigeria,Finance,19223,Actively Exploited,Yes
+CVE-2019-91086,2019-01-09,MITM,Google,Chrome,8.5,High,Adjacent,High,High,None,Low,None,None,Vietnam,Healthcare,33811,Under Investigation,No
+CVE-2019-01375,2019-07-15,Ransomware,Linux,glibc,6.0,Medium,Physical,Low,High,None,None,High,None,Ukraine,Education,35383,Under Investigation,Yes
+CVE-2019-28884,2019-03-04,Phishing,Apple,macOS,0.3,Low,Network,High,None,None,High,Low,High,Pakistan,Education,30996,Actively Exploited,Yes
+CVE-2019-06184,2019-01-15,Buffer Overflow,Apple,macOS,6.3,Medium,Network,Low,High,Required,High,None,High,Canada,Transport,47675,Patched,No
+CVE-2019-53371,2019-06-10,Command Injection,Apple,macOS,4.2,Medium,Network,High,None,Required,None,None,High,South Korea,Retail,14734,Actively Exploited,No
+CVE-2019-51067,2019-06-13,MITM,Oracle,Java SE,2.1,Low,Physical,Low,High,None,Low,None,High,Iran,Energy,41686,Exploited,Yes
+CVE-2019-60637,2019-02-24,Ransomware,Fortinet,FortiManager,5.1,Medium,Network,Low,High,None,None,None,None,Brazil,Manufacturing,17089,Actively Exploited,Yes
+CVE-2019-07454,2019-12-10,Brute Force,IBM,MQ,6.0,Medium,Local,High,Low,None,Low,High,None,USA,Retail,16624,Under Investigation,No
+CVE-2019-79494,2019-08-27,SSRF,Palo Alto,GlobalProtect,9.0,Critical,Network,High,Low,Required,None,High,Low,Pakistan,Government,23470,Exploited,Yes
+CVE-2019-99936,2019-06-15,RCE,Juniper,Junos,0.9,Low,Local,Low,High,None,High,None,Low,Germany,Transport,45035,Patched,Yes
+CVE-2019-13978,2019-01-02,CSRF,Apache,Tomcat,0.4,Low,Physical,Low,High,Required,High,High,None,Canada,Defense,30723,Actively Exploited,No
+CVE-2019-86136,2019-05-14,DoS/DDoS,VMware,vCenter,5.2,Medium,Physical,Low,None,Required,Low,None,None,Netherlands,IT,28403,Resolved,Yes
+CVE-2019-53639,2019-10-12,Command Injection,Apache,HTTP Server,1.5,Low,Physical,High,None,Required,High,Low,High,North Korea,Government,2567,Actively Exploited,Yes
+CVE-2019-82820,2019-07-09,Privilege Escalation,SAP,HANA,3.9,Low,Network,Low,High,None,High,Low,High,France,Retail,6280,Patched,Yes
+CVE-2019-87125,2019-11-23,Zero-Day Exploit,Drupal,Modules,6.6,Medium,Physical,Low,High,Required,None,High,Low,Germany,Finance,43670,Patched,Yes
+CVE-2019-94477,2019-01-16,Phishing,SAP,Business One,9.9,Critical,Local,High,Low,Required,High,High,Low,Turkey,Manufacturing,26267,Patched,Yes
+CVE-2019-20798,2019-01-16,Buffer Overflow,Cisco,Webex,4.3,Medium,Network,High,High,Required,None,None,High,Romania,Education,44369,Under Investigation,Yes
+CVE-2019-10161,2019-12-23,SQL Injection,IBM,MQ,0.9,Low,Adjacent,Low,Low,Required,Low,High,None,UK,Manufacturing,47297,Patched,Yes
+CVE-2019-67925,2019-10-05,Buffer Overflow,Apple,iOS,8.3,High,Adjacent,Low,Low,None,High,High,High,Iran,Transport,32157,Actively Exploited,Yes
+CVE-2019-85575,2019-02-21,Brute Force,Apple,iOS,8.6,High,Network,High,Low,None,High,None,None,Pakistan,Defense,45049,Under Investigation,Yes
+CVE-2019-87231,2019-02-11,Brute Force,F5,BIG-IP,2.6,Low,Local,High,None,Required,Low,None,Low,Nigeria,Healthcare,16697,Patched,No
+CVE-2019-89328,2019-05-05,Credential Stuffing,Palo Alto,GlobalProtect,2.3,Low,Adjacent,High,High,None,None,None,High,Ukraine,Telecom,37269,Actively Exploited,No
+CVE-2019-51241,2019-11-07,SSRF,Apache,Tomcat,8.9,High,Network,High,None,Required,Low,High,High,China,Retail,15036,Patched,Yes
+CVE-2019-28895,2019-01-03,Command Injection,Microsoft,Exchange Server,0.2,Low,Adjacent,High,None,Required,Low,Low,Low,Germany,Energy,8314,Resolved,Yes
+CVE-2019-40421,2019-07-24,DoS/DDoS,Apache,Kafka,8.2,High,Adjacent,Low,None,None,Low,None,None,South Korea,Manufacturing,7569,Exploited,No
+CVE-2019-72057,2019-12-14,Ransomware,Palo Alto,GlobalProtect,6.1,Medium,Adjacent,High,None,None,None,None,Low,India,Retail,15145,Resolved,No
+CVE-2019-36872,2019-01-04,Deserialization,IBM,QRadar,1.7,Low,Physical,High,High,Required,None,Low,Low,USA,Telecom,35109,Resolved,Yes
+CVE-2019-37573,2019-07-29,MITM,Oracle,Database,5.6,Medium,Network,High,Low,None,High,High,None,Iran,IT,42532,Actively Exploited,No
+CVE-2019-96545,2019-10-25,RCE,Cisco,IOS,3.3,Low,Local,Low,High,None,High,None,High,UK,Education,18961,Resolved,Yes
+CVE-2019-10494,2019-04-30,Zero-Day Exploit,Juniper,Junos,7.5,High,Adjacent,Low,Low,None,High,Low,Low,Turkey,Education,23173,Resolved,No
+CVE-2019-41762,2019-09-02,XXE,Linux,systemd,3.6,Low,Adjacent,Low,High,None,None,High,High,Nigeria,Defense,26473,Exploited,Yes
+CVE-2019-15188,2019-06-15,Brute Force,Microsoft,SharePoint,3.4,Low,Adjacent,Low,None,None,High,Low,Low,Pakistan,Education,8191,Patched,Yes
+CVE-2019-32591,2019-12-02,RCE,Google,Workspace,8.4,High,Network,Low,High,Required,High,None,High,Ukraine,Healthcare,9194,Under Investigation,Yes
+CVE-2019-82992,2019-12-14,XSS,WordPress,Core,0.7,Low,Network,Low,High,None,None,None,Low,India,Healthcare,6779,Patched,Yes
+CVE-2019-90364,2019-03-28,Deserialization,Fortinet,FortiOS,8.8,High,Network,Low,None,None,High,Low,None,India,Government,23829,Exploited,No
+CVE-2019-28862,2019-05-13,Brute Force,VMware,vCenter,4.0,Medium,Local,High,Low,None,None,Low,None,Pakistan,Finance,20178,Exploited,Yes
+CVE-2019-57968,2019-12-09,Command Injection,Cisco,ASA,2.5,Low,Physical,Low,None,Required,High,Low,None,North Korea,Telecom,46345,Actively Exploited,No
+CVE-2019-72771,2019-12-29,Ransomware,Drupal,Modules,2.7,Low,Physical,High,None,None,High,None,Low,Netherlands,Energy,18736,Under Investigation,Yes
+CVE-2019-76936,2019-12-12,Buffer Overflow,Zimbra,Collaboration Suite,6.4,Medium,Local,Low,High,None,Low,None,Low,Nigeria,Defense,6622,Resolved,Yes
+CVE-2019-22966,2019-08-05,Credential Stuffing,WordPress,Core,5.6,Medium,Network,High,High,Required,None,None,None,China,Manufacturing,40315,Resolved,No
+CVE-2019-84142,2019-02-23,MITM,Oracle,Database,5.4,Medium,Adjacent,High,High,None,High,Low,None,Romania,Telecom,37919,Patched,No
+CVE-2019-62694,2019-07-08,XSS,Adobe,Acrobat,1.4,Low,Adjacent,High,High,None,Low,High,None,Brazil,Energy,33007,Actively Exploited,No
+CVE-2019-86598,2019-06-27,Phishing,Linux,Kernel,9.0,Critical,Local,High,None,None,None,High,High,USA,Telecom,34629,Patched,No
+CVE-2019-57785,2019-06-18,Privilege Escalation,Apache,Kafka,2.5,Low,Local,Low,High,None,High,High,Low,North Korea,Education,23827,Exploited,Yes
+CVE-2019-55328,2019-06-16,XXE,VMware,ESXi,8.9,High,Local,Low,High,None,Low,None,None,Russia,Defense,10829,Actively Exploited,Yes
+CVE-2019-69658,2019-11-02,SQL Injection,F5,BIG-IP,0.8,Low,Physical,Low,High,None,Low,None,High,Netherlands,Defense,46816,Exploited,No
+CVE-2019-64119,2019-08-20,DoS/DDoS,Adobe,ColdFusion,2.2,Low,Adjacent,Low,High,Required,None,None,None,Pakistan,Transport,44307,Patched,Yes
+CVE-2019-91709,2019-05-25,RCE,Oracle,Java SE,2.3,Low,Physical,Low,High,None,None,Low,Low,USA,Manufacturing,47841,Under Investigation,No
+CVE-2019-80634,2019-11-08,RCE,Zimbra,Collaboration Suite,4.7,Medium,Physical,High,High,None,Low,None,None,Ukraine,Retail,38291,Patched,Yes
+CVE-2019-16547,2019-07-30,Privilege Escalation,Drupal,Modules,0.6,Low,Network,Low,High,None,High,High,Low,Romania,Transport,23273,Resolved,Yes
+CVE-2019-55272,2019-08-20,Deserialization,Cisco,IOS,5.6,Medium,Adjacent,High,Low,None,None,High,None,Brazil,Manufacturing,49527,Actively Exploited,No
+CVE-2019-52211,2019-10-14,Credential Stuffing,Cisco,IOS,9.5,Critical,Adjacent,High,Low,Required,Low,None,None,Vietnam,Telecom,10513,Actively Exploited,Yes
+CVE-2019-24849,2019-06-01,Command Injection,Zimbra,Collaboration Suite,9.1,Critical,Physical,High,None,None,High,High,High,North Korea,Healthcare,5443,Patched,Yes
+CVE-2019-77227,2019-01-06,Buffer Overflow,F5,BIG-IP,6.7,Medium,Adjacent,High,High,None,None,Low,None,Brazil,Energy,36192,Under Investigation,Yes
+CVE-2019-98955,2019-10-29,MITM,SAP,HANA,8.6,High,Physical,Low,High,None,High,Low,Low,China,Telecom,18140,Resolved,Yes
+CVE-2019-79362,2019-07-12,Ransomware,Adobe,ColdFusion,0.9,Low,Local,High,High,None,Low,High,None,South Korea,Education,10542,Resolved,No
+CVE-2019-11968,2019-07-30,SSRF,Oracle,WebLogic,5.3,Medium,Network,High,High,Required,High,None,Low,Indonesia,Finance,19605,Exploited,No
+CVE-2019-22001,2019-12-29,Credential Stuffing,Cisco,Firepower,1.6,Low,Physical,Low,High,Required,Low,None,Low,Turkey,IT,15078,Exploited,Yes
+CVE-2019-06000,2019-04-23,Logic Flaw,Fortinet,FortiOS,7.9,High,Local,Low,Low,Required,High,High,Low,UK,Education,14909,Under Investigation,No
+CVE-2019-56472,2019-08-14,Command Injection,Apple,macOS,7.4,High,Local,High,None,Required,None,Low,None,Nigeria,Healthcare,43118,Patched,No
+CVE-2019-94857,2019-10-07,SQL Injection,Atlassian,Bitbucket,0.8,Low,Local,High,High,Required,High,Low,None,Iran,Transport,8387,Under Investigation,No
+CVE-2019-13349,2019-08-23,Buffer Overflow,F5,BIG-IP,5.0,Medium,Adjacent,High,High,Required,None,None,None,South Korea,Healthcare,8688,Actively Exploited,No
+CVE-2019-05664,2019-08-22,XXE,Apache,Tomcat,6.1,Medium,Physical,High,High,Required,Low,High,None,Brazil,Finance,6852,Patched,No
+CVE-2019-37975,2019-03-24,Logic Flaw,Juniper,Junos,1.4,Low,Adjacent,High,High,Required,None,High,High,Ukraine,IT,11168,Under Investigation,No
+CVE-2019-57732,2019-03-13,Phishing,SAP,HANA,5.1,Medium,Physical,Low,None,Required,Low,Low,High,Brazil,Manufacturing,46757,Resolved,Yes
+CVE-2019-09514,2019-04-19,Buffer Overflow,IBM,MQ,8.8,High,Physical,High,High,Required,None,None,High,Germany,IT,26744,Patched,No
+CVE-2019-44925,2019-01-01,RCE,WordPress,Core,4.9,Medium,Local,High,High,None,None,None,Low,Romania,Energy,26432,Patched,No
+CVE-2019-52894,2019-11-20,Phishing,Apple,macOS,6.5,Medium,Adjacent,Low,Low,None,None,High,None,Indonesia,Finance,29230,Patched,No
+CVE-2019-11042,2019-04-18,Deserialization,IBM,WebSphere,2.0,Low,Local,High,High,Required,High,Low,None,Iran,Energy,34330,Patched,Yes
+CVE-2019-91242,2019-10-18,XSS,Juniper,Junos,4.4,Medium,Network,High,None,Required,None,High,Low,Romania,Energy,847,Exploited,Yes
+CVE-2019-56197,2019-04-26,XSS,Google,Chrome,9.8,Critical,Network,Low,High,None,High,High,High,South Korea,Transport,2798,Resolved,Yes
+CVE-2019-04845,2019-01-21,Path Traversal,Zimbra,Collaboration Suite,9.4,Critical,Network,High,Low,None,High,Low,High,Turkey,Defense,41665,Under Investigation,No
+CVE-2019-09492,2019-04-21,Buffer Overflow,Apple,macOS,1.7,Low,Physical,Low,High,None,High,High,None,Vietnam,Government,6248,Actively Exploited,Yes
+CVE-2019-20924,2019-08-21,Ransomware,Microsoft,Windows,0.7,Low,Local,High,None,Required,None,High,Low,France,Education,28400,Actively Exploited,No
+CVE-2019-07434,2019-05-11,DoS/DDoS,Google,Workspace,1.1,Low,Physical,Low,None,None,None,High,Low,Vietnam,Defense,23190,Exploited,Yes
+CVE-2019-22491,2019-05-03,Logic Flaw,Zimbra,Collaboration Suite,2.1,Low,Local,Low,Low,None,High,None,Low,India,Healthcare,11449,Patched,Yes
+CVE-2019-78930,2019-10-11,SSRF,Zimbra,Collaboration Suite,1.3,Low,Local,Low,Low,None,Low,None,Low,UK,IT,34467,Actively Exploited,Yes
+CVE-2019-61658,2019-12-31,SSRF,Drupal,Modules,1.0,Low,Local,Low,None,None,None,High,None,Germany,Retail,28160,Actively Exploited,Yes
+CVE-2019-24053,2019-05-23,Ransomware,Oracle,E-Business Suite,0.2,Low,Adjacent,High,None,Required,Low,Low,None,Romania,Healthcare,43177,Patched,No
+CVE-2019-64120,2019-03-09,Deserialization,Drupal,Modules,7.6,High,Network,High,None,None,Low,Low,None,UK,Transport,29558,Resolved,Yes
+CVE-2019-46702,2019-08-31,CSRF,Drupal,Core,8.8,High,Physical,Low,Low,None,None,High,None,Ukraine,Healthcare,10370,Patched,Yes
+CVE-2019-24532,2019-08-06,Ransomware,WordPress,Plugins,7.3,High,Physical,High,High,None,High,High,Low,Nigeria,Manufacturing,29233,Patched,Yes
+CVE-2019-27183,2019-05-26,CSRF,Atlassian,Jira,1.8,Low,Adjacent,High,Low,None,Low,Low,Low,Ukraine,Education,10199,Under Investigation,No
+CVE-2019-72889,2019-03-09,Deserialization,Nginx,Nginx,2.9,Low,Adjacent,High,Low,None,High,High,High,Indonesia,Transport,45962,Under Investigation,No
+CVE-2019-76509,2019-03-24,XSS,Cisco,Webex,6.8,Medium,Physical,Low,None,Required,None,Low,High,Romania,Defense,7583,Exploited,No
+CVE-2019-42744,2019-06-11,Command Injection,Google,Workspace,8.1,High,Physical,Low,High,None,None,High,Low,North Korea,Transport,11663,Patched,Yes
+CVE-2019-92946,2019-04-29,Command Injection,Zimbra,Collaboration Suite,3.7,Low,Physical,Low,Low,None,None,High,None,Germany,Telecom,17139,Actively Exploited,No
+CVE-2019-37110,2019-12-21,MITM,Atlassian,Jira,3.7,Low,Local,Low,None,Required,High,High,None,Turkey,Manufacturing,33427,Resolved,No
+CVE-2019-48801,2019-12-21,Buffer Overflow,Nginx,Nginx,7.6,High,Local,High,None,Required,Low,None,None,France,Retail,14949,Exploited,No
+CVE-2019-29828,2019-05-03,Path Traversal,SAP,HANA,8.7,High,Physical,High,High,Required,Low,None,Low,Brazil,Retail,49931,Actively Exploited,Yes
+CVE-2019-70513,2019-06-20,SSRF,Atlassian,Confluence,5.7,Medium,Adjacent,High,Low,None,High,None,None,South Korea,Retail,28933,Resolved,Yes
+CVE-2019-46095,2019-10-29,Brute Force,Microsoft,SharePoint,5.0,Medium,Adjacent,High,None,Required,None,Low,High,Pakistan,Energy,17508,Patched,Yes
+CVE-2019-61627,2019-07-28,Privilege Escalation,Drupal,Core,3.2,Low,Local,High,High,Required,Low,High,Low,Netherlands,Transport,22368,Under Investigation,No
+CVE-2019-60839,2019-12-09,RCE,Cisco,AnyConnect,5.1,Medium,Local,High,Low,Required,High,High,Low,Turkey,Defense,38985,Patched,No
+CVE-2019-78044,2019-12-10,Buffer Overflow,Zimbra,Collaboration Suite,8.3,High,Network,High,None,Required,High,None,Low,Germany,Education,26442,Actively Exploited,No
+CVE-2019-72228,2019-09-29,RCE,Apache,Struts,8.1,High,Network,High,High,None,None,High,Low,Indonesia,Government,19814,Exploited,No
+CVE-2019-49209,2019-12-16,DoS/DDoS,WordPress,Plugins,7.5,High,Adjacent,High,Low,Required,None,High,Low,Brazil,IT,13599,Exploited,No
+CVE-2019-45238,2019-02-13,Ransomware,VMware,vCenter,9.6,Critical,Adjacent,High,None,Required,None,Low,High,France,Telecom,26017,Patched,Yes
+CVE-2019-71019,2019-09-21,Buffer Overflow,VMware,vCenter,3.9,Low,Local,Low,Low,None,Low,None,None,India,Education,38969,Under Investigation,No
+CVE-2019-28360,2019-07-04,Logic Flaw,IBM,WebSphere,7.6,High,Physical,High,High,None,None,Low,High,USA,Manufacturing,3518,Actively Exploited,No
+CVE-2019-61338,2019-05-24,Ransomware,SAP,HANA,0.4,Low,Physical,Low,None,Required,None,None,None,USA,Defense,28681,Exploited,Yes
+CVE-2019-18634,2019-04-22,XSS,IBM,MQ,3.8,Low,Physical,Low,High,Required,None,Low,None,Turkey,Manufacturing,19599,Actively Exploited,Yes
+CVE-2019-61998,2019-01-26,XSS,Nginx,Nginx,2.5,Low,Network,High,None,None,None,High,None,Nigeria,Manufacturing,28543,Exploited,Yes
+CVE-2019-59617,2019-03-15,Ransomware,Juniper,Junos,5.8,Medium,Adjacent,High,High,Required,Low,Low,High,USA,Government,33274,Under Investigation,No
+CVE-2019-42727,2019-08-10,Ransomware,IBM,WebSphere,2.5,Low,Network,High,Low,Required,None,High,Low,USA,Healthcare,1552,Actively Exploited,Yes
+CVE-2019-77719,2019-05-21,SSRF,Palo Alto,PAN-OS,7.8,High,Local,Low,High,None,Low,None,None,Netherlands,Education,35663,Actively Exploited,Yes
+CVE-2019-88148,2019-07-05,CSRF,Cisco,Firepower,5.0,Medium,Adjacent,Low,High,None,None,None,High,USA,Telecom,48239,Exploited,Yes
+CVE-2019-21630,2019-10-18,Buffer Overflow,Adobe,Flash,2.6,Low,Local,High,None,None,Low,High,High,Ukraine,Healthcare,34299,Exploited,No
+CVE-2019-47333,2019-01-18,RCE,Nginx,Nginx,9.5,Critical,Network,Low,Low,None,Low,High,None,Iran,Government,25875,Resolved,Yes
+CVE-2019-25961,2019-10-23,XXE,Google,Workspace,9.1,Critical,Physical,Low,High,None,Low,None,None,Nigeria,Transport,28658,Resolved,Yes
+CVE-2019-85197,2019-04-20,XSS,Zimbra,Collaboration Suite,8.4,High,Network,High,None,None,None,High,High,Brazil,Energy,4779,Patched,No
+CVE-2019-60262,2019-05-10,SSRF,Linux,Kernel,4.8,Medium,Adjacent,High,Low,None,High,Low,High,China,IT,32677,Exploited,No
+CVE-2019-08854,2019-02-19,Credential Stuffing,Adobe,ColdFusion,3.8,Low,Local,Low,None,Required,High,High,None,Romania,Finance,1175,Resolved,No
+CVE-2019-27951,2019-04-04,Logic Flaw,Juniper,Junos,2.8,Low,Physical,Low,Low,None,High,None,Low,Nigeria,Retail,20414,Resolved,Yes
+CVE-2019-79893,2019-02-17,XXE,Microsoft,Exchange Server,2.7,Low,Physical,Low,Low,None,High,High,Low,China,Healthcare,25549,Exploited,No
+CVE-2019-27306,2019-09-20,Deserialization,Google,Chrome,7.7,High,Network,High,None,None,High,High,High,Indonesia,Healthcare,49105,Exploited,No
+CVE-2019-84460,2019-01-24,RCE,Drupal,Core,9.1,Critical,Physical,Low,None,None,None,High,Low,Romania,Telecom,4776,Resolved,Yes
+CVE-2019-68613,2019-12-22,RCE,Zimbra,Collaboration Suite,6.9,Medium,Network,Low,None,None,High,High,High,USA,Finance,44818,Patched,No
+CVE-2019-15059,2019-04-04,Path Traversal,F5,BIG-IP,2.1,Low,Physical,High,None,Required,None,None,None,USA,IT,40535,Patched,No
+CVE-2019-09245,2019-05-07,XSS,Google,Workspace,9.8,Critical,Adjacent,Low,Low,None,None,High,High,South Korea,Energy,48476,Exploited,No
+CVE-2019-96316,2019-12-25,Ransomware,Adobe,Acrobat,6.8,Medium,Physical,High,High,Required,High,High,Low,Pakistan,Defense,12723,Under Investigation,No
+CVE-2019-66024,2019-10-03,XXE,Cisco,AnyConnect,3.3,Low,Network,Low,None,None,High,None,None,Netherlands,Transport,8704,Actively Exploited,Yes
+CVE-2019-44427,2019-11-03,MITM,Cisco,ASA,9.5,Critical,Network,Low,None,None,Low,None,Low,Vietnam,Finance,13427,Patched,Yes
+CVE-2019-88413,2019-10-24,SQL Injection,WordPress,Plugins,10.0,Critical,Local,High,None,Required,Low,High,High,Ukraine,Education,42595,Exploited,Yes
+CVE-2019-10040,2019-06-19,Path Traversal,Adobe,Photoshop,4.9,Medium,Network,Low,Low,Required,None,Low,High,Netherlands,Education,2535,Actively Exploited,No
+CVE-2019-26022,2019-03-30,Deserialization,Oracle,Database,1.2,Low,Local,Low,High,None,Low,Low,High,Nigeria,IT,44762,Patched,No
+CVE-2019-60007,2019-08-31,RCE,Apple,iOS,6.4,Medium,Local,High,High,None,None,High,Low,India,Manufacturing,27757,Exploited,Yes
+CVE-2019-13604,2019-08-12,Privilege Escalation,Cisco,Firepower,4.4,Medium,Network,Low,High,Required,Low,High,None,Nigeria,Healthcare,24951,Actively Exploited,Yes
+CVE-2019-75267,2019-03-03,SSRF,Drupal,Modules,2.2,Low,Network,High,High,None,High,None,Low,Canada,Government,13964,Exploited,No
+CVE-2019-54553,2019-08-20,RCE,F5,BIG-IP,2.1,Low,Physical,High,None,Required,Low,Low,None,Germany,Education,48380,Resolved,Yes
+CVE-2019-68518,2019-11-03,Brute Force,Linux,Kernel,1.2,Low,Adjacent,High,High,Required,None,Low,Low,Canada,Government,42279,Under Investigation,No
+CVE-2019-23694,2019-12-26,MITM,SAP,HANA,3.6,Low,Network,High,None,Required,Low,None,High,Nigeria,Government,15404,Resolved,No
+CVE-2019-90348,2019-05-18,RCE,Oracle,Java SE,3.2,Low,Local,Low,None,None,High,High,Low,Romania,IT,13309,Patched,No
+CVE-2019-55142,2019-10-05,Command Injection,Palo Alto,PAN-OS,2.1,Low,Adjacent,High,Low,Required,High,Low,None,Nigeria,Defense,31819,Exploited,Yes
+CVE-2019-89949,2019-04-14,Ransomware,Apple,iOS,9.9,Critical,Adjacent,Low,None,None,None,Low,None,Germany,Telecom,5837,Resolved,Yes
+CVE-2019-89249,2019-04-30,Buffer Overflow,Adobe,Photoshop,1.2,Low,Physical,Low,None,None,None,Low,Low,China,Healthcare,4950,Resolved,No
+CVE-2019-59432,2019-09-07,Ransomware,Google,Workspace,9.7,Critical,Adjacent,High,None,None,Low,Low,High,Pakistan,Finance,6416,Patched,Yes
+CVE-2019-70281,2019-05-20,RCE,Linux,glibc,2.3,Low,Local,Low,Low,None,Low,Low,Low,Canada,Education,11427,Patched,No
+CVE-2019-48573,2019-05-07,Buffer Overflow,F5,BIG-IP,9.5,Critical,Network,High,None,Required,None,High,None,UK,Defense,4061,Actively Exploited,Yes
+CVE-2019-46128,2019-06-20,Zero-Day Exploit,Juniper,Junos,6.8,Medium,Physical,Low,High,Required,None,Low,High,Germany,Education,47389,Resolved,No
+CVE-2019-29980,2019-02-20,DoS/DDoS,Apache,Struts,4.6,Medium,Local,Low,None,Required,High,None,High,China,Government,45699,Patched,Yes
+CVE-2019-36420,2019-10-07,XXE,Adobe,Flash,2.6,Low,Network,Low,Low,None,None,None,None,South Korea,Telecom,14705,Resolved,No
+CVE-2019-82955,2019-11-11,DoS/DDoS,Fortinet,FortiManager,5.8,Medium,Physical,Low,Low,None,High,High,High,Canada,Transport,6691,Resolved,No
+CVE-2019-79204,2019-02-23,Command Injection,Atlassian,Jira,8.7,High,Local,High,None,None,Low,High,None,Turkey,Telecom,23932,Patched,Yes
+CVE-2019-00068,2019-07-10,Credential Stuffing,WordPress,Core,7.0,High,Local,Low,Low,Required,None,Low,High,Nigeria,Transport,46856,Resolved,Yes
+CVE-2019-22137,2019-03-19,Deserialization,Fortinet,FortiOS,10.0,Critical,Physical,High,High,None,High,High,None,India,Education,4295,Actively Exploited,Yes
+CVE-2019-25021,2019-12-17,Buffer Overflow,Juniper,Junos,3.6,Low,Physical,High,Low,Required,Low,Low,None,Germany,Defense,44066,Resolved,Yes
+CVE-2019-27737,2019-08-26,Phishing,Atlassian,Jira,6.5,Medium,Network,Low,None,Required,High,None,None,Romania,Education,20852,Patched,No
+CVE-2019-92488,2019-02-11,Privilege Escalation,F5,BIG-IP,1.8,Low,Network,High,Low,Required,Low,Low,High,Turkey,Finance,19277,Exploited,Yes
+CVE-2019-49117,2019-05-22,Command Injection,Cisco,AnyConnect,7.9,High,Physical,Low,High,None,Low,High,None,North Korea,Healthcare,37792,Resolved,Yes
+CVE-2019-29660,2019-08-14,XSS,Microsoft,Azure AD,2.2,Low,Adjacent,Low,High,None,Low,None,None,Brazil,Manufacturing,37120,Exploited,Yes
+CVE-2019-22377,2019-06-23,Phishing,VMware,ESXi,6.8,Medium,Network,High,High,None,None,None,High,Canada,Healthcare,18936,Under Investigation,Yes
+CVE-2019-87950,2019-12-10,SQL Injection,Adobe,Acrobat,5.5,Medium,Physical,High,High,None,Low,Low,None,Turkey,Defense,18228,Actively Exploited,Yes
+CVE-2019-13351,2019-04-03,SQL Injection,Oracle,E-Business Suite,7.5,High,Adjacent,Low,High,Required,High,High,Low,North Korea,Transport,24688,Under Investigation,No
+CVE-2019-22308,2019-08-20,SSRF,Drupal,Core,7.1,High,Physical,Low,High,Required,High,Low,High,China,Transport,18903,Resolved,Yes
+CVE-2019-66860,2019-07-23,CSRF,F5,BIG-IP,10.0,Critical,Local,Low,High,None,Low,High,None,USA,Education,15682,Patched,Yes
+CVE-2019-91219,2019-11-17,Credential Stuffing,Drupal,Core,0.8,Low,Network,Low,Low,None,None,Low,Low,Turkey,Energy,7079,Patched,Yes
+CVE-2019-35537,2019-08-06,RCE,F5,BIG-IP,2.7,Low,Adjacent,High,Low,None,Low,Low,High,South Korea,IT,34239,Patched,Yes
+CVE-2019-96451,2019-12-07,MITM,Nginx,Nginx,4.9,Medium,Adjacent,Low,None,Required,High,None,None,North Korea,Finance,16343,Resolved,Yes
+CVE-2019-49965,2019-12-03,DoS/DDoS,Juniper,Junos,9.6,Critical,Local,High,High,Required,High,None,Low,Netherlands,Government,8952,Resolved,Yes
+CVE-2019-97767,2019-02-24,CSRF,Adobe,Photoshop,9.9,Critical,Physical,Low,Low,Required,Low,High,Low,UK,Finance,40387,Actively Exploited,Yes
+CVE-2019-50137,2019-04-06,Deserialization,Linux,glibc,7.1,High,Local,High,Low,None,Low,Low,High,North Korea,Finance,28938,Patched,No
+CVE-2019-34735,2019-04-19,XXE,Oracle,WebLogic,2.5,Low,Local,High,Low,Required,None,High,High,Russia,Energy,8837,Actively Exploited,No
+CVE-2019-11884,2019-05-03,Deserialization,Drupal,Modules,6.4,Medium,Network,Low,Low,None,Low,Low,None,Vietnam,IT,31515,Patched,No
+CVE-2019-94777,2019-12-11,DoS/DDoS,Adobe,Flash,7.9,High,Network,Low,Low,Required,Low,None,Low,Indonesia,Government,2089,Exploited,No
+CVE-2019-55335,2019-04-02,Path Traversal,IBM,MQ,8.0,High,Physical,High,Low,None,High,High,None,Germany,Energy,7813,Actively Exploited,No
+CVE-2019-15940,2019-07-29,Credential Stuffing,Apple,macOS,7.7,High,Network,Low,High,None,High,High,High,UK,Energy,13135,Resolved,Yes
+CVE-2019-87952,2019-11-09,Brute Force,Nginx,Nginx,9.5,Critical,Adjacent,Low,Low,Required,High,None,Low,Vietnam,Transport,7935,Exploited,Yes
+CVE-2019-00652,2019-03-17,SQL Injection,Palo Alto,PAN-OS,1.8,Low,Physical,High,Low,Required,None,High,Low,USA,Telecom,24843,Patched,No
+CVE-2019-42899,2019-05-13,Zero-Day Exploit,Google,Android,2.0,Low,Network,High,None,Required,None,High,Low,India,Finance,5326,Under Investigation,No
+CVE-2019-08775,2019-03-15,Phishing,Zimbra,Collaboration Suite,2.8,Low,Adjacent,Low,High,None,None,High,High,Romania,Education,35377,Resolved,Yes
+CVE-2019-16741,2019-03-14,Brute Force,Google,Workspace,7.9,High,Physical,Low,None,None,None,High,None,China,Education,44910,Exploited,Yes
+CVE-2019-55745,2019-11-29,Zero-Day Exploit,Microsoft,Exchange Server,8.9,High,Adjacent,Low,Low,Required,Low,Low,None,Vietnam,IT,16858,Actively Exploited,Yes
+CVE-2019-32430,2019-11-15,MITM,Drupal,Modules,2.4,Low,Adjacent,High,Low,None,None,High,High,Nigeria,IT,40005,Exploited,No
+CVE-2019-00457,2019-08-29,Path Traversal,Palo Alto,PAN-OS,3.7,Low,Physical,Low,Low,None,High,High,High,Russia,Education,4473,Exploited,No
+CVE-2019-28713,2019-12-23,XSS,Apple,iOS,6.9,Medium,Physical,High,None,None,High,None,Low,Germany,IT,19664,Actively Exploited,Yes
+CVE-2019-52627,2019-04-30,DoS/DDoS,Apache,Struts,7.8,High,Physical,High,Low,Required,None,Low,Low,Canada,Education,37347,Exploited,No
+CVE-2019-16975,2019-11-05,Credential Stuffing,Oracle,Database,7.2,High,Local,Low,High,None,Low,Low,None,Vietnam,Healthcare,3101,Under Investigation,Yes
+CVE-2019-92123,2019-05-13,Brute Force,Zimbra,Collaboration Suite,0.5,Low,Local,High,None,Required,None,None,High,Pakistan,IT,36315,Patched,No
+CVE-2019-13125,2019-03-22,SQL Injection,Zimbra,Collaboration Suite,6.4,Medium,Physical,High,None,None,None,Low,High,Canada,Retail,36454,Resolved,Yes
+CVE-2019-57086,2019-12-21,Path Traversal,Zimbra,Collaboration Suite,8.3,High,Physical,Low,Low,None,High,Low,High,Netherlands,Defense,44313,Under Investigation,No
+CVE-2019-28247,2019-09-04,Ransomware,Linux,systemd,1.7,Low,Network,High,High,None,High,None,Low,Pakistan,Telecom,24102,Exploited,No
+CVE-2019-88869,2019-06-06,MITM,Juniper,Junos,9.1,Critical,Adjacent,Low,Low,None,None,None,Low,Iran,Government,21894,Resolved,No
+CVE-2019-38535,2019-05-03,Phishing,SAP,HANA,9.8,Critical,Physical,High,None,None,None,High,High,South Korea,Government,33564,Exploited,Yes
+CVE-2019-31103,2019-10-03,RCE,Juniper,Junos,2.4,Low,Adjacent,Low,None,None,High,None,High,USA,Finance,41531,Actively Exploited,No
+CVE-2019-63147,2019-10-14,SSRF,Apple,Safari,6.2,Medium,Adjacent,High,Low,None,High,Low,High,Netherlands,Telecom,36382,Under Investigation,No
+CVE-2019-63520,2019-12-24,DoS/DDoS,Google,Chrome,10.0,Critical,Physical,Low,High,None,None,None,High,Ukraine,Defense,5432,Patched,Yes
+CVE-2019-01116,2019-08-24,Zero-Day Exploit,VMware,vCenter,8.6,High,Physical,High,High,Required,Low,High,None,Romania,Healthcare,35307,Patched,Yes
+CVE-2019-27422,2019-10-08,Privilege Escalation,Apple,macOS,5.6,Medium,Physical,High,High,Required,None,None,High,Romania,Education,5023,Actively Exploited,No
+CVE-2019-58335,2019-06-16,Zero-Day Exploit,Microsoft,Office,4.3,Medium,Network,High,High,Required,High,Low,Low,North Korea,Healthcare,4582,Patched,No
+CVE-2019-45366,2019-05-17,XXE,Fortinet,FortiGate,0.3,Low,Adjacent,Low,High,Required,Low,High,High,USA,Defense,1389,Resolved,No
+CVE-2019-52000,2019-01-30,CSRF,Microsoft,Office,7.3,High,Physical,High,None,None,Low,None,High,Turkey,Manufacturing,16328,Exploited,No
+CVE-2019-60263,2019-12-20,Buffer Overflow,Zimbra,Collaboration Suite,0.2,Low,Local,High,None,None,High,None,Low,South Korea,Education,33005,Under Investigation,Yes
+CVE-2019-91029,2019-07-05,DoS/DDoS,Atlassian,Jira,7.0,High,Local,High,Low,None,High,None,Low,India,Finance,38860,Exploited,Yes
+CVE-2019-29417,2019-06-04,Command Injection,Drupal,Core,8.2,High,Network,Low,High,None,Low,High,None,Turkey,Retail,17977,Patched,No
+CVE-2019-57077,2019-09-09,RCE,Cisco,ASA,4.0,Medium,Local,Low,High,None,High,None,None,USA,IT,3092,Under Investigation,Yes
+CVE-2019-36135,2019-07-19,RCE,Fortinet,FortiOS,3.3,Low,Adjacent,Low,Low,None,High,None,None,South Korea,IT,35506,Actively Exploited,Yes
+CVE-2019-70232,2019-01-01,Zero-Day Exploit,Fortinet,FortiManager,5.8,Medium,Local,High,Low,Required,Low,High,High,South Korea,Defense,17518,Actively Exploited,Yes
+CVE-2019-86821,2019-04-04,MITM,Zimbra,Collaboration Suite,3.6,Low,Local,Low,High,Required,High,High,None,Canada,Manufacturing,28765,Under Investigation,No
+CVE-2019-98931,2019-09-04,MITM,IBM,MQ,7.6,High,Adjacent,Low,Low,None,High,None,High,Turkey,Defense,19044,Under Investigation,No
+CVE-2019-47144,2019-08-10,CSRF,Palo Alto,PAN-OS,3.7,Low,Network,High,None,Required,None,High,None,Germany,Healthcare,12678,Exploited,Yes
+CVE-2019-96713,2019-07-06,Credential Stuffing,F5,BIG-IP,7.0,High,Physical,High,None,None,None,Low,High,Indonesia,IT,23191,Under Investigation,Yes
+CVE-2019-61789,2019-03-08,MITM,Google,Android,2.3,Low,Network,Low,Low,None,None,High,None,Canada,Transport,38816,Patched,No
+CVE-2019-64555,2019-10-04,Path Traversal,Microsoft,Office,4.2,Medium,Adjacent,High,High,None,Low,Low,Low,South Korea,IT,40809,Under Investigation,No
+CVE-2019-62176,2019-02-27,SQL Injection,Drupal,Modules,9.5,Critical,Network,High,Low,Required,None,Low,High,North Korea,Government,45365,Exploited,Yes
+CVE-2019-43526,2019-01-15,Logic Flaw,Apache,Tomcat,8.3,High,Network,Low,None,None,Low,High,Low,Russia,Energy,45239,Resolved,Yes
+CVE-2019-38001,2019-03-17,MITM,Linux,glibc,4.3,Medium,Network,High,Low,None,None,Low,Low,Netherlands,Transport,40346,Actively Exploited,No
+CVE-2019-21549,2019-06-02,XSS,VMware,ESXi,7.9,High,Network,High,High,None,Low,None,Low,France,Manufacturing,2816,Under Investigation,Yes
+CVE-2019-53407,2019-05-02,Privilege Escalation,Juniper,Junos,5.9,Medium,Adjacent,Low,High,None,Low,Low,Low,Vietnam,Government,5167,Patched,No
+CVE-2019-07134,2019-09-01,Command Injection,Fortinet,FortiOS,7.5,High,Local,Low,None,Required,Low,High,None,Nigeria,Telecom,5292,Patched,Yes
+CVE-2019-07994,2019-01-03,Brute Force,Palo Alto,PAN-OS,7.9,High,Adjacent,Low,Low,Required,High,High,Low,Brazil,Education,33261,Exploited,Yes
+CVE-2019-45064,2019-10-02,SQL Injection,Nginx,Nginx,3.1,Low,Adjacent,High,None,Required,None,None,Low,Canada,Defense,33201,Actively Exploited,Yes
+CVE-2019-94134,2019-06-06,Phishing,Fortinet,FortiOS,4.3,Medium,Physical,Low,High,None,Low,Low,Low,Nigeria,IT,20075,Patched,No
+CVE-2019-48426,2019-06-18,Zero-Day Exploit,Atlassian,Bitbucket,9.8,Critical,Physical,Low,None,Required,Low,Low,Low,Indonesia,Finance,33196,Actively Exploited,Yes
+CVE-2019-82014,2019-12-31,Path Traversal,Apache,Log4j,1.1,Low,Adjacent,High,Low,None,Low,High,None,Ukraine,IT,18982,Patched,Yes
+CVE-2019-34094,2019-10-03,SQL Injection,WordPress,Plugins,7.4,High,Physical,High,None,None,Low,High,None,Indonesia,Energy,14742,Under Investigation,No
+CVE-2019-75154,2019-12-08,Logic Flaw,Oracle,Java SE,7.6,High,Physical,High,Low,None,High,None,High,Indonesia,Energy,16971,Patched,No
+CVE-2019-99124,2019-03-18,Privilege Escalation,Atlassian,Confluence,4.6,Medium,Physical,High,High,None,High,High,None,North Korea,Government,15444,Under Investigation,Yes
+CVE-2019-13884,2019-04-22,MITM,Linux,glibc,1.4,Low,Network,Low,High,None,None,Low,Low,North Korea,IT,25480,Under Investigation,No
+CVE-2019-40164,2019-01-17,Deserialization,Apple,Safari,5.3,Medium,Physical,High,Low,Required,High,Low,Low,Ukraine,Defense,23291,Resolved,Yes
+CVE-2019-57104,2019-11-06,Path Traversal,Cisco,IOS,5.2,Medium,Physical,Low,None,None,None,None,High,France,Energy,39389,Patched,Yes
+CVE-2019-42738,2019-06-13,XSS,VMware,Horizon,9.2,Critical,Network,High,None,Required,None,None,None,Iran,Telecom,29014,Patched,No
+CVE-2019-29530,2019-11-21,RCE,Cisco,AnyConnect,5.7,Medium,Adjacent,High,Low,None,High,Low,High,Pakistan,Government,13611,Resolved,No
+CVE-2019-87580,2019-01-04,XXE,Cisco,AnyConnect,2.1,Low,Adjacent,Low,High,Required,High,High,High,France,Manufacturing,45277,Patched,No
+CVE-2019-14818,2019-11-29,Path Traversal,SAP,NetWeaver,5.2,Medium,Network,High,None,Required,Low,Low,None,Turkey,Retail,13361,Actively Exploited,Yes
+CVE-2019-03764,2019-10-28,CSRF,Apple,Safari,2.1,Low,Network,High,None,None,Low,High,High,Nigeria,Government,23959,Under Investigation,Yes
+CVE-2019-61195,2019-05-17,Brute Force,WordPress,Core,2.4,Low,Adjacent,High,Low,Required,None,None,None,Netherlands,Education,38198,Resolved,Yes
+CVE-2019-43345,2019-01-28,MITM,Microsoft,Windows,6.4,Medium,Network,Low,High,None,Low,None,Low,South Korea,Energy,48745,Resolved,Yes
+CVE-2019-76241,2019-07-10,DoS/DDoS,Apache,Tomcat,1.2,Low,Local,Low,None,Required,Low,High,High,Iran,Defense,32912,Actively Exploited,Yes
+CVE-2019-01298,2019-06-19,Privilege Escalation,Linux,systemd,6.5,Medium,Adjacent,High,Low,Required,High,None,High,Netherlands,Education,18164,Resolved,Yes
+CVE-2019-66405,2019-06-09,Credential Stuffing,F5,BIG-IP,4.1,Medium,Network,High,High,None,Low,None,High,Nigeria,Energy,42760,Under Investigation,Yes
+CVE-2019-87957,2019-02-05,SQL Injection,Oracle,Database,4.3,Medium,Physical,Low,High,Required,Low,Low,High,Netherlands,IT,34379,Resolved,No
+CVE-2019-75107,2019-12-02,Privilege Escalation,Microsoft,Office,7.9,High,Adjacent,Low,High,None,None,Low,None,Russia,Retail,39197,Actively Exploited,Yes
+CVE-2019-22445,2019-04-22,XXE,Juniper,Junos,6.4,Medium,Adjacent,High,Low,None,Low,High,Low,USA,Finance,25862,Under Investigation,Yes
+CVE-2019-17422,2019-09-24,SQL Injection,Juniper,Junos,0.6,Low,Adjacent,Low,Low,Required,High,Low,High,Brazil,Defense,45426,Resolved,Yes
+CVE-2019-43473,2019-04-12,MITM,Adobe,Flash,3.9,Low,Adjacent,High,None,None,High,None,None,Brazil,Retail,26852,Under Investigation,Yes
+CVE-2019-36322,2019-04-21,RCE,Atlassian,Bitbucket,4.8,Medium,Physical,High,None,Required,High,None,None,Netherlands,Energy,22906,Exploited,Yes
+CVE-2019-13018,2019-08-28,Path Traversal,SAP,Business One,7.3,High,Physical,High,None,Required,None,Low,Low,Turkey,IT,27941,Exploited,Yes
+CVE-2019-88178,2019-10-04,Credential Stuffing,Google,Chrome,1.0,Low,Adjacent,Low,Low,Required,None,High,None,India,Defense,4985,Patched,Yes
+CVE-2019-50112,2019-03-22,Command Injection,Apple,macOS,4.7,Medium,Network,Low,None,None,High,Low,None,Nigeria,Defense,5820,Actively Exploited,Yes
+CVE-2019-98254,2019-11-24,Ransomware,F5,BIG-IP,7.4,High,Physical,High,None,None,High,High,High,South Korea,Defense,31863,Actively Exploited,No
+CVE-2019-83661,2019-07-26,XSS,Drupal,Modules,4.7,Medium,Local,High,Low,Required,High,None,High,Canada,Retail,8531,Actively Exploited,No
+CVE-2019-25354,2019-07-17,Path Traversal,IBM,WebSphere,2.1,Low,Adjacent,Low,Low,None,High,Low,Low,Romania,Healthcare,6232,Actively Exploited,Yes
+CVE-2019-84921,2019-05-05,CSRF,F5,BIG-IP,5.7,Medium,Local,Low,None,Required,High,None,None,Pakistan,Manufacturing,37568,Exploited,Yes
+CVE-2019-23730,2019-08-14,Phishing,Apache,HTTP Server,1.5,Low,Local,Low,Low,Required,None,Low,Low,China,Government,36212,Exploited,No
+CVE-2019-51678,2019-07-26,Ransomware,Adobe,Acrobat,9.7,Critical,Network,High,Low,None,Low,None,None,USA,Energy,23735,Exploited,Yes
+CVE-2019-55219,2019-09-03,SSRF,Linux,glibc,9.5,Critical,Physical,Low,High,None,None,High,Low,Vietnam,Government,40880,Patched,Yes
+CVE-2019-08445,2019-11-30,SSRF,VMware,Horizon,8.9,High,Network,Low,High,Required,High,None,Low,South Korea,Education,37806,Exploited,Yes
+CVE-2019-17518,2019-01-25,Command Injection,F5,BIG-IP,9.4,Critical,Network,High,None,Required,High,High,High,France,IT,27132,Actively Exploited,Yes
+CVE-2019-21214,2019-05-19,Path Traversal,Linux,Kernel,7.1,High,Physical,High,Low,None,High,Low,Low,France,Government,13506,Exploited,No
+CVE-2019-89782,2019-12-07,Logic Flaw,SAP,Business One,4.1,Medium,Physical,Low,High,Required,High,Low,None,Turkey,Retail,11945,Exploited,No
+CVE-2019-59790,2019-09-18,CSRF,Apple,Safari,9.9,Critical,Network,Low,Low,None,None,High,Low,Iran,Finance,39059,Actively Exploited,Yes
+CVE-2019-10501,2019-09-11,Privilege Escalation,Juniper,Junos,2.3,Low,Network,High,None,None,Low,None,High,China,Finance,19052,Actively Exploited,Yes
+CVE-2019-82575,2019-09-13,SSRF,F5,BIG-IP,1.0,Low,Physical,Low,Low,Required,High,Low,None,UK,Education,40056,Exploited,Yes
+CVE-2019-91569,2019-08-07,SSRF,Google,Android,5.0,Medium,Local,Low,Low,Required,High,High,High,Ukraine,Energy,22540,Under Investigation,No
+CVE-2019-94729,2019-06-19,RCE,Drupal,Core,2.2,Low,Local,Low,High,None,None,Low,Low,South Korea,Transport,29419,Under Investigation,No
+CVE-2019-57684,2019-03-12,Credential Stuffing,Juniper,Junos,6.3,Medium,Network,Low,Low,None,High,None,None,Turkey,Healthcare,33727,Under Investigation,Yes
+CVE-2019-42624,2019-12-25,Brute Force,Atlassian,Jira,0.3,Low,Physical,High,High,Required,High,High,Low,Indonesia,Defense,22849,Patched,No
+CVE-2019-63974,2019-01-11,Path Traversal,IBM,MQ,9.4,Critical,Adjacent,Low,High,None,None,High,None,Pakistan,Manufacturing,27373,Exploited,No
+CVE-2019-56776,2019-10-09,Zero-Day Exploit,Zimbra,Collaboration Suite,7.5,High,Network,Low,Low,None,Low,Low,High,Canada,Healthcare,26754,Patched,No
+CVE-2019-72457,2019-04-14,DoS/DDoS,VMware,vCenter,6.8,Medium,Network,High,Low,None,Low,Low,None,Romania,Education,8564,Actively Exploited,Yes
+CVE-2019-10363,2019-02-10,Ransomware,Drupal,Modules,6.9,Medium,Physical,Low,Low,None,Low,Low,None,Nigeria,Finance,48989,Actively Exploited,Yes
+CVE-2019-94845,2019-05-06,Ransomware,Fortinet,FortiManager,6.9,Medium,Physical,High,None,None,None,High,None,Brazil,Defense,26247,Under Investigation,Yes
+CVE-2019-24147,2019-03-03,Ransomware,Palo Alto,GlobalProtect,2.3,Low,Physical,Low,None,Required,High,Low,High,Turkey,Retail,42944,Actively Exploited,Yes
+CVE-2019-96831,2019-04-24,Zero-Day Exploit,WordPress,Core,6.4,Medium,Adjacent,High,Low,Required,None,Low,None,Russia,Retail,31535,Patched,No
+CVE-2019-94317,2019-12-05,Path Traversal,F5,BIG-IP,4.8,Medium,Adjacent,High,None,Required,High,Low,None,Ukraine,Government,45015,Actively Exploited,Yes
+CVE-2019-82535,2019-05-04,SQL Injection,WordPress,Core,9.7,Critical,Physical,High,None,Required,High,Low,High,Pakistan,IT,30948,Actively Exploited,No
+CVE-2019-04641,2019-02-27,XXE,Nginx,Nginx,5.2,Medium,Physical,Low,High,Required,Low,None,Low,Russia,IT,23350,Resolved,Yes
+CVE-2019-75878,2019-11-21,Deserialization,SAP,NetWeaver,9.1,Critical,Network,Low,Low,Required,Low,Low,High,Pakistan,Transport,19106,Under Investigation,No
+CVE-2019-61364,2019-03-11,RCE,Apple,macOS,7.1,High,Local,High,Low,None,High,Low,Low,Nigeria,Retail,43649,Exploited,No
+CVE-2019-40030,2019-08-25,Privilege Escalation,Apple,macOS,6.4,Medium,Adjacent,Low,High,None,Low,High,Low,Brazil,Defense,9269,Under Investigation,No
+CVE-2019-51719,2019-01-03,Buffer Overflow,Apache,Kafka,7.2,High,Physical,High,High,Required,None,Low,None,Romania,Finance,1981,Exploited,No
+CVE-2019-91074,2019-03-22,Path Traversal,Drupal,Modules,4.3,Medium,Local,Low,High,Required,Low,None,None,Iran,Telecom,32418,Patched,Yes
+CVE-2019-55945,2019-08-10,Brute Force,Google,Chrome,3.4,Low,Physical,High,High,Required,High,Low,Low,South Korea,Healthcare,42338,Under Investigation,No
+CVE-2019-37365,2019-11-11,SQL Injection,Atlassian,Bitbucket,1.6,Low,Local,High,None,None,Low,Low,Low,China,Manufacturing,49757,Under Investigation,Yes
+CVE-2019-41956,2019-08-27,SQL Injection,IBM,WebSphere,5.3,Medium,Physical,High,High,None,Low,High,High,Ukraine,Transport,9542,Exploited,No
+CVE-2019-66248,2019-08-12,Ransomware,Adobe,Acrobat,3.9,Low,Local,Low,Low,Required,High,None,Low,Netherlands,Manufacturing,37954,Patched,No
+CVE-2019-72406,2019-12-18,DoS/DDoS,Apache,Kafka,4.1,Medium,Physical,High,None,None,Low,High,None,France,Manufacturing,19842,Under Investigation,No
+CVE-2019-33650,2019-05-26,Deserialization,VMware,Horizon,1.6,Low,Local,Low,None,None,None,None,None,Iran,Finance,947,Actively Exploited,Yes
+CVE-2019-10397,2019-04-27,Phishing,Linux,Kernel,0.7,Low,Local,High,Low,Required,Low,None,None,Germany,Education,43308,Patched,Yes
+CVE-2019-73480,2019-08-15,Logic Flaw,Fortinet,FortiGate,0.1,Low,Physical,High,None,None,None,Low,Low,North Korea,Finance,24309,Patched,No
+CVE-2019-16656,2019-10-23,SSRF,Atlassian,Jira,8.9,High,Local,Low,Low,None,High,High,Low,North Korea,Transport,3921,Actively Exploited,Yes
+CVE-2019-98111,2019-02-24,XXE,SAP,HANA,3.8,Low,Physical,Low,High,None,High,Low,High,Turkey,IT,47688,Exploited,Yes
+CVE-2019-04938,2019-07-31,Brute Force,WordPress,Plugins,1.5,Low,Adjacent,High,None,Required,None,Low,High,Iran,Energy,39737,Actively Exploited,No
+CVE-2019-99506,2019-05-17,Path Traversal,Linux,Kernel,5.7,Medium,Adjacent,High,None,Required,Low,High,Low,North Korea,Retail,12224,Under Investigation,No
+CVE-2019-67142,2019-05-31,SQL Injection,Microsoft,Azure AD,4.9,Medium,Physical,Low,None,Required,Low,None,None,Pakistan,Telecom,6597,Resolved,Yes
+CVE-2019-44078,2019-10-28,Credential Stuffing,SAP,NetWeaver,9.2,Critical,Adjacent,High,None,None,High,Low,High,Turkey,Retail,49977,Patched,Yes
+CVE-2019-74711,2019-10-09,Phishing,Microsoft,Windows,2.1,Low,Physical,High,None,None,Low,High,High,France,Retail,22992,Exploited,No
+CVE-2019-08992,2019-02-12,MITM,Microsoft,Azure AD,4.6,Medium,Adjacent,Low,None,None,High,High,Low,Iran,Retail,39763,Under Investigation,No
+CVE-2019-14771,2019-09-06,Zero-Day Exploit,Fortinet,FortiOS,3.4,Low,Physical,Low,None,Required,High,High,None,USA,Finance,37923,Exploited,Yes
+CVE-2019-32592,2019-09-13,SSRF,Palo Alto,PAN-OS,0.6,Low,Network,High,High,Required,None,High,High,Brazil,IT,6387,Actively Exploited,No
+CVE-2019-81286,2019-05-02,Ransomware,F5,BIG-IP,9.8,Critical,Physical,High,Low,None,None,High,Low,Netherlands,Telecom,7585,Actively Exploited,No
+CVE-2019-62293,2019-12-20,CSRF,Linux,systemd,1.1,Low,Physical,Low,High,Required,None,High,None,China,Healthcare,28939,Resolved,Yes
+CVE-2019-71829,2019-09-08,Path Traversal,F5,BIG-IP,3.3,Low,Physical,Low,High,None,None,None,Low,Canada,Education,19561,Actively Exploited,No
+CVE-2019-15056,2019-10-06,RCE,Palo Alto,GlobalProtect,5.1,Medium,Adjacent,High,None,Required,None,None,None,Nigeria,Defense,25794,Resolved,Yes
+CVE-2019-64332,2019-09-03,Path Traversal,Apache,HTTP Server,7.9,High,Local,High,Low,None,Low,High,None,UK,Manufacturing,46295,Resolved,No
+CVE-2019-92113,2019-04-10,XXE,Fortinet,FortiGate,2.1,Low,Physical,Low,None,Required,None,High,None,Nigeria,Telecom,4470,Exploited,Yes
+CVE-2019-24706,2019-11-17,RCE,IBM,WebSphere,9.0,Critical,Network,High,High,None,High,Low,None,Iran,Finance,16347,Patched,No
+CVE-2019-31227,2019-09-01,RCE,Zimbra,Collaboration Suite,2.0,Low,Network,Low,High,None,None,High,High,Pakistan,Government,10189,Actively Exploited,Yes
+CVE-2019-91990,2019-10-25,Logic Flaw,Zimbra,Collaboration Suite,3.4,Low,Local,Low,High,Required,Low,Low,Low,Nigeria,Energy,37425,Under Investigation,Yes
+CVE-2019-98293,2019-11-07,Command Injection,Adobe,Photoshop,5.6,Medium,Adjacent,High,High,None,None,None,Low,Romania,Telecom,44531,Resolved,Yes
+CVE-2019-53204,2019-10-03,SSRF,Apple,Safari,5.5,Medium,Adjacent,Low,High,Required,Low,None,High,USA,Finance,25498,Under Investigation,Yes
+CVE-2019-45817,2019-12-30,SSRF,Zimbra,Collaboration Suite,4.6,Medium,Physical,High,Low,Required,Low,Low,Low,Indonesia,Defense,36992,Actively Exploited,Yes
+CVE-2019-45504,2019-08-11,MITM,VMware,ESXi,2.0,Low,Adjacent,High,High,Required,None,None,None,Pakistan,Defense,46174,Resolved,No
+CVE-2019-36885,2019-07-09,Ransomware,Oracle,Java SE,0.0,None,Adjacent,High,Low,None,Low,Low,None,Pakistan,Telecom,40274,Exploited,No
+CVE-2019-23673,2019-04-03,XSS,Palo Alto,GlobalProtect,8.8,High,Local,High,None,Required,High,High,High,China,IT,14491,Actively Exploited,No
+CVE-2019-96822,2019-01-30,Phishing,Google,Chrome,7.1,High,Network,Low,None,None,Low,High,Low,India,Healthcare,31711,Resolved,No
+CVE-2019-93974,2019-06-28,Privilege Escalation,Zimbra,Collaboration Suite,9.0,Critical,Adjacent,Low,High,None,High,None,High,South Korea,IT,17620,Exploited,Yes
+CVE-2019-19323,2019-01-17,Phishing,Google,Android,4.9,Medium,Local,High,Low,None,High,Low,High,Indonesia,Energy,8405,Under Investigation,No
+CVE-2019-92783,2019-10-25,Deserialization,Adobe,ColdFusion,9.8,Critical,Adjacent,Low,Low,None,High,Low,None,Canada,Telecom,22804,Actively Exploited,No
+CVE-2019-71224,2019-11-16,Privilege Escalation,IBM,WebSphere,0.2,Low,Local,High,None,None,None,None,High,South Korea,Manufacturing,29340,Actively Exploited,Yes
+CVE-2019-51567,2019-09-23,Phishing,WordPress,Core,1.3,Low,Adjacent,High,Low,None,Low,None,High,Iran,Retail,37803,Patched,Yes
+CVE-2019-79082,2019-11-24,Deserialization,Atlassian,Confluence,1.9,Low,Network,High,None,Required,High,None,High,Russia,Transport,41452,Resolved,No
+CVE-2019-64772,2019-04-05,Buffer Overflow,Oracle,E-Business Suite,9.3,Critical,Physical,Low,High,None,High,None,None,Iran,Finance,10698,Under Investigation,Yes
+CVE-2019-67920,2019-03-24,Ransomware,Juniper,Junos,7.9,High,Physical,Low,High,Required,High,Low,Low,Romania,Transport,17805,Patched,No
+CVE-2019-82882,2019-08-19,Brute Force,Apple,iOS,6.4,Medium,Adjacent,High,None,Required,Low,None,None,Russia,IT,46048,Resolved,Yes
+CVE-2019-29097,2019-11-21,MITM,IBM,QRadar,4.7,Medium,Network,Low,High,None,High,None,Low,Romania,Energy,42387,Actively Exploited,No
+CVE-2019-48391,2019-03-23,Path Traversal,Adobe,ColdFusion,7.1,High,Adjacent,Low,Low,None,Low,High,Low,Indonesia,Finance,18521,Actively Exploited,Yes
+CVE-2019-70906,2019-10-05,Phishing,WordPress,Core,8.8,High,Network,High,High,Required,Low,Low,High,Turkey,IT,4306,Patched,Yes
+CVE-2019-52637,2019-12-09,Privilege Escalation,Apple,Safari,5.8,Medium,Network,Low,Low,Required,None,None,None,Germany,Healthcare,22295,Exploited,No
+CVE-2019-11353,2019-06-25,SSRF,Juniper,Junos,4.0,Medium,Local,Low,None,None,High,High,Low,Indonesia,IT,2389,Patched,Yes
+CVE-2019-16285,2019-05-26,Privilege Escalation,Juniper,Junos,9.8,Critical,Physical,High,High,None,None,High,Low,Pakistan,Transport,16537,Patched,No
+CVE-2019-71018,2019-04-20,Buffer Overflow,Apache,Log4j,8.9,High,Network,High,Low,Required,Low,High,Low,Brazil,Education,11562,Under Investigation,No
+CVE-2019-33437,2019-02-14,RCE,Fortinet,FortiOS,7.1,High,Adjacent,High,Low,Required,High,Low,None,Brazil,Manufacturing,9273,Actively Exploited,Yes
+CVE-2019-18673,2019-09-27,Command Injection,Zimbra,Collaboration Suite,3.1,Low,Adjacent,High,High,Required,None,None,None,Romania,Manufacturing,4333,Exploited,No
+CVE-2019-18548,2019-07-22,Credential Stuffing,Linux,systemd,9.5,Critical,Adjacent,High,None,None,High,High,Low,Nigeria,IT,16264,Under Investigation,No
+CVE-2019-36230,2019-12-29,Ransomware,Microsoft,Azure AD,8.9,High,Physical,High,Low,Required,High,Low,None,Iran,Manufacturing,20075,Exploited,No
+CVE-2019-24036,2019-03-20,XXE,Atlassian,Confluence,2.5,Low,Adjacent,High,High,None,Low,None,High,UK,Education,1724,Resolved,Yes
+CVE-2019-82218,2019-10-09,XXE,F5,BIG-IP,9.3,Critical,Network,Low,High,None,High,None,High,Pakistan,Healthcare,32450,Resolved,No
+CVE-2019-54692,2019-05-09,Zero-Day Exploit,Apache,HTTP Server,5.9,Medium,Local,Low,Low,None,None,High,High,USA,Government,39040,Exploited,No
+CVE-2019-12872,2019-05-25,Brute Force,Google,Workspace,7.1,High,Network,Low,Low,Required,High,None,High,India,Telecom,5853,Patched,Yes
+CVE-2019-60318,2019-11-26,Brute Force,VMware,ESXi,2.9,Low,Network,High,None,None,Low,Low,High,Germany,Manufacturing,20114,Actively Exploited,No
+CVE-2019-88033,2019-04-14,XXE,Adobe,Photoshop,3.2,Low,Network,High,Low,None,None,Low,None,India,Retail,16143,Resolved,No
+CVE-2019-68123,2019-12-10,Buffer Overflow,Adobe,Flash,7.6,High,Local,High,Low,None,Low,High,None,Romania,Energy,23902,Exploited,No
+CVE-2019-87100,2019-06-19,Deserialization,Drupal,Modules,7.7,High,Adjacent,Low,Low,Required,None,Low,Low,Pakistan,Government,6601,Patched,Yes
+CVE-2019-53060,2019-06-24,XXE,Zimbra,Collaboration Suite,9.6,Critical,Network,High,Low,None,None,High,High,India,Finance,45648,Actively Exploited,Yes
+CVE-2019-24867,2019-01-26,Privilege Escalation,Atlassian,Jira,2.8,Low,Network,Low,None,None,Low,High,High,Netherlands,Defense,6047,Resolved,Yes
+CVE-2019-46374,2019-08-13,SSRF,F5,BIG-IP,5.9,Medium,Network,Low,High,None,None,High,High,USA,Retail,10434,Exploited,No
+CVE-2019-49291,2019-05-16,XSS,WordPress,Plugins,3.8,Low,Adjacent,Low,High,Required,Low,None,None,South Korea,IT,10752,Patched,No
+CVE-2019-93000,2019-12-03,MITM,Fortinet,FortiOS,7.9,High,Network,Low,High,Required,Low,Low,High,Ukraine,IT,1539,Resolved,No
+CVE-2019-40166,2019-11-27,SSRF,Apache,Kafka,9.1,Critical,Network,High,Low,None,High,None,High,India,Government,28749,Under Investigation,Yes
+CVE-2019-71420,2019-04-15,SQL Injection,SAP,NetWeaver,2.9,Low,Adjacent,Low,High,None,None,None,Low,China,Defense,35493,Resolved,No
+CVE-2019-43719,2019-09-27,MITM,Linux,Kernel,6.2,Medium,Local,High,High,Required,Low,None,None,Canada,Finance,24206,Under Investigation,Yes
+CVE-2019-32307,2019-06-08,Zero-Day Exploit,Juniper,Junos,2.5,Low,Local,Low,None,Required,None,Low,High,UK,Defense,22970,Resolved,Yes
+CVE-2019-57341,2019-01-06,Brute Force,Linux,glibc,6.5,Medium,Local,Low,None,None,Low,Low,High,China,IT,31193,Under Investigation,Yes
+CVE-2019-19670,2019-07-02,Privilege Escalation,IBM,WebSphere,4.4,Medium,Local,Low,High,None,None,None,None,India,IT,46954,Actively Exploited,No
+CVE-2019-75331,2019-11-05,Path Traversal,Apple,Safari,2.9,Low,Local,Low,Low,Required,None,None,Low,Brazil,Education,48467,Actively Exploited,Yes
+CVE-2019-94600,2019-06-13,Logic Flaw,Apple,macOS,1.2,Low,Adjacent,High,High,Required,High,High,Low,Iran,Telecom,13592,Under Investigation,No
+CVE-2019-52915,2019-02-08,XSS,F5,BIG-IP,3.5,Low,Network,Low,None,None,None,High,Low,South Korea,Manufacturing,40291,Patched,Yes
+CVE-2019-70180,2019-04-20,Deserialization,F5,BIG-IP,4.8,Medium,Physical,Low,None,None,None,Low,Low,USA,Manufacturing,14412,Under Investigation,No
+CVE-2019-55246,2019-01-18,Command Injection,IBM,QRadar,9.8,Critical,Adjacent,Low,None,Required,None,Low,Low,China,Defense,10663,Under Investigation,No
+CVE-2019-39944,2019-09-13,Brute Force,Nginx,Nginx,3.2,Low,Network,High,None,Required,None,None,High,Nigeria,Healthcare,33337,Patched,Yes
+CVE-2019-68930,2019-01-11,Credential Stuffing,IBM,WebSphere,5.7,Medium,Physical,Low,Low,Required,High,Low,None,Vietnam,Retail,11504,Actively Exploited,No
+CVE-2019-32997,2019-11-21,DoS/DDoS,Apache,Struts,7.5,High,Adjacent,Low,None,None,None,None,None,Vietnam,Healthcare,20232,Resolved,Yes
+CVE-2019-52358,2019-10-17,Path Traversal,Apache,Log4j,2.6,Low,Adjacent,High,Low,None,None,High,Low,Turkey,Finance,2309,Under Investigation,Yes

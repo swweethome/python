@@ -1,0 +1,819 @@
+cve_id,date,attack_type,vendor,product,cvss_score,severity,attack_vector,access_complexity,privileges_required,user_interaction,confidentiality_impact,integrity_impact,availability_impact,attacker_country,target_sector,affected_hosts,status,exploit_available
+CVE-2021-37997,2021-03-15,Ransomware,F5,BIG-IP,1.3,Low,Physical,High,None,None,Low,None,Low,Germany,Transport,21121,Actively Exploited,No
+CVE-2021-88657,2021-09-14,Brute Force,WordPress,Plugins,2.7,Low,Adjacent,High,None,None,None,None,Low,Netherlands,Healthcare,33436,Actively Exploited,Yes
+CVE-2021-85771,2021-07-31,SSRF,IBM,QRadar,10.0,Critical,Physical,Low,High,None,None,Low,None,Ukraine,Healthcare,20835,Actively Exploited,No
+CVE-2021-42134,2021-06-26,Deserialization,Palo Alto,PAN-OS,2.9,Low,Physical,High,None,None,High,None,Low,India,Finance,35138,Patched,Yes
+CVE-2021-94023,2021-02-03,Zero-Day Exploit,Fortinet,FortiOS,6.9,Medium,Adjacent,Low,None,Required,None,High,None,Iran,Transport,6842,Resolved,Yes
+CVE-2021-14479,2021-01-28,Credential Stuffing,SAP,HANA,7.8,High,Network,Low,None,Required,High,Low,Low,France,Education,34893,Actively Exploited,No
+CVE-2021-12455,2021-02-25,Logic Flaw,Apple,macOS,8.7,High,Network,Low,None,None,None,High,None,Iran,Defense,31843,Actively Exploited,No
+CVE-2021-91708,2021-05-07,Ransomware,Drupal,Core,6.6,Medium,Network,Low,High,None,Low,None,High,Vietnam,Energy,18804,Actively Exploited,No
+CVE-2021-46983,2021-08-19,Command Injection,Apache,Kafka,9.5,Critical,Adjacent,Low,None,Required,High,High,None,Iran,Energy,45574,Actively Exploited,Yes
+CVE-2021-19036,2021-06-23,Command Injection,Palo Alto,PAN-OS,4.4,Medium,Network,High,None,None,None,None,High,Iran,Telecom,47650,Patched,Yes
+CVE-2021-75959,2021-07-16,Deserialization,Oracle,Java SE,8.7,High,Local,Low,High,Required,Low,Low,Low,Vietnam,Healthcare,40948,Under Investigation,Yes
+CVE-2021-24367,2021-04-26,RCE,Oracle,Java SE,3.8,Low,Local,High,Low,None,High,High,None,Russia,IT,15341,Resolved,Yes
+CVE-2021-52327,2021-09-26,MITM,Zimbra,Collaboration Suite,9.3,Critical,Network,High,High,None,High,Low,None,Indonesia,Transport,15281,Exploited,Yes
+CVE-2021-85850,2021-08-21,Credential Stuffing,Adobe,Photoshop,3.7,Low,Local,Low,Low,Required,None,High,Low,South Korea,Telecom,29458,Resolved,Yes
+CVE-2021-62617,2021-07-16,Zero-Day Exploit,VMware,ESXi,4.9,Medium,Local,High,Low,None,Low,None,None,India,Finance,13305,Actively Exploited,Yes
+CVE-2021-39533,2021-04-23,Buffer Overflow,IBM,QRadar,6.1,Medium,Local,Low,High,Required,Low,None,None,Pakistan,Healthcare,43915,Patched,No
+CVE-2021-86961,2021-01-17,Deserialization,SAP,Business One,2.2,Low,Network,Low,Low,Required,None,None,None,Iran,Government,47658,Under Investigation,Yes
+CVE-2021-39606,2021-11-26,Zero-Day Exploit,SAP,Business One,4.3,Medium,Adjacent,Low,None,Required,High,High,Low,Ukraine,Education,30335,Resolved,Yes
+CVE-2021-95798,2021-11-29,RCE,Oracle,WebLogic,1.3,Low,Local,High,None,Required,Low,Low,High,India,Retail,46711,Patched,Yes
+CVE-2021-99721,2021-03-12,XSS,Palo Alto,GlobalProtect,2.2,Low,Physical,High,None,None,None,Low,Low,France,Transport,19586,Patched,No
+CVE-2021-83192,2021-08-18,Brute Force,IBM,QRadar,6.2,Medium,Physical,Low,High,None,Low,Low,High,Turkey,Manufacturing,24194,Resolved,No
+CVE-2021-62252,2021-12-06,XXE,Apache,Kafka,6.1,Medium,Network,Low,High,None,High,None,None,Romania,Manufacturing,18675,Resolved,Yes
+CVE-2021-15455,2021-11-22,Command Injection,Apple,Safari,6.4,Medium,Adjacent,High,Low,None,None,High,High,India,Government,9355,Actively Exploited,No
+CVE-2021-20603,2021-05-30,MITM,Google,Chrome,0.3,Low,Physical,Low,None,Required,Low,Low,Low,Germany,Telecom,32621,Exploited,Yes
+CVE-2021-57288,2021-01-30,Deserialization,Apache,Log4j,1.8,Low,Network,High,None,None,High,High,High,Indonesia,Manufacturing,18774,Patched,No
+CVE-2021-12404,2021-09-14,MITM,Zimbra,Collaboration Suite,8.6,High,Physical,Low,Low,Required,Low,None,None,Vietnam,Healthcare,8267,Under Investigation,Yes
+CVE-2021-59891,2021-10-12,XSS,Palo Alto,PAN-OS,2.9,Low,Local,Low,High,Required,High,High,None,UK,Government,37257,Exploited,No
+CVE-2021-17760,2021-05-21,Zero-Day Exploit,F5,BIG-IP,3.1,Low,Adjacent,High,None,Required,High,Low,Low,USA,Telecom,40131,Exploited,No
+CVE-2021-08631,2021-03-26,MITM,Linux,systemd,5.0,Medium,Physical,Low,None,Required,None,Low,None,Vietnam,Government,3952,Actively Exploited,No
+CVE-2021-88266,2021-06-02,Zero-Day Exploit,Apache,Struts,4.4,Medium,Physical,Low,Low,None,High,Low,High,South Korea,Healthcare,31837,Patched,Yes
+CVE-2021-32255,2021-08-01,Brute Force,VMware,ESXi,6.8,Medium,Adjacent,Low,None,None,None,None,None,South Korea,Manufacturing,20139,Exploited,No
+CVE-2021-25963,2021-10-01,RCE,Nginx,Nginx,1.2,Low,Adjacent,Low,None,Required,High,None,High,Pakistan,Manufacturing,40748,Exploited,Yes
+CVE-2021-43934,2021-12-09,SSRF,Cisco,ASA,9.5,Critical,Adjacent,High,High,None,Low,None,High,Vietnam,Transport,46250,Actively Exploited,No
+CVE-2021-58615,2021-11-25,Phishing,Cisco,IOS,5.7,Medium,Network,High,Low,None,None,Low,None,Nigeria,Energy,48823,Under Investigation,No
+CVE-2021-68809,2021-12-29,Phishing,VMware,Horizon,9.1,Critical,Physical,High,Low,None,Low,High,Low,Nigeria,Defense,44559,Exploited,Yes
+CVE-2021-85253,2021-02-08,SQL Injection,VMware,ESXi,7.2,High,Network,High,High,None,Low,High,Low,Ukraine,Retail,17847,Exploited,Yes
+CVE-2021-03211,2021-02-05,Logic Flaw,Linux,systemd,7.8,High,Physical,High,Low,Required,High,High,Low,Brazil,Retail,27959,Actively Exploited,Yes
+CVE-2021-14142,2021-11-07,Deserialization,VMware,vCenter,9.4,Critical,Physical,High,High,Required,High,High,High,Nigeria,IT,25435,Patched,No
+CVE-2021-19493,2021-01-21,Command Injection,Google,Workspace,8.6,High,Adjacent,High,None,Required,None,None,Low,Brazil,Healthcare,32315,Resolved,No
+CVE-2021-19504,2021-06-17,SQL Injection,Nginx,Nginx,3.4,Low,Adjacent,High,High,None,None,None,None,Germany,Education,20846,Patched,No
+CVE-2021-68538,2021-12-18,Ransomware,Juniper,Junos,3.1,Low,Local,Low,Low,Required,Low,Low,None,Brazil,Manufacturing,44057,Under Investigation,No
+CVE-2021-14329,2021-08-07,RCE,Apache,Kafka,8.8,High,Adjacent,High,Low,Required,None,None,None,Vietnam,IT,43848,Exploited,Yes
+CVE-2021-48060,2021-05-12,Zero-Day Exploit,VMware,vCenter,5.2,Medium,Network,High,Low,Required,High,None,High,South Korea,Energy,49337,Actively Exploited,No
+CVE-2021-58356,2021-07-22,Command Injection,SAP,NetWeaver,9.8,Critical,Local,High,Low,None,High,Low,None,Nigeria,Retail,31611,Resolved,Yes
+CVE-2021-26302,2021-01-04,Zero-Day Exploit,F5,BIG-IP,5.5,Medium,Network,High,Low,None,High,High,Low,China,Defense,11782,Actively Exploited,Yes
+CVE-2021-89180,2021-12-21,Phishing,Linux,systemd,2.1,Low,Local,High,High,None,High,High,None,Turkey,Energy,48741,Under Investigation,Yes
+CVE-2021-51267,2021-06-12,CSRF,Adobe,Photoshop,2.7,Low,Physical,High,High,Required,None,High,Low,Canada,Manufacturing,12673,Resolved,Yes
+CVE-2021-64914,2021-09-03,Logic Flaw,Linux,glibc,3.9,Low,Adjacent,High,Low,None,High,None,Low,Romania,Manufacturing,14443,Under Investigation,Yes
+CVE-2021-35625,2021-07-24,Privilege Escalation,Microsoft,Azure AD,3.7,Low,Local,High,None,None,Low,None,High,Nigeria,Energy,37370,Actively Exploited,No
+CVE-2021-53687,2021-07-12,RCE,VMware,Workstation,9.7,Critical,Physical,Low,None,Required,High,Low,Low,Ukraine,Telecom,12332,Resolved,Yes
+CVE-2021-52301,2021-05-21,SQL Injection,Palo Alto,PAN-OS,7.4,High,Network,High,High,Required,Low,Low,High,Netherlands,Defense,16058,Exploited,No
+CVE-2021-07765,2021-03-17,Buffer Overflow,Zimbra,Collaboration Suite,1.0,Low,Local,High,High,Required,Low,Low,High,Romania,Energy,29930,Exploited,No
+CVE-2021-04185,2021-08-23,XSS,WordPress,Plugins,0.3,Low,Network,Low,None,None,None,Low,High,Romania,Education,27531,Actively Exploited,No
+CVE-2021-97420,2021-07-02,Buffer Overflow,SAP,Business One,3.8,Low,Network,Low,Low,None,None,Low,High,China,Energy,11061,Under Investigation,Yes
+CVE-2021-84435,2021-11-29,Zero-Day Exploit,Atlassian,Jira,6.9,Medium,Adjacent,High,Low,Required,High,Low,Low,Vietnam,Education,33043,Exploited,Yes
+CVE-2021-19755,2021-06-15,Path Traversal,Adobe,Acrobat,8.1,High,Local,High,Low,Required,Low,None,None,Brazil,IT,19785,Resolved,Yes
+CVE-2021-02543,2021-12-17,Logic Flaw,Zimbra,Collaboration Suite,8.9,High,Physical,Low,Low,Required,None,None,High,Ukraine,Energy,12350,Under Investigation,Yes
+CVE-2021-77845,2021-10-18,XSS,F5,BIG-IP,4.0,Medium,Adjacent,Low,Low,Required,High,Low,Low,Iran,Telecom,15911,Exploited,Yes
+CVE-2021-71114,2021-09-01,Phishing,Zimbra,Collaboration Suite,5.1,Medium,Adjacent,Low,None,Required,High,Low,None,North Korea,Healthcare,626,Resolved,Yes
+CVE-2021-84644,2021-10-16,Brute Force,Zimbra,Collaboration Suite,2.2,Low,Physical,Low,None,Required,None,High,Low,North Korea,IT,5724,Patched,Yes
+CVE-2021-28372,2021-02-10,DoS/DDoS,Atlassian,Bitbucket,8.2,High,Network,High,Low,None,None,Low,High,North Korea,Transport,18267,Resolved,No
+CVE-2021-04562,2021-07-31,Privilege Escalation,Drupal,Core,5.5,Medium,Network,High,Low,Required,None,High,High,Pakistan,Defense,35503,Exploited,Yes
+CVE-2021-87846,2021-07-07,RCE,Juniper,Junos,3.9,Low,Network,Low,Low,Required,None,None,None,Turkey,Energy,12209,Exploited,No
+CVE-2021-01900,2021-05-18,RCE,Palo Alto,GlobalProtect,7.6,High,Adjacent,Low,Low,Required,None,High,None,India,Healthcare,34575,Patched,No
+CVE-2021-10915,2021-01-20,Brute Force,IBM,WebSphere,1.9,Low,Local,Low,High,None,High,None,None,Indonesia,Government,4422,Actively Exploited,Yes
+CVE-2021-79073,2021-10-25,SSRF,Juniper,Junos,5.9,Medium,Network,Low,High,None,Low,Low,None,Vietnam,Defense,34288,Resolved,Yes
+CVE-2021-79522,2021-06-02,Ransomware,Oracle,E-Business Suite,6.3,Medium,Physical,High,None,None,High,Low,Low,USA,Education,23816,Actively Exploited,No
+CVE-2021-36693,2021-04-22,Privilege Escalation,Adobe,Acrobat,3.1,Low,Physical,Low,None,Required,High,High,High,Pakistan,IT,42135,Exploited,Yes
+CVE-2021-16516,2021-05-05,CSRF,Palo Alto,GlobalProtect,6.6,Medium,Physical,High,Low,None,High,Low,Low,France,Energy,31458,Patched,Yes
+CVE-2021-29337,2021-06-25,Privilege Escalation,Linux,systemd,6.3,Medium,Network,High,Low,Required,None,High,High,France,Defense,42087,Patched,Yes
+CVE-2021-94638,2021-02-10,Buffer Overflow,Atlassian,Bitbucket,9.7,Critical,Network,Low,None,Required,Low,High,High,Brazil,Education,38918,Exploited,Yes
+CVE-2021-89219,2021-01-18,MITM,Fortinet,FortiManager,8.2,High,Network,Low,High,None,High,None,None,Vietnam,Education,8815,Resolved,Yes
+CVE-2021-70688,2021-06-10,CSRF,Juniper,Junos,9.7,Critical,Network,High,None,Required,Low,High,None,Canada,Retail,22246,Exploited,No
+CVE-2021-32165,2021-11-20,Logic Flaw,Linux,systemd,8.2,High,Local,High,High,Required,None,Low,High,Ukraine,Retail,43939,Patched,Yes
+CVE-2021-48507,2021-09-03,Ransomware,Zimbra,Collaboration Suite,1.5,Low,Physical,Low,High,None,Low,Low,High,China,Transport,25511,Resolved,Yes
+CVE-2021-72004,2021-06-16,Buffer Overflow,Adobe,ColdFusion,3.2,Low,Local,Low,None,Required,None,None,Low,China,Transport,49381,Actively Exploited,Yes
+CVE-2021-88717,2021-10-10,Command Injection,WordPress,Core,2.1,Low,Adjacent,High,None,Required,High,Low,Low,Russia,IT,1264,Patched,Yes
+CVE-2021-83801,2021-03-17,Credential Stuffing,Adobe,Acrobat,7.8,High,Adjacent,High,High,Required,High,Low,Low,Romania,Healthcare,8516,Actively Exploited,No
+CVE-2021-94191,2021-03-02,CSRF,VMware,vCenter,7.0,High,Network,Low,High,None,Low,None,None,France,Education,39711,Under Investigation,No
+CVE-2021-47837,2021-11-07,Brute Force,Apache,Kafka,8.1,High,Physical,Low,Low,Required,None,Low,None,Brazil,IT,43594,Exploited,Yes
+CVE-2021-26341,2021-02-15,RCE,Linux,glibc,4.8,Medium,Local,High,Low,Required,Low,None,Low,UK,IT,20271,Actively Exploited,No
+CVE-2021-37723,2021-08-15,SSRF,Juniper,Junos,8.2,High,Physical,Low,High,Required,High,Low,High,Netherlands,Finance,3964,Under Investigation,Yes
+CVE-2021-32795,2021-10-18,Deserialization,VMware,Horizon,7.5,High,Adjacent,High,High,None,Low,None,None,South Korea,IT,3972,Patched,Yes
+CVE-2021-60314,2021-10-05,Zero-Day Exploit,WordPress,Plugins,2.5,Low,Physical,High,High,Required,High,None,None,Romania,Government,32761,Under Investigation,No
+CVE-2021-15319,2021-05-28,XSS,Palo Alto,GlobalProtect,9.6,Critical,Local,High,High,Required,None,High,Low,Ukraine,Retail,7257,Under Investigation,Yes
+CVE-2021-79726,2021-08-11,Phishing,SAP,Business One,1.2,Low,Physical,High,Low,Required,High,None,Low,South Korea,Defense,47464,Under Investigation,No
+CVE-2021-98136,2021-11-21,Privilege Escalation,Adobe,Flash,6.1,Medium,Physical,Low,None,Required,None,None,Low,Germany,Telecom,12992,Resolved,No
+CVE-2021-78532,2021-04-09,Buffer Overflow,Atlassian,Confluence,9.5,Critical,Physical,Low,Low,None,Low,High,Low,Canada,Retail,35218,Patched,No
+CVE-2021-13256,2021-06-16,Zero-Day Exploit,Zimbra,Collaboration Suite,3.5,Low,Network,High,High,None,High,None,None,Nigeria,Telecom,42384,Actively Exploited,No
+CVE-2021-03598,2021-06-12,Command Injection,Fortinet,FortiOS,1.9,Low,Network,High,Low,Required,Low,Low,None,USA,Education,34598,Exploited,Yes
+CVE-2021-28757,2021-06-07,Brute Force,IBM,WebSphere,2.7,Low,Adjacent,High,None,Required,Low,None,Low,North Korea,Manufacturing,983,Exploited,Yes
+CVE-2021-27037,2021-06-26,MITM,Nginx,Nginx,8.5,High,Physical,High,None,Required,None,High,Low,France,Defense,40672,Under Investigation,Yes
+CVE-2021-26555,2021-12-26,MITM,SAP,Business One,7.6,High,Local,Low,None,None,Low,Low,High,Pakistan,Government,21676,Under Investigation,Yes
+CVE-2021-55136,2021-04-06,RCE,WordPress,Core,4.0,Medium,Physical,High,High,Required,High,High,Low,Canada,Telecom,49083,Patched,Yes
+CVE-2021-55002,2021-08-07,XSS,Atlassian,Confluence,1.3,Low,Adjacent,Low,Low,None,Low,Low,None,South Korea,Education,14250,Resolved,Yes
+CVE-2021-12525,2021-03-18,Ransomware,IBM,MQ,8.9,High,Local,High,None,Required,None,None,None,South Korea,Government,33661,Patched,No
+CVE-2021-90016,2021-04-08,Credential Stuffing,Zimbra,Collaboration Suite,0.1,Low,Local,Low,High,Required,None,High,Low,India,IT,5797,Exploited,No
+CVE-2021-96204,2021-05-14,Buffer Overflow,Adobe,Acrobat,9.0,Critical,Local,Low,High,Required,Low,None,High,Netherlands,Finance,47695,Exploited,Yes
+CVE-2021-65429,2021-04-14,Path Traversal,Apple,iOS,6.4,Medium,Physical,Low,None,None,None,None,High,Canada,Healthcare,11984,Under Investigation,No
+CVE-2021-70099,2021-09-11,Phishing,VMware,Workstation,6.7,Medium,Physical,Low,None,Required,High,None,High,Iran,Telecom,7197,Resolved,Yes
+CVE-2021-82706,2021-12-22,RCE,Linux,Kernel,7.6,High,Network,High,High,Required,Low,Low,High,India,Finance,21623,Under Investigation,Yes
+CVE-2021-54924,2021-04-22,Buffer Overflow,Oracle,E-Business Suite,4.0,Medium,Network,Low,Low,Required,High,Low,None,France,Finance,16359,Actively Exploited,No
+CVE-2021-22883,2021-05-25,SQL Injection,Cisco,AnyConnect,4.4,Medium,Adjacent,High,High,Required,High,None,None,India,Healthcare,48262,Under Investigation,No
+CVE-2021-68560,2021-08-11,XXE,WordPress,Plugins,3.5,Low,Physical,Low,None,Required,None,None,Low,South Korea,Education,25064,Resolved,Yes
+CVE-2021-26635,2021-10-27,Credential Stuffing,Apache,Tomcat,1.6,Low,Adjacent,Low,Low,Required,High,Low,Low,South Korea,Government,6135,Patched,Yes
+CVE-2021-19400,2021-07-12,XXE,Juniper,Junos,2.0,Low,Local,High,None,None,None,None,Low,USA,Healthcare,23318,Actively Exploited,Yes
+CVE-2021-64956,2021-05-21,Brute Force,Fortinet,FortiOS,5.6,Medium,Physical,High,None,Required,None,High,None,China,Transport,21054,Actively Exploited,Yes
+CVE-2021-95691,2021-11-30,Zero-Day Exploit,Drupal,Core,2.9,Low,Adjacent,High,Low,None,High,Low,Low,Pakistan,Manufacturing,29733,Actively Exploited,No
+CVE-2021-65215,2021-03-19,Path Traversal,Palo Alto,PAN-OS,5.4,Medium,Physical,Low,Low,Required,Low,Low,None,North Korea,Energy,44930,Resolved,Yes
+CVE-2021-45277,2021-03-24,Logic Flaw,Fortinet,FortiOS,0.8,Low,Local,Low,Low,Required,High,High,None,Germany,Healthcare,40772,Exploited,No
+CVE-2021-20600,2021-01-07,Brute Force,Juniper,Junos,4.5,Medium,Local,High,Low,None,None,Low,High,India,IT,20433,Under Investigation,Yes
+CVE-2021-20673,2021-06-07,Logic Flaw,Fortinet,FortiOS,8.8,High,Physical,Low,None,Required,Low,Low,High,USA,Finance,12634,Actively Exploited,No
+CVE-2021-78736,2021-11-26,SSRF,Linux,Kernel,2.9,Low,Network,High,High,None,Low,None,Low,France,Retail,28585,Patched,Yes
+CVE-2021-68301,2021-01-02,MITM,F5,BIG-IP,3.8,Low,Local,Low,None,None,Low,Low,High,UK,Defense,31511,Exploited,No
+CVE-2021-52872,2021-11-22,Logic Flaw,VMware,Workstation,7.5,High,Network,Low,High,None,High,None,Low,Indonesia,Government,38663,Exploited,No
+CVE-2021-36200,2021-04-16,XSS,Adobe,Acrobat,4.0,Medium,Adjacent,High,None,Required,High,High,High,Vietnam,IT,39596,Patched,No
+CVE-2021-93439,2021-08-10,CSRF,Google,Workspace,4.2,Medium,Network,High,None,Required,Low,Low,Low,Pakistan,IT,1606,Patched,Yes
+CVE-2021-44022,2021-07-22,XXE,Microsoft,SharePoint,7.3,High,Local,Low,None,None,None,High,High,USA,Government,38745,Patched,No
+CVE-2021-05496,2021-10-14,RCE,VMware,ESXi,1.0,Low,Adjacent,Low,Low,None,High,Low,Low,Iran,Transport,34987,Resolved,Yes
+CVE-2021-08981,2021-03-12,SQL Injection,Fortinet,FortiOS,0.9,Low,Network,High,None,Required,Low,High,None,Indonesia,IT,20717,Under Investigation,No
+CVE-2021-79911,2021-01-14,Credential Stuffing,Microsoft,Office,7.7,High,Adjacent,High,High,None,None,None,None,China,IT,525,Patched,No
+CVE-2021-83486,2021-03-01,Ransomware,VMware,Horizon,0.3,Low,Local,Low,Low,Required,Low,Low,High,Turkey,Education,28022,Patched,Yes
+CVE-2021-93990,2021-09-09,Command Injection,Google,Chrome,9.2,Critical,Local,High,Low,None,Low,High,High,Nigeria,Finance,23746,Exploited,Yes
+CVE-2021-62126,2021-07-19,DoS/DDoS,Adobe,Photoshop,6.5,Medium,Adjacent,High,None,Required,Low,None,High,Russia,Transport,42776,Under Investigation,Yes
+CVE-2021-78463,2021-08-16,Path Traversal,Apache,Log4j,9.5,Critical,Adjacent,Low,None,None,Low,High,None,Indonesia,Education,21868,Under Investigation,No
+CVE-2021-28131,2021-02-12,Ransomware,Drupal,Core,0.4,Low,Local,Low,None,None,High,None,Low,Iran,Manufacturing,13728,Under Investigation,No
+CVE-2021-00867,2021-03-20,SQL Injection,Zimbra,Collaboration Suite,4.9,Medium,Physical,Low,None,Required,High,High,Low,Turkey,Manufacturing,32096,Patched,Yes
+CVE-2021-91301,2021-11-26,Deserialization,SAP,NetWeaver,3.4,Low,Local,High,Low,Required,High,High,Low,Russia,Healthcare,49541,Actively Exploited,Yes
+CVE-2021-06860,2021-11-08,SQL Injection,Atlassian,Jira,2.4,Low,Local,High,None,None,None,High,None,USA,IT,29211,Under Investigation,No
+CVE-2021-77932,2021-07-06,SQL Injection,Drupal,Modules,6.2,Medium,Local,Low,None,None,None,None,None,Ukraine,Government,20557,Exploited,Yes
+CVE-2021-43007,2021-01-04,Logic Flaw,Palo Alto,GlobalProtect,2.4,Low,Local,Low,Low,Required,High,Low,Low,France,Finance,887,Exploited,No
+CVE-2021-96911,2021-12-30,Command Injection,Apache,Kafka,3.3,Low,Physical,Low,Low,Required,None,High,High,Netherlands,Healthcare,7897,Patched,Yes
+CVE-2021-06972,2021-10-03,Privilege Escalation,Drupal,Core,7.2,High,Physical,High,None,None,None,High,High,Germany,Healthcare,48308,Patched,No
+CVE-2021-24104,2021-05-25,Logic Flaw,Nginx,Nginx,9.5,Critical,Physical,High,Low,Required,High,None,None,France,Transport,2992,Exploited,No
+CVE-2021-52942,2021-12-22,Credential Stuffing,Apache,Tomcat,8.5,High,Network,Low,None,None,High,None,Low,China,Defense,15785,Under Investigation,Yes
+CVE-2021-23240,2021-09-08,CSRF,Zimbra,Collaboration Suite,5.4,Medium,Network,High,None,None,Low,High,High,UK,Telecom,32603,Patched,No
+CVE-2021-05199,2021-03-29,SSRF,Linux,Kernel,1.4,Low,Local,Low,High,None,High,Low,None,France,Government,23688,Actively Exploited,Yes
+CVE-2021-20532,2021-08-21,Zero-Day Exploit,Juniper,Junos,5.6,Medium,Physical,High,Low,Required,Low,Low,High,South Korea,Healthcare,19708,Actively Exploited,Yes
+CVE-2021-40743,2021-10-10,Zero-Day Exploit,Nginx,Nginx,8.0,High,Adjacent,High,High,None,None,High,High,Turkey,Transport,31435,Resolved,Yes
+CVE-2021-62723,2021-06-11,SQL Injection,Linux,Kernel,9.0,Critical,Local,Low,High,Required,High,Low,Low,North Korea,Healthcare,44057,Under Investigation,No
+CVE-2021-84494,2021-03-10,XXE,Atlassian,Confluence,9.0,Critical,Adjacent,Low,Low,None,High,High,Low,Russia,Healthcare,45991,Patched,No
+CVE-2021-93301,2021-08-11,Privilege Escalation,Fortinet,FortiGate,8.8,High,Physical,Low,None,None,Low,High,High,Russia,Education,17017,Exploited,Yes
+CVE-2021-48931,2021-03-27,Logic Flaw,Zimbra,Collaboration Suite,5.7,Medium,Local,High,Low,Required,High,High,None,Romania,Retail,35486,Resolved,Yes
+CVE-2021-27755,2021-01-05,Path Traversal,Nginx,Nginx,5.6,Medium,Network,Low,High,Required,High,High,None,UK,Education,8044,Under Investigation,No
+CVE-2021-48045,2021-12-25,CSRF,Palo Alto,GlobalProtect,8.7,High,Network,Low,Low,None,None,Low,Low,Canada,Education,34818,Resolved,No
+CVE-2021-13519,2021-12-25,Phishing,Drupal,Modules,1.6,Low,Physical,High,None,Required,Low,High,None,Germany,IT,29225,Resolved,No
+CVE-2021-57489,2021-04-08,Deserialization,Adobe,Photoshop,4.9,Medium,Local,Low,High,Required,None,Low,Low,South Korea,IT,1368,Actively Exploited,No
+CVE-2021-68147,2021-10-10,Logic Flaw,Atlassian,Bitbucket,1.1,Low,Network,High,Low,None,Low,Low,None,Romania,IT,17415,Exploited,Yes
+CVE-2021-86423,2021-11-27,Phishing,Nginx,Nginx,3.6,Low,Local,Low,None,Required,High,High,None,UK,IT,43849,Resolved,Yes
+CVE-2021-73905,2021-10-12,XXE,Google,Chrome,9.3,Critical,Local,Low,High,None,Low,High,Low,Iran,Retail,5925,Under Investigation,No
+CVE-2021-80213,2021-12-30,DoS/DDoS,Juniper,Junos,1.1,Low,Local,Low,High,Required,Low,High,Low,South Korea,Transport,27791,Resolved,No
+CVE-2021-07851,2021-04-26,DoS/DDoS,Adobe,Flash,4.5,Medium,Adjacent,Low,High,None,None,None,None,Brazil,Education,44127,Actively Exploited,Yes
+CVE-2021-71093,2021-08-14,Zero-Day Exploit,Palo Alto,PAN-OS,7.8,High,Network,High,None,None,High,None,None,Romania,IT,14352,Resolved,No
+CVE-2021-66265,2021-07-02,RCE,SAP,HANA,2.7,Low,Adjacent,Low,None,None,Low,High,None,Pakistan,Transport,42441,Actively Exploited,No
+CVE-2021-62192,2021-05-02,Brute Force,Fortinet,FortiGate,5.6,Medium,Local,High,Low,Required,High,High,High,Netherlands,Transport,34619,Resolved,No
+CVE-2021-97318,2021-05-17,Ransomware,Nginx,Nginx,9.5,Critical,Adjacent,Low,High,Required,None,Low,None,North Korea,Energy,45545,Under Investigation,Yes
+CVE-2021-33694,2021-09-29,MITM,Atlassian,Bitbucket,0.0,None,Adjacent,High,High,None,Low,None,None,Iran,Education,10792,Actively Exploited,Yes
+CVE-2021-46886,2021-02-11,RCE,Zimbra,Collaboration Suite,1.8,Low,Physical,Low,High,None,High,None,Low,Nigeria,Transport,17546,Patched,No
+CVE-2021-13406,2021-06-29,Buffer Overflow,Zimbra,Collaboration Suite,8.0,High,Physical,Low,Low,None,Low,High,None,Netherlands,Manufacturing,2703,Under Investigation,Yes
+CVE-2021-41753,2021-07-27,SSRF,Adobe,Acrobat,2.0,Low,Adjacent,High,Low,Required,Low,High,None,Germany,Defense,33140,Exploited,Yes
+CVE-2021-81745,2021-01-25,Brute Force,Linux,systemd,2.9,Low,Local,High,High,Required,High,High,High,Turkey,Retail,9875,Patched,No
+CVE-2021-69778,2021-01-22,Credential Stuffing,Atlassian,Jira,6.4,Medium,Physical,Low,Low,Required,High,High,High,Indonesia,Energy,49685,Exploited,No
+CVE-2021-57702,2021-04-06,XSS,F5,BIG-IP,4.0,Medium,Adjacent,Low,None,None,None,Low,None,Brazil,IT,39149,Actively Exploited,No
+CVE-2021-56905,2021-02-28,DoS/DDoS,Zimbra,Collaboration Suite,0.6,Low,Physical,High,Low,None,None,Low,High,Brazil,Government,35489,Actively Exploited,Yes
+CVE-2021-63019,2021-08-25,Buffer Overflow,Adobe,Acrobat,9.6,Critical,Local,Low,None,Required,Low,None,High,Indonesia,Telecom,30137,Under Investigation,Yes
+CVE-2021-16283,2021-01-12,Brute Force,Linux,Kernel,5.2,Medium,Physical,Low,Low,Required,None,Low,None,Romania,Defense,7085,Actively Exploited,Yes
+CVE-2021-99427,2021-07-18,Ransomware,Palo Alto,GlobalProtect,8.1,High,Local,High,High,None,High,High,High,Canada,Energy,3665,Under Investigation,Yes
+CVE-2021-40609,2021-04-19,Credential Stuffing,Atlassian,Bitbucket,3.0,Low,Physical,High,None,Required,None,Low,None,South Korea,IT,25870,Patched,No
+CVE-2021-57165,2021-10-02,XXE,Atlassian,Jira,6.9,Medium,Local,Low,None,None,Low,Low,None,Germany,Education,13219,Actively Exploited,No
+CVE-2021-60346,2021-11-02,Path Traversal,SAP,NetWeaver,4.8,Medium,Adjacent,High,High,None,High,High,None,Nigeria,Manufacturing,13276,Exploited,No
+CVE-2021-09642,2021-08-08,Command Injection,Apple,iOS,7.8,High,Local,Low,Low,Required,High,Low,Low,Germany,Retail,17969,Actively Exploited,No
+CVE-2021-33392,2021-06-09,Phishing,Fortinet,FortiGate,1.9,Low,Physical,Low,Low,Required,Low,Low,High,UK,Defense,8713,Exploited,Yes
+CVE-2021-38718,2021-05-14,Brute Force,Atlassian,Jira,6.8,Medium,Network,High,None,None,None,High,Low,Turkey,Energy,42319,Patched,Yes
+CVE-2021-64711,2021-12-27,MITM,F5,BIG-IP,0.3,Low,Physical,Low,Low,None,High,None,High,Netherlands,Manufacturing,33055,Actively Exploited,No
+CVE-2021-76729,2021-03-05,Privilege Escalation,WordPress,Core,1.7,Low,Adjacent,Low,Low,None,Low,Low,Low,Germany,IT,49806,Resolved,No
+CVE-2021-73047,2021-08-12,Path Traversal,Zimbra,Collaboration Suite,9.1,Critical,Network,Low,High,None,High,None,Low,Vietnam,Healthcare,10635,Resolved,Yes
+CVE-2021-42828,2021-07-02,Buffer Overflow,Drupal,Modules,0.6,Low,Physical,Low,High,Required,Low,None,Low,Iran,Defense,29050,Under Investigation,No
+CVE-2021-51473,2021-11-12,Deserialization,SAP,HANA,4.9,Medium,Physical,Low,High,None,High,None,None,North Korea,Finance,48492,Actively Exploited,Yes
+CVE-2021-45272,2021-05-02,MITM,Zimbra,Collaboration Suite,8.8,High,Local,High,High,Required,High,High,Low,South Korea,Education,28012,Exploited,Yes
+CVE-2021-01465,2021-01-11,SSRF,IBM,MQ,6.4,Medium,Adjacent,Low,None,None,Low,Low,Low,India,Manufacturing,38968,Resolved,Yes
+CVE-2021-49079,2021-01-08,Zero-Day Exploit,Atlassian,Bitbucket,3.4,Low,Network,High,None,Required,High,Low,None,Russia,Education,12769,Actively Exploited,Yes
+CVE-2021-07972,2021-02-01,SSRF,Oracle,E-Business Suite,2.8,Low,Local,Low,None,None,None,Low,Low,North Korea,Education,29625,Actively Exploited,Yes
+CVE-2021-74304,2021-08-26,Logic Flaw,Apache,HTTP Server,9.7,Critical,Physical,High,High,Required,High,None,None,North Korea,Finance,24251,Actively Exploited,Yes
+CVE-2021-79148,2021-01-20,XXE,Nginx,Nginx,3.2,Low,Network,Low,High,None,Low,None,High,UK,Telecom,22113,Patched,No
+CVE-2021-34146,2021-08-31,Command Injection,VMware,Horizon,3.0,Low,Network,High,None,Required,Low,Low,Low,India,Transport,14127,Under Investigation,No
+CVE-2021-72902,2021-02-01,Path Traversal,Drupal,Core,6.3,Medium,Physical,High,None,None,None,High,Low,North Korea,Manufacturing,29833,Resolved,Yes
+CVE-2021-76133,2021-08-28,RCE,Oracle,Database,7.6,High,Physical,High,Low,Required,None,Low,Low,China,Education,34265,Under Investigation,Yes
+CVE-2021-91670,2021-10-28,DoS/DDoS,IBM,MQ,4.2,Medium,Physical,Low,Low,None,None,None,High,Nigeria,Manufacturing,46337,Under Investigation,No
+CVE-2021-24358,2021-02-25,XXE,Linux,glibc,8.2,High,Physical,Low,Low,Required,None,High,High,Pakistan,IT,17569,Actively Exploited,No
+CVE-2021-93206,2021-11-21,CSRF,Adobe,ColdFusion,5.2,Medium,Network,High,High,None,High,None,High,Nigeria,Education,42340,Exploited,Yes
+CVE-2021-04846,2021-05-02,MITM,Adobe,ColdFusion,4.9,Medium,Local,Low,Low,Required,Low,None,Low,Canada,Transport,39263,Actively Exploited,No
+CVE-2021-81415,2021-07-27,MITM,Apple,iOS,3.2,Low,Local,High,High,Required,Low,None,Low,USA,Government,4150,Patched,No
+CVE-2021-46621,2021-05-16,MITM,Cisco,Webex,3.0,Low,Local,High,None,Required,High,High,None,Indonesia,IT,15714,Actively Exploited,No
+CVE-2021-16438,2021-03-24,Buffer Overflow,Adobe,ColdFusion,5.6,Medium,Network,High,Low,None,Low,None,None,UK,Healthcare,16905,Actively Exploited,No
+CVE-2021-10546,2021-10-24,Command Injection,Adobe,Photoshop,0.4,Low,Adjacent,High,High,None,High,None,Low,UK,Defense,48072,Patched,Yes
+CVE-2021-42308,2021-12-15,Buffer Overflow,Linux,Kernel,6.1,Medium,Local,Low,None,None,High,Low,None,India,Government,35871,Actively Exploited,No
+CVE-2021-65890,2021-11-16,Brute Force,Adobe,Acrobat,8.5,High,Local,High,None,Required,Low,High,None,Netherlands,Education,20731,Actively Exploited,Yes
+CVE-2021-91010,2021-12-14,RCE,Zimbra,Collaboration Suite,5.1,Medium,Local,Low,Low,None,Low,None,None,UK,Energy,10842,Under Investigation,No
+CVE-2021-52537,2021-11-03,Privilege Escalation,Google,Android,7.8,High,Physical,High,None,None,None,High,Low,Russia,Energy,33334,Patched,Yes
+CVE-2021-82959,2021-12-23,Zero-Day Exploit,WordPress,Core,7.9,High,Adjacent,High,High,None,High,None,None,Turkey,Telecom,23585,Patched,No
+CVE-2021-70143,2021-03-09,Phishing,Nginx,Nginx,7.7,High,Physical,Low,Low,Required,High,Low,None,France,Finance,48360,Exploited,No
+CVE-2021-44795,2021-02-15,Path Traversal,Zimbra,Collaboration Suite,1.8,Low,Network,Low,Low,None,Low,High,High,Nigeria,Energy,2336,Resolved,Yes
+CVE-2021-87361,2021-02-15,RCE,Cisco,Firepower,9.0,Critical,Adjacent,Low,Low,None,High,None,High,France,Defense,17649,Resolved,Yes
+CVE-2021-43556,2021-06-24,Zero-Day Exploit,Apache,Log4j,5.7,Medium,Adjacent,Low,High,Required,None,High,High,Iran,Telecom,35552,Under Investigation,Yes
+CVE-2021-05162,2021-08-09,CSRF,Linux,Kernel,2.2,Low,Physical,Low,High,Required,None,None,High,Indonesia,Defense,5554,Actively Exploited,No
+CVE-2021-00396,2021-10-26,Buffer Overflow,Google,Chrome,8.2,High,Local,High,Low,Required,None,None,None,Canada,Energy,24633,Actively Exploited,No
+CVE-2021-14673,2021-03-05,XSS,Drupal,Modules,7.1,High,Local,Low,High,None,Low,None,None,Romania,Retail,47458,Under Investigation,No
+CVE-2021-24479,2021-02-06,Buffer Overflow,Apple,iOS,6.4,Medium,Local,Low,None,Required,None,None,Low,India,Retail,8591,Resolved,No
+CVE-2021-99193,2021-02-03,Phishing,Oracle,E-Business Suite,8.4,High,Network,High,High,None,None,None,None,Iran,Retail,31114,Resolved,Yes
+CVE-2021-67852,2021-08-02,Command Injection,Microsoft,Exchange Server,0.7,Low,Adjacent,High,None,Required,Low,None,Low,Iran,Education,1487,Under Investigation,No
+CVE-2021-59288,2021-12-20,Privilege Escalation,Oracle,WebLogic,9.9,Critical,Adjacent,Low,Low,Required,High,High,High,China,Healthcare,24469,Actively Exploited,No
+CVE-2021-15028,2021-08-27,XXE,WordPress,Plugins,9.3,Critical,Network,Low,Low,Required,Low,None,Low,Romania,Telecom,4472,Under Investigation,No
+CVE-2021-27591,2021-04-28,Phishing,Fortinet,FortiManager,8.5,High,Adjacent,Low,None,None,Low,Low,None,Nigeria,Retail,11713,Under Investigation,Yes
+CVE-2021-08851,2021-11-24,Deserialization,Nginx,Nginx,5.6,Medium,Physical,Low,High,Required,Low,High,None,China,Telecom,22809,Actively Exploited,Yes
+CVE-2021-19762,2021-07-07,Zero-Day Exploit,Apple,Safari,0.2,Low,Local,High,None,Required,Low,Low,None,Netherlands,Telecom,10502,Under Investigation,Yes
+CVE-2021-64787,2021-08-13,XXE,Zimbra,Collaboration Suite,5.0,Medium,Physical,Low,None,None,High,Low,High,Russia,Government,7213,Patched,No
+CVE-2021-07441,2021-06-02,Deserialization,WordPress,Core,8.2,High,Physical,High,None,None,None,Low,High,Romania,Retail,20659,Exploited,No
+CVE-2021-05532,2021-05-01,Command Injection,Apple,iOS,0.3,Low,Network,Low,Low,Required,None,High,Low,South Korea,Healthcare,40661,Resolved,No
+CVE-2021-35467,2021-07-18,Credential Stuffing,Atlassian,Confluence,6.7,Medium,Network,Low,High,None,None,None,Low,Indonesia,IT,7484,Under Investigation,Yes
+CVE-2021-49276,2021-11-26,Ransomware,Drupal,Core,0.1,Low,Physical,Low,High,Required,Low,High,Low,Russia,Transport,14531,Resolved,Yes
+CVE-2021-21191,2021-09-04,SSRF,F5,BIG-IP,4.9,Medium,Adjacent,Low,Low,Required,High,Low,High,Iran,Manufacturing,7333,Exploited,No
+CVE-2021-10252,2021-12-01,SQL Injection,Fortinet,FortiOS,8.0,High,Local,High,High,Required,None,Low,Low,Pakistan,Government,22133,Resolved,Yes
+CVE-2021-05281,2021-05-08,CSRF,VMware,ESXi,8.6,High,Adjacent,High,Low,None,Low,Low,Low,Turkey,Finance,39050,Patched,No
+CVE-2021-50117,2021-12-24,MITM,Drupal,Core,6.2,Medium,Network,Low,None,Required,High,None,Low,Germany,Education,33027,Patched,Yes
+CVE-2021-05633,2021-10-26,Credential Stuffing,Oracle,WebLogic,1.2,Low,Network,Low,None,None,None,None,None,Iran,Transport,3549,Actively Exploited,No
+CVE-2021-18624,2021-06-18,Brute Force,Fortinet,FortiManager,0.4,Low,Network,High,High,None,None,None,High,South Korea,Healthcare,37994,Exploited,No
+CVE-2021-06681,2021-04-01,SQL Injection,Nginx,Nginx,5.1,Medium,Local,High,High,Required,High,High,None,Netherlands,Healthcare,43356,Resolved,No
+CVE-2021-28864,2021-03-10,Zero-Day Exploit,Google,Chrome,5.9,Medium,Physical,High,Low,Required,High,High,Low,France,Defense,25785,Exploited,No
+CVE-2021-46246,2021-09-10,Phishing,Fortinet,FortiGate,1.3,Low,Physical,High,High,Required,None,None,None,Russia,IT,33782,Exploited,Yes
+CVE-2021-67451,2021-11-22,Phishing,Adobe,Photoshop,2.3,Low,Adjacent,Low,Low,Required,High,None,None,Romania,Defense,18925,Resolved,Yes
+CVE-2021-31317,2021-06-07,DoS/DDoS,Cisco,AnyConnect,9.7,Critical,Adjacent,High,High,Required,None,High,High,Iran,Government,28735,Exploited,No
+CVE-2021-28627,2021-01-07,Brute Force,Cisco,IOS,2.5,Low,Physical,High,None,None,High,None,Low,Russia,Telecom,30374,Patched,No
+CVE-2021-88527,2021-10-15,Command Injection,IBM,MQ,0.8,Low,Network,Low,None,None,None,High,High,Iran,Retail,41311,Resolved,Yes
+CVE-2021-75927,2021-09-14,MITM,Apple,Safari,0.3,Low,Adjacent,High,Low,Required,None,High,High,Indonesia,Healthcare,36831,Patched,No
+CVE-2021-37516,2021-04-27,SQL Injection,Atlassian,Jira,6.8,Medium,Local,High,High,None,Low,Low,Low,Iran,Healthcare,10309,Actively Exploited,No
+CVE-2021-45467,2021-04-27,Path Traversal,Atlassian,Confluence,5.5,Medium,Network,Low,None,None,High,None,Low,Russia,Finance,13420,Under Investigation,No
+CVE-2021-37336,2021-11-12,DoS/DDoS,Fortinet,FortiOS,6.4,Medium,Network,Low,Low,None,Low,High,Low,Germany,Transport,17276,Resolved,Yes
+CVE-2021-10645,2021-08-02,CSRF,Adobe,Flash,1.4,Low,Physical,High,High,None,None,High,None,Russia,Government,16603,Patched,Yes
+CVE-2021-02129,2021-11-14,DoS/DDoS,WordPress,Core,6.5,Medium,Physical,High,High,Required,High,None,None,UK,Transport,47424,Under Investigation,No
+CVE-2021-87151,2021-06-03,SSRF,Cisco,AnyConnect,9.5,Critical,Physical,High,None,None,High,High,None,Canada,Healthcare,9924,Actively Exploited,Yes
+CVE-2021-34399,2021-06-26,CSRF,Google,Chrome,1.5,Low,Adjacent,Low,Low,Required,Low,None,High,China,Transport,42763,Actively Exploited,No
+CVE-2021-58592,2021-05-19,Buffer Overflow,Linux,systemd,2.4,Low,Network,High,High,None,None,Low,None,France,Education,34013,Exploited,No
+CVE-2021-84916,2021-09-21,Buffer Overflow,Apache,HTTP Server,2.7,Low,Network,High,None,Required,Low,High,High,Brazil,Education,47539,Exploited,Yes
+CVE-2021-92131,2021-04-24,Credential Stuffing,Nginx,Nginx,8.0,High,Local,Low,None,Required,None,Low,High,USA,Retail,13835,Actively Exploited,Yes
+CVE-2021-37346,2021-03-17,SSRF,Palo Alto,GlobalProtect,4.8,Medium,Local,High,None,None,High,High,Low,Ukraine,Energy,31805,Exploited,No
+CVE-2021-99253,2021-03-18,Logic Flaw,VMware,Workstation,4.1,Medium,Adjacent,Low,None,Required,Low,None,Low,France,Healthcare,17985,Resolved,Yes
+CVE-2021-38186,2021-08-16,Buffer Overflow,Palo Alto,GlobalProtect,0.6,Low,Adjacent,Low,High,None,Low,Low,None,China,Healthcare,30176,Resolved,Yes
+CVE-2021-79747,2021-02-22,Phishing,Juniper,Junos,6.1,Medium,Adjacent,High,None,Required,High,High,Low,Pakistan,Government,30034,Under Investigation,Yes
+CVE-2021-06253,2021-06-01,Buffer Overflow,Oracle,Database,2.2,Low,Physical,High,None,None,Low,Low,None,Brazil,Telecom,36417,Exploited,Yes
+CVE-2021-55329,2021-08-25,Deserialization,Adobe,ColdFusion,2.4,Low,Adjacent,Low,Low,Required,None,None,High,Nigeria,Retail,16548,Actively Exploited,No
+CVE-2021-82169,2021-10-22,MITM,Zimbra,Collaboration Suite,0.2,Low,Local,High,None,None,Low,Low,None,North Korea,IT,11965,Patched,Yes
+CVE-2021-97287,2021-09-12,SSRF,Linux,glibc,5.6,Medium,Adjacent,Low,None,Required,None,Low,None,India,Healthcare,27662,Under Investigation,Yes
+CVE-2021-55005,2021-11-13,Buffer Overflow,Apple,iOS,0.8,Low,Network,Low,Low,None,None,Low,None,Nigeria,Defense,26986,Patched,No
+CVE-2021-70296,2021-11-08,Phishing,Zimbra,Collaboration Suite,5.6,Medium,Adjacent,High,None,Required,Low,None,Low,India,Retail,31122,Exploited,No
+CVE-2021-61577,2021-04-30,SQL Injection,Microsoft,Windows,1.1,Low,Physical,Low,None,Required,None,High,Low,Pakistan,Defense,8637,Resolved,Yes
+CVE-2021-92937,2021-12-16,SSRF,Fortinet,FortiOS,0.1,Low,Physical,High,None,None,None,Low,High,South Korea,Telecom,18327,Exploited,Yes
+CVE-2021-17438,2021-06-21,Zero-Day Exploit,WordPress,Plugins,0.8,Low,Adjacent,Low,None,Required,Low,Low,None,UK,Retail,21226,Actively Exploited,Yes
+CVE-2021-37342,2021-03-08,Buffer Overflow,Zimbra,Collaboration Suite,8.9,High,Physical,High,None,None,Low,High,Low,South Korea,Defense,27520,Actively Exploited,No
+CVE-2021-83668,2021-12-20,Command Injection,Google,Workspace,8.5,High,Network,High,None,None,Low,High,Low,UK,Retail,26482,Under Investigation,Yes
+CVE-2021-21153,2021-05-06,Logic Flaw,Google,Chrome,9.4,Critical,Physical,Low,High,Required,None,None,Low,France,Transport,44678,Patched,No
+CVE-2021-80845,2021-07-18,Path Traversal,Oracle,WebLogic,9.9,Critical,Local,Low,None,None,Low,High,None,China,Defense,13957,Patched,No
+CVE-2021-85642,2021-12-31,Logic Flaw,Oracle,WebLogic,3.0,Low,Local,High,High,Required,Low,High,High,UK,Finance,33448,Under Investigation,Yes
+CVE-2021-02185,2021-09-13,SQL Injection,Juniper,Junos,0.0,None,Network,Low,None,None,Low,None,Low,India,Energy,17009,Patched,Yes
+CVE-2021-11742,2021-06-18,SSRF,Google,Chrome,8.0,High,Physical,Low,High,Required,High,None,High,USA,Retail,36858,Exploited,No
+CVE-2021-25825,2021-08-02,Deserialization,Microsoft,Office,0.1,Low,Physical,High,None,Required,High,None,High,Brazil,Healthcare,41147,Under Investigation,No
+CVE-2021-38128,2021-06-27,Zero-Day Exploit,F5,BIG-IP,2.5,Low,Local,Low,High,Required,High,Low,Low,Nigeria,IT,41846,Resolved,Yes
+CVE-2021-42326,2021-04-29,SSRF,Atlassian,Jira,0.9,Low,Adjacent,High,None,Required,None,High,Low,Vietnam,Finance,26595,Under Investigation,No
+CVE-2021-67164,2021-09-17,Path Traversal,Apple,Safari,6.5,Medium,Physical,Low,High,Required,High,None,Low,Turkey,Energy,34571,Patched,No
+CVE-2021-21054,2021-07-09,Credential Stuffing,Apple,iOS,1.5,Low,Physical,Low,None,None,High,High,None,China,Healthcare,45266,Actively Exploited,Yes
+CVE-2021-97910,2021-04-11,Phishing,Google,Android,7.8,High,Network,Low,Low,Required,Low,High,Low,Netherlands,IT,19607,Resolved,No
+CVE-2021-17009,2021-03-22,Brute Force,Google,Android,3.2,Low,Physical,Low,None,Required,Low,Low,None,South Korea,Telecom,3281,Resolved,No
+CVE-2021-44611,2021-03-01,Command Injection,WordPress,Core,3.1,Low,Network,High,None,None,High,Low,High,Germany,Healthcare,13260,Patched,Yes
+CVE-2021-66705,2021-03-24,XXE,Linux,Kernel,4.5,Medium,Network,Low,Low,None,High,None,Low,Canada,Education,2192,Actively Exploited,No
+CVE-2021-95772,2021-06-29,Buffer Overflow,Juniper,Junos,4.5,Medium,Adjacent,High,None,None,Low,High,Low,UK,Healthcare,49652,Resolved,Yes
+CVE-2021-41712,2021-02-28,XSS,Cisco,Firepower,2.9,Low,Physical,Low,None,Required,High,None,None,Indonesia,Education,22772,Actively Exploited,Yes
+CVE-2021-11067,2021-08-17,Privilege Escalation,Microsoft,Windows,5.0,Medium,Adjacent,High,None,Required,None,Low,High,Iran,Defense,40691,Actively Exploited,No
+CVE-2021-26992,2021-09-08,Zero-Day Exploit,Fortinet,FortiOS,5.7,Medium,Adjacent,Low,High,None,Low,None,None,India,Defense,10171,Patched,No
+CVE-2021-31789,2021-12-16,Command Injection,Atlassian,Bitbucket,0.0,None,Adjacent,High,None,Required,High,None,High,Russia,Finance,35795,Exploited,No
+CVE-2021-67385,2021-07-13,MITM,Palo Alto,GlobalProtect,0.2,Low,Local,High,None,Required,None,None,None,UK,Education,10979,Under Investigation,Yes
+CVE-2021-70366,2021-02-13,Credential Stuffing,WordPress,Plugins,4.6,Medium,Local,High,Low,None,High,None,None,Canada,Finance,36622,Resolved,No
+CVE-2021-15004,2021-05-29,MITM,F5,BIG-IP,1.2,Low,Network,High,None,Required,High,Low,Low,Germany,Finance,29437,Actively Exploited,Yes
+CVE-2021-16347,2021-07-10,Zero-Day Exploit,Zimbra,Collaboration Suite,8.9,High,Adjacent,Low,High,Required,High,High,High,Russia,Finance,36314,Actively Exploited,Yes
+CVE-2021-09102,2021-07-30,Privilege Escalation,Oracle,E-Business Suite,2.9,Low,Network,Low,Low,None,High,Low,High,Indonesia,Retail,43864,Exploited,Yes
+CVE-2021-06285,2021-11-05,Logic Flaw,Oracle,WebLogic,8.3,High,Adjacent,Low,None,Required,Low,None,Low,Russia,Finance,45873,Exploited,No
+CVE-2021-39829,2021-04-16,Phishing,Cisco,Firepower,9.1,Critical,Adjacent,High,None,None,High,Low,High,Canada,Transport,9928,Patched,No
+CVE-2021-86286,2021-03-29,Deserialization,Adobe,Photoshop,4.8,Medium,Physical,Low,Low,None,High,Low,Low,Nigeria,Manufacturing,41065,Under Investigation,Yes
+CVE-2021-34421,2021-09-24,MITM,Linux,glibc,5.0,Medium,Physical,Low,None,Required,High,High,Low,North Korea,Government,18074,Exploited,No
+CVE-2021-90793,2021-02-06,CSRF,Cisco,ASA,2.3,Low,Adjacent,Low,Low,Required,High,High,None,Germany,Manufacturing,29944,Actively Exploited,No
+CVE-2021-59446,2021-08-06,DoS/DDoS,Fortinet,FortiManager,4.6,Medium,Physical,Low,Low,None,None,Low,None,South Korea,Energy,2936,Resolved,No
+CVE-2021-56607,2021-11-14,DoS/DDoS,Apple,macOS,0.3,Low,Local,High,High,Required,High,None,High,France,Telecom,22861,Patched,Yes
+CVE-2021-65943,2021-03-03,XXE,Apple,iOS,9.6,Critical,Local,High,None,None,Low,High,None,Nigeria,Transport,28419,Resolved,Yes
+CVE-2021-24593,2021-07-17,CSRF,Atlassian,Jira,8.5,High,Adjacent,High,High,None,None,Low,Low,Romania,Government,5278,Resolved,Yes
+CVE-2021-46155,2021-04-26,Logic Flaw,Apache,Log4j,5.0,Medium,Adjacent,Low,High,Required,Low,Low,High,North Korea,IT,27437,Under Investigation,No
+CVE-2021-06723,2021-02-02,DoS/DDoS,Linux,Kernel,3.4,Low,Physical,High,Low,Required,None,Low,High,Indonesia,Defense,33047,Under Investigation,Yes
+CVE-2021-27322,2021-05-27,Command Injection,Apple,Safari,9.7,Critical,Local,Low,Low,None,Low,Low,None,South Korea,Transport,28022,Exploited,Yes
+CVE-2021-87359,2021-08-09,SQL Injection,Microsoft,Office,10.0,Critical,Adjacent,Low,High,None,None,None,High,UK,Retail,31466,Patched,Yes
+CVE-2021-62063,2021-05-27,SQL Injection,Atlassian,Jira,0.0,None,Adjacent,High,High,Required,High,Low,None,Ukraine,Telecom,16762,Under Investigation,No
+CVE-2021-67301,2021-08-01,SQL Injection,Atlassian,Jira,5.5,Medium,Local,Low,High,Required,Low,Low,None,South Korea,Transport,4144,Exploited,Yes
+CVE-2021-72948,2021-10-06,Ransomware,Atlassian,Jira,4.5,Medium,Physical,Low,None,Required,Low,Low,Low,Indonesia,Energy,38968,Exploited,Yes
+CVE-2021-23467,2021-04-06,SSRF,Linux,Kernel,6.2,Medium,Network,Low,High,Required,None,None,None,USA,Telecom,44916,Under Investigation,Yes
+CVE-2021-69190,2021-02-16,MITM,Zimbra,Collaboration Suite,1.1,Low,Physical,Low,High,Required,High,None,None,Brazil,Telecom,40027,Patched,Yes
+CVE-2021-08998,2021-05-30,XSS,Oracle,E-Business Suite,6.3,Medium,Physical,High,High,Required,High,High,None,Pakistan,Healthcare,18802,Under Investigation,No
+CVE-2021-41851,2021-12-15,Credential Stuffing,Fortinet,FortiGate,7.8,High,Local,High,Low,None,None,None,None,Iran,Healthcare,8201,Actively Exploited,Yes
+CVE-2021-38058,2021-06-05,XXE,Apple,Safari,1.9,Low,Network,Low,Low,Required,High,Low,Low,South Korea,Healthcare,22111,Actively Exploited,No
+CVE-2021-93286,2021-01-19,MITM,Fortinet,FortiManager,2.1,Low,Adjacent,Low,Low,Required,None,High,High,Romania,Government,12154,Actively Exploited,No
+CVE-2021-52613,2021-02-19,Logic Flaw,Adobe,Flash,5.3,Medium,Adjacent,High,None,Required,Low,Low,Low,Vietnam,Healthcare,33976,Patched,Yes
+CVE-2021-74554,2021-12-17,SQL Injection,Linux,Kernel,7.7,High,Physical,High,High,Required,High,High,Low,China,Government,42873,Actively Exploited,No
+CVE-2021-41170,2021-07-13,SQL Injection,Apple,iOS,9.8,Critical,Physical,Low,None,Required,Low,Low,High,Canada,Finance,20179,Exploited,No
+CVE-2021-98261,2021-07-30,CSRF,Palo Alto,PAN-OS,4.9,Medium,Physical,High,High,None,Low,Low,High,China,Defense,21809,Resolved,Yes
+CVE-2021-81150,2021-04-25,Ransomware,Fortinet,FortiManager,7.2,High,Adjacent,Low,Low,Required,None,Low,Low,South Korea,Government,43721,Patched,No
+CVE-2021-44380,2021-12-16,SSRF,Atlassian,Confluence,7.0,High,Physical,High,High,Required,High,None,None,North Korea,Transport,22556,Patched,Yes
+CVE-2021-16125,2021-04-07,Zero-Day Exploit,IBM,QRadar,6.4,Medium,Local,Low,None,None,Low,None,Low,Russia,Retail,4690,Actively Exploited,No
+CVE-2021-82195,2021-01-04,Brute Force,Cisco,Firepower,9.2,Critical,Adjacent,High,High,Required,None,High,Low,Canada,Manufacturing,35178,Patched,Yes
+CVE-2021-11279,2021-03-26,XSS,Drupal,Modules,0.1,Low,Adjacent,Low,None,Required,High,High,None,Romania,Manufacturing,32653,Under Investigation,No
+CVE-2021-83204,2021-02-02,SQL Injection,Palo Alto,PAN-OS,1.4,Low,Local,High,High,Required,High,Low,Low,Romania,Telecom,43793,Resolved,Yes
+CVE-2021-45676,2021-05-10,XXE,Apple,Safari,0.4,Low,Adjacent,Low,None,Required,None,Low,None,Nigeria,Government,17381,Under Investigation,Yes
+CVE-2021-20599,2021-09-06,Logic Flaw,Juniper,Junos,5.5,Medium,Adjacent,Low,Low,None,None,Low,Low,Netherlands,Energy,37210,Patched,No
+CVE-2021-41661,2021-06-29,XSS,Apple,iOS,0.8,Low,Adjacent,High,Low,Required,None,High,None,Nigeria,Energy,2272,Exploited,No
+CVE-2021-59840,2021-12-23,SQL Injection,Palo Alto,PAN-OS,5.0,Medium,Physical,High,High,None,None,Low,None,UK,Government,35787,Exploited,Yes
+CVE-2021-12467,2021-08-11,Logic Flaw,Juniper,Junos,7.2,High,Physical,Low,None,None,Low,High,None,Pakistan,Transport,20997,Under Investigation,No
+CVE-2021-24430,2021-12-04,Logic Flaw,Nginx,Nginx,4.0,Medium,Adjacent,High,High,None,Low,None,High,Nigeria,Healthcare,26049,Patched,Yes
+CVE-2021-31050,2021-02-05,Ransomware,Palo Alto,GlobalProtect,0.4,Low,Adjacent,High,None,Required,None,None,High,Indonesia,Telecom,45158,Patched,Yes
+CVE-2021-62858,2021-02-02,Path Traversal,Drupal,Modules,3.8,Low,Network,Low,Low,Required,High,Low,High,Vietnam,Finance,37727,Under Investigation,Yes
+CVE-2021-27518,2021-10-04,CSRF,WordPress,Plugins,1.8,Low,Local,Low,High,Required,None,None,High,Vietnam,Defense,40351,Resolved,Yes
+CVE-2021-38188,2021-12-31,Buffer Overflow,WordPress,Plugins,0.2,Low,Adjacent,High,High,None,None,Low,Low,Ukraine,Finance,11387,Patched,No
+CVE-2021-62527,2021-08-29,Zero-Day Exploit,Apache,Tomcat,2.0,Low,Local,High,None,Required,None,High,High,Ukraine,Retail,33061,Patched,Yes
+CVE-2021-07416,2021-07-30,Credential Stuffing,Google,Workspace,2.4,Low,Adjacent,Low,High,None,High,Low,Low,Netherlands,Government,10929,Patched,Yes
+CVE-2021-48240,2021-05-28,Buffer Overflow,Cisco,ASA,3.5,Low,Adjacent,Low,High,None,None,Low,Low,Iran,Healthcare,33715,Exploited,Yes
+CVE-2021-28238,2021-09-24,DoS/DDoS,Microsoft,Exchange Server,6.0,Medium,Adjacent,Low,None,Required,Low,High,None,India,Energy,15856,Exploited,Yes
+CVE-2021-54040,2021-03-09,Ransomware,Apple,iOS,5.9,Medium,Physical,Low,Low,Required,High,High,None,Iran,Finance,9096,Actively Exploited,Yes
+CVE-2021-09861,2021-08-08,MITM,Fortinet,FortiManager,9.2,Critical,Physical,High,None,Required,None,High,None,Romania,IT,36260,Under Investigation,No
+CVE-2021-81644,2021-06-06,CSRF,Adobe,Flash,5.3,Medium,Local,High,High,None,High,High,None,North Korea,IT,1922,Under Investigation,Yes
+CVE-2021-51226,2021-06-02,Privilege Escalation,Juniper,Junos,0.6,Low,Network,High,None,None,None,None,High,Netherlands,Transport,4380,Exploited,Yes
+CVE-2021-88224,2021-05-26,XSS,Linux,Kernel,3.4,Low,Local,High,High,None,Low,High,None,India,Government,21566,Under Investigation,No
+CVE-2021-90310,2021-12-06,Zero-Day Exploit,Atlassian,Bitbucket,9.3,Critical,Local,Low,Low,Required,High,High,Low,France,Manufacturing,34707,Patched,Yes
+CVE-2021-06440,2021-04-28,SQL Injection,VMware,Horizon,6.0,Medium,Adjacent,High,High,None,None,None,High,Iran,Telecom,4024,Exploited,No
+CVE-2021-35192,2021-10-17,Ransomware,F5,BIG-IP,8.2,High,Physical,High,None,Required,None,High,High,USA,IT,20631,Exploited,No
+CVE-2021-93121,2021-10-12,Credential Stuffing,Atlassian,Bitbucket,2.2,Low,Physical,High,High,None,Low,Low,Low,India,Telecom,15658,Resolved,Yes
+CVE-2021-42615,2021-04-17,Deserialization,Juniper,Junos,4.6,Medium,Adjacent,High,High,None,Low,Low,Low,North Korea,Manufacturing,41502,Patched,Yes
+CVE-2021-77356,2021-04-24,Brute Force,Apache,Tomcat,4.3,Medium,Physical,High,High,Required,High,Low,Low,Germany,IT,47148,Under Investigation,No
+CVE-2021-68369,2021-06-14,Buffer Overflow,Apache,Struts,5.3,Medium,Network,Low,Low,None,Low,High,None,South Korea,Healthcare,24855,Patched,No
+CVE-2021-88202,2021-12-22,XSS,Cisco,Webex,6.5,Medium,Network,High,Low,None,None,Low,Low,Iran,Government,24900,Under Investigation,Yes
+CVE-2021-47021,2021-12-30,Phishing,Atlassian,Bitbucket,3.1,Low,Adjacent,Low,None,None,Low,High,High,Germany,Energy,22354,Under Investigation,No
+CVE-2021-54503,2021-09-01,Privilege Escalation,Fortinet,FortiManager,9.5,Critical,Adjacent,High,High,Required,None,High,Low,France,Retail,42494,Patched,Yes
+CVE-2021-05851,2021-02-07,Command Injection,WordPress,Plugins,8.0,High,Local,High,High,None,High,Low,None,Canada,Government,45278,Actively Exploited,No
+CVE-2021-30257,2021-12-11,Logic Flaw,Apple,iOS,4.8,Medium,Local,Low,High,None,None,Low,None,Vietnam,Transport,756,Under Investigation,Yes
+CVE-2021-67402,2021-08-26,Logic Flaw,Oracle,Database,6.3,Medium,Local,High,Low,None,High,High,High,Ukraine,Defense,35741,Patched,No
+CVE-2021-31507,2021-04-17,XXE,Cisco,ASA,9.4,Critical,Network,High,Low,None,Low,None,High,Nigeria,Education,25809,Under Investigation,Yes
+CVE-2021-83025,2021-12-14,Path Traversal,Adobe,ColdFusion,9.1,Critical,Local,High,None,None,Low,Low,None,France,Government,11065,Resolved,No
+CVE-2021-70125,2021-06-22,Buffer Overflow,Nginx,Nginx,8.9,High,Adjacent,Low,Low,None,None,High,High,Netherlands,Energy,8909,Under Investigation,Yes
+CVE-2021-10982,2021-05-10,Ransomware,IBM,WebSphere,0.2,Low,Network,Low,None,Required,None,Low,High,Germany,IT,20639,Patched,Yes
+CVE-2021-90914,2021-04-17,Deserialization,Apache,Struts,6.3,Medium,Physical,High,Low,Required,None,High,Low,Brazil,IT,12073,Exploited,Yes
+CVE-2021-02331,2021-06-05,XSS,SAP,HANA,0.2,Low,Local,Low,None,None,Low,High,Low,USA,Manufacturing,29436,Patched,Yes
+CVE-2021-21664,2021-07-08,SSRF,Drupal,Core,6.2,Medium,Local,Low,High,None,High,None,High,Nigeria,Defense,12822,Actively Exploited,Yes
+CVE-2021-48738,2021-02-25,Deserialization,WordPress,Plugins,9.0,Critical,Adjacent,Low,Low,None,None,High,Low,Pakistan,Telecom,7903,Resolved,No
+CVE-2021-09369,2021-04-25,Phishing,Google,Android,1.6,Low,Network,Low,Low,None,Low,High,Low,North Korea,Manufacturing,3040,Actively Exploited,Yes
+CVE-2021-21029,2021-11-26,MITM,Adobe,Flash,0.4,Low,Network,Low,Low,None,High,Low,High,Vietnam,Healthcare,22348,Resolved,No
+CVE-2021-02863,2021-08-06,DoS/DDoS,Adobe,ColdFusion,4.2,Medium,Adjacent,High,None,None,Low,None,Low,China,Telecom,4297,Exploited,No
+CVE-2021-54818,2021-10-11,MITM,F5,BIG-IP,3.3,Low,Network,Low,None,None,Low,Low,None,Turkey,IT,26475,Actively Exploited,Yes
+CVE-2021-96762,2021-03-02,Credential Stuffing,Nginx,Nginx,2.6,Low,Local,High,High,None,High,High,High,Indonesia,Healthcare,18311,Actively Exploited,No
+CVE-2021-55524,2021-12-02,Phishing,VMware,ESXi,4.3,Medium,Network,High,None,None,Low,High,Low,Canada,Education,48550,Patched,Yes
+CVE-2021-11551,2021-07-13,MITM,IBM,MQ,7.5,High,Network,High,High,None,High,Low,High,Netherlands,Defense,17154,Resolved,No
+CVE-2021-01622,2021-06-01,Command Injection,Cisco,AnyConnect,6.0,Medium,Adjacent,Low,Low,None,None,None,High,Romania,Defense,15091,Actively Exploited,No
+CVE-2021-54332,2021-10-03,Path Traversal,WordPress,Plugins,7.6,High,Network,Low,Low,None,High,Low,High,Vietnam,Defense,39062,Resolved,No
+CVE-2021-21086,2021-10-30,SQL Injection,Cisco,AnyConnect,7.6,High,Physical,Low,High,Required,High,Low,Low,India,Telecom,18973,Exploited,No
+CVE-2021-66858,2021-01-29,Ransomware,F5,BIG-IP,4.3,Medium,Network,Low,High,None,None,None,None,Nigeria,IT,19307,Patched,Yes
+CVE-2021-09834,2021-06-16,Phishing,Nginx,Nginx,6.5,Medium,Adjacent,High,High,None,Low,Low,High,Russia,Telecom,49408,Patched,No
+CVE-2021-41598,2021-03-07,RCE,Drupal,Modules,7.7,High,Physical,High,Low,None,None,High,None,North Korea,Manufacturing,45862,Exploited,Yes
+CVE-2021-63487,2021-09-01,SQL Injection,Fortinet,FortiGate,6.3,Medium,Local,High,Low,None,High,High,Low,Pakistan,IT,49569,Patched,No
+CVE-2021-63682,2021-12-15,RCE,Zimbra,Collaboration Suite,9.5,Critical,Local,Low,High,Required,None,Low,High,Russia,Education,3450,Exploited,Yes
+CVE-2021-79919,2021-12-15,Path Traversal,Juniper,Junos,2.7,Low,Adjacent,Low,Low,None,Low,None,High,Ukraine,Energy,41491,Exploited,No
+CVE-2021-09010,2021-09-04,Brute Force,IBM,MQ,7.8,High,Local,High,High,None,None,High,None,India,IT,16319,Resolved,No
+CVE-2021-67454,2021-06-06,Ransomware,Apache,Kafka,4.3,Medium,Network,Low,None,None,High,Low,High,Indonesia,Education,33838,Exploited,Yes
+CVE-2021-24721,2021-08-29,Phishing,Palo Alto,PAN-OS,6.9,Medium,Adjacent,Low,None,None,None,High,High,Nigeria,Government,17988,Actively Exploited,Yes
+CVE-2021-48127,2021-01-28,Buffer Overflow,Apache,Tomcat,4.1,Medium,Physical,High,Low,Required,Low,None,None,South Korea,Transport,2529,Resolved,Yes
+CVE-2021-09006,2021-01-06,XXE,Juniper,Junos,2.4,Low,Network,Low,High,Required,High,High,High,South Korea,Government,33794,Actively Exploited,Yes
+CVE-2021-65919,2021-11-26,Phishing,F5,BIG-IP,9.7,Critical,Physical,Low,High,None,None,High,High,India,Energy,10341,Patched,Yes
+CVE-2021-76539,2021-05-24,XXE,SAP,NetWeaver,7.8,High,Network,Low,High,Required,Low,None,Low,Nigeria,Telecom,24469,Actively Exploited,Yes
+CVE-2021-29774,2021-01-08,Privilege Escalation,Apple,macOS,9.5,Critical,Adjacent,Low,None,None,Low,Low,None,India,Transport,48422,Under Investigation,No
+CVE-2021-40337,2021-11-11,Path Traversal,Microsoft,Azure AD,6.1,Medium,Physical,Low,High,Required,Low,Low,None,UK,Manufacturing,6291,Actively Exploited,No
+CVE-2021-07598,2021-06-09,SQL Injection,Cisco,ASA,1.7,Low,Physical,Low,Low,None,High,High,Low,Iran,Telecom,14415,Resolved,No
+CVE-2021-46341,2021-01-19,DoS/DDoS,Fortinet,FortiGate,8.9,High,Physical,High,High,None,None,None,Low,Germany,Defense,31281,Exploited,Yes
+CVE-2021-01902,2021-08-10,Brute Force,Juniper,Junos,8.5,High,Network,Low,None,None,Low,High,None,Turkey,Manufacturing,12644,Patched,No
+CVE-2021-93422,2021-09-27,Buffer Overflow,SAP,Business One,8.7,High,Network,Low,Low,Required,High,High,Low,Vietnam,Manufacturing,33571,Actively Exploited,No
+CVE-2021-98001,2021-02-12,RCE,Oracle,E-Business Suite,6.4,Medium,Physical,Low,High,Required,None,High,High,UK,Finance,20801,Patched,Yes
+CVE-2021-98743,2021-09-02,Zero-Day Exploit,WordPress,Plugins,9.5,Critical,Physical,High,Low,None,None,None,Low,France,Finance,6990,Actively Exploited,Yes
+CVE-2021-48680,2021-01-05,Deserialization,Linux,Kernel,1.7,Low,Local,High,None,None,High,None,None,China,Energy,30306,Exploited,No
+CVE-2021-68576,2021-02-01,RCE,IBM,MQ,8.8,High,Network,High,None,None,High,High,Low,Indonesia,Energy,25258,Resolved,No
+CVE-2021-08876,2021-01-01,CSRF,VMware,vCenter,9.2,Critical,Adjacent,High,None,None,None,Low,Low,Vietnam,Telecom,29015,Under Investigation,No
+CVE-2021-68414,2021-09-29,Ransomware,F5,BIG-IP,9.2,Critical,Network,High,None,None,High,Low,None,Brazil,Manufacturing,3348,Resolved,No
+CVE-2021-41484,2021-03-22,MITM,Google,Chrome,3.9,Low,Adjacent,Low,Low,None,High,None,Low,Canada,Education,48427,Actively Exploited,Yes
+CVE-2021-46400,2021-10-05,Brute Force,Oracle,Database,5.4,Medium,Adjacent,Low,None,Required,Low,None,Low,Canada,Finance,40700,Actively Exploited,Yes
+CVE-2021-23605,2021-05-16,MITM,SAP,HANA,6.9,Medium,Adjacent,High,None,Required,High,High,High,Pakistan,IT,44980,Resolved,Yes
+CVE-2021-65043,2021-04-19,RCE,Apple,iOS,8.0,High,Adjacent,High,High,None,Low,Low,Low,North Korea,Defense,13128,Under Investigation,Yes
+CVE-2021-54137,2021-02-16,Brute Force,Oracle,WebLogic,9.4,Critical,Adjacent,High,None,Required,Low,None,Low,Ukraine,Government,26771,Exploited,Yes
+CVE-2021-55709,2021-04-22,Brute Force,Google,Workspace,9.9,Critical,Local,Low,Low,Required,High,Low,Low,North Korea,Telecom,13034,Resolved,No
+CVE-2021-86039,2021-02-16,XSS,Linux,glibc,7.0,High,Local,Low,Low,Required,None,Low,High,Russia,Manufacturing,10017,Exploited,Yes
+CVE-2021-21345,2021-10-14,Brute Force,Linux,Kernel,4.8,Medium,Adjacent,Low,High,None,Low,Low,High,China,Healthcare,39760,Patched,No
+CVE-2021-64590,2021-01-29,DoS/DDoS,Zimbra,Collaboration Suite,2.3,Low,Physical,High,Low,None,None,None,Low,France,Finance,24589,Exploited,No
+CVE-2021-58412,2021-12-01,CSRF,Drupal,Modules,0.9,Low,Physical,High,Low,None,Low,Low,High,Romania,Manufacturing,45139,Under Investigation,Yes
+CVE-2021-25622,2021-08-19,Command Injection,Apache,Tomcat,7.7,High,Network,High,None,None,Low,Low,Low,China,Energy,42927,Patched,Yes
+CVE-2021-81877,2021-10-28,Brute Force,Nginx,Nginx,3.2,Low,Local,Low,None,None,None,None,None,Iran,Manufacturing,23265,Exploited,Yes
+CVE-2021-14904,2021-01-13,DoS/DDoS,SAP,NetWeaver,8.1,High,Adjacent,High,High,None,None,None,Low,Netherlands,Manufacturing,20838,Under Investigation,No
+CVE-2021-45067,2021-01-28,Command Injection,VMware,Horizon,8.3,High,Local,Low,High,Required,None,None,High,France,Manufacturing,19161,Exploited,Yes
+CVE-2021-24664,2021-12-22,XSS,Fortinet,FortiOS,8.9,High,Physical,Low,None,None,Low,Low,Low,India,Manufacturing,2655,Patched,No
+CVE-2021-32533,2021-04-30,Zero-Day Exploit,Microsoft,SharePoint,1.1,Low,Physical,High,High,None,Low,Low,None,Brazil,Education,28676,Actively Exploited,Yes
+CVE-2021-16873,2021-10-21,SSRF,SAP,HANA,7.4,High,Local,High,Low,Required,High,High,Low,Brazil,Energy,27819,Patched,Yes
+CVE-2021-30018,2021-03-07,Credential Stuffing,Drupal,Modules,9.0,Critical,Local,Low,Low,None,Low,High,None,UK,IT,6576,Actively Exploited,Yes
+CVE-2021-02659,2021-02-11,Phishing,VMware,Workstation,5.5,Medium,Physical,Low,High,Required,High,None,Low,Germany,Retail,29959,Patched,No
+CVE-2021-65995,2021-08-15,Credential Stuffing,WordPress,Plugins,7.1,High,Local,High,Low,Required,High,Low,High,Pakistan,Healthcare,4809,Patched,No
+CVE-2021-27141,2021-03-29,CSRF,Drupal,Modules,9.5,Critical,Local,High,Low,None,Low,High,None,Vietnam,Finance,48589,Patched,No
+CVE-2021-26663,2021-09-17,RCE,Fortinet,FortiManager,5.0,Medium,Physical,High,None,None,Low,High,High,Netherlands,Education,47739,Under Investigation,Yes
+CVE-2021-12026,2021-04-12,Deserialization,Linux,systemd,0.9,Low,Network,Low,None,Required,High,High,High,Ukraine,Healthcare,19222,Actively Exploited,Yes
+CVE-2021-12821,2021-05-23,Phishing,Apple,Safari,8.7,High,Physical,Low,None,None,None,Low,Low,Nigeria,Transport,11550,Actively Exploited,Yes
+CVE-2021-41880,2021-11-07,Logic Flaw,WordPress,Plugins,5.4,Medium,Physical,Low,High,None,None,Low,Low,Brazil,Healthcare,17226,Resolved,No
+CVE-2021-38438,2021-10-25,CSRF,IBM,MQ,6.1,Medium,Physical,Low,High,None,Low,Low,None,UK,Government,3786,Resolved,No
+CVE-2021-64749,2021-04-21,Command Injection,WordPress,Plugins,9.5,Critical,Local,Low,Low,Required,Low,None,None,UK,Telecom,38202,Resolved,Yes
+CVE-2021-48796,2021-10-13,Brute Force,VMware,Horizon,2.6,Low,Local,Low,Low,Required,High,High,None,Nigeria,Healthcare,8521,Patched,No
+CVE-2021-68775,2021-07-06,RCE,Microsoft,Azure AD,8.5,High,Adjacent,Low,None,Required,High,High,None,Brazil,Government,40324,Exploited,No
+CVE-2021-00635,2021-11-07,XXE,Microsoft,Azure AD,0.8,Low,Local,High,High,Required,Low,High,High,Germany,Transport,11198,Patched,Yes
+CVE-2021-10778,2021-02-06,Command Injection,VMware,Horizon,5.7,Medium,Network,Low,High,Required,None,Low,High,Netherlands,Defense,4062,Actively Exploited,No
+CVE-2021-05255,2021-04-08,Logic Flaw,Zimbra,Collaboration Suite,9.4,Critical,Adjacent,Low,Low,Required,None,None,Low,Nigeria,Defense,7609,Under Investigation,Yes
+CVE-2021-99540,2021-04-01,Buffer Overflow,Juniper,Junos,8.0,High,Local,Low,High,None,High,None,Low,Ukraine,Education,48856,Resolved,No
+CVE-2021-35907,2021-10-14,Path Traversal,F5,BIG-IP,4.4,Medium,Local,Low,Low,None,None,High,Low,Romania,Government,6719,Under Investigation,Yes
+CVE-2021-28128,2021-10-08,Command Injection,Google,Chrome,10.0,Critical,Physical,Low,None,Required,None,None,Low,Ukraine,Retail,4370,Exploited,No
+CVE-2021-05501,2021-01-24,Path Traversal,Apple,Safari,5.7,Medium,Physical,High,Low,None,High,Low,None,France,Energy,42818,Patched,Yes
+CVE-2021-59493,2021-10-28,Path Traversal,VMware,Workstation,7.9,High,Network,Low,High,None,None,None,None,China,Finance,33359,Patched,Yes
+CVE-2021-83234,2021-11-29,Deserialization,F5,BIG-IP,3.0,Low,Physical,High,None,None,Low,Low,Low,Iran,Manufacturing,19132,Actively Exploited,No
+CVE-2021-11963,2021-12-20,Credential Stuffing,F5,BIG-IP,5.8,Medium,Adjacent,High,None,None,Low,None,High,South Korea,Defense,7475,Patched,No
+CVE-2021-27712,2021-11-18,CSRF,Oracle,Database,0.6,Low,Local,Low,High,Required,Low,None,None,Romania,Education,12717,Patched,No
+CVE-2021-71445,2021-01-10,Phishing,Atlassian,Bitbucket,8.9,High,Physical,Low,High,None,High,None,Low,Turkey,Retail,29659,Exploited,Yes
+CVE-2021-77871,2021-11-20,CSRF,F5,BIG-IP,0.7,Low,Local,Low,None,Required,Low,High,High,Canada,Telecom,34395,Under Investigation,Yes
+CVE-2021-56801,2021-05-14,Path Traversal,IBM,WebSphere,0.6,Low,Local,Low,High,Required,None,High,None,USA,Finance,38432,Actively Exploited,No
+CVE-2021-17041,2021-06-16,Privilege Escalation,Oracle,Java SE,6.8,Medium,Adjacent,High,High,Required,High,Low,High,Pakistan,Retail,11307,Under Investigation,Yes
+CVE-2021-89114,2021-09-06,Path Traversal,VMware,Workstation,2.2,Low,Adjacent,High,High,None,High,Low,None,Russia,Retail,8198,Under Investigation,Yes
+CVE-2021-99428,2021-09-28,XSS,Oracle,Database,6.8,Medium,Network,Low,Low,Required,None,High,Low,USA,Transport,29107,Actively Exploited,No
+CVE-2021-91931,2021-02-25,Credential Stuffing,Linux,systemd,1.1,Low,Physical,Low,None,Required,Low,High,High,India,Retail,7289,Resolved,Yes
+CVE-2021-16474,2021-01-15,SQL Injection,Fortinet,FortiOS,8.7,High,Network,Low,High,None,None,Low,None,Turkey,Healthcare,27621,Under Investigation,No
+CVE-2021-22658,2021-12-17,Ransomware,Atlassian,Confluence,9.4,Critical,Physical,Low,None,Required,Low,None,Low,Netherlands,Retail,20638,Actively Exploited,Yes
+CVE-2021-53431,2021-10-01,Deserialization,Nginx,Nginx,4.5,Medium,Physical,Low,None,Required,None,None,Low,South Korea,IT,9097,Under Investigation,Yes
+CVE-2021-20283,2021-11-10,Path Traversal,Apache,Struts,8.7,High,Network,High,High,None,None,None,Low,Germany,Defense,28794,Resolved,Yes
+CVE-2021-38725,2021-09-25,Ransomware,Drupal,Modules,2.0,Low,Physical,High,Low,Required,None,High,Low,Pakistan,Healthcare,17114,Resolved,Yes
+CVE-2021-64176,2021-02-27,Phishing,Atlassian,Jira,1.1,Low,Local,High,Low,Required,High,None,Low,India,Finance,6708,Exploited,No
+CVE-2021-52513,2021-06-30,Credential Stuffing,Juniper,Junos,8.6,High,Network,High,None,Required,Low,None,High,North Korea,Retail,8852,Under Investigation,Yes
+CVE-2021-10551,2021-07-23,Buffer Overflow,Oracle,Java SE,3.7,Low,Adjacent,High,Low,Required,None,None,Low,UK,Education,14534,Exploited,Yes
+CVE-2021-55149,2021-10-16,Buffer Overflow,Cisco,ASA,1.1,Low,Local,High,High,None,None,High,Low,Indonesia,Defense,21765,Resolved,No
+CVE-2021-75416,2021-09-12,Path Traversal,WordPress,Plugins,0.2,Low,Adjacent,High,None,Required,Low,None,High,Ukraine,Transport,3338,Exploited,No
+CVE-2021-24853,2021-05-05,XXE,Google,Workspace,0.9,Low,Network,Low,High,None,Low,None,High,Indonesia,Retail,46453,Exploited,Yes
+CVE-2021-59232,2021-05-26,Path Traversal,Microsoft,Windows,6.6,Medium,Local,High,High,None,None,Low,Low,Russia,Finance,40709,Actively Exploited,No
+CVE-2021-00930,2021-10-17,RCE,F5,BIG-IP,3.9,Low,Physical,High,Low,Required,None,Low,None,Vietnam,Manufacturing,48410,Under Investigation,No
+CVE-2021-94639,2021-01-25,SSRF,Drupal,Modules,6.0,Medium,Network,Low,Low,None,High,None,Low,India,Telecom,12136,Patched,No
+CVE-2021-80026,2021-02-04,SQL Injection,Adobe,Photoshop,9.9,Critical,Adjacent,High,Low,None,High,None,High,Vietnam,IT,26707,Patched,No
+CVE-2021-04934,2021-12-09,XSS,Linux,systemd,5.1,Medium,Adjacent,High,Low,Required,None,None,High,Vietnam,Government,22441,Actively Exploited,No
+CVE-2021-47913,2021-11-27,XXE,Apple,macOS,1.2,Low,Local,High,Low,None,None,None,Low,France,Retail,35852,Exploited,Yes
+CVE-2021-12050,2021-10-03,Logic Flaw,SAP,NetWeaver,4.6,Medium,Physical,Low,None,Required,High,High,Low,Pakistan,Retail,25997,Actively Exploited,Yes
+CVE-2021-29849,2021-12-16,Path Traversal,Apple,iOS,6.5,Medium,Network,High,Low,Required,High,Low,High,Pakistan,Healthcare,23852,Exploited,No
+CVE-2021-42753,2021-07-24,Brute Force,Google,Android,3.4,Low,Adjacent,Low,None,Required,Low,High,High,Indonesia,Government,38709,Resolved,Yes
+CVE-2021-18577,2021-08-05,SQL Injection,F5,BIG-IP,1.7,Low,Network,High,Low,Required,None,High,None,UK,Energy,508,Under Investigation,No
+CVE-2021-81629,2021-08-04,Ransomware,Google,Workspace,4.6,Medium,Physical,High,None,None,Low,None,Low,Pakistan,Defense,47896,Exploited,No
+CVE-2021-06617,2021-11-14,MITM,Linux,Kernel,1.9,Low,Physical,High,Low,Required,None,None,High,Canada,Healthcare,3943,Under Investigation,Yes
+CVE-2021-70740,2021-06-17,XSS,VMware,vCenter,0.4,Low,Physical,Low,Low,None,None,None,High,Iran,Manufacturing,34091,Resolved,No
+CVE-2021-02999,2021-09-11,Ransomware,F5,BIG-IP,6.8,Medium,Adjacent,Low,Low,Required,Low,Low,None,Turkey,Manufacturing,2784,Resolved,Yes
+CVE-2021-54041,2021-08-10,Path Traversal,Microsoft,Office,5.3,Medium,Physical,High,None,None,High,None,Low,Brazil,IT,40668,Under Investigation,No
+CVE-2021-89539,2021-08-26,MITM,WordPress,Core,2.5,Low,Physical,Low,High,None,None,Low,Low,China,Transport,19001,Under Investigation,No
+CVE-2021-94993,2021-05-19,Privilege Escalation,SAP,HANA,1.9,Low,Network,High,Low,Required,Low,None,None,South Korea,Manufacturing,216,Actively Exploited,Yes
+CVE-2021-82235,2021-09-04,SSRF,Drupal,Modules,8.8,High,Local,High,None,None,None,High,Low,Pakistan,Education,43284,Resolved,No
+CVE-2021-78223,2021-04-15,Phishing,Linux,Kernel,6.4,Medium,Network,High,High,Required,None,Low,None,Romania,Healthcare,8699,Resolved,Yes
+CVE-2021-57206,2021-11-24,Privilege Escalation,Atlassian,Bitbucket,4.8,Medium,Physical,Low,Low,Required,High,High,None,Iran,Healthcare,17766,Resolved,Yes
+CVE-2021-55029,2021-10-18,SQL Injection,Fortinet,FortiOS,2.3,Low,Physical,Low,None,Required,None,High,High,Brazil,Transport,39201,Actively Exploited,Yes
+CVE-2021-89705,2021-01-07,Credential Stuffing,Apple,macOS,0.1,Low,Local,Low,Low,None,Low,None,High,UK,Finance,27683,Resolved,Yes
+CVE-2021-18683,2021-07-06,Deserialization,SAP,HANA,7.7,High,Local,High,High,Required,None,Low,Low,Pakistan,Telecom,30323,Resolved,No
+CVE-2021-21327,2021-01-13,MITM,VMware,vCenter,6.3,Medium,Physical,High,High,Required,Low,Low,Low,Germany,Education,40058,Exploited,Yes
+CVE-2021-36778,2021-02-11,XXE,Nginx,Nginx,8.1,High,Network,Low,None,None,Low,Low,Low,Iran,Government,5716,Resolved,No
+CVE-2021-77405,2021-08-25,MITM,Adobe,Photoshop,0.2,Low,Physical,Low,None,None,Low,None,Low,Turkey,IT,11611,Resolved,No
+CVE-2021-42339,2021-10-17,SQL Injection,Drupal,Modules,2.2,Low,Adjacent,High,None,None,None,High,None,Nigeria,Manufacturing,27210,Exploited,Yes
+CVE-2021-56708,2021-01-15,MITM,Cisco,ASA,6.5,Medium,Physical,High,High,Required,High,Low,Low,Turkey,Telecom,45474,Under Investigation,Yes
+CVE-2021-02970,2021-10-13,DoS/DDoS,Nginx,Nginx,4.6,Medium,Local,High,None,Required,High,Low,High,Indonesia,IT,24180,Actively Exploited,Yes
+CVE-2021-36063,2021-06-14,Brute Force,Atlassian,Bitbucket,1.4,Low,Adjacent,Low,None,Required,None,High,None,Iran,Telecom,25190,Exploited,Yes
+CVE-2021-03925,2021-04-15,Privilege Escalation,Oracle,WebLogic,10.0,Critical,Adjacent,High,High,Required,Low,None,Low,Indonesia,Finance,4785,Patched,Yes
+CVE-2021-90502,2021-02-23,XSS,IBM,QRadar,0.6,Low,Network,High,Low,Required,Low,None,Low,India,Defense,29796,Exploited,Yes
+CVE-2021-70267,2021-08-17,Brute Force,Fortinet,FortiOS,3.4,Low,Local,High,Low,None,Low,None,High,Ukraine,Energy,20207,Exploited,Yes
+CVE-2021-20629,2021-08-24,RCE,Apache,Kafka,9.5,Critical,Physical,High,High,Required,None,Low,None,Romania,Manufacturing,6262,Actively Exploited,Yes
+CVE-2021-23485,2021-11-13,SSRF,Zimbra,Collaboration Suite,1.8,Low,Network,High,Low,None,None,High,Low,France,IT,9686,Resolved,Yes
+CVE-2021-29800,2021-08-06,MITM,WordPress,Core,9.6,Critical,Local,Low,Low,None,None,Low,High,South Korea,Transport,6242,Exploited,No
+CVE-2021-76616,2021-11-01,Deserialization,Linux,glibc,8.2,High,Network,Low,Low,None,High,None,None,Canada,Manufacturing,30042,Patched,No
+CVE-2021-67920,2021-12-16,Phishing,IBM,WebSphere,7.0,High,Physical,Low,Low,None,High,None,Low,Germany,Healthcare,14248,Patched,No
+CVE-2021-24814,2021-06-09,Command Injection,Drupal,Modules,1.3,Low,Local,Low,None,None,High,None,Low,Nigeria,Manufacturing,37192,Actively Exploited,Yes
+CVE-2021-71752,2021-01-30,Zero-Day Exploit,Zimbra,Collaboration Suite,6.3,Medium,Adjacent,Low,High,None,None,High,Low,France,Government,4604,Under Investigation,Yes
+CVE-2021-29613,2021-10-27,Deserialization,Linux,glibc,3.4,Low,Local,High,None,None,None,None,None,France,Education,38837,Under Investigation,No
+CVE-2021-20552,2021-10-02,CSRF,Oracle,Java SE,4.3,Medium,Network,High,None,Required,None,None,High,South Korea,Education,27117,Patched,Yes
+CVE-2021-64715,2021-01-20,Credential Stuffing,Apache,Log4j,0.5,Low,Physical,High,None,Required,None,Low,High,France,Energy,24107,Exploited,No
+CVE-2021-36007,2021-06-18,SQL Injection,Cisco,IOS,4.3,Medium,Adjacent,High,Low,None,Low,Low,None,Canada,Transport,14975,Resolved,Yes
+CVE-2021-83565,2021-01-11,CSRF,Cisco,AnyConnect,5.5,Medium,Adjacent,High,None,None,Low,High,Low,Nigeria,Retail,1229,Actively Exploited,Yes
+CVE-2021-72973,2021-06-07,Ransomware,SAP,Business One,5.1,Medium,Local,High,High,Required,None,Low,Low,North Korea,Education,18803,Patched,Yes
+CVE-2021-33244,2021-11-11,Buffer Overflow,SAP,Business One,6.7,Medium,Physical,High,None,None,None,None,High,Pakistan,Government,14217,Exploited,No
+CVE-2021-51686,2021-10-17,MITM,Atlassian,Jira,1.5,Low,Adjacent,High,High,None,High,None,High,Ukraine,Healthcare,23976,Under Investigation,Yes
+CVE-2021-41980,2021-07-05,Privilege Escalation,Juniper,Junos,3.5,Low,Network,High,High,None,High,High,None,Nigeria,Education,33286,Actively Exploited,Yes
+CVE-2021-22294,2021-05-12,DoS/DDoS,Oracle,E-Business Suite,5.0,Medium,Local,Low,None,Required,None,None,None,France,Telecom,29151,Exploited,No
+CVE-2021-34979,2021-04-02,XXE,Palo Alto,PAN-OS,3.3,Low,Network,Low,High,Required,None,High,Low,Netherlands,Defense,30002,Resolved,Yes
+CVE-2021-31566,2021-04-02,Credential Stuffing,WordPress,Core,6.4,Medium,Adjacent,Low,High,None,None,None,High,Nigeria,Defense,16551,Exploited,Yes
+CVE-2021-51903,2021-09-26,Phishing,Zimbra,Collaboration Suite,5.1,Medium,Local,Low,Low,Required,High,High,High,Nigeria,Telecom,15761,Patched,Yes
+CVE-2021-83609,2021-03-12,Path Traversal,IBM,QRadar,4.1,Medium,Adjacent,High,Low,None,None,None,High,Canada,Retail,27423,Under Investigation,No
+CVE-2021-57883,2021-02-20,CSRF,IBM,MQ,1.2,Low,Network,High,None,None,None,None,Low,USA,Retail,34044,Exploited,No
+CVE-2021-07581,2021-11-14,Zero-Day Exploit,IBM,MQ,1.0,Low,Physical,High,Low,None,None,None,High,Turkey,Finance,25603,Patched,No
+CVE-2021-23366,2021-10-19,Command Injection,Adobe,Flash,8.8,High,Adjacent,High,None,None,High,High,Low,Pakistan,Retail,18030,Resolved,Yes
+CVE-2021-67168,2021-05-18,Zero-Day Exploit,Fortinet,FortiManager,7.7,High,Adjacent,High,None,Required,High,Low,Low,Russia,Manufacturing,6748,Patched,Yes
+CVE-2021-09003,2021-02-04,DoS/DDoS,Cisco,Firepower,5.0,Medium,Adjacent,Low,None,None,High,High,Low,South Korea,Finance,32403,Under Investigation,Yes
+CVE-2021-86064,2021-11-09,Credential Stuffing,SAP,Business One,8.2,High,Physical,Low,High,Required,None,None,None,France,Telecom,5341,Actively Exploited,No
+CVE-2021-66876,2021-06-15,MITM,Linux,systemd,5.3,Medium,Adjacent,High,Low,None,High,High,None,Iran,Education,7549,Resolved,No
+CVE-2021-71242,2021-12-22,Deserialization,Apache,Log4j,2.0,Low,Network,High,Low,None,None,Low,Low,Russia,Government,14976,Exploited,Yes
+CVE-2021-39780,2021-09-26,Credential Stuffing,Zimbra,Collaboration Suite,3.6,Low,Network,Low,None,Required,High,Low,High,Nigeria,Manufacturing,21958,Resolved,Yes
+CVE-2021-15405,2021-02-05,Zero-Day Exploit,Apple,Safari,2.2,Low,Adjacent,High,Low,None,Low,Low,None,USA,IT,1924,Under Investigation,Yes
+CVE-2021-85716,2021-09-01,RCE,Atlassian,Confluence,7.4,High,Adjacent,High,None,Required,High,None,None,Ukraine,Government,30285,Actively Exploited,No
+CVE-2021-20334,2021-12-24,Logic Flaw,Fortinet,FortiGate,2.1,Low,Physical,Low,None,Required,Low,None,High,China,Defense,11705,Actively Exploited,No
+CVE-2021-90920,2021-05-21,Credential Stuffing,SAP,HANA,4.0,Medium,Adjacent,High,High,Required,Low,None,High,South Korea,Retail,31993,Exploited,No
+CVE-2021-72694,2021-12-08,Credential Stuffing,Fortinet,FortiOS,9.9,Critical,Physical,Low,High,Required,Low,Low,None,UK,Healthcare,33557,Resolved,Yes
+CVE-2021-65693,2021-12-24,Command Injection,Atlassian,Confluence,2.9,Low,Network,High,Low,None,High,Low,None,Germany,IT,37734,Under Investigation,No
+CVE-2021-19377,2021-05-14,Command Injection,SAP,NetWeaver,9.2,Critical,Physical,Low,High,Required,None,Low,None,South Korea,Transport,8519,Under Investigation,Yes
+CVE-2021-13062,2021-12-26,XXE,WordPress,Core,0.5,Low,Network,High,None,None,Low,Low,None,France,Finance,45884,Patched,No
+CVE-2021-09005,2021-09-07,CSRF,Palo Alto,PAN-OS,6.1,Medium,Local,Low,Low,None,None,None,High,North Korea,Transport,11215,Exploited,Yes
+CVE-2021-73584,2021-12-24,Privilege Escalation,Adobe,ColdFusion,6.6,Medium,Physical,High,None,None,High,Low,None,Vietnam,Retail,3923,Patched,No
+CVE-2021-13249,2021-08-17,XXE,Linux,glibc,7.1,High,Physical,Low,None,Required,Low,None,None,Brazil,IT,22764,Exploited,Yes
+CVE-2021-04580,2021-09-28,Buffer Overflow,Fortinet,FortiGate,6.1,Medium,Physical,Low,High,None,High,Low,None,Indonesia,Defense,16314,Resolved,Yes
+CVE-2021-73742,2021-10-06,MITM,Juniper,Junos,1.4,Low,Adjacent,Low,High,None,High,High,None,Russia,Manufacturing,804,Exploited,No
+CVE-2021-33371,2021-12-20,Deserialization,Apple,iOS,4.7,Medium,Adjacent,Low,Low,None,High,None,None,North Korea,Transport,23542,Actively Exploited,Yes
+CVE-2021-97645,2021-05-25,MITM,Juniper,Junos,2.3,Low,Network,Low,Low,None,None,Low,High,North Korea,Education,7125,Patched,Yes
+CVE-2021-82202,2021-12-05,Privilege Escalation,Zimbra,Collaboration Suite,2.2,Low,Physical,Low,Low,None,Low,Low,Low,Netherlands,Government,47857,Under Investigation,No
+CVE-2021-99987,2021-06-06,RCE,Zimbra,Collaboration Suite,7.9,High,Local,Low,High,None,Low,High,None,Russia,Telecom,3113,Exploited,Yes
+CVE-2021-36413,2021-11-28,Phishing,Linux,glibc,5.6,Medium,Local,High,Low,None,Low,None,High,Vietnam,IT,5033,Resolved,No
+CVE-2021-65556,2021-04-21,Deserialization,Drupal,Core,8.4,High,Adjacent,Low,High,Required,None,High,Low,China,Education,16744,Under Investigation,No
+CVE-2021-53482,2021-05-21,Logic Flaw,SAP,HANA,3.0,Low,Local,Low,Low,None,Low,High,Low,Romania,Defense,1449,Patched,Yes
+CVE-2021-30576,2021-04-13,XXE,Drupal,Core,3.0,Low,Local,Low,Low,None,None,Low,High,Canada,Retail,28966,Exploited,Yes
+CVE-2021-84693,2021-02-26,Path Traversal,Oracle,WebLogic,8.7,High,Local,Low,High,Required,Low,Low,Low,Germany,Transport,5581,Actively Exploited,Yes
+CVE-2021-83820,2021-04-22,DoS/DDoS,F5,BIG-IP,9.9,Critical,Local,High,Low,None,High,High,High,UK,Manufacturing,39815,Resolved,Yes
+CVE-2021-01818,2021-09-10,Path Traversal,Google,Workspace,4.4,Medium,Local,High,Low,None,None,Low,Low,Indonesia,Healthcare,40732,Actively Exploited,Yes
+CVE-2021-92706,2021-06-27,SSRF,F5,BIG-IP,6.4,Medium,Physical,High,High,None,None,Low,Low,UK,Telecom,35607,Under Investigation,Yes
+CVE-2021-93149,2021-08-14,Credential Stuffing,Drupal,Core,7.3,High,Physical,High,None,Required,High,None,Low,USA,Education,23325,Actively Exploited,Yes
+CVE-2021-19796,2021-06-20,Deserialization,Adobe,ColdFusion,8.3,High,Physical,Low,High,Required,None,Low,Low,Pakistan,Transport,29630,Resolved,Yes
+CVE-2021-67348,2021-02-28,Deserialization,Juniper,Junos,0.4,Low,Physical,Low,None,None,Low,High,Low,Russia,Telecom,27923,Exploited,Yes
+CVE-2021-33617,2021-01-30,Buffer Overflow,Fortinet,FortiManager,8.2,High,Local,High,High,None,Low,None,None,Turkey,Manufacturing,42765,Actively Exploited,No
+CVE-2021-28862,2021-11-28,SSRF,VMware,ESXi,0.8,Low,Network,High,None,None,None,Low,Low,Iran,Telecom,2995,Patched,Yes
+CVE-2021-45296,2021-04-15,DoS/DDoS,Drupal,Modules,2.1,Low,Local,Low,Low,None,None,High,None,Pakistan,Retail,48653,Exploited,No
+CVE-2021-78929,2021-01-16,XSS,IBM,WebSphere,3.4,Low,Physical,Low,High,Required,Low,Low,High,Iran,Defense,6227,Under Investigation,Yes
+CVE-2021-03506,2021-01-06,SQL Injection,Google,Chrome,6.7,Medium,Physical,Low,High,None,None,None,High,Canada,Manufacturing,46005,Patched,Yes
+CVE-2021-49804,2021-11-07,MITM,Apache,Log4j,5.8,Medium,Physical,Low,High,Required,Low,None,High,Indonesia,Energy,38212,Under Investigation,No
+CVE-2021-95792,2021-12-28,XXE,Zimbra,Collaboration Suite,3.5,Low,Network,Low,None,Required,High,Low,Low,UK,Retail,6301,Patched,No
+CVE-2021-06167,2021-08-24,XXE,Cisco,ASA,9.2,Critical,Local,Low,None,None,High,Low,None,France,Energy,10316,Resolved,No
+CVE-2021-48983,2021-04-29,Ransomware,Google,Chrome,9.1,Critical,Adjacent,High,None,None,Low,High,High,Turkey,Transport,28115,Under Investigation,No
+CVE-2021-71599,2021-11-28,Brute Force,WordPress,Core,7.8,High,Physical,High,Low,None,Low,None,None,USA,Healthcare,13622,Resolved,No
+CVE-2021-67289,2021-10-06,SSRF,Palo Alto,GlobalProtect,2.2,Low,Local,High,Low,Required,Low,High,Low,Ukraine,Manufacturing,31541,Actively Exploited,No
+CVE-2021-94324,2021-05-12,Logic Flaw,Nginx,Nginx,7.5,High,Adjacent,High,High,Required,Low,High,High,Romania,Healthcare,19756,Exploited,Yes
+CVE-2021-61082,2021-12-13,Buffer Overflow,VMware,Horizon,8.0,High,Adjacent,High,Low,None,None,Low,High,Vietnam,Telecom,4979,Under Investigation,No
+CVE-2021-94533,2021-09-17,Credential Stuffing,F5,BIG-IP,0.7,Low,Network,High,None,Required,High,Low,High,France,Education,9303,Patched,Yes
+CVE-2021-58244,2021-03-14,Credential Stuffing,Juniper,Junos,8.2,High,Local,Low,None,None,None,High,High,Vietnam,IT,41630,Resolved,Yes
+CVE-2021-28557,2021-02-28,MITM,Google,Workspace,9.9,Critical,Adjacent,Low,None,Required,High,High,None,South Korea,Healthcare,21890,Patched,Yes
+CVE-2021-52964,2021-02-05,Ransomware,Palo Alto,GlobalProtect,6.6,Medium,Network,High,Low,Required,Low,High,Low,Indonesia,IT,49351,Under Investigation,Yes
+CVE-2021-08952,2021-04-24,Logic Flaw,Adobe,Acrobat,9.8,Critical,Local,Low,Low,None,None,High,High,Nigeria,IT,30725,Exploited,No
+CVE-2021-03463,2021-08-03,Privilege Escalation,Zimbra,Collaboration Suite,6.7,Medium,Network,Low,None,None,None,Low,High,China,Retail,22896,Exploited,No
+CVE-2021-84236,2021-07-13,RCE,Cisco,IOS,3.2,Low,Adjacent,High,None,Required,High,High,Low,Iran,Retail,47150,Under Investigation,No
+CVE-2021-74826,2021-10-31,DoS/DDoS,Zimbra,Collaboration Suite,6.8,Medium,Local,High,Low,Required,None,Low,None,UK,Telecom,38818,Under Investigation,No
+CVE-2021-87031,2021-12-14,Path Traversal,VMware,Workstation,4.6,Medium,Physical,High,High,None,Low,High,High,Ukraine,Telecom,27536,Actively Exploited,Yes
+CVE-2021-69744,2021-09-25,Phishing,Juniper,Junos,9.7,Critical,Network,High,None,Required,Low,None,Low,China,Retail,46426,Resolved,No
+CVE-2021-18870,2021-09-10,SQL Injection,IBM,MQ,3.8,Low,Network,High,None,None,None,Low,None,Nigeria,Education,8325,Under Investigation,No
+CVE-2021-07149,2021-05-27,Privilege Escalation,Palo Alto,GlobalProtect,3.6,Low,Physical,High,High,None,None,High,None,India,Education,44919,Patched,No
+CVE-2021-60154,2021-07-11,Deserialization,Zimbra,Collaboration Suite,5.6,Medium,Network,High,Low,Required,None,High,None,Ukraine,Government,40688,Under Investigation,No
+CVE-2021-96581,2021-06-21,Command Injection,F5,BIG-IP,4.9,Medium,Local,Low,None,None,None,High,None,South Korea,Retail,42368,Resolved,No
+CVE-2021-65665,2021-10-22,Logic Flaw,Zimbra,Collaboration Suite,6.2,Medium,Local,High,None,None,None,None,High,South Korea,Telecom,45784,Actively Exploited,No
+CVE-2021-81165,2021-03-04,Credential Stuffing,Juniper,Junos,0.6,Low,Local,High,None,Required,Low,None,None,Germany,Education,31782,Under Investigation,Yes
+CVE-2021-26153,2021-11-30,Ransomware,Palo Alto,GlobalProtect,8.2,High,Physical,Low,Low,Required,None,Low,High,UK,Finance,9812,Actively Exploited,No
+CVE-2021-19115,2021-07-19,MITM,Zimbra,Collaboration Suite,7.7,High,Network,High,Low,None,None,None,High,Nigeria,Retail,9056,Patched,No
+CVE-2021-63388,2021-08-23,Phishing,Apple,macOS,6.9,Medium,Physical,Low,None,None,None,Low,None,Brazil,Transport,23994,Under Investigation,No
+CVE-2021-21697,2021-02-07,Logic Flaw,Drupal,Modules,5.2,Medium,Adjacent,High,None,None,High,None,Low,North Korea,Education,6197,Resolved,No
+CVE-2021-76790,2021-08-09,SQL Injection,Drupal,Modules,5.8,Medium,Adjacent,Low,None,None,None,High,High,Canada,Finance,48625,Resolved,No
+CVE-2021-75548,2021-11-11,XSS,Drupal,Modules,9.9,Critical,Network,High,Low,None,High,None,High,Germany,Energy,19300,Patched,Yes
+CVE-2021-21473,2021-05-03,Path Traversal,Linux,Kernel,2.9,Low,Network,Low,Low,None,High,None,None,North Korea,Transport,6991,Under Investigation,No
+CVE-2021-49548,2021-02-27,Logic Flaw,Apache,Kafka,0.6,Low,Physical,Low,Low,None,High,High,Low,USA,Telecom,40969,Exploited,Yes
+CVE-2021-76200,2021-10-14,Credential Stuffing,Atlassian,Bitbucket,6.5,Medium,Adjacent,Low,Low,Required,Low,High,Low,Germany,Education,29119,Resolved,No
+CVE-2021-05279,2021-07-14,Command Injection,Adobe,Photoshop,3.9,Low,Network,High,Low,Required,High,None,Low,Germany,Healthcare,24091,Resolved,No
+CVE-2021-21513,2021-01-18,CSRF,Google,Android,5.6,Medium,Adjacent,Low,None,None,High,High,High,USA,Government,6491,Patched,No
+CVE-2021-02445,2021-11-19,Credential Stuffing,Drupal,Modules,2.9,Low,Adjacent,Low,None,Required,High,Low,Low,Pakistan,Manufacturing,2395,Patched,Yes
+CVE-2021-57649,2021-06-27,SSRF,Drupal,Modules,3.1,Low,Adjacent,Low,High,Required,None,Low,Low,South Korea,Education,21343,Resolved,Yes
+CVE-2021-94889,2021-05-22,Command Injection,Palo Alto,PAN-OS,3.1,Low,Network,Low,None,None,High,Low,High,UK,Healthcare,13055,Exploited,Yes
+CVE-2021-85626,2021-08-13,Credential Stuffing,IBM,QRadar,5.1,Medium,Physical,High,Low,None,High,Low,High,Netherlands,Manufacturing,4296,Actively Exploited,No
+CVE-2021-25562,2021-02-02,RCE,Oracle,Java SE,6.9,Medium,Local,High,Low,None,None,High,Low,Vietnam,Transport,4063,Exploited,No
+CVE-2021-35092,2021-03-11,Buffer Overflow,Cisco,IOS,2.5,Low,Adjacent,Low,None,Required,High,High,Low,Turkey,Retail,2298,Patched,No
+CVE-2021-25647,2021-07-25,CSRF,Palo Alto,GlobalProtect,8.7,High,Network,High,Low,Required,Low,Low,None,Ukraine,Healthcare,23023,Under Investigation,No
+CVE-2021-54562,2021-03-22,Brute Force,Nginx,Nginx,3.9,Low,Local,High,None,Required,High,High,Low,South Korea,Defense,46826,Resolved,Yes
+CVE-2021-81980,2021-01-24,XXE,Fortinet,FortiGate,9.0,Critical,Local,Low,None,None,High,Low,Low,North Korea,Retail,3595,Under Investigation,No
+CVE-2021-83939,2021-12-23,RCE,WordPress,Plugins,2.5,Low,Network,High,High,Required,None,None,None,India,Telecom,11806,Actively Exploited,Yes
+CVE-2021-68215,2021-12-25,Credential Stuffing,Adobe,Acrobat,2.2,Low,Local,Low,Low,None,High,Low,High,Brazil,Healthcare,5513,Patched,No
+CVE-2021-79872,2021-01-12,Zero-Day Exploit,SAP,NetWeaver,3.4,Low,Physical,Low,Low,None,High,None,Low,Brazil,Manufacturing,32019,Exploited,No
+CVE-2021-24426,2021-10-11,Logic Flaw,Google,Android,8.3,High,Adjacent,High,Low,Required,High,None,Low,Russia,Transport,37742,Exploited,Yes
+CVE-2021-32296,2021-08-27,Buffer Overflow,Apache,Kafka,2.0,Low,Adjacent,Low,Low,Required,None,None,High,Romania,IT,1747,Exploited,No
+CVE-2021-40956,2021-07-01,XSS,VMware,Horizon,5.0,Medium,Physical,High,Low,Required,None,High,None,Romania,Manufacturing,37385,Actively Exploited,No
+CVE-2021-62565,2021-03-20,DoS/DDoS,Linux,systemd,4.9,Medium,Physical,High,None,None,None,None,Low,Nigeria,Education,18688,Actively Exploited,No
+CVE-2021-12757,2021-03-27,DoS/DDoS,Zimbra,Collaboration Suite,9.3,Critical,Adjacent,High,Low,None,Low,High,None,China,Telecom,20979,Actively Exploited,No
+CVE-2021-46100,2021-01-13,RCE,Palo Alto,GlobalProtect,0.5,Low,Adjacent,High,Low,Required,High,None,High,Romania,Energy,48533,Resolved,Yes
+CVE-2021-18024,2021-05-08,SQL Injection,Oracle,WebLogic,4.1,Medium,Physical,High,None,Required,Low,None,Low,Romania,Energy,43397,Patched,No
+CVE-2021-40582,2021-02-17,XSS,Linux,Kernel,6.4,Medium,Network,High,None,None,None,High,Low,Ukraine,Finance,25871,Actively Exploited,No
+CVE-2021-16652,2021-08-24,MITM,IBM,QRadar,2.8,Low,Local,High,None,None,Low,Low,High,Brazil,Finance,9672,Under Investigation,Yes
+CVE-2021-87472,2021-07-24,Path Traversal,Microsoft,Windows,2.4,Low,Adjacent,High,Low,None,High,High,High,Nigeria,Education,30670,Exploited,Yes
+CVE-2021-19434,2021-10-14,Deserialization,SAP,HANA,9.1,Critical,Local,High,Low,None,Low,High,Low,Canada,Energy,6324,Actively Exploited,Yes
+CVE-2021-85261,2021-12-11,Path Traversal,Apple,iOS,3.8,Low,Local,High,None,Required,Low,Low,High,Brazil,Transport,21903,Patched,Yes
+CVE-2021-25066,2021-12-06,Buffer Overflow,Atlassian,Bitbucket,2.6,Low,Local,High,None,Required,Low,None,Low,Netherlands,Transport,17844,Resolved,No
+CVE-2021-27832,2021-10-02,MITM,Oracle,Java SE,9.5,Critical,Network,High,High,None,Low,High,High,Netherlands,Education,27263,Resolved,No
+CVE-2021-18925,2021-06-06,Buffer Overflow,Apple,macOS,8.5,High,Adjacent,Low,Low,None,High,Low,None,Canada,Defense,35867,Patched,No
+CVE-2021-97101,2021-01-10,XXE,Apple,macOS,4.1,Medium,Local,High,None,None,None,Low,Low,Canada,Energy,34064,Exploited,Yes
+CVE-2021-51352,2021-11-24,Brute Force,IBM,WebSphere,5.0,Medium,Network,Low,None,None,Low,None,None,Netherlands,Finance,6139,Under Investigation,Yes
+CVE-2021-30061,2021-09-10,MITM,WordPress,Core,9.3,Critical,Network,Low,High,None,None,Low,None,Brazil,Manufacturing,9498,Under Investigation,Yes
+CVE-2021-37903,2021-11-27,Phishing,SAP,NetWeaver,4.2,Medium,Adjacent,High,Low,Required,High,None,Low,Indonesia,Government,37700,Patched,No
+CVE-2021-57121,2021-11-23,Privilege Escalation,Oracle,Java SE,2.8,Low,Local,High,Low,Required,High,None,None,India,Retail,35071,Resolved,No
+CVE-2021-49140,2021-01-28,XXE,VMware,vCenter,3.9,Low,Physical,High,High,None,High,None,High,Vietnam,Healthcare,7465,Actively Exploited,Yes
+CVE-2021-64973,2021-10-11,Ransomware,Google,Chrome,6.8,Medium,Network,Low,None,None,None,None,None,Pakistan,Finance,12306,Patched,Yes
+CVE-2021-26532,2021-10-03,Phishing,Cisco,AnyConnect,8.7,High,Physical,Low,None,Required,Low,High,Low,Nigeria,Retail,38753,Patched,Yes
+CVE-2021-55630,2021-02-06,Deserialization,Apache,Kafka,0.1,Low,Physical,Low,High,None,None,None,Low,Turkey,Defense,11268,Actively Exploited,Yes
+CVE-2021-14745,2021-04-25,RCE,IBM,WebSphere,4.8,Medium,Physical,High,None,None,Low,Low,Low,North Korea,IT,35356,Patched,No
+CVE-2021-02241,2021-06-07,Logic Flaw,Google,Chrome,8.6,High,Adjacent,Low,High,Required,None,Low,High,Ukraine,Healthcare,29449,Exploited,No
+CVE-2021-88760,2021-09-14,XXE,Nginx,Nginx,0.8,Low,Local,Low,Low,None,None,Low,Low,Indonesia,Finance,11916,Actively Exploited,No
+CVE-2021-71809,2021-10-05,XSS,Fortinet,FortiOS,9.7,Critical,Local,Low,Low,None,High,None,High,Canada,Defense,38396,Under Investigation,Yes
+CVE-2021-97683,2021-08-05,RCE,Fortinet,FortiManager,7.1,High,Local,Low,None,Required,None,Low,None,India,Government,41773,Actively Exploited,Yes
+CVE-2021-58821,2021-09-27,Credential Stuffing,Fortinet,FortiOS,7.5,High,Network,Low,None,Required,Low,High,None,Pakistan,Defense,40841,Actively Exploited,Yes
+CVE-2021-89481,2021-10-14,Deserialization,WordPress,Core,8.2,High,Adjacent,High,Low,Required,High,None,None,South Korea,Healthcare,31706,Resolved,No
+CVE-2021-46167,2021-05-10,MITM,WordPress,Plugins,7.3,High,Network,Low,High,None,High,High,Low,UK,Retail,27490,Under Investigation,No
+CVE-2021-18608,2021-11-26,DoS/DDoS,Google,Android,4.2,Medium,Network,Low,None,Required,None,High,None,Netherlands,Defense,47041,Exploited,No
+CVE-2021-62926,2021-07-15,DoS/DDoS,SAP,HANA,6.9,Medium,Local,Low,None,Required,Low,Low,Low,Nigeria,Finance,39678,Actively Exploited,No
+CVE-2021-45764,2021-10-08,Ransomware,WordPress,Plugins,8.7,High,Local,High,Low,Required,None,High,Low,Germany,Finance,38621,Actively Exploited,No
+CVE-2021-14293,2021-08-25,Buffer Overflow,Fortinet,FortiManager,8.2,High,Local,High,None,Required,Low,High,None,Ukraine,Energy,28485,Resolved,Yes
+CVE-2021-21180,2021-11-28,Deserialization,Oracle,Database,2.4,Low,Local,High,Low,Required,None,High,Low,Indonesia,Telecom,21043,Under Investigation,No
+CVE-2021-22817,2021-09-08,Path Traversal,SAP,NetWeaver,9.5,Critical,Physical,High,Low,None,None,Low,Low,Brazil,Government,10549,Actively Exploited,No
+CVE-2021-66128,2021-08-28,Brute Force,Drupal,Modules,3.2,Low,Local,High,None,Required,Low,High,Low,Brazil,Retail,8794,Exploited,No
+CVE-2021-36190,2021-02-03,Logic Flaw,SAP,HANA,2.1,Low,Local,High,High,None,High,High,Low,Germany,Telecom,6295,Exploited,No
+CVE-2021-86853,2021-12-07,Brute Force,VMware,Horizon,3.2,Low,Physical,Low,High,Required,None,High,None,Turkey,Transport,47850,Patched,No
+CVE-2021-54344,2021-10-05,MITM,Apache,Kafka,4.7,Medium,Physical,High,High,Required,High,None,None,North Korea,Education,12785,Resolved,No
+CVE-2021-65057,2021-05-25,XSS,VMware,Horizon,5.7,Medium,Physical,High,High,None,None,None,None,Turkey,Defense,31153,Actively Exploited,Yes
+CVE-2021-27200,2021-08-30,Command Injection,Drupal,Core,9.6,Critical,Local,Low,Low,Required,Low,High,High,Brazil,Retail,22750,Resolved,No
+CVE-2021-48894,2021-08-28,Ransomware,WordPress,Core,4.8,Medium,Network,High,Low,None,High,None,High,Ukraine,Defense,9568,Actively Exploited,No
+CVE-2021-02510,2021-02-21,XXE,Microsoft,Exchange Server,7.3,High,Network,Low,Low,None,High,Low,None,Ukraine,Defense,21934,Under Investigation,Yes
+CVE-2021-80232,2021-07-04,Deserialization,Apple,Safari,4.2,Medium,Physical,High,None,None,None,None,Low,Turkey,Defense,39504,Actively Exploited,No
+CVE-2021-50274,2021-12-25,MITM,Cisco,IOS,7.2,High,Adjacent,High,High,Required,None,Low,None,North Korea,IT,18455,Under Investigation,No
+CVE-2021-30801,2021-08-06,Credential Stuffing,Drupal,Core,3.9,Low,Local,High,High,Required,Low,Low,None,Pakistan,Finance,20269,Exploited,No
+CVE-2021-16718,2021-06-25,Zero-Day Exploit,Adobe,ColdFusion,9.1,Critical,Network,Low,None,Required,High,Low,None,Vietnam,Healthcare,9281,Patched,Yes
+CVE-2021-50757,2021-12-25,XXE,Juniper,Junos,2.4,Low,Adjacent,High,None,None,High,High,Low,Russia,Manufacturing,35723,Under Investigation,Yes
+CVE-2021-99294,2021-06-09,RCE,VMware,Workstation,5.6,Medium,Local,High,High,Required,High,High,High,Russia,Retail,34273,Actively Exploited,No
+CVE-2021-97801,2021-12-15,Deserialization,Fortinet,FortiOS,1.0,Low,Physical,High,None,Required,None,None,None,France,Defense,44325,Under Investigation,Yes
+CVE-2021-18653,2021-01-14,SSRF,Cisco,Webex,9.5,Critical,Adjacent,Low,High,Required,High,None,High,Iran,IT,32895,Under Investigation,Yes
+CVE-2021-93972,2021-05-03,Zero-Day Exploit,SAP,NetWeaver,6.1,Medium,Network,High,None,Required,Low,High,High,South Korea,Government,28736,Resolved,No
+CVE-2021-28210,2021-09-22,Buffer Overflow,Google,Workspace,7.4,High,Adjacent,High,Low,Required,Low,High,None,India,Retail,10064,Under Investigation,No
+CVE-2021-07819,2021-10-22,XXE,Fortinet,FortiGate,1.8,Low,Local,High,None,None,Low,Low,High,Indonesia,Education,10454,Under Investigation,No
+CVE-2021-22794,2021-09-13,Phishing,Drupal,Core,9.0,Critical,Physical,Low,None,None,Low,Low,Low,Netherlands,Defense,14399,Actively Exploited,No
+CVE-2021-88297,2021-02-04,MITM,WordPress,Plugins,5.7,Medium,Local,High,Low,Required,None,None,None,South Korea,Retail,48029,Under Investigation,Yes
+CVE-2021-84386,2021-02-20,XSS,Adobe,Photoshop,8.5,High,Physical,Low,None,None,None,Low,Low,China,Retail,18486,Actively Exploited,Yes
+CVE-2021-98282,2021-06-08,Path Traversal,Adobe,ColdFusion,2.1,Low,Physical,Low,Low,None,Low,Low,None,UK,Telecom,39417,Exploited,Yes
+CVE-2021-84008,2021-02-17,DoS/DDoS,Oracle,WebLogic,3.4,Low,Local,Low,None,None,Low,Low,Low,Brazil,IT,7684,Under Investigation,No
+CVE-2021-80375,2021-11-22,MITM,Adobe,Acrobat,7.2,High,Local,High,None,Required,High,Low,High,Romania,Education,27832,Under Investigation,Yes
+CVE-2021-49791,2021-12-17,DoS/DDoS,Cisco,Webex,7.1,High,Adjacent,High,None,Required,High,Low,Low,Vietnam,Healthcare,38509,Under Investigation,Yes
+CVE-2021-18499,2021-05-26,Buffer Overflow,Juniper,Junos,6.6,Medium,Adjacent,High,High,Required,Low,High,Low,Iran,IT,20480,Actively Exploited,No
+CVE-2021-21727,2021-12-25,CSRF,Palo Alto,GlobalProtect,2.0,Low,Local,Low,Low,Required,High,High,Low,Ukraine,Energy,3884,Resolved,No
+CVE-2021-41367,2021-07-01,CSRF,Oracle,E-Business Suite,4.1,Medium,Adjacent,Low,High,None,High,Low,Low,Indonesia,Transport,48855,Resolved,No
+CVE-2021-94922,2021-12-04,Command Injection,F5,BIG-IP,2.3,Low,Network,Low,High,None,None,High,High,Germany,IT,18618,Exploited,No
+CVE-2021-10613,2021-04-01,Zero-Day Exploit,Atlassian,Bitbucket,3.0,Low,Adjacent,Low,None,None,High,None,High,South Korea,Education,29470,Actively Exploited,Yes
+CVE-2021-24589,2021-07-02,CSRF,Nginx,Nginx,5.3,Medium,Physical,High,High,Required,Low,High,Low,India,Transport,48077,Exploited,No
+CVE-2021-63241,2021-07-23,Buffer Overflow,IBM,QRadar,8.0,High,Network,Low,Low,Required,High,High,Low,North Korea,Education,22010,Exploited,Yes
+CVE-2021-30415,2021-11-16,XXE,VMware,vCenter,0.5,Low,Physical,Low,Low,Required,High,None,High,France,Manufacturing,15454,Exploited,Yes
+CVE-2021-82968,2021-06-02,MITM,Fortinet,FortiManager,3.8,Low,Network,High,High,Required,Low,High,High,Brazil,Telecom,31525,Exploited,No
+CVE-2021-07319,2021-12-06,SQL Injection,SAP,Business One,6.5,Medium,Local,High,None,None,High,None,Low,Netherlands,IT,48091,Exploited,Yes
+CVE-2021-51070,2021-11-23,Credential Stuffing,WordPress,Plugins,0.5,Low,Adjacent,High,None,None,None,None,Low,UK,Education,33033,Actively Exploited,No
+CVE-2021-64253,2021-06-26,XSS,SAP,NetWeaver,9.6,Critical,Physical,High,Low,None,None,Low,Low,Romania,Defense,40953,Under Investigation,Yes
+CVE-2021-26942,2021-12-23,SQL Injection,Nginx,Nginx,6.8,Medium,Local,High,Low,Required,None,High,Low,UK,Telecom,9163,Under Investigation,Yes
+CVE-2021-27337,2021-01-13,XXE,Apple,macOS,9.5,Critical,Physical,Low,None,None,None,High,Low,Ukraine,Manufacturing,41431,Under Investigation,Yes
+CVE-2021-06209,2021-12-20,DoS/DDoS,Apache,HTTP Server,0.1,Low,Adjacent,High,High,Required,None,High,None,Netherlands,Manufacturing,21997,Patched,No
+CVE-2021-27758,2021-04-15,MITM,Atlassian,Jira,9.0,Critical,Physical,High,Low,None,Low,None,None,Nigeria,Energy,43446,Exploited,No
+CVE-2021-31535,2021-05-09,SSRF,Nginx,Nginx,4.6,Medium,Physical,High,None,Required,None,Low,High,Vietnam,IT,10602,Patched,Yes
+CVE-2021-54281,2021-12-02,Deserialization,Microsoft,Office,2.0,Low,Local,Low,None,None,Low,Low,None,Vietnam,Retail,34128,Resolved,No
+CVE-2021-04814,2021-02-04,XXE,Fortinet,FortiGate,1.2,Low,Network,Low,Low,None,High,Low,Low,Nigeria,Healthcare,47100,Patched,Yes
+CVE-2021-05838,2021-03-02,MITM,Apache,HTTP Server,7.4,High,Adjacent,Low,None,None,Low,High,High,Vietnam,Healthcare,34323,Resolved,No
+CVE-2021-15562,2021-10-03,RCE,Palo Alto,PAN-OS,0.8,Low,Network,High,Low,Required,High,High,Low,North Korea,Healthcare,23781,Patched,No
+CVE-2021-41396,2021-07-05,SQL Injection,IBM,WebSphere,1.8,Low,Physical,Low,Low,None,None,High,High,Germany,Telecom,5495,Under Investigation,Yes
+CVE-2021-26909,2021-08-24,Privilege Escalation,Drupal,Core,8.0,High,Local,High,None,Required,None,High,High,France,Government,356,Under Investigation,Yes
+CVE-2021-74605,2021-06-02,CSRF,Cisco,AnyConnect,1.7,Low,Physical,High,Low,None,High,Low,High,Ukraine,Telecom,41505,Exploited,No
+CVE-2021-46723,2021-09-25,Logic Flaw,Zimbra,Collaboration Suite,4.3,Medium,Adjacent,Low,None,Required,High,High,None,Russia,Energy,43929,Patched,No
+CVE-2021-80341,2021-07-27,Phishing,VMware,vCenter,0.6,Low,Adjacent,High,High,None,Low,Low,Low,India,Government,39483,Patched,No
+CVE-2021-28900,2021-03-29,SQL Injection,VMware,vCenter,1.0,Low,Physical,Low,None,None,High,None,High,Iran,Manufacturing,43128,Exploited,No
+CVE-2021-47008,2021-11-08,Deserialization,Cisco,ASA,7.4,High,Physical,High,High,None,None,Low,None,France,Government,28612,Actively Exploited,No
+CVE-2021-99303,2021-08-22,Phishing,Atlassian,Jira,0.7,Low,Local,Low,None,None,High,High,High,Brazil,Education,19871,Patched,No
+CVE-2021-21465,2021-05-12,Command Injection,VMware,ESXi,7.1,High,Adjacent,High,Low,None,Low,High,Low,Turkey,Manufacturing,1798,Exploited,No
+CVE-2021-41446,2021-12-24,Phishing,Juniper,Junos,6.2,Medium,Network,High,None,Required,Low,Low,None,France,Government,9680,Under Investigation,No
+CVE-2021-56333,2021-12-28,Buffer Overflow,F5,BIG-IP,0.8,Low,Network,Low,High,Required,Low,Low,Low,China,Manufacturing,30726,Under Investigation,No
+CVE-2021-71401,2021-11-17,RCE,Cisco,ASA,1.6,Low,Network,Low,Low,None,None,None,High,Romania,Defense,18686,Resolved,No
+CVE-2021-64773,2021-08-20,SQL Injection,IBM,WebSphere,1.4,Low,Physical,High,High,Required,Low,Low,None,South Korea,IT,262,Under Investigation,No
+CVE-2021-63743,2021-08-01,Privilege Escalation,VMware,Workstation,8.8,High,Network,High,None,Required,Low,High,None,Netherlands,Manufacturing,20736,Patched,Yes
+CVE-2021-52775,2021-06-28,SSRF,Fortinet,FortiGate,1.3,Low,Local,Low,None,Required,None,High,None,Canada,Telecom,33485,Patched,No
+CVE-2021-24465,2021-09-05,MITM,F5,BIG-IP,3.8,Low,Adjacent,Low,Low,Required,None,None,Low,Iran,Education,37183,Exploited,No
+CVE-2021-53271,2021-06-26,SQL Injection,Atlassian,Confluence,4.0,Medium,Physical,Low,None,Required,None,High,None,China,Government,30445,Under Investigation,Yes
+CVE-2021-89519,2021-02-26,Logic Flaw,Juniper,Junos,9.9,Critical,Adjacent,High,None,Required,None,High,None,Turkey,Healthcare,46034,Exploited,No
+CVE-2021-58727,2021-02-12,RCE,Microsoft,Azure AD,4.6,Medium,Physical,Low,Low,None,None,None,Low,Netherlands,Transport,11508,Patched,Yes
+CVE-2021-39004,2021-11-01,Privilege Escalation,SAP,HANA,5.9,Medium,Local,Low,High,Required,None,High,None,Ukraine,Telecom,40234,Resolved,Yes
+CVE-2021-06971,2021-09-09,RCE,F5,BIG-IP,7.8,High,Adjacent,Low,None,Required,Low,None,Low,Indonesia,Manufacturing,9853,Actively Exploited,No
+CVE-2021-97739,2021-10-15,XXE,Cisco,Webex,4.3,Medium,Network,Low,Low,None,None,None,None,China,Defense,39690,Under Investigation,Yes
+CVE-2021-50895,2021-10-20,Credential Stuffing,F5,BIG-IP,4.2,Medium,Adjacent,Low,High,None,None,None,Low,France,Telecom,47115,Under Investigation,Yes
+CVE-2021-32123,2021-07-02,Ransomware,Google,Android,2.7,Low,Physical,Low,High,Required,None,Low,High,Germany,Finance,43033,Actively Exploited,No
+CVE-2021-08794,2021-09-11,Command Injection,Drupal,Core,0.3,Low,Physical,High,High,Required,None,None,Low,UK,Telecom,26642,Actively Exploited,Yes
+CVE-2021-01240,2021-05-16,CSRF,Zimbra,Collaboration Suite,3.8,Low,Adjacent,High,High,None,High,High,None,Canada,Government,4226,Patched,No
+CVE-2021-13625,2021-02-28,Deserialization,Adobe,Flash,8.7,High,Physical,High,Low,Required,Low,High,None,Ukraine,Retail,46326,Actively Exploited,Yes
+CVE-2021-32378,2021-02-21,Brute Force,VMware,Horizon,9.3,Critical,Network,Low,Low,None,Low,Low,Low,Vietnam,Transport,43727,Patched,No
+CVE-2021-44580,2021-07-14,Deserialization,Drupal,Core,3.6,Low,Adjacent,Low,High,Required,Low,Low,None,India,IT,23162,Patched,Yes
+CVE-2021-35792,2021-07-31,Logic Flaw,SAP,NetWeaver,5.9,Medium,Physical,High,None,Required,High,Low,High,India,Education,18930,Under Investigation,No
+CVE-2021-18567,2021-11-09,Phishing,IBM,MQ,6.1,Medium,Network,High,Low,Required,High,Low,High,Brazil,Healthcare,31982,Patched,No
+CVE-2021-98909,2021-06-28,MITM,Atlassian,Confluence,0.2,Low,Adjacent,High,None,Required,High,Low,None,Romania,Transport,22994,Patched,No
+CVE-2021-69764,2021-12-04,Phishing,VMware,ESXi,0.1,Low,Local,High,None,None,None,None,None,Ukraine,Defense,4927,Under Investigation,No
+CVE-2021-92556,2021-01-31,RCE,Palo Alto,PAN-OS,0.9,Low,Physical,High,High,Required,Low,None,Low,China,Manufacturing,32946,Actively Exploited,Yes
+CVE-2021-30000,2021-09-13,Deserialization,WordPress,Core,5.1,Medium,Adjacent,High,High,None,None,High,High,Germany,Government,4587,Resolved,No
+CVE-2021-56962,2021-03-28,RCE,Linux,systemd,5.9,Medium,Physical,High,High,None,None,High,High,India,Finance,10034,Under Investigation,No
+CVE-2021-20705,2021-08-23,Phishing,Linux,Kernel,1.9,Low,Physical,Low,Low,None,Low,High,Low,France,Energy,880,Resolved,No
+CVE-2021-80956,2021-02-20,RCE,F5,BIG-IP,8.3,High,Physical,Low,None,Required,High,Low,High,India,Energy,44388,Resolved,No
+CVE-2021-06616,2021-08-25,Buffer Overflow,IBM,WebSphere,9.6,Critical,Adjacent,High,Low,None,None,None,Low,Netherlands,IT,39382,Under Investigation,No
+CVE-2021-07454,2021-07-06,Credential Stuffing,Palo Alto,PAN-OS,7.7,High,Network,Low,None,None,None,High,Low,North Korea,Energy,13938,Patched,Yes
+CVE-2021-03309,2021-08-31,Buffer Overflow,F5,BIG-IP,1.6,Low,Physical,Low,None,None,None,None,High,Canada,Energy,35551,Resolved,Yes
+CVE-2021-16691,2021-02-24,CSRF,SAP,NetWeaver,5.6,Medium,Network,High,High,Required,None,High,High,USA,IT,22865,Resolved,Yes
+CVE-2021-49543,2021-11-05,Command Injection,IBM,MQ,2.8,Low,Local,High,High,None,High,High,None,Pakistan,Healthcare,43846,Actively Exploited,Yes
+CVE-2021-60771,2021-03-20,XXE,VMware,vCenter,9.8,Critical,Physical,Low,High,Required,Low,Low,None,North Korea,Government,12884,Exploited,Yes
+CVE-2021-56459,2021-01-27,Phishing,Drupal,Modules,4.4,Medium,Local,High,High,Required,Low,High,Low,North Korea,Finance,4382,Exploited,Yes
+CVE-2021-16549,2021-11-20,Zero-Day Exploit,Cisco,Webex,9.2,Critical,Network,High,High,Required,Low,Low,High,Netherlands,Government,24853,Patched,Yes
+CVE-2021-43929,2021-07-24,RCE,Oracle,E-Business Suite,2.5,Low,Local,High,Low,Required,High,Low,Low,Canada,Transport,15093,Resolved,No
+CVE-2021-79587,2021-11-19,Brute Force,Juniper,Junos,6.5,Medium,Physical,High,High,Required,None,None,High,Germany,Telecom,45605,Actively Exploited,Yes
+CVE-2021-52162,2021-03-01,SSRF,Adobe,Acrobat,9.9,Critical,Network,High,None,None,High,Low,Low,UK,Education,28302,Patched,No
+CVE-2021-07001,2021-12-01,Phishing,Zimbra,Collaboration Suite,6.3,Medium,Local,Low,None,None,High,None,High,North Korea,Energy,11595,Actively Exploited,No
+CVE-2021-50697,2021-02-16,Privilege Escalation,Fortinet,FortiManager,8.7,High,Local,High,High,Required,High,None,High,Germany,Retail,6884,Actively Exploited,Yes
+CVE-2021-48542,2021-05-16,Path Traversal,Zimbra,Collaboration Suite,2.9,Low,Adjacent,Low,Low,None,High,None,None,Ukraine,Telecom,26492,Resolved,No
+CVE-2021-47065,2021-01-19,Buffer Overflow,Drupal,Modules,1.0,Low,Network,Low,High,None,Low,High,High,Romania,Education,6155,Under Investigation,Yes
+CVE-2021-04321,2021-06-07,CSRF,Cisco,Firepower,2.6,Low,Local,High,None,Required,High,None,Low,South Korea,Defense,10284,Actively Exploited,Yes
+CVE-2021-80600,2021-09-10,XXE,Apple,macOS,1.4,Low,Network,High,High,None,None,None,None,Romania,Retail,46179,Patched,Yes
+CVE-2021-48891,2021-01-05,CSRF,Atlassian,Jira,7.7,High,Local,Low,Low,None,None,None,Low,Brazil,IT,8685,Resolved,Yes
+CVE-2021-56445,2021-04-02,SQL Injection,SAP,HANA,5.0,Medium,Network,High,High,Required,None,None,Low,Pakistan,Telecom,11869,Resolved,No
+CVE-2021-06243,2021-12-01,Logic Flaw,Oracle,Java SE,6.7,Medium,Adjacent,High,High,None,None,High,Low,UK,Transport,21803,Actively Exploited,Yes
+CVE-2021-58575,2021-05-20,DoS/DDoS,SAP,Business One,4.9,Medium,Adjacent,Low,High,Required,High,Low,None,Iran,Telecom,30640,Resolved,Yes
+CVE-2021-74356,2021-12-21,DoS/DDoS,Apache,Kafka,1.6,Low,Physical,High,Low,None,High,None,High,Brazil,Telecom,16965,Resolved,No
+CVE-2021-23764,2021-05-05,MITM,WordPress,Core,3.9,Low,Local,Low,Low,None,None,Low,High,Turkey,Government,12499,Patched,Yes
+CVE-2021-31021,2021-12-21,XSS,Cisco,IOS,3.8,Low,Physical,High,Low,None,None,Low,None,Germany,Manufacturing,22292,Under Investigation,Yes
+CVE-2021-30769,2021-10-09,Deserialization,Apple,Safari,5.9,Medium,Adjacent,High,None,Required,High,None,Low,Russia,Telecom,17355,Resolved,Yes
+CVE-2021-82419,2021-08-10,XXE,Zimbra,Collaboration Suite,5.6,Medium,Network,High,Low,Required,None,Low,High,Indonesia,Education,37333,Patched,No
+CVE-2021-85070,2021-05-15,Buffer Overflow,Juniper,Junos,8.8,High,Local,Low,None,None,None,None,None,Netherlands,IT,23250,Patched,Yes
+CVE-2021-51866,2021-05-23,Path Traversal,Fortinet,FortiManager,7.9,High,Adjacent,High,None,Required,Low,None,Low,Netherlands,Manufacturing,4356,Actively Exploited,No
+CVE-2021-84384,2021-11-16,Credential Stuffing,IBM,WebSphere,2.7,Low,Local,High,High,Required,Low,High,High,Canada,Education,20213,Patched,Yes
+CVE-2021-75574,2021-12-08,Buffer Overflow,Palo Alto,GlobalProtect,7.9,High,Local,Low,None,Required,None,High,None,Vietnam,Telecom,5103,Resolved,Yes
+CVE-2021-17527,2021-04-15,SSRF,Adobe,ColdFusion,1.2,Low,Network,Low,High,None,High,High,None,Canada,IT,29043,Under Investigation,Yes
+CVE-2021-34163,2021-01-08,Phishing,Apache,HTTP Server,6.2,Medium,Network,Low,None,Required,None,Low,Low,Russia,Education,10376,Actively Exploited,No
+CVE-2021-40899,2021-10-06,Command Injection,Drupal,Core,6.2,Medium,Local,Low,High,None,None,None,Low,Pakistan,Manufacturing,31300,Actively Exploited,Yes
+CVE-2021-57870,2021-06-24,Phishing,Microsoft,Windows,0.1,Low,Local,Low,High,None,None,High,High,Vietnam,Retail,862,Actively Exploited,No
+CVE-2021-46871,2021-10-15,XSS,Adobe,ColdFusion,8.9,High,Local,High,None,Required,None,None,None,India,Manufacturing,11909,Under Investigation,Yes
+CVE-2021-43667,2021-04-11,Command Injection,Apple,macOS,3.5,Low,Network,High,High,Required,None,None,Low,Indonesia,Defense,21987,Patched,Yes
+CVE-2021-98811,2021-07-10,Brute Force,Zimbra,Collaboration Suite,8.7,High,Local,Low,High,Required,Low,None,Low,Turkey,IT,17290,Resolved,No
+CVE-2021-42541,2021-11-25,Deserialization,SAP,Business One,0.7,Low,Local,High,Low,None,Low,High,None,Canada,Healthcare,4846,Resolved,Yes
+CVE-2021-23158,2021-10-22,XXE,Oracle,Java SE,5.5,Medium,Network,High,High,None,High,None,None,Indonesia,IT,21012,Patched,Yes
+CVE-2021-83941,2021-03-03,Ransomware,Adobe,Photoshop,9.8,Critical,Physical,Low,High,None,None,High,High,Germany,Telecom,41539,Patched,No
+CVE-2021-58746,2021-11-21,CSRF,Juniper,Junos,2.0,Low,Local,High,High,Required,Low,Low,High,Nigeria,IT,47642,Under Investigation,Yes
+CVE-2021-13442,2021-04-25,RCE,Apple,iOS,6.2,Medium,Local,Low,None,None,High,Low,High,Netherlands,Education,48027,Resolved,No
+CVE-2021-16308,2021-04-13,Ransomware,WordPress,Core,4.7,Medium,Adjacent,Low,None,Required,High,Low,Low,Canada,Defense,34058,Resolved,Yes
+CVE-2021-62540,2021-01-30,CSRF,SAP,HANA,6.3,Medium,Local,High,High,Required,None,None,Low,Germany,Telecom,47054,Under Investigation,No
+CVE-2021-91499,2021-12-30,SSRF,Nginx,Nginx,5.7,Medium,Local,High,High,None,Low,High,None,China,IT,21931,Under Investigation,Yes
+CVE-2021-01432,2021-07-07,XSS,Linux,Kernel,5.3,Medium,Network,Low,High,None,High,None,High,Pakistan,Education,943,Exploited,No
+CVE-2021-96932,2021-03-29,Credential Stuffing,IBM,WebSphere,2.9,Low,Local,Low,High,Required,None,Low,High,North Korea,Transport,22901,Exploited,Yes
+CVE-2021-98095,2021-02-07,Logic Flaw,Apache,Log4j,0.3,Low,Network,Low,None,Required,High,None,Low,Germany,Energy,321,Actively Exploited,No
+CVE-2021-55384,2021-02-28,Command Injection,Apache,Log4j,7.8,High,Adjacent,Low,Low,Required,High,High,High,China,Energy,40629,Resolved,Yes
+CVE-2021-36283,2021-07-09,RCE,Drupal,Modules,2.8,Low,Physical,Low,None,None,None,Low,Low,Vietnam,Energy,35530,Resolved,No
+CVE-2021-67518,2021-02-17,Command Injection,IBM,MQ,4.6,Medium,Physical,Low,High,Required,Low,None,None,Indonesia,Manufacturing,22738,Patched,Yes
+CVE-2021-10211,2021-11-07,Path Traversal,Zimbra,Collaboration Suite,6.4,Medium,Physical,Low,None,Required,Low,Low,None,North Korea,Healthcare,18927,Exploited,No
+CVE-2021-96325,2021-06-29,Path Traversal,Atlassian,Jira,6.9,Medium,Adjacent,High,High,Required,Low,Low,High,Romania,IT,46146,Resolved,Yes
+CVE-2021-48084,2021-04-29,Privilege Escalation,Nginx,Nginx,9.8,Critical,Network,Low,Low,Required,None,Low,Low,China,Education,13711,Exploited,Yes
+CVE-2021-14743,2021-04-10,Privilege Escalation,Drupal,Core,3.3,Low,Physical,Low,Low,Required,Low,None,None,Iran,Telecom,1684,Resolved,No
+CVE-2021-42951,2021-08-22,DoS/DDoS,Cisco,Firepower,1.0,Low,Local,High,Low,Required,High,None,High,Russia,Finance,48072,Under Investigation,Yes
+CVE-2021-33944,2021-03-07,MITM,Palo Alto,GlobalProtect,9.6,Critical,Network,High,None,None,Low,High,None,USA,Finance,3363,Exploited,Yes
+CVE-2021-13252,2021-06-02,Ransomware,IBM,WebSphere,7.4,High,Local,Low,None,None,High,None,High,North Korea,Defense,10415,Resolved,Yes
+CVE-2021-74716,2021-04-27,Credential Stuffing,Linux,glibc,6.5,Medium,Local,High,Low,None,High,None,Low,Brazil,Transport,11676,Patched,Yes
+CVE-2021-38651,2021-12-16,SSRF,Adobe,Flash,6.6,Medium,Local,Low,None,Required,None,None,High,Germany,Healthcare,11347,Exploited,No
+CVE-2021-58443,2021-08-27,Command Injection,Adobe,Flash,7.4,High,Network,High,None,Required,None,Low,High,Vietnam,Finance,20723,Exploited,No
+CVE-2021-85192,2021-02-10,RCE,Nginx,Nginx,7.0,High,Adjacent,Low,None,Required,Low,High,High,Nigeria,Government,36978,Exploited,No
+CVE-2021-83086,2021-07-04,Brute Force,Cisco,ASA,2.1,Low,Network,High,High,None,High,Low,High,Netherlands,Defense,31720,Actively Exploited,No
+CVE-2021-40180,2021-12-13,Path Traversal,Zimbra,Collaboration Suite,5.9,Medium,Network,Low,None,Required,None,Low,Low,Romania,Healthcare,14024,Exploited,No
+CVE-2021-46805,2021-03-23,SSRF,Zimbra,Collaboration Suite,8.8,High,Physical,High,High,None,Low,None,Low,Brazil,Education,8219,Resolved,Yes
+CVE-2021-88952,2021-04-06,SSRF,SAP,Business One,1.4,Low,Adjacent,High,None,Required,High,High,Low,South Korea,Energy,45572,Resolved,No
+CVE-2021-42179,2021-06-02,Logic Flaw,Cisco,Firepower,2.8,Low,Physical,High,Low,Required,None,None,Low,Ukraine,Defense,10961,Actively Exploited,No
+CVE-2021-01131,2021-11-10,RCE,IBM,QRadar,0.8,Low,Network,High,High,None,High,None,Low,UK,IT,24292,Exploited,Yes
+CVE-2021-02426,2021-12-31,Ransomware,Fortinet,FortiManager,3.0,Low,Local,High,None,None,Low,High,Low,Romania,Healthcare,25426,Patched,No
+CVE-2021-70361,2021-11-01,Path Traversal,Atlassian,Bitbucket,1.0,Low,Local,Low,None,None,Low,None,None,Ukraine,Retail,8815,Actively Exploited,No
+CVE-2021-13561,2021-08-14,Logic Flaw,Nginx,Nginx,8.2,High,Adjacent,Low,Low,None,Low,High,High,Canada,Transport,22103,Resolved,Yes
+CVE-2021-74579,2021-10-21,SSRF,VMware,Workstation,8.8,High,Local,High,High,Required,Low,High,Low,Romania,Finance,27924,Under Investigation,Yes
+CVE-2021-95909,2021-04-04,DoS/DDoS,Drupal,Core,0.4,Low,Adjacent,Low,None,Required,None,Low,Low,Vietnam,Finance,49765,Under Investigation,No
+CVE-2021-50429,2021-09-14,XSS,WordPress,Core,7.2,High,Local,Low,Low,None,None,Low,Low,Germany,Education,3199,Resolved,Yes
+CVE-2021-24578,2021-12-12,Buffer Overflow,Oracle,Database,2.4,Low,Network,High,High,None,Low,Low,High,South Korea,Healthcare,15602,Exploited,No
+CVE-2021-30245,2021-08-02,Phishing,Microsoft,Azure AD,6.4,Medium,Adjacent,High,Low,Required,High,Low,Low,Brazil,Energy,3618,Exploited,No
+CVE-2021-53084,2021-05-15,Credential Stuffing,Atlassian,Confluence,2.0,Low,Physical,Low,High,Required,Low,Low,None,UK,Energy,35496,Exploited,No
+CVE-2021-59776,2021-03-31,CSRF,Drupal,Modules,8.1,High,Local,Low,Low,Required,High,Low,High,Russia,Government,6240,Actively Exploited,No
+CVE-2021-07445,2021-08-23,XSS,Fortinet,FortiGate,6.6,Medium,Local,High,Low,Required,None,None,None,India,Finance,42338,Resolved,Yes
+CVE-2021-62555,2021-07-18,Logic Flaw,Juniper,Junos,0.5,Low,Physical,High,None,Required,None,Low,High,UK,Manufacturing,27347,Actively Exploited,Yes
+CVE-2021-87720,2021-09-10,DoS/DDoS,Google,Workspace,4.5,Medium,Network,High,High,None,Low,Low,None,Indonesia,Retail,2861,Patched,No
+CVE-2021-29051,2021-04-04,Privilege Escalation,Oracle,Java SE,2.6,Low,Local,High,High,None,High,None,Low,Canada,Defense,13544,Actively Exploited,Yes
+CVE-2021-49727,2021-10-10,Logic Flaw,Fortinet,FortiGate,7.0,High,Adjacent,Low,Low,None,High,None,Low,Ukraine,Finance,7272,Patched,No
+CVE-2021-81589,2021-05-08,Credential Stuffing,Google,Chrome,9.6,Critical,Network,Low,Low,Required,High,None,High,Russia,Healthcare,1499,Resolved,Yes
+CVE-2021-12863,2021-08-21,CSRF,F5,BIG-IP,5.7,Medium,Network,Low,None,Required,High,Low,Low,Turkey,IT,3825,Resolved,No
+CVE-2021-51558,2021-12-22,SQL Injection,Zimbra,Collaboration Suite,6.1,Medium,Network,Low,None,None,High,None,None,Nigeria,Healthcare,6626,Resolved,Yes
+CVE-2021-19518,2021-02-21,CSRF,Juniper,Junos,6.4,Medium,Physical,Low,Low,Required,Low,None,None,India,Retail,6039,Actively Exploited,No
+CVE-2021-05613,2021-11-22,Path Traversal,Palo Alto,GlobalProtect,1.0,Low,Local,Low,High,None,None,High,None,North Korea,Finance,2329,Exploited,No
+CVE-2021-52053,2021-05-11,Deserialization,Apple,macOS,6.7,Medium,Physical,Low,High,Required,None,Low,None,France,Retail,44473,Resolved,No
+CVE-2021-87086,2021-03-23,XSS,Linux,glibc,7.4,High,Adjacent,Low,High,None,Low,High,High,Russia,Energy,35998,Actively Exploited,Yes
+CVE-2021-64691,2021-09-16,XXE,IBM,QRadar,1.8,Low,Physical,High,None,None,None,High,Low,Turkey,Energy,30624,Under Investigation,No
+CVE-2021-02041,2021-11-10,MITM,Fortinet,FortiManager,4.5,Medium,Network,High,High,None,Low,Low,High,North Korea,Retail,8178,Resolved,Yes
+CVE-2021-64185,2021-05-16,Buffer Overflow,VMware,Horizon,9.9,Critical,Physical,High,None,None,High,Low,High,China,Energy,4252,Resolved,No
+CVE-2021-28504,2021-07-29,Credential Stuffing,SAP,Business One,5.8,Medium,Network,Low,None,Required,None,High,High,Nigeria,Healthcare,14002,Resolved,No
+CVE-2021-37689,2021-08-19,Deserialization,Google,Chrome,8.1,High,Adjacent,Low,High,Required,Low,High,High,Romania,Defense,25864,Patched,Yes
+CVE-2021-86839,2021-12-08,Command Injection,Palo Alto,GlobalProtect,6.9,Medium,Adjacent,High,Low,Required,None,High,None,India,Education,37987,Patched,No
+CVE-2021-51726,2021-09-30,SQL Injection,Fortinet,FortiGate,4.4,Medium,Local,Low,None,None,Low,None,Low,Indonesia,Finance,37444,Under Investigation,No
+CVE-2021-15866,2021-06-18,Brute Force,IBM,QRadar,4.1,Medium,Local,Low,High,Required,None,None,Low,Ukraine,Energy,42985,Exploited,No
+CVE-2021-36324,2021-12-31,Logic Flaw,Linux,systemd,3.6,Low,Network,Low,Low,None,None,Low,High,Turkey,Telecom,9218,Patched,No
+CVE-2021-55009,2021-05-05,Credential Stuffing,WordPress,Core,9.3,Critical,Network,High,Low,None,None,Low,Low,USA,Transport,233,Actively Exploited,No
+CVE-2021-64457,2021-11-02,XSS,Oracle,Java SE,4.2,Medium,Network,Low,None,Required,None,None,None,Pakistan,Telecom,17179,Resolved,No
+CVE-2021-94613,2021-06-07,Zero-Day Exploit,Drupal,Modules,5.7,Medium,Physical,High,High,Required,Low,Low,Low,China,Finance,4566,Under Investigation,No
+CVE-2021-48292,2021-06-12,SQL Injection,Zimbra,Collaboration Suite,4.2,Medium,Network,High,High,None,Low,Low,High,Netherlands,IT,24900,Resolved,No
+CVE-2021-75753,2021-07-03,Ransomware,Nginx,Nginx,1.1,Low,Local,Low,Low,Required,None,High,High,North Korea,Transport,2798,Resolved,Yes

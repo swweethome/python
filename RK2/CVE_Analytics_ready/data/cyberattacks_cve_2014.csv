@@ -1,0 +1,1029 @@
+cve_id,date,attack_type,vendor,product,cvss_score,severity,attack_vector,access_complexity,privileges_required,user_interaction,confidentiality_impact,integrity_impact,availability_impact,attacker_country,target_sector,affected_hosts,status,exploit_available
+CVE-2014-32099,2014-04-25,Buffer Overflow,Microsoft,SharePoint,1.4,Low,Network,High,None,None,None,None,None,Indonesia,Defense,1740,Resolved,Yes
+CVE-2014-28894,2014-08-18,SQL Injection,Zimbra,Collaboration Suite,5.9,Medium,Adjacent,High,Low,Required,None,None,Low,Iran,Healthcare,24899,Exploited,No
+CVE-2014-34672,2014-01-23,Command Injection,SAP,HANA,7.3,High,Network,High,None,Required,High,High,Low,Netherlands,Education,46175,Exploited,Yes
+CVE-2014-10459,2014-04-30,SSRF,VMware,Workstation,8.7,High,Local,High,High,Required,None,Low,Low,India,IT,17497,Exploited,Yes
+CVE-2014-21418,2014-08-25,Command Injection,Zimbra,Collaboration Suite,3.8,Low,Adjacent,High,None,None,None,Low,Low,UK,Healthcare,13827,Resolved,No
+CVE-2014-51857,2014-11-26,MITM,Adobe,ColdFusion,4.6,Medium,Adjacent,Low,High,Required,High,High,Low,Netherlands,Telecom,23724,Patched,Yes
+CVE-2014-11916,2014-01-25,Privilege Escalation,Juniper,Junos,8.6,High,Adjacent,High,High,None,Low,Low,High,Romania,Transport,16477,Resolved,Yes
+CVE-2014-98420,2014-05-17,Path Traversal,Apache,Kafka,7.7,High,Network,High,Low,None,Low,None,High,UK,Transport,49936,Patched,Yes
+CVE-2014-20033,2014-07-11,Command Injection,Palo Alto,PAN-OS,7.6,High,Network,High,Low,None,None,Low,Low,Germany,Finance,15786,Resolved,Yes
+CVE-2014-09072,2014-09-30,Privilege Escalation,Oracle,Java SE,7.7,High,Physical,Low,Low,Required,None,High,High,India,Energy,26149,Under Investigation,No
+CVE-2014-15861,2014-05-07,Path Traversal,Juniper,Junos,2.2,Low,Network,Low,High,None,None,None,High,China,Education,4418,Exploited,No
+CVE-2014-36501,2014-12-09,Command Injection,Oracle,Database,4.9,Medium,Adjacent,High,None,Required,Low,None,None,Iran,IT,28250,Under Investigation,No
+CVE-2014-95562,2014-01-28,Buffer Overflow,Linux,systemd,6.7,Medium,Network,High,High,Required,None,None,None,India,Transport,29401,Patched,No
+CVE-2014-60638,2014-05-08,RCE,Apple,macOS,8.7,High,Physical,Low,None,None,None,None,None,Pakistan,Manufacturing,31547,Patched,No
+CVE-2014-49673,2014-01-02,MITM,Cisco,ASA,9.9,Critical,Physical,High,Low,Required,None,None,Low,India,Finance,37958,Resolved,Yes
+CVE-2014-06573,2014-10-27,Brute Force,IBM,WebSphere,4.8,Medium,Adjacent,Low,High,None,None,None,High,USA,IT,15415,Actively Exploited,Yes
+CVE-2014-75881,2014-11-01,RCE,WordPress,Core,0.4,Low,Physical,High,Low,None,High,High,Low,Germany,Energy,25939,Patched,No
+CVE-2014-98549,2014-02-07,Logic Flaw,Nginx,Nginx,0.1,Low,Network,Low,High,None,High,Low,None,Turkey,Healthcare,16010,Under Investigation,No
+CVE-2014-71201,2014-12-27,Brute Force,Apple,macOS,3.0,Low,Network,High,High,None,None,Low,None,Iran,Transport,10188,Under Investigation,No
+CVE-2014-94059,2014-06-25,MITM,Drupal,Core,2.0,Low,Physical,High,None,None,High,Low,Low,China,Finance,21860,Patched,No
+CVE-2014-57913,2014-10-10,Command Injection,Apple,Safari,7.1,High,Network,Low,None,None,High,None,Low,Netherlands,Transport,9706,Actively Exploited,Yes
+CVE-2014-47796,2014-01-21,Phishing,Cisco,Webex,9.0,Critical,Adjacent,Low,Low,Required,High,High,None,Germany,Government,11604,Actively Exploited,Yes
+CVE-2014-43541,2014-07-30,Ransomware,Apple,Safari,8.0,High,Local,Low,High,None,Low,None,Low,Germany,Education,30167,Under Investigation,No
+CVE-2014-03102,2014-12-04,Path Traversal,VMware,ESXi,1.9,Low,Local,Low,Low,Required,High,High,Low,South Korea,Retail,1809,Exploited,No
+CVE-2014-34796,2014-01-20,XXE,Apple,Safari,1.1,Low,Local,High,Low,None,Low,High,None,UK,Finance,46451,Actively Exploited,Yes
+CVE-2014-47740,2014-08-09,Path Traversal,Juniper,Junos,0.7,Low,Local,Low,High,Required,High,Low,High,Pakistan,Retail,26372,Under Investigation,Yes
+CVE-2014-87154,2014-07-14,DoS/DDoS,Adobe,ColdFusion,6.8,Medium,Local,High,High,None,Low,Low,None,Pakistan,Defense,39759,Under Investigation,No
+CVE-2014-88556,2014-04-20,DoS/DDoS,Nginx,Nginx,5.1,Medium,Network,High,High,Required,None,None,High,France,Education,13051,Patched,Yes
+CVE-2014-62278,2014-11-09,RCE,Cisco,ASA,8.5,High,Physical,High,High,None,High,High,Low,Nigeria,Telecom,15990,Patched,Yes
+CVE-2014-28684,2014-04-01,Brute Force,Apache,Log4j,8.0,High,Physical,Low,High,None,None,Low,None,Romania,IT,34809,Resolved,No
+CVE-2014-71811,2014-08-17,Credential Stuffing,Nginx,Nginx,9.0,Critical,Physical,High,None,Required,High,Low,High,Germany,Energy,28828,Exploited,No
+CVE-2014-44021,2014-06-13,RCE,VMware,Workstation,8.9,High,Adjacent,Low,None,Required,High,None,High,India,Healthcare,27189,Actively Exploited,No
+CVE-2014-54497,2014-02-01,XXE,Zimbra,Collaboration Suite,2.1,Low,Physical,Low,High,Required,Low,None,Low,France,Telecom,27461,Resolved,Yes
+CVE-2014-35775,2014-08-12,SSRF,F5,BIG-IP,4.9,Medium,Local,High,High,None,Low,None,High,South Korea,Finance,25823,Resolved,Yes
+CVE-2014-17787,2014-08-25,MITM,Oracle,Java SE,1.8,Low,Physical,High,None,Required,Low,Low,Low,UK,Telecom,16533,Exploited,No
+CVE-2014-06827,2014-06-29,RCE,Microsoft,Azure AD,2.2,Low,Network,Low,None,None,None,High,None,Germany,Government,31036,Exploited,Yes
+CVE-2014-48352,2014-03-27,Buffer Overflow,Nginx,Nginx,6.1,Medium,Adjacent,High,None,None,Low,High,High,Vietnam,Telecom,46860,Patched,Yes
+CVE-2014-13357,2014-12-23,Buffer Overflow,WordPress,Core,7.7,High,Network,High,High,Required,High,Low,None,Indonesia,IT,22363,Exploited,No
+CVE-2014-56823,2014-07-05,Deserialization,F5,BIG-IP,6.4,Medium,Adjacent,High,None,Required,High,High,Low,Romania,Telecom,47909,Resolved,No
+CVE-2014-11360,2014-05-23,Ransomware,IBM,WebSphere,8.8,High,Physical,High,Low,None,Low,Low,None,Nigeria,Education,23254,Under Investigation,No
+CVE-2014-91906,2014-05-22,Brute Force,Fortinet,FortiManager,5.6,Medium,Adjacent,Low,None,Required,Low,High,None,Nigeria,IT,46652,Actively Exploited,No
+CVE-2014-38567,2014-04-24,Ransomware,Microsoft,Windows,4.0,Medium,Local,High,Low,Required,Low,High,High,Ukraine,Retail,46063,Actively Exploited,No
+CVE-2014-30218,2014-03-03,Path Traversal,Palo Alto,GlobalProtect,7.2,High,Network,Low,None,None,High,Low,Low,Netherlands,Transport,39112,Under Investigation,Yes
+CVE-2014-29817,2014-07-04,SQL Injection,Adobe,Photoshop,1.8,Low,Adjacent,High,None,None,High,Low,High,North Korea,IT,49335,Actively Exploited,Yes
+CVE-2014-37269,2014-08-29,Path Traversal,Microsoft,Azure AD,4.8,Medium,Adjacent,Low,Low,Required,None,None,Low,Nigeria,Healthcare,37816,Exploited,Yes
+CVE-2014-39825,2014-02-13,Buffer Overflow,Google,Workspace,9.9,Critical,Physical,Low,High,Required,Low,Low,Low,Netherlands,Telecom,20014,Resolved,Yes
+CVE-2014-99974,2014-04-17,MITM,Drupal,Core,6.3,Medium,Network,Low,None,None,High,None,None,Russia,Telecom,29525,Resolved,No
+CVE-2014-30341,2014-05-28,Deserialization,Palo Alto,PAN-OS,7.1,High,Network,Low,Low,None,Low,None,High,Germany,IT,9765,Under Investigation,Yes
+CVE-2014-21748,2014-06-07,Logic Flaw,Oracle,WebLogic,6.0,Medium,Local,High,None,Required,High,Low,High,Vietnam,Energy,32799,Resolved,No
+CVE-2014-78386,2014-01-21,Path Traversal,Nginx,Nginx,8.9,High,Local,Low,None,None,High,High,High,Russia,IT,17663,Resolved,Yes
+CVE-2014-68022,2014-11-30,MITM,Apple,macOS,4.4,Medium,Adjacent,High,High,Required,None,Low,Low,Pakistan,Retail,21041,Exploited,Yes
+CVE-2014-90922,2014-09-11,SSRF,IBM,MQ,2.9,Low,Network,High,None,Required,Low,Low,None,Vietnam,Transport,76,Resolved,No
+CVE-2014-24587,2014-09-23,Credential Stuffing,Linux,Kernel,3.6,Low,Physical,Low,None,Required,High,None,Low,Romania,Manufacturing,7958,Exploited,Yes
+CVE-2014-72200,2014-01-08,RCE,Apple,macOS,5.5,Medium,Adjacent,Low,Low,None,High,None,Low,France,Transport,46230,Under Investigation,No
+CVE-2014-31947,2014-08-22,SSRF,F5,BIG-IP,5.5,Medium,Adjacent,Low,None,Required,Low,Low,High,UK,Finance,18537,Under Investigation,No
+CVE-2014-70593,2014-09-05,Command Injection,Google,Android,3.5,Low,Physical,High,Low,None,High,None,High,Vietnam,Education,26921,Exploited,No
+CVE-2014-50605,2014-12-06,Privilege Escalation,F5,BIG-IP,7.9,High,Physical,Low,None,Required,None,Low,None,Indonesia,Manufacturing,1006,Patched,No
+CVE-2014-61538,2014-05-16,SSRF,Google,Chrome,3.4,Low,Network,High,High,Required,Low,High,High,Nigeria,Transport,2353,Resolved,Yes
+CVE-2014-29818,2014-02-16,Buffer Overflow,VMware,Workstation,4.3,Medium,Network,High,None,Required,None,None,Low,China,Energy,23493,Under Investigation,No
+CVE-2014-69622,2014-07-30,DoS/DDoS,Google,Chrome,5.7,Medium,Adjacent,Low,None,Required,High,High,None,Nigeria,Defense,9380,Patched,No
+CVE-2014-33467,2014-12-08,Deserialization,Fortinet,FortiOS,0.1,Low,Local,Low,None,Required,Low,High,Low,Pakistan,Energy,29940,Under Investigation,Yes
+CVE-2014-13980,2014-05-02,CSRF,Atlassian,Confluence,3.8,Low,Local,High,None,Required,Low,None,High,China,Defense,48836,Actively Exploited,No
+CVE-2014-28706,2014-11-22,MITM,VMware,Workstation,1.9,Low,Adjacent,Low,High,None,Low,Low,None,Netherlands,Retail,47996,Patched,Yes
+CVE-2014-97974,2014-08-01,Privilege Escalation,Palo Alto,GlobalProtect,1.8,Low,Local,High,None,Required,Low,Low,High,Ukraine,Healthcare,30693,Exploited,Yes
+CVE-2014-73049,2014-07-07,SSRF,VMware,Horizon,0.9,Low,Network,High,High,None,Low,Low,High,UK,Defense,24971,Under Investigation,Yes
+CVE-2014-03281,2014-11-14,Command Injection,VMware,Horizon,8.8,High,Local,Low,High,None,High,Low,High,France,IT,26759,Exploited,Yes
+CVE-2014-39894,2014-09-10,Ransomware,Cisco,IOS,1.2,Low,Adjacent,High,Low,Required,High,High,High,South Korea,Telecom,38492,Patched,No
+CVE-2014-80695,2014-07-28,MITM,Apache,Log4j,9.4,Critical,Network,High,None,Required,Low,None,Low,Iran,IT,24074,Resolved,No
+CVE-2014-36161,2014-04-08,Deserialization,Cisco,AnyConnect,9.7,Critical,Network,Low,High,None,None,Low,None,North Korea,Defense,13449,Exploited,Yes
+CVE-2014-30540,2014-06-18,SQL Injection,WordPress,Core,7.7,High,Local,Low,None,Required,None,None,High,Russia,Government,974,Under Investigation,Yes
+CVE-2014-02069,2014-03-31,Privilege Escalation,WordPress,Plugins,2.7,Low,Physical,Low,High,None,Low,Low,Low,Indonesia,Defense,7147,Actively Exploited,Yes
+CVE-2014-95322,2014-12-04,Deserialization,Drupal,Core,5.2,Medium,Network,Low,Low,Required,Low,High,None,Nigeria,Manufacturing,4817,Exploited,No
+CVE-2014-08610,2014-03-06,Logic Flaw,Drupal,Core,2.8,Low,Local,High,High,Required,Low,High,High,Pakistan,Healthcare,45992,Exploited,Yes
+CVE-2014-29950,2014-07-31,Deserialization,Linux,systemd,3.4,Low,Physical,High,High,None,Low,Low,Low,UK,Retail,10004,Actively Exploited,Yes
+CVE-2014-12220,2014-08-10,CSRF,Oracle,WebLogic,1.0,Low,Adjacent,Low,High,Required,High,None,Low,Turkey,IT,49171,Actively Exploited,Yes
+CVE-2014-46091,2014-02-23,Phishing,Palo Alto,GlobalProtect,5.8,Medium,Adjacent,High,None,None,Low,High,Low,Iran,Energy,37625,Patched,No
+CVE-2014-79823,2014-12-03,MITM,Zimbra,Collaboration Suite,8.3,High,Network,Low,Low,Required,Low,Low,None,Brazil,Government,37115,Actively Exploited,Yes
+CVE-2014-82992,2014-01-16,Brute Force,Google,Workspace,0.9,Low,Adjacent,High,Low,Required,Low,None,Low,France,Retail,37198,Resolved,Yes
+CVE-2014-20633,2014-11-13,RCE,Cisco,ASA,0.5,Low,Local,High,High,Required,Low,High,Low,Pakistan,Energy,14128,Resolved,Yes
+CVE-2014-14535,2014-05-26,Logic Flaw,SAP,Business One,6.8,Medium,Physical,High,None,None,Low,High,None,Russia,Education,19754,Patched,Yes
+CVE-2014-43008,2014-03-03,XXE,Fortinet,FortiOS,0.1,Low,Adjacent,Low,Low,None,High,High,High,Turkey,Healthcare,26023,Exploited,No
+CVE-2014-10206,2014-06-10,Logic Flaw,Microsoft,Office,5.8,Medium,Physical,High,Low,None,Low,None,Low,Brazil,Defense,30153,Under Investigation,Yes
+CVE-2014-31892,2014-08-12,Brute Force,Linux,Kernel,5.9,Medium,Network,High,Low,Required,None,Low,None,USA,Transport,41500,Exploited,Yes
+CVE-2014-95340,2014-11-27,Ransomware,SAP,Business One,8.2,High,Network,Low,Low,None,None,High,None,USA,Government,41154,Actively Exploited,No
+CVE-2014-89278,2014-10-17,Path Traversal,WordPress,Plugins,6.4,Medium,Local,Low,Low,None,Low,Low,High,France,Energy,38760,Exploited,No
+CVE-2014-40686,2014-08-25,XSS,Juniper,Junos,4.5,Medium,Local,High,None,None,High,High,High,Vietnam,Manufacturing,38033,Resolved,Yes
+CVE-2014-42144,2014-11-06,Privilege Escalation,Nginx,Nginx,4.8,Medium,Network,High,None,Required,High,None,High,Brazil,Finance,16237,Actively Exploited,No
+CVE-2014-47697,2014-07-10,SSRF,Juniper,Junos,9.2,Critical,Physical,High,High,None,High,High,Low,USA,Retail,6194,Resolved,No
+CVE-2014-94862,2014-12-03,Privilege Escalation,Palo Alto,GlobalProtect,9.6,Critical,Local,Low,High,None,Low,Low,High,Vietnam,Government,38997,Exploited,No
+CVE-2014-84344,2014-06-18,Brute Force,Zimbra,Collaboration Suite,8.1,High,Network,High,High,Required,None,Low,Low,Brazil,Education,22396,Actively Exploited,Yes
+CVE-2014-20309,2014-02-09,Buffer Overflow,VMware,ESXi,3.0,Low,Network,High,High,None,High,Low,None,Brazil,Government,45407,Resolved,Yes
+CVE-2014-53853,2014-07-06,Ransomware,Nginx,Nginx,6.8,Medium,Physical,High,High,Required,None,High,None,France,Manufacturing,12716,Under Investigation,No
+CVE-2014-50053,2014-09-15,DoS/DDoS,Nginx,Nginx,5.3,Medium,Adjacent,Low,Low,None,High,Low,Low,South Korea,Healthcare,46623,Resolved,Yes
+CVE-2014-21013,2014-05-20,Brute Force,Palo Alto,PAN-OS,4.5,Medium,Adjacent,High,None,None,Low,Low,None,Pakistan,Finance,25983,Resolved,No
+CVE-2014-10697,2014-07-11,Path Traversal,VMware,Horizon,2.2,Low,Network,High,None,None,None,Low,Low,North Korea,Manufacturing,29400,Resolved,Yes
+CVE-2014-33545,2014-04-21,Command Injection,Oracle,WebLogic,8.3,High,Physical,Low,Low,None,Low,None,None,Germany,Telecom,41875,Resolved,No
+CVE-2014-65514,2014-11-02,Brute Force,Oracle,WebLogic,5.4,Medium,Adjacent,Low,Low,Required,None,High,Low,Germany,Defense,27301,Patched,Yes
+CVE-2014-08871,2014-09-27,Brute Force,Juniper,Junos,5.4,Medium,Network,High,Low,None,High,Low,Low,UK,Finance,23403,Exploited,No
+CVE-2014-76272,2014-06-20,CSRF,VMware,vCenter,1.3,Low,Local,Low,High,Required,High,Low,High,Brazil,Government,4136,Actively Exploited,Yes
+CVE-2014-05742,2014-04-13,Path Traversal,Palo Alto,PAN-OS,8.9,High,Local,High,High,Required,Low,None,High,India,Energy,23395,Exploited,No
+CVE-2014-48238,2014-08-12,Deserialization,Fortinet,FortiGate,8.9,High,Physical,High,None,Required,High,Low,Low,Indonesia,Energy,5415,Actively Exploited,Yes
+CVE-2014-23653,2014-10-07,Buffer Overflow,Linux,glibc,2.9,Low,Network,High,High,Required,Low,Low,High,Pakistan,Government,45205,Actively Exploited,No
+CVE-2014-95266,2014-06-30,XXE,Nginx,Nginx,6.1,Medium,Local,Low,None,Required,Low,High,High,Brazil,Finance,9358,Resolved,No
+CVE-2014-08813,2014-05-01,CSRF,Cisco,ASA,7.8,High,Local,High,High,None,High,None,High,Romania,Retail,24381,Actively Exploited,Yes
+CVE-2014-69398,2014-07-07,MITM,WordPress,Core,4.0,Medium,Adjacent,Low,None,None,Low,High,Low,South Korea,Healthcare,17156,Under Investigation,No
+CVE-2014-90962,2014-09-09,Privilege Escalation,Adobe,Photoshop,2.0,Low,Network,High,None,Required,None,High,Low,Turkey,Healthcare,36045,Resolved,No
+CVE-2014-93299,2014-12-30,DoS/DDoS,Palo Alto,PAN-OS,9.3,Critical,Local,Low,None,None,None,None,Low,Russia,Retail,36309,Resolved,No
+CVE-2014-80210,2014-02-14,SSRF,Nginx,Nginx,0.7,Low,Physical,High,Low,None,None,Low,High,USA,Manufacturing,30529,Resolved,No
+CVE-2014-83860,2014-10-28,Privilege Escalation,Google,Workspace,1.8,Low,Physical,Low,None,None,Low,None,None,Ukraine,Education,22677,Resolved,No
+CVE-2014-25730,2014-11-22,MITM,Oracle,E-Business Suite,9.6,Critical,Adjacent,High,High,None,High,High,None,Netherlands,Defense,10106,Patched,No
+CVE-2014-03719,2014-02-11,Logic Flaw,WordPress,Core,0.5,Low,Local,Low,High,Required,High,High,None,Nigeria,IT,35755,Under Investigation,No
+CVE-2014-89784,2014-07-27,RCE,F5,BIG-IP,3.0,Low,Network,Low,Low,Required,Low,Low,None,Ukraine,Defense,9416,Under Investigation,No
+CVE-2014-17140,2014-07-09,Buffer Overflow,SAP,Business One,5.1,Medium,Local,Low,Low,None,Low,Low,None,North Korea,Healthcare,3317,Under Investigation,No
+CVE-2014-32542,2014-03-23,Logic Flaw,Drupal,Modules,8.1,High,Local,Low,None,Required,High,Low,Low,France,Manufacturing,1519,Exploited,No
+CVE-2014-31553,2014-04-21,XSS,Juniper,Junos,5.8,Medium,Network,High,Low,Required,Low,High,None,Iran,Telecom,8778,Under Investigation,No
+CVE-2014-05931,2014-07-25,Command Injection,Atlassian,Confluence,0.5,Low,Adjacent,High,High,Required,None,Low,High,Romania,Transport,18332,Resolved,Yes
+CVE-2014-51630,2014-07-11,Path Traversal,Google,Chrome,7.9,High,Local,Low,None,Required,High,None,None,China,Government,46766,Under Investigation,No
+CVE-2014-19522,2014-11-07,Privilege Escalation,Juniper,Junos,8.9,High,Local,High,None,Required,High,High,Low,Netherlands,Retail,33248,Resolved,No
+CVE-2014-62246,2014-01-09,Buffer Overflow,WordPress,Plugins,3.7,Low,Physical,High,High,None,High,Low,Low,Netherlands,Defense,14913,Exploited,No
+CVE-2014-82448,2014-11-14,SSRF,Apple,Safari,7.7,High,Adjacent,Low,None,None,None,None,Low,Ukraine,Telecom,9925,Actively Exploited,Yes
+CVE-2014-80148,2014-08-30,XSS,Linux,glibc,8.7,High,Adjacent,Low,High,Required,High,Low,High,Vietnam,Retail,11350,Actively Exploited,No
+CVE-2014-88588,2014-12-15,MITM,Zimbra,Collaboration Suite,6.4,Medium,Physical,Low,None,Required,High,Low,None,France,Energy,46197,Patched,No
+CVE-2014-45719,2014-10-14,MITM,IBM,MQ,9.3,Critical,Local,Low,High,Required,Low,Low,None,France,Finance,18851,Exploited,No
+CVE-2014-97956,2014-09-03,Command Injection,Nginx,Nginx,2.1,Low,Local,High,None,None,High,High,High,Germany,Education,3327,Resolved,Yes
+CVE-2014-13134,2014-07-31,Credential Stuffing,VMware,vCenter,3.3,Low,Network,Low,None,None,Low,High,Low,Nigeria,IT,13072,Under Investigation,No
+CVE-2014-11726,2014-11-30,Command Injection,Palo Alto,PAN-OS,5.7,Medium,Network,Low,Low,None,None,Low,Low,Brazil,Energy,2456,Exploited,No
+CVE-2014-43915,2014-05-26,Command Injection,WordPress,Core,4.5,Medium,Physical,Low,High,Required,Low,None,None,Ukraine,Government,47915,Actively Exploited,No
+CVE-2014-96550,2014-06-22,Logic Flaw,Apple,iOS,7.9,High,Adjacent,Low,High,Required,Low,High,Low,USA,Telecom,43861,Exploited,Yes
+CVE-2014-42416,2014-05-08,SSRF,Google,Android,0.1,Low,Adjacent,High,Low,Required,Low,High,High,Netherlands,Finance,17142,Under Investigation,Yes
+CVE-2014-61001,2014-06-07,Brute Force,Cisco,IOS,1.6,Low,Local,Low,High,Required,Low,High,None,Germany,Government,31339,Patched,No
+CVE-2014-54506,2014-12-26,Credential Stuffing,Drupal,Modules,5.5,Medium,Adjacent,Low,High,None,High,Low,High,Turkey,Healthcare,36974,Exploited,Yes
+CVE-2014-75066,2014-10-02,Path Traversal,Zimbra,Collaboration Suite,1.5,Low,Physical,Low,High,None,High,High,Low,USA,Transport,29196,Exploited,No
+CVE-2014-54451,2014-08-22,Command Injection,Google,Workspace,5.6,Medium,Physical,High,High,None,Low,Low,None,India,Defense,4787,Exploited,No
+CVE-2014-08358,2014-10-05,RCE,SAP,HANA,9.9,Critical,Physical,Low,Low,Required,None,None,High,Pakistan,Retail,25067,Actively Exploited,No
+CVE-2014-89487,2014-12-05,Privilege Escalation,Atlassian,Jira,8.7,High,Local,Low,None,Required,High,None,High,Germany,Finance,49557,Exploited,No
+CVE-2014-69722,2014-07-14,Ransomware,Nginx,Nginx,8.2,High,Physical,High,None,Required,None,High,None,China,IT,27476,Resolved,Yes
+CVE-2014-08820,2014-02-21,Deserialization,VMware,ESXi,5.9,Medium,Network,Low,High,None,Low,Low,None,South Korea,Education,49440,Exploited,Yes
+CVE-2014-30693,2014-10-22,Path Traversal,Juniper,Junos,3.2,Low,Adjacent,High,None,None,Low,Low,Low,China,Transport,38776,Patched,No
+CVE-2014-06146,2014-06-26,SSRF,Zimbra,Collaboration Suite,9.4,Critical,Local,High,Low,None,Low,Low,None,South Korea,Manufacturing,15793,Patched,No
+CVE-2014-07553,2014-10-15,XXE,Google,Android,4.1,Medium,Adjacent,High,None,Required,None,Low,High,USA,Manufacturing,24319,Exploited,Yes
+CVE-2014-49437,2014-12-11,XSS,Cisco,Webex,6.0,Medium,Network,Low,High,None,Low,None,Low,France,Finance,13882,Patched,Yes
+CVE-2014-91178,2014-11-06,SSRF,F5,BIG-IP,7.0,High,Adjacent,High,Low,Required,Low,High,High,Turkey,Energy,17142,Under Investigation,No
+CVE-2014-94689,2014-08-29,Path Traversal,Nginx,Nginx,7.6,High,Adjacent,High,Low,Required,None,High,None,North Korea,Finance,17091,Resolved,No
+CVE-2014-25716,2014-06-18,Logic Flaw,Palo Alto,PAN-OS,2.3,Low,Adjacent,High,High,Required,Low,Low,High,Nigeria,Manufacturing,11026,Under Investigation,Yes
+CVE-2014-71637,2014-09-08,Command Injection,Google,Workspace,1.8,Low,Network,Low,None,None,None,Low,None,Germany,Healthcare,46346,Patched,Yes
+CVE-2014-48917,2014-01-31,Credential Stuffing,Adobe,ColdFusion,6.2,Medium,Physical,Low,None,Required,None,None,High,UK,Transport,18789,Exploited,No
+CVE-2014-12625,2014-09-26,Phishing,Apple,iOS,1.5,Low,Local,High,Low,Required,None,Low,Low,Romania,Defense,15939,Patched,No
+CVE-2014-12256,2014-07-27,Command Injection,Oracle,WebLogic,3.8,Low,Physical,Low,High,None,High,None,None,Nigeria,Telecom,42265,Under Investigation,Yes
+CVE-2014-30116,2014-04-19,Logic Flaw,Juniper,Junos,9.0,Critical,Physical,High,None,None,High,Low,High,Netherlands,IT,2157,Patched,No
+CVE-2014-76944,2014-03-15,SSRF,Microsoft,Exchange Server,7.5,High,Network,High,None,None,High,Low,High,South Korea,Retail,25156,Patched,Yes
+CVE-2014-07039,2014-02-20,RCE,Juniper,Junos,4.4,Medium,Local,High,Low,None,High,Low,Low,Nigeria,Education,23319,Resolved,No
+CVE-2014-89089,2014-10-27,RCE,Linux,Kernel,6.6,Medium,Local,Low,High,None,None,Low,None,Vietnam,IT,10111,Actively Exploited,No
+CVE-2014-11996,2014-01-03,Deserialization,SAP,NetWeaver,9.4,Critical,Local,High,None,None,None,None,Low,Romania,Transport,36356,Resolved,No
+CVE-2014-11747,2014-07-01,Path Traversal,Apache,HTTP Server,5.5,Medium,Physical,Low,Low,Required,Low,None,High,South Korea,Education,37484,Resolved,Yes
+CVE-2014-18199,2014-05-18,Credential Stuffing,Atlassian,Jira,3.0,Low,Adjacent,Low,None,Required,Low,Low,Low,Nigeria,Healthcare,23667,Under Investigation,Yes
+CVE-2014-60013,2014-02-24,SQL Injection,F5,BIG-IP,1.4,Low,Physical,High,High,Required,Low,Low,Low,Pakistan,IT,38955,Patched,No
+CVE-2014-91134,2014-04-13,DoS/DDoS,IBM,QRadar,4.8,Medium,Physical,High,Low,Required,High,None,Low,Vietnam,Energy,25752,Under Investigation,Yes
+CVE-2014-77625,2014-10-07,Command Injection,WordPress,Core,1.8,Low,Network,High,High,None,Low,Low,High,USA,Telecom,44105,Actively Exploited,Yes
+CVE-2014-33120,2014-12-04,XXE,Palo Alto,PAN-OS,1.5,Low,Physical,Low,Low,Required,High,Low,High,Indonesia,Telecom,35629,Exploited,No
+CVE-2014-14336,2014-05-08,CSRF,Zimbra,Collaboration Suite,6.6,Medium,Adjacent,Low,High,Required,Low,Low,None,Russia,Healthcare,16957,Patched,Yes
+CVE-2014-51267,2014-08-26,Logic Flaw,Nginx,Nginx,7.7,High,Adjacent,High,None,Required,None,Low,Low,USA,Healthcare,47852,Patched,No
+CVE-2014-59682,2014-04-16,CSRF,Palo Alto,GlobalProtect,5.2,Medium,Physical,Low,Low,Required,Low,None,Low,China,Healthcare,1481,Under Investigation,Yes
+CVE-2014-31971,2014-09-22,DoS/DDoS,Apple,Safari,1.7,Low,Local,High,Low,None,Low,High,None,Brazil,IT,43078,Actively Exploited,No
+CVE-2014-25864,2014-08-19,SSRF,Microsoft,Azure AD,5.9,Medium,Network,Low,None,Required,High,None,High,Iran,Transport,12253,Under Investigation,No
+CVE-2014-14937,2014-05-15,Credential Stuffing,Adobe,ColdFusion,6.7,Medium,Local,High,High,Required,High,None,Low,Turkey,Manufacturing,40460,Patched,No
+CVE-2014-88095,2014-03-10,Ransomware,Drupal,Core,3.1,Low,Local,Low,None,Required,High,None,High,Vietnam,Telecom,39088,Patched,No
+CVE-2014-63789,2014-11-22,DoS/DDoS,Linux,Kernel,5.4,Medium,Adjacent,High,Low,None,None,Low,Low,Canada,Finance,23530,Exploited,No
+CVE-2014-50325,2014-10-15,Credential Stuffing,Google,Chrome,5.1,Medium,Physical,High,Low,Required,Low,None,None,Netherlands,Finance,49877,Patched,No
+CVE-2014-29471,2014-10-03,Deserialization,Cisco,Webex,2.9,Low,Physical,Low,High,None,Low,High,Low,South Korea,Finance,49808,Actively Exploited,Yes
+CVE-2014-96468,2014-12-01,Zero-Day Exploit,Linux,Kernel,7.5,High,Network,High,Low,Required,None,Low,None,Germany,Education,48341,Resolved,No
+CVE-2014-21756,2014-11-12,Phishing,Drupal,Modules,1.4,Low,Adjacent,Low,High,Required,High,Low,High,South Korea,Government,21211,Under Investigation,No
+CVE-2014-67426,2014-12-14,Privilege Escalation,WordPress,Plugins,8.2,High,Physical,Low,Low,None,High,None,None,North Korea,Retail,16224,Actively Exploited,No
+CVE-2014-82891,2014-05-18,SSRF,Google,Workspace,6.3,Medium,Physical,Low,High,None,Low,High,High,UK,Retail,29799,Actively Exploited,No
+CVE-2014-96040,2014-02-17,Deserialization,WordPress,Core,7.3,High,Local,Low,High,Required,None,Low,None,Nigeria,Energy,21160,Under Investigation,No
+CVE-2014-74206,2014-09-06,XSS,Zimbra,Collaboration Suite,7.9,High,Network,Low,High,Required,None,None,None,Romania,Manufacturing,45,Actively Exploited,Yes
+CVE-2014-39567,2014-03-23,MITM,Google,Workspace,8.7,High,Network,High,Low,None,Low,High,High,Brazil,Finance,25975,Under Investigation,Yes
+CVE-2014-11954,2014-12-27,Phishing,Linux,glibc,1.0,Low,Physical,Low,None,None,High,High,Low,Russia,Finance,45587,Under Investigation,Yes
+CVE-2014-17325,2014-09-02,SSRF,Linux,glibc,0.7,Low,Network,Low,None,Required,Low,Low,None,Vietnam,Government,42047,Patched,Yes
+CVE-2014-79996,2014-11-29,CSRF,Juniper,Junos,1.6,Low,Adjacent,Low,Low,Required,None,None,None,North Korea,Healthcare,38639,Actively Exploited,No
+CVE-2014-18328,2014-05-07,RCE,Linux,systemd,2.8,Low,Adjacent,High,High,None,High,Low,None,Indonesia,Defense,33393,Patched,No
+CVE-2014-31371,2014-09-11,Ransomware,Palo Alto,PAN-OS,3.9,Low,Physical,Low,High,None,Low,Low,None,Vietnam,Defense,27582,Under Investigation,Yes
+CVE-2014-02188,2014-10-28,MITM,F5,BIG-IP,0.7,Low,Adjacent,Low,None,Required,High,Low,High,Indonesia,Telecom,27760,Actively Exploited,Yes
+CVE-2014-36369,2014-02-12,Brute Force,Zimbra,Collaboration Suite,3.1,Low,Adjacent,Low,High,Required,Low,High,High,USA,Energy,45789,Actively Exploited,Yes
+CVE-2014-11301,2014-08-11,XSS,Cisco,ASA,1.2,Low,Local,Low,None,None,High,None,High,Russia,Government,32533,Under Investigation,No
+CVE-2014-16638,2014-05-18,Buffer Overflow,Apple,macOS,7.3,High,Network,High,Low,Required,High,None,Low,Netherlands,IT,5051,Actively Exploited,No
+CVE-2014-07267,2014-09-13,DoS/DDoS,Juniper,Junos,8.6,High,Local,Low,Low,None,High,High,High,Iran,Education,48548,Resolved,Yes
+CVE-2014-32054,2014-01-24,SSRF,Cisco,IOS,4.7,Medium,Adjacent,Low,None,Required,None,Low,None,Pakistan,Retail,17778,Exploited,No
+CVE-2014-88255,2014-01-27,Brute Force,Apache,Kafka,1.8,Low,Network,High,None,Required,Low,Low,Low,USA,Transport,29934,Exploited,No
+CVE-2014-73900,2014-06-05,Ransomware,Adobe,Photoshop,7.4,High,Physical,High,High,Required,None,High,High,Germany,Government,418,Actively Exploited,Yes
+CVE-2014-83355,2014-12-22,Path Traversal,VMware,Workstation,8.8,High,Network,High,High,Required,None,None,High,Germany,Telecom,32246,Exploited,Yes
+CVE-2014-05755,2014-04-29,Brute Force,Fortinet,FortiGate,9.0,Critical,Physical,High,Low,None,High,None,High,North Korea,IT,25845,Exploited,Yes
+CVE-2014-17133,2014-05-02,Path Traversal,Linux,glibc,2.9,Low,Physical,High,Low,Required,Low,None,None,India,Government,38320,Exploited,Yes
+CVE-2014-58926,2014-08-27,Buffer Overflow,Apache,Struts,3.1,Low,Local,Low,Low,Required,Low,Low,None,USA,Government,44962,Under Investigation,Yes
+CVE-2014-19442,2014-02-16,CSRF,Adobe,Photoshop,7.1,High,Physical,Low,High,Required,Low,None,None,Vietnam,Manufacturing,36435,Resolved,Yes
+CVE-2014-13358,2014-03-13,XSS,Apache,Log4j,1.2,Low,Adjacent,Low,None,Required,Low,High,High,USA,Defense,38412,Under Investigation,Yes
+CVE-2014-25920,2014-11-27,Privilege Escalation,Microsoft,Windows,4.4,Medium,Network,High,None,None,Low,None,None,Netherlands,Telecom,47477,Actively Exploited,No
+CVE-2014-89551,2014-08-07,Phishing,Microsoft,Office,1.7,Low,Adjacent,High,Low,Required,None,None,High,Canada,Defense,16108,Under Investigation,No
+CVE-2014-62788,2014-02-01,SSRF,Linux,glibc,0.9,Low,Adjacent,High,None,None,High,High,None,Vietnam,Retail,31437,Resolved,No
+CVE-2014-65850,2014-06-14,DoS/DDoS,SAP,HANA,3.9,Low,Network,High,High,None,None,Low,None,Nigeria,Transport,23425,Resolved,Yes
+CVE-2014-32488,2014-12-03,Command Injection,Apple,iOS,2.4,Low,Network,Low,High,Required,Low,None,None,Germany,Defense,20841,Under Investigation,Yes
+CVE-2014-73874,2014-03-14,Phishing,SAP,HANA,5.6,Medium,Physical,High,None,Required,None,None,None,Germany,Defense,14340,Exploited,No
+CVE-2014-80496,2014-04-14,Path Traversal,Microsoft,SharePoint,8.1,High,Adjacent,High,None,None,None,High,High,North Korea,Healthcare,34492,Under Investigation,Yes
+CVE-2014-86788,2014-07-22,Path Traversal,SAP,HANA,5.9,Medium,Local,High,None,None,High,Low,High,Nigeria,IT,20794,Patched,No
+CVE-2014-49596,2014-06-07,Zero-Day Exploit,VMware,ESXi,7.3,High,Adjacent,Low,High,None,High,High,Low,Netherlands,Finance,11933,Resolved,No
+CVE-2014-83840,2014-10-17,Credential Stuffing,Drupal,Core,1.0,Low,Adjacent,High,High,None,None,Low,Low,Brazil,IT,5815,Under Investigation,No
+CVE-2014-27484,2014-05-08,CSRF,Microsoft,SharePoint,6.9,Medium,Local,Low,High,None,None,Low,Low,Pakistan,Government,27134,Actively Exploited,No
+CVE-2014-49198,2014-02-21,Logic Flaw,SAP,HANA,8.3,High,Adjacent,Low,Low,None,None,Low,None,Ukraine,Energy,6864,Exploited,No
+CVE-2014-21091,2014-02-08,RCE,Apple,macOS,5.5,Medium,Local,High,High,None,Low,High,None,Canada,Telecom,10296,Exploited,Yes
+CVE-2014-24902,2014-07-29,Command Injection,IBM,WebSphere,7.0,High,Local,High,Low,None,None,None,Low,Netherlands,Transport,32175,Patched,Yes
+CVE-2014-56048,2014-02-14,Credential Stuffing,SAP,NetWeaver,2.9,Low,Adjacent,Low,None,None,None,High,Low,USA,Manufacturing,7570,Under Investigation,No
+CVE-2014-86644,2014-05-16,Command Injection,F5,BIG-IP,0.9,Low,Physical,Low,Low,Required,Low,None,Low,China,Energy,28819,Actively Exploited,No
+CVE-2014-73957,2014-02-01,Buffer Overflow,VMware,Workstation,1.5,Low,Network,High,High,Required,High,None,High,China,Telecom,34248,Actively Exploited,No
+CVE-2014-62425,2014-06-03,XSS,WordPress,Core,0.8,Low,Adjacent,Low,Low,None,None,None,None,North Korea,Finance,27747,Exploited,No
+CVE-2014-77995,2014-05-13,RCE,Adobe,Flash,3.2,Low,Network,High,High,Required,High,Low,Low,Indonesia,Manufacturing,811,Resolved,No
+CVE-2014-19614,2014-03-17,Logic Flaw,Apache,Log4j,5.7,Medium,Network,Low,High,None,Low,High,Low,Pakistan,Energy,25104,Actively Exploited,No
+CVE-2014-36100,2014-07-26,SSRF,Cisco,ASA,1.4,Low,Network,High,Low,None,None,High,Low,UK,Retail,1326,Under Investigation,No
+CVE-2014-64438,2014-12-23,Ransomware,Palo Alto,GlobalProtect,6.8,Medium,Adjacent,High,High,Required,Low,Low,High,Pakistan,Defense,42308,Exploited,Yes
+CVE-2014-53369,2014-09-06,CSRF,Nginx,Nginx,7.6,High,Network,Low,None,Required,High,High,Low,North Korea,Transport,37269,Exploited,Yes
+CVE-2014-07554,2014-05-08,XSS,Adobe,Flash,0.3,Low,Local,Low,Low,Required,Low,High,Low,Iran,IT,2003,Patched,No
+CVE-2014-23277,2014-08-31,CSRF,F5,BIG-IP,5.9,Medium,Local,Low,Low,None,Low,None,Low,China,Government,37504,Patched,Yes
+CVE-2014-35270,2014-11-30,SQL Injection,VMware,ESXi,4.1,Medium,Network,High,None,None,High,None,None,UK,Defense,20019,Under Investigation,No
+CVE-2014-60162,2014-05-10,Zero-Day Exploit,Atlassian,Confluence,2.2,Low,Physical,Low,None,Required,High,High,High,Canada,Energy,19561,Exploited,No
+CVE-2014-36240,2014-11-24,MITM,Oracle,E-Business Suite,3.3,Low,Local,High,None,None,High,None,None,Canada,Telecom,43289,Under Investigation,Yes
+CVE-2014-38746,2014-05-13,SSRF,Microsoft,Office,9.1,Critical,Physical,Low,High,None,Low,High,High,Germany,IT,35038,Actively Exploited,No
+CVE-2014-22281,2014-12-03,DoS/DDoS,Juniper,Junos,8.8,High,Local,Low,Low,None,High,Low,High,South Korea,Government,44546,Under Investigation,Yes
+CVE-2014-29273,2014-06-07,Path Traversal,VMware,Workstation,4.2,Medium,Local,High,High,Required,Low,None,Low,China,IT,38246,Resolved,Yes
+CVE-2014-65599,2014-03-03,SSRF,F5,BIG-IP,8.7,High,Local,High,None,None,None,None,Low,Pakistan,Defense,29988,Patched,No
+CVE-2014-63909,2014-06-20,DoS/DDoS,Apple,iOS,6.3,Medium,Local,Low,None,Required,Low,None,None,Netherlands,Government,32085,Exploited,Yes
+CVE-2014-83033,2014-08-08,Credential Stuffing,Drupal,Modules,4.0,Medium,Physical,Low,None,None,High,Low,None,Ukraine,Transport,12490,Exploited,Yes
+CVE-2014-90902,2014-06-26,Buffer Overflow,VMware,ESXi,3.1,Low,Physical,High,None,None,None,Low,Low,Romania,Transport,39084,Resolved,No
+CVE-2014-17537,2014-06-25,Credential Stuffing,Linux,glibc,10.0,Critical,Local,Low,None,Required,None,None,None,North Korea,Education,48109,Exploited,Yes
+CVE-2014-93207,2014-11-30,SSRF,Apache,Tomcat,7.9,High,Local,Low,High,None,High,None,High,Russia,Finance,45204,Exploited,No
+CVE-2014-16200,2014-10-08,Privilege Escalation,Nginx,Nginx,2.5,Low,Adjacent,Low,Low,Required,High,None,High,Indonesia,Energy,40816,Resolved,Yes
+CVE-2014-67055,2014-11-13,Buffer Overflow,Linux,Kernel,1.2,Low,Network,High,None,None,Low,High,None,Turkey,Telecom,19357,Patched,Yes
+CVE-2014-27223,2014-12-19,Path Traversal,Zimbra,Collaboration Suite,9.3,Critical,Adjacent,Low,None,None,None,High,High,Nigeria,Government,5904,Resolved,Yes
+CVE-2014-84455,2014-04-29,Zero-Day Exploit,Apache,Tomcat,4.6,Medium,Local,High,None,None,None,None,Low,Turkey,IT,20494,Actively Exploited,Yes
+CVE-2014-01268,2014-03-12,DoS/DDoS,Apache,HTTP Server,6.6,Medium,Local,High,Low,Required,High,None,Low,Ukraine,Government,7461,Actively Exploited,No
+CVE-2014-50557,2014-12-20,XXE,Nginx,Nginx,8.5,High,Adjacent,Low,None,None,None,None,Low,Netherlands,Manufacturing,37287,Actively Exploited,Yes
+CVE-2014-47003,2014-11-10,Privilege Escalation,Drupal,Modules,0.3,Low,Physical,High,None,Required,Low,None,None,UK,IT,20594,Exploited,Yes
+CVE-2014-68565,2014-12-19,Buffer Overflow,IBM,QRadar,7.0,High,Physical,Low,Low,Required,High,High,High,Vietnam,Government,36592,Resolved,Yes
+CVE-2014-66266,2014-08-29,DoS/DDoS,Microsoft,Exchange Server,8.5,High,Network,High,Low,None,Low,Low,None,Indonesia,Education,36078,Actively Exploited,No
+CVE-2014-60175,2014-08-16,Deserialization,VMware,vCenter,8.0,High,Network,High,Low,Required,None,Low,High,Russia,Healthcare,26440,Actively Exploited,Yes
+CVE-2014-11914,2014-11-06,Zero-Day Exploit,Zimbra,Collaboration Suite,9.6,Critical,Adjacent,High,Low,Required,None,None,Low,Ukraine,Transport,40617,Resolved,No
+CVE-2014-59315,2014-02-28,Ransomware,SAP,HANA,1.0,Low,Network,High,Low,Required,High,High,Low,Iran,Finance,10759,Actively Exploited,Yes
+CVE-2014-33331,2014-11-09,Buffer Overflow,Linux,Kernel,2.0,Low,Physical,Low,Low,None,High,Low,None,Pakistan,Finance,41501,Resolved,Yes
+CVE-2014-86306,2014-10-29,Privilege Escalation,Nginx,Nginx,9.6,Critical,Physical,Low,High,None,High,Low,High,Nigeria,Transport,11614,Resolved,Yes
+CVE-2014-50779,2014-12-03,Path Traversal,Google,Chrome,6.0,Medium,Physical,High,High,None,Low,Low,Low,France,Manufacturing,8741,Patched,No
+CVE-2014-91947,2014-10-08,Command Injection,Drupal,Modules,8.6,High,Adjacent,Low,None,Required,High,Low,High,North Korea,IT,11654,Resolved,No
+CVE-2014-73700,2014-09-03,XXE,Apache,Tomcat,5.8,Medium,Local,High,None,None,None,Low,None,China,IT,3710,Patched,No
+CVE-2014-89574,2014-05-09,XSS,Apple,macOS,1.5,Low,Local,Low,High,None,Low,Low,None,Canada,IT,48464,Resolved,Yes
+CVE-2014-31143,2014-09-19,Zero-Day Exploit,Zimbra,Collaboration Suite,7.8,High,Network,High,Low,Required,High,Low,High,China,Finance,48738,Under Investigation,Yes
+CVE-2014-29564,2014-11-21,CSRF,Drupal,Modules,7.0,High,Adjacent,Low,Low,Required,None,High,None,Brazil,Government,48175,Resolved,Yes
+CVE-2014-56166,2014-05-23,Privilege Escalation,Atlassian,Jira,5.6,Medium,Adjacent,High,None,Required,Low,High,None,China,Government,21144,Resolved,Yes
+CVE-2014-64298,2014-10-21,RCE,Drupal,Modules,5.5,Medium,Local,Low,None,None,High,None,Low,South Korea,Transport,26439,Exploited,No
+CVE-2014-86945,2014-06-19,Zero-Day Exploit,VMware,ESXi,3.3,Low,Adjacent,High,High,None,None,High,Low,Romania,Education,42092,Resolved,Yes
+CVE-2014-49988,2014-02-28,Command Injection,Cisco,Webex,3.9,Low,Local,Low,High,Required,High,High,Low,Nigeria,Finance,19428,Patched,No
+CVE-2014-12578,2014-03-27,Command Injection,Juniper,Junos,9.7,Critical,Network,Low,None,None,High,Low,None,India,Transport,46055,Actively Exploited,Yes
+CVE-2014-60192,2014-06-19,RCE,Google,Chrome,0.4,Low,Network,Low,Low,None,High,None,Low,Pakistan,Telecom,29565,Actively Exploited,No
+CVE-2014-51053,2014-12-11,SQL Injection,IBM,WebSphere,1.2,Low,Network,Low,High,None,Low,High,None,France,IT,19750,Resolved,Yes
+CVE-2014-49993,2014-07-22,SQL Injection,Palo Alto,GlobalProtect,8.2,High,Physical,Low,High,None,None,High,Low,South Korea,Energy,41553,Patched,No
+CVE-2014-72552,2014-10-12,XSS,SAP,NetWeaver,1.4,Low,Network,High,High,None,Low,None,High,Turkey,Education,27044,Resolved,Yes
+CVE-2014-28940,2014-11-12,Phishing,Apple,iOS,8.3,High,Network,Low,High,None,High,Low,High,South Korea,Healthcare,19049,Exploited,No
+CVE-2014-95105,2014-10-25,Path Traversal,Apache,Struts,4.9,Medium,Local,Low,High,None,None,Low,High,USA,Education,20827,Actively Exploited,No
+CVE-2014-86432,2014-06-06,Privilege Escalation,IBM,QRadar,6.9,Medium,Local,High,Low,None,None,Low,None,Germany,IT,28582,Under Investigation,No
+CVE-2014-96073,2014-06-19,Deserialization,Google,Workspace,8.8,High,Physical,High,Low,Required,High,None,None,Canada,Healthcare,18391,Patched,Yes
+CVE-2014-82133,2014-02-09,SQL Injection,Fortinet,FortiManager,7.3,High,Network,High,High,None,None,High,Low,South Korea,Transport,30940,Patched,No
+CVE-2014-77281,2014-05-29,Brute Force,Atlassian,Jira,1.3,Low,Network,High,Low,None,High,None,High,Brazil,Transport,9200,Actively Exploited,Yes
+CVE-2014-74163,2014-12-04,Privilege Escalation,Apple,Safari,8.7,High,Physical,High,None,None,Low,None,None,UK,Retail,15337,Exploited,Yes
+CVE-2014-50869,2014-08-29,XSS,Juniper,Junos,9.2,Critical,Network,High,None,Required,High,Low,High,South Korea,Defense,11394,Actively Exploited,No
+CVE-2014-85635,2014-02-09,SSRF,SAP,HANA,5.2,Medium,Adjacent,High,Low,Required,Low,Low,High,Russia,Transport,9108,Actively Exploited,Yes
+CVE-2014-67442,2014-11-26,Privilege Escalation,VMware,vCenter,2.8,Low,Adjacent,Low,Low,None,High,None,Low,Ukraine,Healthcare,31557,Actively Exploited,No
+CVE-2014-84838,2014-07-30,XSS,Adobe,Flash,0.2,Low,Adjacent,Low,None,None,High,None,None,Brazil,Energy,11799,Resolved,No
+CVE-2014-94313,2014-12-05,RCE,Drupal,Core,8.2,High,Adjacent,High,High,Required,Low,None,None,Pakistan,Defense,9353,Resolved,Yes
+CVE-2014-21984,2014-12-18,Deserialization,Drupal,Modules,3.4,Low,Network,Low,Low,Required,None,None,None,India,Transport,33054,Actively Exploited,Yes
+CVE-2014-23256,2014-09-01,XSS,Drupal,Core,9.0,Critical,Network,Low,Low,None,High,High,None,Pakistan,Transport,27570,Under Investigation,Yes
+CVE-2014-30080,2014-09-04,SSRF,Juniper,Junos,7.9,High,Local,Low,Low,None,Low,Low,None,USA,Energy,39210,Resolved,No
+CVE-2014-00717,2014-12-30,SQL Injection,Fortinet,FortiGate,7.4,High,Network,Low,Low,None,High,Low,Low,Turkey,Healthcare,10144,Actively Exploited,No
+CVE-2014-55518,2014-10-17,MITM,Fortinet,FortiManager,3.7,Low,Physical,Low,Low,Required,None,Low,High,South Korea,Manufacturing,16632,Under Investigation,No
+CVE-2014-18097,2014-12-04,Ransomware,Atlassian,Bitbucket,1.2,Low,Physical,Low,None,None,High,Low,Low,South Korea,Defense,45683,Exploited,Yes
+CVE-2014-00694,2014-02-16,Credential Stuffing,Atlassian,Bitbucket,8.2,High,Physical,Low,None,Required,None,Low,None,Canada,Finance,47481,Actively Exploited,No
+CVE-2014-93272,2014-11-02,DoS/DDoS,Drupal,Modules,0.6,Low,Physical,High,None,None,High,High,Low,India,Finance,39290,Resolved,Yes
+CVE-2014-88346,2014-01-19,SQL Injection,Drupal,Core,3.6,Low,Adjacent,Low,Low,Required,Low,High,Low,Vietnam,Defense,13128,Resolved,Yes
+CVE-2014-72037,2014-05-26,Command Injection,Oracle,WebLogic,7.3,High,Local,High,Low,None,High,None,Low,Vietnam,Defense,305,Under Investigation,Yes
+CVE-2014-13955,2014-10-14,Zero-Day Exploit,Linux,glibc,0.7,Low,Local,Low,High,Required,High,High,Low,Romania,Telecom,36908,Actively Exploited,Yes
+CVE-2014-89338,2014-08-24,SQL Injection,IBM,MQ,9.0,Critical,Physical,Low,Low,None,Low,High,None,Germany,Retail,27029,Under Investigation,Yes
+CVE-2014-37656,2014-02-17,Path Traversal,Fortinet,FortiGate,4.0,Medium,Network,Low,Low,Required,Low,None,High,UK,Government,48901,Patched,No
+CVE-2014-96395,2014-05-04,Phishing,Adobe,Flash,8.7,High,Adjacent,Low,None,Required,None,None,None,USA,IT,43479,Actively Exploited,Yes
+CVE-2014-63215,2014-07-10,Credential Stuffing,Zimbra,Collaboration Suite,6.2,Medium,Local,High,None,Required,Low,None,High,North Korea,Finance,34455,Actively Exploited,No
+CVE-2014-65861,2014-06-27,DoS/DDoS,Zimbra,Collaboration Suite,3.9,Low,Physical,Low,High,Required,Low,High,None,Russia,IT,13812,Actively Exploited,Yes
+CVE-2014-80319,2014-05-13,MITM,IBM,MQ,1.9,Low,Adjacent,High,Low,Required,Low,None,Low,Pakistan,Education,27466,Under Investigation,No
+CVE-2014-59078,2014-04-03,Logic Flaw,Atlassian,Confluence,5.7,Medium,Adjacent,Low,High,Required,None,High,Low,Vietnam,Education,9559,Patched,No
+CVE-2014-55250,2014-09-13,Brute Force,Microsoft,Exchange Server,1.3,Low,Local,High,Low,Required,High,High,None,Vietnam,Healthcare,45256,Patched,Yes
+CVE-2014-62461,2014-11-19,Path Traversal,Adobe,Photoshop,1.0,Low,Local,High,Low,Required,Low,None,Low,Iran,Retail,44538,Resolved,Yes
+CVE-2014-37305,2014-07-01,Brute Force,WordPress,Core,3.3,Low,Physical,High,None,Required,High,Low,Low,North Korea,Government,41982,Under Investigation,No
+CVE-2014-09352,2014-02-10,Ransomware,Drupal,Modules,1.6,Low,Local,High,High,Required,High,Low,High,Vietnam,Energy,29157,Under Investigation,No
+CVE-2014-24103,2014-01-12,Ransomware,Linux,Kernel,1.3,Low,Local,Low,None,None,Low,None,None,USA,Manufacturing,35943,Exploited,Yes
+CVE-2014-10912,2014-02-23,Privilege Escalation,Atlassian,Bitbucket,2.6,Low,Network,High,Low,None,None,High,Low,Romania,IT,8285,Patched,Yes
+CVE-2014-86973,2014-07-02,Path Traversal,Microsoft,Windows,8.6,High,Physical,High,High,Required,High,Low,None,South Korea,Government,38721,Resolved,No
+CVE-2014-68611,2014-11-24,Zero-Day Exploit,WordPress,Plugins,6.4,Medium,Local,High,High,None,None,Low,Low,Turkey,Telecom,17027,Patched,No
+CVE-2014-68593,2014-03-11,Credential Stuffing,Microsoft,Windows,3.4,Low,Network,High,Low,Required,None,Low,Low,Canada,Education,474,Resolved,No
+CVE-2014-73473,2014-08-12,DoS/DDoS,Adobe,ColdFusion,3.9,Low,Physical,High,None,Required,None,Low,High,Germany,Transport,40188,Under Investigation,No
+CVE-2014-54121,2014-04-07,DoS/DDoS,Zimbra,Collaboration Suite,8.5,High,Adjacent,High,None,Required,High,Low,Low,Canada,Manufacturing,12307,Under Investigation,Yes
+CVE-2014-70120,2014-01-12,Buffer Overflow,Google,Chrome,1.9,Low,Local,High,None,Required,High,None,None,USA,Government,966,Actively Exploited,Yes
+CVE-2014-40839,2014-09-13,Deserialization,IBM,MQ,10.0,Critical,Network,High,None,None,None,Low,Low,USA,Transport,30812,Patched,Yes
+CVE-2014-01654,2014-03-04,Ransomware,Fortinet,FortiOS,9.7,Critical,Physical,High,None,None,None,Low,High,Iran,Transport,43648,Patched,No
+CVE-2014-40909,2014-06-15,XSS,Atlassian,Bitbucket,1.6,Low,Network,High,Low,Required,None,Low,None,India,Healthcare,15465,Actively Exploited,No
+CVE-2014-36189,2014-10-27,Ransomware,Microsoft,Exchange Server,1.2,Low,Network,Low,High,Required,High,High,None,Turkey,Healthcare,16301,Patched,No
+CVE-2014-99558,2014-11-17,CSRF,Oracle,E-Business Suite,0.6,Low,Adjacent,Low,None,Required,None,Low,High,Turkey,Manufacturing,48051,Patched,Yes
+CVE-2014-94949,2014-03-10,XSS,Atlassian,Confluence,2.5,Low,Physical,High,High,Required,High,High,Low,India,Defense,12231,Resolved,No
+CVE-2014-61394,2014-05-21,Command Injection,IBM,QRadar,8.7,High,Adjacent,Low,High,None,Low,Low,Low,South Korea,Retail,29759,Exploited,No
+CVE-2014-81230,2014-07-06,Ransomware,Apple,iOS,7.8,High,Local,Low,High,Required,None,High,High,Nigeria,Transport,10102,Resolved,No
+CVE-2014-84005,2014-06-14,Brute Force,IBM,MQ,1.1,Low,Network,Low,None,None,None,None,None,Nigeria,Education,6472,Exploited,No
+CVE-2014-06434,2014-07-07,RCE,F5,BIG-IP,2.2,Low,Network,Low,High,Required,None,Low,High,China,Retail,36571,Actively Exploited,No
+CVE-2014-34841,2014-09-28,RCE,Cisco,Firepower,0.4,Low,Local,Low,None,None,None,High,None,South Korea,Telecom,12417,Patched,Yes
+CVE-2014-73194,2014-10-13,Buffer Overflow,WordPress,Core,4.2,Medium,Local,High,High,Required,None,None,None,South Korea,Telecom,33076,Under Investigation,Yes
+CVE-2014-46180,2014-06-11,Path Traversal,Zimbra,Collaboration Suite,5.5,Medium,Local,High,High,Required,High,Low,High,Germany,Defense,35759,Patched,No
+CVE-2014-47188,2014-08-20,SSRF,Zimbra,Collaboration Suite,4.5,Medium,Network,Low,Low,None,High,None,Low,Russia,Energy,14542,Patched,No
+CVE-2014-72570,2014-09-19,Logic Flaw,Microsoft,SharePoint,5.6,Medium,Adjacent,Low,None,Required,Low,None,None,UK,Retail,38153,Patched,Yes
+CVE-2014-12047,2014-10-20,Phishing,Fortinet,FortiOS,4.0,Medium,Network,High,Low,None,Low,High,High,Netherlands,Healthcare,39010,Under Investigation,Yes
+CVE-2014-10287,2014-01-29,Path Traversal,WordPress,Plugins,9.2,Critical,Local,High,Low,None,None,High,High,Canada,Finance,41543,Actively Exploited,Yes
+CVE-2014-41854,2014-10-04,Path Traversal,Palo Alto,PAN-OS,5.6,Medium,Adjacent,Low,None,Required,Low,High,High,Indonesia,Healthcare,14555,Actively Exploited,No
+CVE-2014-17327,2014-06-22,Logic Flaw,Atlassian,Jira,0.8,Low,Network,High,Low,None,Low,High,Low,North Korea,Government,31518,Resolved,Yes
+CVE-2014-85492,2014-10-20,Brute Force,F5,BIG-IP,2.0,Low,Adjacent,Low,None,Required,Low,Low,High,Netherlands,Healthcare,7375,Actively Exploited,No
+CVE-2014-24968,2014-06-14,SQL Injection,SAP,Business One,3.4,Low,Local,Low,Low,Required,High,None,Low,China,Education,13087,Under Investigation,Yes
+CVE-2014-96939,2014-01-28,Privilege Escalation,Oracle,WebLogic,2.4,Low,Local,Low,Low,None,Low,Low,Low,Russia,Retail,13698,Resolved,Yes
+CVE-2014-71933,2014-09-05,Privilege Escalation,Adobe,Photoshop,6.2,Medium,Network,High,High,None,Low,None,None,France,Education,45648,Resolved,No
+CVE-2014-85821,2014-01-05,MITM,Cisco,AnyConnect,0.7,Low,Local,Low,None,Required,High,Low,None,Vietnam,Transport,46511,Exploited,No
+CVE-2014-24435,2014-04-12,Deserialization,F5,BIG-IP,5.0,Medium,Network,Low,None,Required,Low,Low,Low,Brazil,Finance,22727,Under Investigation,No
+CVE-2014-65701,2014-05-22,MITM,Palo Alto,PAN-OS,8.1,High,Physical,Low,High,Required,None,None,Low,Vietnam,IT,8996,Exploited,No
+CVE-2014-54701,2014-05-04,XXE,Juniper,Junos,5.7,Medium,Local,High,Low,None,None,High,None,Netherlands,Transport,44830,Patched,Yes
+CVE-2014-56370,2014-03-16,Logic Flaw,Palo Alto,PAN-OS,6.6,Medium,Adjacent,High,None,None,None,Low,None,Russia,Retail,27135,Actively Exploited,No
+CVE-2014-19918,2014-04-07,DoS/DDoS,Nginx,Nginx,1.1,Low,Network,High,High,None,High,None,None,Russia,Retail,5209,Actively Exploited,Yes
+CVE-2014-93326,2014-11-29,SSRF,Juniper,Junos,3.7,Low,Physical,High,None,None,None,None,None,Pakistan,Finance,17686,Actively Exploited,Yes
+CVE-2014-08669,2014-04-01,Deserialization,Adobe,Flash,9.3,Critical,Physical,High,Low,None,Low,Low,None,Canada,Telecom,47200,Under Investigation,No
+CVE-2014-68243,2014-02-25,XSS,Drupal,Core,4.5,Medium,Adjacent,High,High,None,High,Low,High,China,Education,19083,Actively Exploited,No
+CVE-2014-60470,2014-03-27,XSS,Palo Alto,GlobalProtect,4.2,Medium,Adjacent,High,High,Required,None,High,High,Iran,Government,38368,Resolved,Yes
+CVE-2014-42397,2014-08-19,Deserialization,Atlassian,Confluence,0.2,Low,Adjacent,High,None,Required,Low,High,High,Brazil,Healthcare,5977,Exploited,No
+CVE-2014-68658,2014-12-29,Brute Force,SAP,NetWeaver,3.8,Low,Adjacent,High,High,Required,None,None,Low,Netherlands,IT,9837,Patched,Yes
+CVE-2014-06726,2014-08-03,Deserialization,Apple,Safari,3.1,Low,Local,Low,None,None,None,None,High,UK,Finance,30058,Actively Exploited,No
+CVE-2014-79690,2014-09-10,Logic Flaw,Zimbra,Collaboration Suite,2.4,Low,Physical,High,Low,Required,None,High,High,Russia,Education,35871,Under Investigation,Yes
+CVE-2014-19433,2014-01-29,XSS,Cisco,ASA,6.5,Medium,Adjacent,Low,High,Required,Low,None,None,Iran,Telecom,11682,Patched,No
+CVE-2014-59683,2014-10-24,XSS,Drupal,Core,3.6,Low,Network,High,Low,Required,Low,None,Low,South Korea,Healthcare,19192,Actively Exploited,Yes
+CVE-2014-43151,2014-09-27,Phishing,Apache,Tomcat,4.1,Medium,Adjacent,Low,None,None,Low,High,High,Canada,Energy,27988,Resolved,No
+CVE-2014-75386,2014-11-16,Privilege Escalation,Fortinet,FortiManager,3.5,Low,Physical,High,Low,None,High,None,High,France,Education,104,Exploited,Yes
+CVE-2014-96662,2014-04-17,XXE,Nginx,Nginx,8.0,High,Physical,Low,Low,Required,High,High,None,Russia,IT,13186,Under Investigation,No
+CVE-2014-39359,2014-09-17,SQL Injection,Oracle,E-Business Suite,5.5,Medium,Network,High,Low,Required,High,High,High,Russia,Government,12716,Under Investigation,No
+CVE-2014-04661,2014-11-27,Privilege Escalation,F5,BIG-IP,1.4,Low,Physical,High,Low,Required,High,None,High,France,Defense,47512,Under Investigation,Yes
+CVE-2014-46347,2014-02-03,MITM,Adobe,Photoshop,9.7,Critical,Network,High,Low,None,High,High,Low,Brazil,Defense,7658,Under Investigation,No
+CVE-2014-54247,2014-02-14,Ransomware,Cisco,Webex,5.0,Medium,Local,High,Low,None,High,Low,None,Iran,Retail,2451,Patched,Yes
+CVE-2014-63264,2014-09-14,Path Traversal,Nginx,Nginx,1.5,Low,Physical,High,Low,None,None,High,High,North Korea,Education,47486,Exploited,No
+CVE-2014-68465,2014-03-01,XSS,Atlassian,Bitbucket,0.0,None,Network,High,Low,None,None,High,High,France,Finance,37851,Under Investigation,Yes
+CVE-2014-25238,2014-05-27,Path Traversal,IBM,WebSphere,2.8,Low,Physical,Low,Low,None,None,Low,None,Russia,Defense,36676,Resolved,Yes
+CVE-2014-72007,2014-06-13,Zero-Day Exploit,Adobe,Photoshop,2.7,Low,Adjacent,Low,None,Required,High,Low,High,Romania,Finance,8525,Exploited,No
+CVE-2014-50280,2014-01-28,SSRF,Cisco,IOS,0.9,Low,Adjacent,High,High,Required,Low,Low,None,South Korea,Healthcare,49529,Actively Exploited,Yes
+CVE-2014-12749,2014-08-22,Deserialization,Oracle,Java SE,3.1,Low,Physical,Low,None,None,High,Low,Low,Vietnam,Government,45850,Under Investigation,No
+CVE-2014-03967,2014-02-03,CSRF,Nginx,Nginx,4.8,Medium,Physical,High,None,Required,Low,High,High,North Korea,Transport,6746,Actively Exploited,Yes
+CVE-2014-85125,2014-02-06,Command Injection,IBM,QRadar,7.9,High,Physical,High,High,Required,None,High,None,South Korea,Government,31613,Actively Exploited,Yes
+CVE-2014-90972,2014-10-30,XXE,IBM,WebSphere,4.3,Medium,Local,Low,None,None,High,High,High,Nigeria,Healthcare,38809,Resolved,No
+CVE-2014-12800,2014-08-16,SSRF,IBM,QRadar,1.8,Low,Network,Low,High,Required,Low,Low,High,China,Healthcare,14262,Patched,Yes
+CVE-2014-19559,2014-08-20,SSRF,Google,Workspace,5.3,Medium,Physical,Low,None,Required,Low,High,High,France,Telecom,47042,Under Investigation,Yes
+CVE-2014-80150,2014-09-19,Privilege Escalation,WordPress,Core,4.0,Medium,Local,Low,Low,None,None,High,High,Turkey,Healthcare,18495,Exploited,Yes
+CVE-2014-77354,2014-07-21,SSRF,Linux,glibc,6.3,Medium,Physical,High,Low,None,High,None,Low,North Korea,Education,36401,Actively Exploited,No
+CVE-2014-37811,2014-12-10,SQL Injection,Linux,Kernel,1.3,Low,Network,Low,None,Required,High,Low,None,USA,Government,42091,Actively Exploited,No
+CVE-2014-81691,2014-04-03,XXE,Drupal,Modules,4.5,Medium,Physical,High,Low,None,None,Low,High,Russia,Defense,32648,Patched,No
+CVE-2014-75544,2014-07-07,XSS,Linux,glibc,0.3,Low,Physical,High,None,Required,High,None,None,Indonesia,Energy,30471,Resolved,Yes
+CVE-2014-32143,2014-08-30,RCE,Juniper,Junos,6.3,Medium,Local,Low,Low,None,Low,Low,High,Nigeria,Defense,48092,Under Investigation,No
+CVE-2014-37908,2014-03-27,Zero-Day Exploit,SAP,Business One,0.4,Low,Local,Low,High,Required,High,None,High,China,IT,19121,Resolved,Yes
+CVE-2014-10815,2014-03-06,MITM,Palo Alto,GlobalProtect,5.1,Medium,Local,Low,High,Required,Low,Low,None,Iran,Defense,11444,Resolved,Yes
+CVE-2014-22990,2014-05-14,Ransomware,Nginx,Nginx,7.8,High,Physical,Low,High,None,Low,None,None,Canada,Government,32503,Actively Exploited,No
+CVE-2014-95159,2014-11-23,Logic Flaw,VMware,Horizon,1.7,Low,Local,Low,High,Required,None,None,None,Romania,Telecom,31211,Under Investigation,No
+CVE-2014-49782,2014-12-16,Credential Stuffing,Zimbra,Collaboration Suite,7.1,High,Local,Low,High,Required,None,Low,Low,Vietnam,IT,20689,Resolved,Yes
+CVE-2014-83549,2014-07-01,XXE,Apache,Kafka,9.6,Critical,Local,High,Low,Required,None,Low,High,Netherlands,Telecom,30220,Patched,Yes
+CVE-2014-88830,2014-12-20,Path Traversal,Juniper,Junos,9.9,Critical,Network,Low,None,None,Low,None,High,Iran,IT,29226,Under Investigation,Yes
+CVE-2014-25308,2014-01-18,RCE,Palo Alto,GlobalProtect,0.2,Low,Network,Low,High,None,High,None,None,Canada,Government,24639,Resolved,Yes
+CVE-2014-33206,2014-05-31,RCE,Apache,Struts,4.7,Medium,Physical,High,Low,Required,Low,None,None,UK,Finance,25088,Actively Exploited,No
+CVE-2014-34691,2014-04-02,Credential Stuffing,Cisco,Webex,4.4,Medium,Adjacent,High,None,Required,None,None,High,Pakistan,Education,40237,Exploited,No
+CVE-2014-04570,2014-02-07,MITM,Fortinet,FortiGate,0.7,Low,Physical,Low,Low,None,High,High,None,China,IT,25591,Under Investigation,Yes
+CVE-2014-75320,2014-01-02,Credential Stuffing,IBM,MQ,5.2,Medium,Physical,High,Low,None,High,None,None,Vietnam,Manufacturing,7944,Resolved,No
+CVE-2014-39693,2014-07-25,RCE,IBM,QRadar,0.6,Low,Local,High,None,Required,Low,High,None,Brazil,Transport,2578,Actively Exploited,Yes
+CVE-2014-13995,2014-11-19,Credential Stuffing,Palo Alto,GlobalProtect,6.9,Medium,Network,High,High,None,None,None,None,Russia,Defense,15630,Actively Exploited,No
+CVE-2014-65495,2014-10-01,Deserialization,Oracle,E-Business Suite,9.6,Critical,Network,Low,Low,None,Low,High,None,Vietnam,Healthcare,13873,Resolved,No
+CVE-2014-97132,2014-10-24,RCE,Zimbra,Collaboration Suite,2.3,Low,Network,Low,Low,None,Low,High,None,Germany,IT,8555,Exploited,Yes
+CVE-2014-12753,2014-08-22,Logic Flaw,Cisco,Webex,6.1,Medium,Network,Low,None,Required,High,High,None,USA,Education,27933,Under Investigation,No
+CVE-2014-89665,2014-10-22,Path Traversal,IBM,WebSphere,5.5,Medium,Adjacent,Low,High,None,Low,None,None,UK,Government,49647,Actively Exploited,Yes
+CVE-2014-21628,2014-08-13,Logic Flaw,SAP,HANA,2.4,Low,Network,Low,None,Required,None,None,Low,USA,Finance,474,Patched,Yes
+CVE-2014-54556,2014-12-22,Credential Stuffing,WordPress,Plugins,8.1,High,Adjacent,Low,None,Required,High,Low,Low,Germany,Government,40013,Exploited,Yes
+CVE-2014-82208,2014-06-04,SQL Injection,F5,BIG-IP,3.5,Low,Adjacent,Low,None,None,High,Low,High,Indonesia,Education,30423,Patched,No
+CVE-2014-14770,2014-03-18,Credential Stuffing,Cisco,ASA,6.9,Medium,Physical,Low,None,None,None,High,Low,France,Education,28487,Under Investigation,No
+CVE-2014-05678,2014-02-23,Command Injection,Drupal,Modules,7.4,High,Adjacent,Low,None,Required,High,None,None,Germany,Manufacturing,38844,Resolved,No
+CVE-2014-97923,2014-12-13,Ransomware,Linux,Kernel,9.0,Critical,Network,High,None,None,None,High,Low,India,Telecom,14462,Exploited,No
+CVE-2014-07123,2014-08-12,Deserialization,WordPress,Plugins,1.4,Low,Adjacent,High,Low,None,Low,High,None,Turkey,Energy,13253,Under Investigation,Yes
+CVE-2014-07819,2014-05-24,Deserialization,Cisco,Firepower,1.4,Low,Physical,High,None,Required,None,Low,High,Brazil,IT,40078,Patched,Yes
+CVE-2014-68390,2014-09-08,Phishing,Oracle,Java SE,8.6,High,Physical,High,Low,None,High,Low,High,Germany,Education,21450,Actively Exploited,Yes
+CVE-2014-75197,2014-01-03,XSS,WordPress,Core,4.2,Medium,Network,High,High,None,Low,High,Low,Nigeria,Healthcare,29652,Actively Exploited,Yes
+CVE-2014-90854,2014-07-28,Privilege Escalation,Oracle,WebLogic,9.5,Critical,Local,High,None,None,None,Low,High,France,Government,46092,Actively Exploited,Yes
+CVE-2014-18170,2014-12-27,CSRF,Nginx,Nginx,4.1,Medium,Physical,Low,High,None,Low,High,Low,Indonesia,Finance,19438,Actively Exploited,No
+CVE-2014-89741,2014-02-11,Path Traversal,Drupal,Core,6.2,Medium,Network,High,None,None,Low,Low,Low,Canada,Finance,23959,Under Investigation,Yes
+CVE-2014-73500,2014-12-30,Privilege Escalation,Zimbra,Collaboration Suite,7.7,High,Local,Low,High,None,High,Low,High,Netherlands,Education,49360,Patched,No
+CVE-2014-66004,2014-12-15,XSS,SAP,Business One,4.2,Medium,Network,High,Low,Required,Low,High,High,Iran,Manufacturing,46520,Resolved,No
+CVE-2014-88252,2014-12-21,RCE,Nginx,Nginx,8.1,High,Adjacent,High,None,None,Low,None,Low,USA,Healthcare,10799,Under Investigation,Yes
+CVE-2014-19727,2014-04-15,SQL Injection,Google,Android,5.2,Medium,Local,High,High,None,Low,Low,Low,Romania,IT,1408,Under Investigation,Yes
+CVE-2014-30452,2014-09-24,XXE,Oracle,WebLogic,6.4,Medium,Local,High,Low,Required,Low,Low,High,North Korea,Energy,11255,Under Investigation,Yes
+CVE-2014-37768,2014-01-25,Zero-Day Exploit,F5,BIG-IP,1.5,Low,Physical,Low,High,None,High,High,Low,Brazil,Government,46407,Patched,Yes
+CVE-2014-05394,2014-06-12,Deserialization,VMware,vCenter,5.7,Medium,Local,High,None,None,High,High,None,Ukraine,Retail,9696,Under Investigation,No
+CVE-2014-69946,2014-06-04,SQL Injection,Zimbra,Collaboration Suite,1.2,Low,Physical,High,None,Required,Low,None,None,South Korea,Transport,21711,Under Investigation,No
+CVE-2014-74087,2014-08-15,Buffer Overflow,Palo Alto,PAN-OS,3.4,Low,Physical,Low,None,None,Low,None,Low,Canada,Education,29228,Under Investigation,Yes
+CVE-2014-79712,2014-11-25,Brute Force,IBM,WebSphere,2.0,Low,Adjacent,High,None,None,None,High,Low,USA,Transport,25849,Patched,No
+CVE-2014-79309,2014-09-19,CSRF,IBM,QRadar,9.4,Critical,Physical,Low,High,Required,Low,Low,Low,Russia,Energy,22605,Under Investigation,No
+CVE-2014-28272,2014-08-16,XXE,Nginx,Nginx,7.4,High,Physical,High,None,Required,High,Low,None,Netherlands,Defense,5642,Patched,Yes
+CVE-2014-68853,2014-06-21,Logic Flaw,Palo Alto,GlobalProtect,0.7,Low,Physical,Low,None,Required,High,Low,Low,Brazil,Transport,30286,Resolved,Yes
+CVE-2014-50040,2014-05-29,XSS,Adobe,Flash,5.5,Medium,Local,High,Low,Required,None,None,None,North Korea,Energy,19672,Actively Exploited,Yes
+CVE-2014-23511,2014-09-09,Ransomware,Palo Alto,GlobalProtect,9.1,Critical,Network,Low,Low,Required,None,High,High,Turkey,Defense,31490,Resolved,No
+CVE-2014-89904,2014-09-01,Buffer Overflow,Fortinet,FortiManager,9.7,Critical,Local,Low,Low,None,High,None,None,Ukraine,Manufacturing,45435,Patched,No
+CVE-2014-35740,2014-07-04,CSRF,Apple,iOS,4.2,Medium,Network,High,Low,None,High,None,High,Brazil,Healthcare,39241,Patched,No
+CVE-2014-39463,2014-05-19,CSRF,IBM,QRadar,6.9,Medium,Network,High,None,None,None,High,Low,Turkey,Manufacturing,27001,Under Investigation,Yes
+CVE-2014-20258,2014-09-15,Phishing,Apache,Struts,2.2,Low,Network,High,Low,None,None,None,None,Nigeria,Retail,20420,Under Investigation,Yes
+CVE-2014-22572,2014-12-30,Buffer Overflow,Nginx,Nginx,3.0,Low,Adjacent,Low,High,None,High,None,Low,North Korea,Education,8534,Exploited,No
+CVE-2014-02465,2014-09-05,XSS,Apache,HTTP Server,7.6,High,Adjacent,Low,None,None,Low,None,Low,China,Healthcare,19769,Exploited,Yes
+CVE-2014-26923,2014-10-28,DoS/DDoS,Apache,Kafka,9.0,Critical,Local,Low,None,None,High,Low,High,Turkey,Retail,10523,Resolved,Yes
+CVE-2014-12990,2014-10-24,Brute Force,Juniper,Junos,7.6,High,Adjacent,Low,Low,None,High,None,High,Iran,Education,33043,Actively Exploited,No
+CVE-2014-57628,2014-12-11,DoS/DDoS,WordPress,Core,9.6,Critical,Local,High,Low,None,High,None,Low,Iran,Retail,8102,Actively Exploited,Yes
+CVE-2014-64988,2014-07-04,Command Injection,Juniper,Junos,7.0,High,Network,Low,Low,Required,None,Low,Low,Romania,Defense,48246,Under Investigation,No
+CVE-2014-38089,2014-08-08,RCE,VMware,Horizon,1.9,Low,Physical,High,None,None,High,Low,High,Iran,Telecom,28709,Resolved,Yes
+CVE-2014-51749,2014-07-25,Buffer Overflow,Apache,Struts,7.0,High,Adjacent,Low,Low,None,Low,None,High,Vietnam,Healthcare,15262,Actively Exploited,No
+CVE-2014-76274,2014-10-31,SSRF,Fortinet,FortiManager,2.7,Low,Local,High,High,Required,Low,High,Low,North Korea,Manufacturing,7081,Exploited,No
+CVE-2014-30255,2014-11-18,SQL Injection,F5,BIG-IP,9.4,Critical,Network,Low,None,Required,High,None,None,Vietnam,Defense,44513,Under Investigation,Yes
+CVE-2014-99638,2014-02-09,Brute Force,Palo Alto,PAN-OS,6.6,Medium,Physical,High,None,Required,High,Low,Low,Indonesia,Energy,35550,Under Investigation,Yes
+CVE-2014-15616,2014-07-16,SSRF,Cisco,AnyConnect,4.5,Medium,Physical,High,None,None,None,High,High,France,Government,32210,Actively Exploited,Yes
+CVE-2014-63892,2014-02-26,Credential Stuffing,Palo Alto,GlobalProtect,5.7,Medium,Physical,High,High,None,High,None,Low,UK,Manufacturing,38735,Actively Exploited,No
+CVE-2014-08051,2014-01-15,Privilege Escalation,Palo Alto,GlobalProtect,5.9,Medium,Local,High,High,None,High,Low,Low,Iran,Telecom,22620,Under Investigation,No
+CVE-2014-86671,2014-05-06,Zero-Day Exploit,SAP,NetWeaver,2.5,Low,Network,Low,Low,None,Low,None,None,South Korea,Retail,2450,Actively Exploited,No
+CVE-2014-34947,2014-01-11,Logic Flaw,WordPress,Plugins,7.0,High,Network,High,Low,Required,Low,High,None,Nigeria,Healthcare,45277,Patched,No
+CVE-2014-21841,2014-11-11,XXE,F5,BIG-IP,3.0,Low,Adjacent,High,High,None,High,None,Low,UK,Finance,19486,Resolved,No
+CVE-2014-94072,2014-10-24,Path Traversal,VMware,vCenter,0.9,Low,Local,Low,High,Required,Low,None,Low,USA,IT,19782,Resolved,No
+CVE-2014-70773,2014-06-10,SSRF,Linux,glibc,2.0,Low,Local,High,High,None,None,High,High,Indonesia,Government,37805,Actively Exploited,Yes
+CVE-2014-83615,2014-09-30,XXE,Nginx,Nginx,8.1,High,Network,Low,Low,Required,None,None,None,France,Telecom,26887,Under Investigation,Yes
+CVE-2014-34988,2014-05-27,MITM,Adobe,ColdFusion,6.5,Medium,Adjacent,High,None,None,None,None,None,Germany,Energy,30420,Actively Exploited,No
+CVE-2014-04851,2014-04-14,Privilege Escalation,Linux,glibc,1.6,Low,Network,High,Low,None,High,None,High,Nigeria,Finance,3626,Exploited,No
+CVE-2014-08334,2014-07-28,RCE,Drupal,Modules,9.0,Critical,Physical,Low,None,None,High,High,High,Iran,Transport,43531,Resolved,No
+CVE-2014-31206,2014-11-04,Path Traversal,F5,BIG-IP,1.2,Low,Local,High,High,None,Low,None,None,Iran,Government,14032,Under Investigation,No
+CVE-2014-77265,2014-01-29,CSRF,Linux,systemd,4.9,Medium,Network,High,High,Required,Low,High,None,UK,Government,23790,Actively Exploited,No
+CVE-2014-84594,2014-11-07,XSS,Palo Alto,PAN-OS,0.3,Low,Adjacent,High,High,Required,Low,High,High,Turkey,IT,7999,Resolved,Yes
+CVE-2014-01032,2014-07-21,MITM,Nginx,Nginx,9.3,Critical,Local,Low,None,Required,None,None,Low,Ukraine,IT,26627,Exploited,No
+CVE-2014-61747,2014-07-31,Path Traversal,Oracle,Java SE,9.3,Critical,Physical,Low,None,Required,High,None,Low,Pakistan,Defense,47791,Resolved,No
+CVE-2014-99874,2014-01-27,DoS/DDoS,Nginx,Nginx,6.4,Medium,Physical,Low,None,Required,None,High,Low,Ukraine,Defense,5390,Exploited,Yes
+CVE-2014-77859,2014-12-18,Path Traversal,VMware,ESXi,4.1,Medium,Physical,High,High,None,Low,None,High,Netherlands,Retail,18468,Patched,Yes
+CVE-2014-23841,2014-07-21,Logic Flaw,Linux,systemd,8.8,High,Adjacent,Low,None,None,None,Low,None,UK,Government,3263,Actively Exploited,No
+CVE-2014-19563,2014-02-15,DoS/DDoS,Drupal,Modules,9.6,Critical,Network,Low,High,Required,Low,High,Low,Iran,Education,46765,Patched,Yes
+CVE-2014-97838,2014-09-11,XXE,Fortinet,FortiOS,3.8,Low,Adjacent,Low,Low,None,Low,None,Low,North Korea,Finance,19019,Under Investigation,Yes
+CVE-2014-32548,2014-07-09,Deserialization,Drupal,Modules,5.8,Medium,Network,Low,Low,None,Low,High,Low,India,Telecom,46430,Actively Exploited,No
+CVE-2014-73008,2014-01-31,Ransomware,Oracle,WebLogic,0.5,Low,Physical,High,High,None,None,Low,High,Canada,Telecom,19826,Actively Exploited,No
+CVE-2014-05391,2014-10-25,DoS/DDoS,Google,Workspace,1.8,Low,Physical,High,Low,None,None,Low,High,Indonesia,Telecom,9293,Under Investigation,Yes
+CVE-2014-16761,2014-09-13,MITM,IBM,WebSphere,8.7,High,Local,High,Low,Required,High,Low,High,Ukraine,Telecom,10813,Under Investigation,No
+CVE-2014-86170,2014-11-22,XSS,Google,Workspace,8.0,High,Adjacent,Low,None,None,None,None,Low,UK,Government,46266,Actively Exploited,No
+CVE-2014-05347,2014-08-15,Command Injection,Apache,Log4j,3.6,Low,Physical,High,Low,None,High,None,None,Turkey,Healthcare,13352,Under Investigation,Yes
+CVE-2014-66682,2014-05-20,Logic Flaw,Apple,Safari,5.6,Medium,Adjacent,Low,High,None,Low,None,None,Nigeria,IT,6181,Under Investigation,Yes
+CVE-2014-51665,2014-07-11,Buffer Overflow,Palo Alto,PAN-OS,5.9,Medium,Local,Low,None,None,Low,High,High,Nigeria,Manufacturing,41180,Under Investigation,Yes
+CVE-2014-86006,2014-11-15,Path Traversal,IBM,WebSphere,9.5,Critical,Adjacent,Low,None,Required,Low,None,High,USA,Transport,39472,Actively Exploited,Yes
+CVE-2014-23333,2014-05-03,SSRF,Atlassian,Confluence,9.7,Critical,Network,Low,None,None,Low,Low,Low,North Korea,Healthcare,19566,Actively Exploited,No
+CVE-2014-47061,2014-12-07,CSRF,Palo Alto,PAN-OS,1.0,Low,Adjacent,High,Low,Required,Low,Low,High,Canada,Telecom,5913,Actively Exploited,No
+CVE-2014-56900,2014-11-19,XSS,Drupal,Core,4.3,Medium,Local,High,High,None,High,High,High,North Korea,Manufacturing,34556,Resolved,Yes
+CVE-2014-57326,2014-02-10,Credential Stuffing,Palo Alto,GlobalProtect,9.1,Critical,Local,Low,None,Required,None,High,Low,France,Defense,3128,Resolved,Yes
+CVE-2014-14108,2014-09-19,Buffer Overflow,Cisco,Firepower,4.2,Medium,Physical,High,Low,Required,High,None,High,Russia,Healthcare,48531,Actively Exploited,Yes
+CVE-2014-05933,2014-02-12,Zero-Day Exploit,Apple,macOS,4.2,Medium,Local,High,High,Required,High,Low,Low,Brazil,Education,12130,Exploited,No
+CVE-2014-70042,2014-01-10,Buffer Overflow,Apache,Log4j,0.1,Low,Network,Low,High,Required,Low,High,Low,Canada,Manufacturing,19845,Resolved,No
+CVE-2014-11487,2014-03-06,Phishing,Atlassian,Confluence,1.4,Low,Network,Low,High,None,None,None,Low,North Korea,IT,15846,Actively Exploited,Yes
+CVE-2014-60743,2014-03-17,SQL Injection,Oracle,E-Business Suite,4.7,Medium,Network,Low,None,Required,Low,Low,None,Romania,Defense,15901,Patched,No
+CVE-2014-06675,2014-06-20,XXE,WordPress,Plugins,0.1,Low,Physical,High,High,Required,None,Low,Low,Nigeria,Transport,38735,Resolved,No
+CVE-2014-69247,2014-01-10,Path Traversal,VMware,vCenter,4.2,Medium,Network,High,High,Required,Low,None,Low,Canada,IT,22726,Actively Exploited,No
+CVE-2014-37751,2014-04-09,Deserialization,Microsoft,Exchange Server,4.7,Medium,Adjacent,Low,High,Required,High,High,High,Romania,Government,19228,Actively Exploited,No
+CVE-2014-21238,2014-11-15,RCE,SAP,Business One,2.1,Low,Physical,Low,None,None,None,High,Low,Iran,Telecom,32357,Under Investigation,Yes
+CVE-2014-02377,2014-07-03,CSRF,Adobe,Acrobat,8.8,High,Adjacent,Low,High,None,None,Low,Low,Iran,Defense,14857,Exploited,Yes
+CVE-2014-44607,2014-07-01,Command Injection,F5,BIG-IP,7.7,High,Local,Low,High,None,High,None,Low,Romania,Healthcare,6940,Resolved,Yes
+CVE-2014-66494,2014-02-23,Buffer Overflow,Zimbra,Collaboration Suite,1.7,Low,Adjacent,High,None,Required,High,Low,High,Nigeria,Healthcare,10112,Under Investigation,No
+CVE-2014-26463,2014-08-13,SQL Injection,Google,Chrome,9.7,Critical,Adjacent,High,Low,Required,High,None,None,UK,Retail,46872,Actively Exploited,No
+CVE-2014-98725,2014-09-29,Ransomware,VMware,ESXi,4.2,Medium,Adjacent,High,Low,Required,Low,High,High,Turkey,Finance,29005,Patched,Yes
+CVE-2014-11113,2014-06-23,DoS/DDoS,Juniper,Junos,3.1,Low,Physical,Low,Low,None,High,High,None,Netherlands,Finance,41394,Resolved,No
+CVE-2014-89244,2014-12-25,Zero-Day Exploit,Linux,systemd,5.5,Medium,Local,High,None,Required,High,High,None,Vietnam,Manufacturing,42198,Patched,No
+CVE-2014-53020,2014-04-12,RCE,SAP,HANA,8.8,High,Network,High,Low,None,High,High,Low,India,Healthcare,33533,Resolved,No
+CVE-2014-99228,2014-11-22,SQL Injection,Juniper,Junos,1.6,Low,Local,Low,Low,Required,High,None,High,China,Retail,17024,Resolved,No
+CVE-2014-99164,2014-11-30,Deserialization,Apache,HTTP Server,9.4,Critical,Local,Low,Low,Required,None,High,High,Netherlands,IT,43616,Resolved,Yes
+CVE-2014-37295,2014-12-08,Logic Flaw,SAP,Business One,7.8,High,Adjacent,High,High,None,None,Low,High,Netherlands,Education,23677,Actively Exploited,Yes
+CVE-2014-55797,2014-07-30,XSS,Google,Workspace,0.8,Low,Physical,Low,Low,None,Low,None,Low,Indonesia,Telecom,38551,Resolved,No
+CVE-2014-65383,2014-11-22,Deserialization,Fortinet,FortiManager,4.2,Medium,Physical,High,None,None,High,None,Low,Romania,Government,46172,Resolved,Yes
+CVE-2014-62044,2014-01-17,Command Injection,Adobe,ColdFusion,7.5,High,Local,Low,High,Required,None,None,Low,Netherlands,Energy,2640,Resolved,Yes
+CVE-2014-39968,2014-07-11,Credential Stuffing,Apache,Tomcat,3.0,Low,Network,Low,None,Required,None,Low,Low,India,Government,48475,Actively Exploited,Yes
+CVE-2014-45699,2014-02-04,XXE,Apache,Kafka,8.7,High,Physical,High,High,Required,Low,Low,Low,Canada,Government,49936,Patched,No
+CVE-2014-19528,2014-06-16,XXE,Nginx,Nginx,0.9,Low,Physical,Low,Low,Required,High,None,High,Romania,Energy,42331,Exploited,Yes
+CVE-2014-82590,2014-12-29,Buffer Overflow,Microsoft,Azure AD,3.1,Low,Network,Low,High,None,High,High,None,Nigeria,Transport,1224,Exploited,Yes
+CVE-2014-26976,2014-05-06,Logic Flaw,Microsoft,SharePoint,8.3,High,Physical,Low,High,Required,Low,High,None,Nigeria,Finance,22280,Actively Exploited,Yes
+CVE-2014-69194,2014-06-12,RCE,Linux,Kernel,3.8,Low,Network,Low,High,None,Low,None,None,UK,Healthcare,10108,Under Investigation,No
+CVE-2014-80541,2014-06-16,XSS,Apple,iOS,1.8,Low,Local,High,None,Required,None,Low,Low,UK,Telecom,7928,Exploited,Yes
+CVE-2014-64616,2014-09-18,SSRF,VMware,ESXi,7.5,High,Network,High,None,Required,Low,High,Low,USA,Manufacturing,1895,Actively Exploited,Yes
+CVE-2014-72624,2014-10-28,Ransomware,Microsoft,SharePoint,6.8,Medium,Adjacent,High,High,Required,Low,None,High,Indonesia,Education,9331,Under Investigation,Yes
+CVE-2014-72765,2014-08-20,Deserialization,VMware,Horizon,0.4,Low,Local,Low,None,None,Low,Low,High,UK,IT,24914,Under Investigation,Yes
+CVE-2014-05962,2014-03-24,Logic Flaw,WordPress,Plugins,7.4,High,Network,High,None,Required,High,None,None,South Korea,Energy,28310,Patched,No
+CVE-2014-34258,2014-12-29,Ransomware,IBM,QRadar,4.5,Medium,Local,High,None,Required,High,Low,None,North Korea,IT,135,Resolved,No
+CVE-2014-88173,2014-03-30,Credential Stuffing,Microsoft,Windows,4.1,Medium,Physical,Low,High,None,High,None,High,Romania,IT,8089,Under Investigation,No
+CVE-2014-50693,2014-04-01,SQL Injection,Drupal,Modules,8.4,High,Network,High,Low,None,Low,None,None,Russia,Energy,44601,Under Investigation,Yes
+CVE-2014-94085,2014-04-24,Credential Stuffing,Oracle,E-Business Suite,2.3,Low,Local,Low,Low,Required,High,High,High,India,Finance,12851,Actively Exploited,Yes
+CVE-2014-65579,2014-09-10,Phishing,Fortinet,FortiManager,1.7,Low,Adjacent,Low,High,None,High,None,None,UK,Defense,14940,Resolved,No
+CVE-2014-90832,2014-12-14,MITM,Adobe,Acrobat,5.3,Medium,Physical,Low,Low,None,Low,Low,Low,UK,Healthcare,44576,Resolved,No
+CVE-2014-67798,2014-01-23,Ransomware,F5,BIG-IP,8.8,High,Network,High,Low,Required,Low,None,Low,India,Retail,5362,Resolved,Yes
+CVE-2014-09758,2014-05-08,Path Traversal,VMware,Horizon,2.0,Low,Local,Low,High,None,None,Low,Low,Russia,Defense,41046,Under Investigation,No
+CVE-2014-62073,2014-05-03,XSS,VMware,vCenter,9.6,Critical,Local,Low,None,Required,None,High,Low,Netherlands,Healthcare,5606,Exploited,Yes
+CVE-2014-90881,2014-02-03,XSS,Atlassian,Confluence,7.8,High,Physical,Low,Low,Required,None,None,High,China,Transport,3422,Under Investigation,No
+CVE-2014-80912,2014-07-30,SQL Injection,Atlassian,Jira,2.3,Low,Physical,High,Low,Required,High,High,None,Ukraine,IT,44288,Exploited,No
+CVE-2014-77046,2014-04-09,SQL Injection,Juniper,Junos,1.1,Low,Network,Low,High,None,High,High,Low,Turkey,Telecom,31549,Resolved,No
+CVE-2014-18046,2014-01-23,Zero-Day Exploit,Apple,iOS,0.6,Low,Physical,High,Low,None,None,Low,Low,Canada,Retail,19076,Under Investigation,Yes
+CVE-2014-07513,2014-05-02,Command Injection,Juniper,Junos,5.1,Medium,Network,High,Low,None,None,High,None,USA,Retail,12410,Actively Exploited,No
+CVE-2014-75814,2014-10-17,Zero-Day Exploit,Drupal,Modules,9.6,Critical,Physical,High,None,None,Low,None,Low,Germany,Finance,41863,Patched,Yes
+CVE-2014-31329,2014-09-04,Path Traversal,Nginx,Nginx,7.3,High,Physical,Low,Low,None,None,Low,None,USA,Retail,1968,Resolved,Yes
+CVE-2014-57726,2014-04-10,CSRF,Google,Android,6.3,Medium,Network,Low,None,None,Low,None,None,UK,Government,22271,Resolved,Yes
+CVE-2014-02818,2014-04-01,Buffer Overflow,Apple,iOS,8.4,High,Network,Low,Low,None,Low,None,Low,Romania,Education,24225,Under Investigation,Yes
+CVE-2014-93185,2014-02-03,Privilege Escalation,Juniper,Junos,1.2,Low,Adjacent,Low,High,Required,High,Low,Low,Canada,Telecom,41691,Patched,Yes
+CVE-2014-70185,2014-05-31,Path Traversal,Drupal,Core,7.9,High,Adjacent,Low,High,Required,None,High,High,Nigeria,Education,47665,Exploited,No
+CVE-2014-21946,2014-09-18,Brute Force,Drupal,Core,3.9,Low,Local,High,High,Required,None,Low,High,Turkey,Transport,45516,Actively Exploited,No
+CVE-2014-76178,2014-07-25,Logic Flaw,F5,BIG-IP,6.4,Medium,Network,Low,None,None,Low,None,Low,India,Energy,27855,Actively Exploited,Yes
+CVE-2014-72162,2014-02-13,RCE,SAP,Business One,1.3,Low,Local,High,High,Required,None,High,None,Romania,Transport,40707,Under Investigation,No
+CVE-2014-56690,2014-07-29,Credential Stuffing,Nginx,Nginx,3.7,Low,Local,High,Low,None,None,Low,None,UK,IT,4974,Under Investigation,Yes
+CVE-2014-36232,2014-04-27,RCE,Palo Alto,PAN-OS,1.0,Low,Local,Low,High,None,Low,None,High,Ukraine,Energy,19839,Under Investigation,Yes
+CVE-2014-98617,2014-10-06,SQL Injection,Drupal,Core,9.1,Critical,Local,High,Low,Required,Low,High,High,Russia,Manufacturing,42867,Resolved,Yes
+CVE-2014-29744,2014-04-18,Brute Force,Atlassian,Jira,4.7,Medium,Physical,High,Low,None,Low,None,Low,Pakistan,Education,28750,Actively Exploited,Yes
+CVE-2014-75696,2014-03-07,SQL Injection,SAP,NetWeaver,3.1,Low,Physical,High,Low,None,Low,Low,High,Vietnam,Transport,19638,Under Investigation,Yes
+CVE-2014-18237,2014-03-20,Path Traversal,WordPress,Core,9.8,Critical,Physical,High,None,Required,None,High,Low,India,Manufacturing,7120,Under Investigation,No
+CVE-2014-22469,2014-02-23,DoS/DDoS,Palo Alto,PAN-OS,6.7,Medium,Network,High,None,None,None,None,Low,France,Education,15273,Under Investigation,Yes
+CVE-2014-48320,2014-09-23,Path Traversal,Nginx,Nginx,0.1,Low,Physical,High,None,None,None,High,Low,Nigeria,Healthcare,25494,Patched,Yes
+CVE-2014-56650,2014-12-30,DoS/DDoS,Adobe,Photoshop,6.6,Medium,Local,Low,High,Required,Low,None,None,North Korea,Manufacturing,4193,Actively Exploited,Yes
+CVE-2014-74610,2014-09-09,Logic Flaw,Juniper,Junos,4.6,Medium,Network,Low,Low,Required,Low,High,High,France,Telecom,40176,Patched,No
+CVE-2014-80968,2014-08-10,DoS/DDoS,VMware,ESXi,4.6,Medium,Network,High,High,None,None,None,Low,South Korea,Energy,43691,Exploited,Yes
+CVE-2014-99859,2014-10-11,CSRF,F5,BIG-IP,1.2,Low,Network,Low,High,Required,Low,Low,None,UK,Education,33166,Exploited,No
+CVE-2014-83738,2014-12-22,Deserialization,Microsoft,Windows,6.8,Medium,Physical,High,High,Required,None,Low,None,Russia,Energy,7516,Patched,No
+CVE-2014-60471,2014-02-04,Ransomware,Nginx,Nginx,0.8,Low,Physical,Low,Low,Required,None,None,None,Canada,Healthcare,11616,Under Investigation,Yes
+CVE-2014-22080,2014-02-09,SQL Injection,Zimbra,Collaboration Suite,6.7,Medium,Local,Low,Low,Required,None,None,High,China,IT,34885,Patched,No
+CVE-2014-84019,2014-12-06,Buffer Overflow,Cisco,Firepower,7.2,High,Physical,High,Low,None,High,None,None,Vietnam,Education,16365,Under Investigation,Yes
+CVE-2014-02103,2014-08-04,SQL Injection,Adobe,Acrobat,0.3,Low,Local,Low,High,None,None,None,High,Brazil,Government,2885,Actively Exploited,Yes
+CVE-2014-73670,2014-11-17,Phishing,IBM,MQ,1.9,Low,Physical,High,None,None,None,None,Low,Ukraine,Government,983,Actively Exploited,No
+CVE-2014-27888,2014-08-23,MITM,Microsoft,Office,2.2,Low,Local,Low,None,None,Low,Low,High,Nigeria,Healthcare,46697,Resolved,Yes
+CVE-2014-78626,2014-06-16,SSRF,Fortinet,FortiGate,9.8,Critical,Adjacent,High,None,Required,High,Low,None,Ukraine,Finance,39881,Resolved,No
+CVE-2014-83964,2014-04-30,SQL Injection,Atlassian,Bitbucket,5.0,Medium,Adjacent,Low,High,None,Low,None,High,Pakistan,Education,40617,Exploited,Yes
+CVE-2014-65370,2014-06-01,SSRF,Google,Android,2.0,Low,Adjacent,Low,None,Required,High,Low,None,UK,Retail,42180,Exploited,No
+CVE-2014-30017,2014-06-19,Phishing,Palo Alto,PAN-OS,3.4,Low,Network,Low,High,None,High,Low,High,Ukraine,Government,28991,Exploited,Yes
+CVE-2014-25227,2014-01-27,Privilege Escalation,F5,BIG-IP,6.3,Medium,Adjacent,Low,None,None,High,High,None,Germany,Transport,5123,Actively Exploited,No
+CVE-2014-94592,2014-04-12,DoS/DDoS,Palo Alto,PAN-OS,2.4,Low,Adjacent,High,Low,Required,High,None,Low,Nigeria,Healthcare,23566,Actively Exploited,No
+CVE-2014-57853,2014-08-05,XXE,Apple,macOS,5.1,Medium,Adjacent,High,None,Required,Low,None,Low,Canada,Transport,10014,Resolved,Yes
+CVE-2014-60772,2014-06-06,SSRF,Fortinet,FortiOS,4.5,Medium,Physical,Low,Low,None,High,Low,None,North Korea,Education,274,Exploited,No
+CVE-2014-54503,2014-07-22,CSRF,F5,BIG-IP,9.7,Critical,Physical,High,Low,None,Low,None,None,Vietnam,Defense,10641,Patched,No
+CVE-2014-45689,2014-09-18,CSRF,Fortinet,FortiManager,7.1,High,Network,High,Low,None,None,Low,None,Turkey,IT,46306,Exploited,Yes
+CVE-2014-59700,2014-12-15,Ransomware,Fortinet,FortiManager,1.5,Low,Adjacent,Low,None,None,High,High,Low,Vietnam,Defense,5266,Resolved,Yes
+CVE-2014-55951,2014-05-10,Brute Force,Linux,Kernel,6.9,Medium,Physical,High,High,Required,High,None,None,Netherlands,Retail,9353,Under Investigation,Yes
+CVE-2014-40384,2014-01-04,Credential Stuffing,Atlassian,Bitbucket,9.9,Critical,Network,Low,None,Required,High,Low,High,France,Telecom,11183,Patched,No
+CVE-2014-17608,2014-04-12,Brute Force,Apple,Safari,4.9,Medium,Network,High,High,None,None,None,None,Brazil,Education,16997,Actively Exploited,No
+CVE-2014-83419,2014-03-27,RCE,Drupal,Core,0.8,Low,Physical,Low,Low,None,Low,None,High,Germany,Manufacturing,31798,Exploited,Yes
+CVE-2014-98540,2014-01-04,XSS,Cisco,Webex,6.7,Medium,Network,Low,High,None,Low,High,High,UK,Manufacturing,31014,Under Investigation,No
+CVE-2014-89373,2014-06-25,Ransomware,IBM,MQ,10.0,Critical,Local,High,Low,None,Low,Low,None,Russia,Manufacturing,45765,Actively Exploited,Yes
+CVE-2014-16109,2014-09-29,Ransomware,Microsoft,Azure AD,2.8,Low,Local,High,High,Required,High,Low,High,India,Finance,41817,Under Investigation,Yes
+CVE-2014-96445,2014-06-16,Ransomware,SAP,NetWeaver,6.8,Medium,Physical,High,High,None,Low,Low,Low,Iran,Telecom,19259,Resolved,Yes
+CVE-2014-74960,2014-09-16,Credential Stuffing,Google,Workspace,0.3,Low,Network,High,High,Required,None,Low,None,Nigeria,IT,35434,Patched,Yes
+CVE-2014-98731,2014-12-04,Buffer Overflow,Adobe,Flash,7.0,High,Physical,Low,None,Required,Low,Low,None,UK,IT,31215,Exploited,Yes
+CVE-2014-11855,2014-12-21,Ransomware,Zimbra,Collaboration Suite,3.3,Low,Network,High,Low,Required,High,High,High,Pakistan,Education,14651,Under Investigation,Yes
+CVE-2014-14600,2014-02-15,Logic Flaw,Palo Alto,PAN-OS,3.4,Low,Adjacent,Low,High,Required,None,Low,Low,Netherlands,Finance,20369,Exploited,Yes
+CVE-2014-41897,2014-07-06,Privilege Escalation,Atlassian,Confluence,8.0,High,Adjacent,Low,Low,None,High,Low,Low,North Korea,Energy,14347,Actively Exploited,No
+CVE-2014-37145,2014-03-16,XSS,Google,Workspace,7.5,High,Local,High,High,None,Low,High,High,Nigeria,IT,14137,Actively Exploited,No
+CVE-2014-43666,2014-03-20,Phishing,Atlassian,Jira,8.3,High,Adjacent,Low,None,Required,High,Low,Low,Brazil,Finance,35910,Actively Exploited,No
+CVE-2014-62053,2014-06-28,SSRF,Linux,glibc,7.6,High,Network,High,Low,None,High,High,Low,Iran,Government,21196,Resolved,Yes
+CVE-2014-85805,2014-03-25,Deserialization,Palo Alto,GlobalProtect,5.8,Medium,Physical,High,None,None,None,High,None,Russia,Retail,47577,Resolved,Yes
+CVE-2014-55983,2014-12-14,XSS,Google,Android,8.4,High,Network,High,Low,None,None,None,High,Ukraine,Defense,28431,Patched,No
+CVE-2014-15572,2014-05-04,Zero-Day Exploit,VMware,vCenter,4.0,Medium,Adjacent,High,High,None,Low,High,Low,UK,IT,42808,Actively Exploited,No
+CVE-2014-15287,2014-02-12,Brute Force,Microsoft,Windows,1.2,Low,Adjacent,Low,High,Required,Low,High,High,Iran,Defense,11869,Actively Exploited,No
+CVE-2014-74898,2014-03-06,RCE,Linux,systemd,1.0,Low,Adjacent,High,High,None,Low,High,High,Indonesia,Manufacturing,4190,Resolved,Yes
+CVE-2014-23681,2014-11-03,SQL Injection,Adobe,Acrobat,7.0,High,Physical,High,None,None,None,High,None,Brazil,Healthcare,36864,Under Investigation,Yes
+CVE-2014-66342,2014-06-02,Command Injection,Oracle,WebLogic,3.6,Low,Adjacent,High,High,None,None,Low,None,Indonesia,Energy,43199,Resolved,No
+CVE-2014-64284,2014-12-22,CSRF,Google,Workspace,3.1,Low,Adjacent,Low,High,None,None,None,None,North Korea,Energy,14105,Patched,Yes
+CVE-2014-36359,2014-03-07,XXE,WordPress,Plugins,7.3,High,Network,High,Low,Required,High,None,Low,Romania,Healthcare,16658,Actively Exploited,Yes
+CVE-2014-09249,2014-11-19,Phishing,Zimbra,Collaboration Suite,7.3,High,Local,Low,Low,None,Low,Low,Low,Russia,Defense,16221,Exploited,No
+CVE-2014-14417,2014-12-17,RCE,Apache,Kafka,5.5,Medium,Local,Low,Low,Required,Low,None,None,UK,Finance,6420,Actively Exploited,Yes
+CVE-2014-16188,2014-03-31,Zero-Day Exploit,Atlassian,Jira,5.3,Medium,Physical,Low,High,Required,High,High,Low,South Korea,Energy,39811,Exploited,Yes
+CVE-2014-98550,2014-07-19,Command Injection,Apple,macOS,1.8,Low,Physical,High,High,None,Low,None,High,Indonesia,Government,43095,Patched,Yes
+CVE-2014-96394,2014-05-17,CSRF,Atlassian,Bitbucket,0.5,Low,Adjacent,High,High,Required,None,Low,Low,Romania,Transport,18798,Under Investigation,No
+CVE-2014-40002,2014-11-22,Zero-Day Exploit,Juniper,Junos,8.6,High,Physical,High,None,None,None,High,None,USA,Government,37704,Exploited,Yes
+CVE-2014-01402,2014-08-06,Privilege Escalation,Palo Alto,GlobalProtect,6.8,Medium,Physical,High,High,None,Low,None,High,India,Finance,46804,Actively Exploited,No
+CVE-2014-79610,2014-08-18,Brute Force,VMware,vCenter,9.6,Critical,Adjacent,Low,None,Required,None,High,Low,China,Telecom,32474,Actively Exploited,Yes
+CVE-2014-44297,2014-12-14,Command Injection,SAP,NetWeaver,2.5,Low,Network,High,Low,Required,Low,Low,None,Russia,IT,37280,Actively Exploited,Yes
+CVE-2014-60694,2014-11-13,XSS,Palo Alto,PAN-OS,8.5,High,Local,Low,High,Required,Low,Low,Low,Iran,Finance,22920,Patched,No
+CVE-2014-13283,2014-08-09,RCE,SAP,NetWeaver,4.9,Medium,Adjacent,High,None,Required,None,None,High,UK,Education,30848,Actively Exploited,No
+CVE-2014-56144,2014-04-04,MITM,Palo Alto,GlobalProtect,5.4,Medium,Network,High,High,Required,None,None,Low,Pakistan,Finance,23543,Patched,Yes
+CVE-2014-05277,2014-03-10,Path Traversal,Adobe,Photoshop,3.9,Low,Network,Low,High,None,Low,High,Low,Iran,Telecom,32052,Resolved,No
+CVE-2014-98447,2014-07-24,SSRF,Google,Android,5.0,Medium,Adjacent,Low,None,None,None,None,Low,Indonesia,Finance,44856,Patched,Yes
+CVE-2014-78262,2014-01-05,Zero-Day Exploit,IBM,MQ,4.3,Medium,Local,High,None,Required,None,High,None,Indonesia,Government,16350,Under Investigation,Yes
+CVE-2014-32422,2014-12-08,Phishing,Fortinet,FortiManager,8.2,High,Physical,Low,High,None,None,High,High,North Korea,Education,7895,Patched,No
+CVE-2014-25190,2014-03-16,Phishing,Cisco,Webex,4.3,Medium,Network,Low,Low,Required,High,Low,High,Germany,Education,22032,Actively Exploited,No
+CVE-2014-55978,2014-11-26,Buffer Overflow,Cisco,Firepower,0.5,Low,Local,High,Low,Required,High,Low,None,Ukraine,Finance,11912,Exploited,Yes
+CVE-2014-27785,2014-05-27,Buffer Overflow,Cisco,Webex,4.7,Medium,Physical,Low,Low,Required,Low,Low,Low,Iran,Healthcare,43841,Exploited,Yes
+CVE-2014-97163,2014-07-05,Logic Flaw,IBM,MQ,7.4,High,Local,Low,High,Required,None,High,Low,USA,Healthcare,8552,Resolved,Yes
+CVE-2014-85768,2014-04-08,Deserialization,Cisco,Firepower,1.9,Low,Network,Low,High,Required,Low,High,Low,India,Transport,47237,Patched,Yes
+CVE-2014-54816,2014-10-09,Command Injection,Google,Chrome,7.1,High,Local,High,Low,None,Low,None,Low,Pakistan,Transport,33022,Exploited,Yes
+CVE-2014-91319,2014-03-08,Logic Flaw,Drupal,Modules,2.9,Low,Network,Low,High,Required,Low,High,High,Indonesia,Healthcare,10848,Actively Exploited,No
+CVE-2014-52541,2014-11-07,DoS/DDoS,Zimbra,Collaboration Suite,2.7,Low,Network,Low,High,None,High,High,None,Indonesia,Manufacturing,33019,Resolved,No
+CVE-2014-38845,2014-12-29,Buffer Overflow,Palo Alto,PAN-OS,2.7,Low,Adjacent,Low,None,None,Low,None,High,North Korea,Energy,8715,Under Investigation,Yes
+CVE-2014-70071,2014-03-01,CSRF,VMware,ESXi,0.0,None,Local,High,None,Required,High,None,Low,Canada,Energy,21276,Exploited,Yes
+CVE-2014-95746,2014-05-24,SQL Injection,SAP,NetWeaver,1.8,Low,Network,High,High,Required,High,High,High,South Korea,Education,28980,Patched,No
+CVE-2014-76240,2014-11-19,SSRF,Fortinet,FortiGate,8.1,High,Adjacent,High,None,Required,Low,None,Low,USA,Manufacturing,11896,Actively Exploited,Yes
+CVE-2014-74667,2014-09-09,DoS/DDoS,Apple,iOS,9.4,Critical,Local,Low,Low,None,None,Low,High,Canada,Education,4552,Patched,Yes
+CVE-2014-59641,2014-11-27,Buffer Overflow,Linux,Kernel,9.7,Critical,Adjacent,Low,High,None,Low,Low,None,Iran,Finance,42237,Exploited,Yes
+CVE-2014-35083,2014-03-15,SQL Injection,VMware,vCenter,9.4,Critical,Network,Low,High,Required,High,None,None,North Korea,Manufacturing,49786,Resolved,No
+CVE-2014-43484,2014-09-03,XSS,Apple,macOS,1.5,Low,Local,Low,None,None,None,High,Low,Iran,Transport,27217,Patched,Yes
+CVE-2014-29711,2014-08-07,CSRF,VMware,vCenter,3.9,Low,Local,Low,High,Required,High,High,None,Nigeria,Government,7218,Patched,Yes
+CVE-2014-10000,2014-11-12,CSRF,Palo Alto,GlobalProtect,3.3,Low,Network,Low,High,None,None,Low,High,Ukraine,Defense,11886,Actively Exploited,Yes
+CVE-2014-45664,2014-02-23,Credential Stuffing,Palo Alto,GlobalProtect,2.7,Low,Local,High,High,None,None,None,High,North Korea,Retail,9685,Actively Exploited,No
+CVE-2014-14833,2014-10-23,MITM,F5,BIG-IP,4.3,Medium,Adjacent,Low,Low,None,None,Low,Low,Ukraine,Manufacturing,27777,Actively Exploited,No
+CVE-2014-18117,2014-12-01,SSRF,Drupal,Modules,9.2,Critical,Physical,High,High,Required,High,High,None,Vietnam,Healthcare,38075,Actively Exploited,Yes
+CVE-2014-47410,2014-01-02,SQL Injection,Oracle,Database,2.0,Low,Local,High,None,None,None,Low,Low,North Korea,Energy,30173,Patched,No
+CVE-2014-29438,2014-01-29,Buffer Overflow,VMware,ESXi,7.5,High,Adjacent,High,High,None,High,Low,Low,China,Healthcare,43434,Resolved,Yes
+CVE-2014-03957,2014-03-17,RCE,F5,BIG-IP,3.7,Low,Adjacent,Low,None,Required,None,None,Low,North Korea,Transport,45782,Under Investigation,No
+CVE-2014-44216,2014-08-16,SQL Injection,Linux,glibc,7.8,High,Local,Low,None,None,High,None,High,Brazil,Transport,10509,Exploited,No
+CVE-2014-59546,2014-10-11,MITM,Linux,glibc,7.1,High,Local,Low,Low,None,Low,None,High,Vietnam,Government,48703,Patched,No
+CVE-2014-28693,2014-07-20,Command Injection,Drupal,Core,1.8,Low,Network,High,Low,Required,High,High,Low,Vietnam,Government,3583,Under Investigation,No
+CVE-2014-14209,2014-02-23,Path Traversal,Adobe,Photoshop,0.8,Low,Network,Low,Low,None,High,None,None,India,Defense,720,Under Investigation,Yes
+CVE-2014-83675,2014-01-17,RCE,Zimbra,Collaboration Suite,2.4,Low,Network,High,None,None,Low,None,Low,Russia,Retail,49263,Under Investigation,No
+CVE-2014-41219,2014-07-20,Privilege Escalation,Juniper,Junos,7.3,High,Network,High,Low,None,High,None,None,Netherlands,Telecom,31258,Resolved,Yes
+CVE-2014-19863,2014-12-16,RCE,Palo Alto,PAN-OS,4.6,Medium,Adjacent,Low,High,None,High,None,High,Indonesia,Defense,42690,Resolved,No
+CVE-2014-44437,2014-05-29,XXE,Nginx,Nginx,3.6,Low,Network,High,None,None,High,High,None,North Korea,Defense,41143,Actively Exploited,Yes
+CVE-2014-40573,2014-10-08,RCE,Microsoft,Exchange Server,8.7,High,Physical,Low,Low,Required,None,Low,None,USA,Energy,37783,Under Investigation,No
+CVE-2014-23487,2014-12-30,MITM,Oracle,WebLogic,7.7,High,Physical,High,Low,None,None,High,Low,China,Retail,18785,Actively Exploited,No
+CVE-2014-57781,2014-07-07,Path Traversal,Drupal,Core,5.1,Medium,Local,Low,High,Required,High,Low,Low,China,Defense,42197,Exploited,Yes
+CVE-2014-20259,2014-02-23,DoS/DDoS,Zimbra,Collaboration Suite,2.9,Low,Physical,Low,None,Required,Low,High,None,Turkey,Manufacturing,30703,Resolved,No
+CVE-2014-23629,2014-02-25,SSRF,Apache,HTTP Server,9.2,Critical,Physical,Low,Low,Required,None,Low,Low,Canada,Manufacturing,13936,Actively Exploited,Yes
+CVE-2014-05018,2014-10-07,Credential Stuffing,Fortinet,FortiOS,1.6,Low,Adjacent,Low,Low,None,High,Low,None,Turkey,Telecom,31026,Patched,Yes
+CVE-2014-99434,2014-12-17,MITM,Adobe,Acrobat,4.2,Medium,Adjacent,Low,None,None,Low,Low,None,France,Manufacturing,27507,Resolved,Yes
+CVE-2014-07045,2014-02-17,XXE,Fortinet,FortiGate,8.9,High,Local,High,None,None,Low,Low,Low,Nigeria,Transport,45144,Patched,No
+CVE-2014-74753,2014-07-19,Command Injection,SAP,HANA,8.2,High,Adjacent,Low,High,None,Low,High,High,Ukraine,Finance,9864,Actively Exploited,Yes
+CVE-2014-14891,2014-12-12,Brute Force,F5,BIG-IP,4.1,Medium,Network,High,None,Required,High,High,None,China,Education,48871,Patched,No
+CVE-2014-78767,2014-07-13,Phishing,Zimbra,Collaboration Suite,2.2,Low,Adjacent,Low,Low,Required,None,Low,Low,Indonesia,Healthcare,45831,Actively Exploited,No
+CVE-2014-46102,2014-06-30,XXE,Linux,systemd,8.3,High,Local,Low,None,Required,Low,Low,None,South Korea,Defense,10660,Resolved,No
+CVE-2014-86456,2014-12-19,Zero-Day Exploit,Atlassian,Confluence,6.8,Medium,Network,Low,None,None,High,None,High,Pakistan,Healthcare,32533,Resolved,Yes
+CVE-2014-87519,2014-05-29,Phishing,Nginx,Nginx,8.5,High,Adjacent,High,High,Required,None,None,Low,Iran,Retail,30406,Actively Exploited,No
+CVE-2014-29352,2014-09-17,MITM,Microsoft,SharePoint,2.8,Low,Local,High,High,None,None,Low,None,Russia,Finance,10052,Under Investigation,No
+CVE-2014-74998,2014-08-09,SSRF,IBM,WebSphere,2.4,Low,Adjacent,High,None,Required,None,High,Low,Brazil,Telecom,20849,Resolved,Yes
+CVE-2014-13052,2014-12-30,Brute Force,Linux,Kernel,8.0,High,Network,High,High,Required,High,None,Low,India,Healthcare,6113,Exploited,No
+CVE-2014-20061,2014-01-15,Command Injection,Microsoft,Azure AD,6.2,Medium,Network,High,None,None,Low,High,High,Turkey,Government,15711,Patched,No
+CVE-2014-95200,2014-07-13,XSS,Adobe,Flash,7.7,High,Local,Low,None,None,High,High,None,Iran,Manufacturing,39053,Exploited,Yes
+CVE-2014-34341,2014-04-03,Credential Stuffing,Google,Android,0.9,Low,Local,Low,Low,None,Low,None,Low,USA,Manufacturing,41005,Exploited,Yes
+CVE-2014-41103,2014-11-21,DoS/DDoS,Linux,systemd,9.1,Critical,Adjacent,High,None,None,High,High,High,Canada,Finance,7682,Under Investigation,No
+CVE-2014-20761,2014-09-25,Buffer Overflow,F5,BIG-IP,7.4,High,Adjacent,Low,High,None,High,High,None,India,Retail,7523,Patched,Yes
+CVE-2014-28805,2014-02-12,Privilege Escalation,IBM,WebSphere,7.3,High,Local,High,Low,None,None,Low,High,South Korea,IT,19289,Actively Exploited,No
+CVE-2014-52422,2014-04-09,Phishing,Linux,glibc,2.5,Low,Local,High,None,Required,None,None,High,Nigeria,Telecom,29240,Actively Exploited,No
+CVE-2014-14098,2014-11-07,Phishing,IBM,QRadar,3.8,Low,Local,High,High,None,Low,None,None,Indonesia,Energy,38462,Actively Exploited,No
+CVE-2014-52207,2014-01-16,Path Traversal,Drupal,Modules,1.1,Low,Physical,Low,Low,None,None,None,High,Turkey,Retail,9506,Under Investigation,Yes
+CVE-2014-90216,2014-01-06,Phishing,Microsoft,SharePoint,7.2,High,Physical,High,None,None,Low,Low,High,India,Transport,14252,Exploited,No
+CVE-2014-75229,2014-11-27,XXE,Drupal,Core,4.2,Medium,Local,High,None,None,None,Low,Low,China,Energy,27607,Exploited,Yes
+CVE-2014-78831,2014-06-17,Ransomware,Nginx,Nginx,5.9,Medium,Network,High,None,None,Low,Low,None,Vietnam,Finance,34962,Resolved,Yes
+CVE-2014-02133,2014-02-05,XXE,IBM,QRadar,4.7,Medium,Local,High,Low,Required,Low,None,High,Ukraine,Manufacturing,40130,Exploited,No
+CVE-2014-64663,2014-11-25,Buffer Overflow,Palo Alto,GlobalProtect,9.7,Critical,Local,Low,None,None,None,None,None,Iran,Retail,45063,Actively Exploited,Yes
+CVE-2014-25056,2014-07-08,Command Injection,Apple,iOS,8.2,High,Network,Low,Low,None,None,None,Low,USA,Energy,21583,Resolved,No
+CVE-2014-22327,2014-03-12,Buffer Overflow,Fortinet,FortiManager,5.8,Medium,Adjacent,High,None,Required,High,Low,High,Iran,Transport,34577,Patched,No
+CVE-2014-42194,2014-09-05,MITM,F5,BIG-IP,2.3,Low,Local,Low,Low,None,High,High,High,India,Healthcare,4925,Actively Exploited,Yes
+CVE-2014-87884,2014-04-21,SSRF,Adobe,Acrobat,4.7,Medium,Adjacent,High,None,Required,None,High,High,Indonesia,Retail,49840,Under Investigation,No
+CVE-2014-13850,2014-03-08,CSRF,Google,Workspace,2.2,Low,Physical,High,High,None,Low,None,None,UK,Telecom,10761,Under Investigation,Yes
+CVE-2014-14048,2014-02-26,Deserialization,Google,Android,2.4,Low,Adjacent,High,None,Required,High,High,Low,Turkey,Energy,7755,Resolved,Yes
+CVE-2014-27796,2014-03-19,XXE,SAP,Business One,4.0,Medium,Local,Low,Low,Required,Low,None,None,Vietnam,Telecom,12710,Under Investigation,Yes
+CVE-2014-77864,2014-05-22,Credential Stuffing,Atlassian,Jira,5.3,Medium,Physical,Low,High,None,High,None,None,Germany,Healthcare,3483,Exploited,No
+CVE-2014-69748,2014-02-21,SSRF,VMware,vCenter,2.8,Low,Physical,High,None,None,High,High,Low,Nigeria,Education,11209,Patched,No
+CVE-2014-96192,2014-01-02,Brute Force,Palo Alto,GlobalProtect,0.9,Low,Physical,High,High,None,None,Low,High,USA,Government,12278,Under Investigation,No
+CVE-2014-87299,2014-08-31,SQL Injection,Google,Chrome,4.3,Medium,Adjacent,High,None,None,High,None,High,Turkey,Manufacturing,38218,Exploited,No
+CVE-2014-14338,2014-01-24,Logic Flaw,VMware,Horizon,8.2,High,Local,Low,High,None,None,None,None,France,Retail,29663,Actively Exploited,No
+CVE-2014-86955,2014-09-07,Deserialization,Zimbra,Collaboration Suite,2.5,Low,Network,High,Low,Required,High,High,High,Nigeria,Healthcare,17691,Resolved,Yes
+CVE-2014-28870,2014-12-04,CSRF,Google,Android,9.9,Critical,Physical,Low,None,Required,Low,None,High,USA,Education,24759,Exploited,No
+CVE-2014-69063,2014-03-31,CSRF,Zimbra,Collaboration Suite,2.7,Low,Local,High,High,Required,Low,Low,None,China,Defense,34084,Under Investigation,Yes
+CVE-2014-74274,2014-06-27,SQL Injection,Linux,systemd,2.9,Low,Physical,Low,Low,None,High,Low,High,South Korea,IT,10657,Under Investigation,No
+CVE-2014-38631,2014-01-08,Phishing,Palo Alto,PAN-OS,4.5,Medium,Local,Low,None,Required,Low,None,Low,Turkey,IT,43,Exploited,No
+CVE-2014-37129,2014-09-15,Command Injection,Google,Android,6.7,Medium,Adjacent,Low,High,Required,None,High,None,Pakistan,Defense,5290,Under Investigation,Yes
+CVE-2014-46483,2014-05-08,SSRF,Cisco,AnyConnect,8.1,High,Physical,High,None,Required,Low,High,Low,Brazil,Defense,28562,Under Investigation,Yes
+CVE-2014-17786,2014-08-02,Zero-Day Exploit,Adobe,Photoshop,5.5,Medium,Local,Low,Low,Required,High,None,Low,Pakistan,Healthcare,9084,Resolved,No
+CVE-2014-89806,2014-12-31,CSRF,IBM,QRadar,3.6,Low,Physical,High,Low,Required,Low,None,High,Russia,Telecom,5796,Patched,No
+CVE-2014-16683,2014-11-14,Logic Flaw,VMware,Workstation,5.4,Medium,Local,Low,Low,None,Low,High,None,Romania,Transport,30162,Exploited,Yes
+CVE-2014-85182,2014-02-24,Buffer Overflow,Cisco,Webex,3.3,Low,Local,High,High,Required,None,None,High,Netherlands,IT,33478,Exploited,Yes
+CVE-2014-73669,2014-09-11,Privilege Escalation,Juniper,Junos,1.4,Low,Local,High,High,None,Low,High,High,India,Healthcare,4401,Exploited,Yes
+CVE-2014-68135,2014-02-19,Buffer Overflow,Drupal,Core,2.5,Low,Physical,Low,High,Required,Low,None,None,France,Telecom,31702,Patched,Yes
+CVE-2014-80316,2014-12-15,Buffer Overflow,Zimbra,Collaboration Suite,4.4,Medium,Physical,Low,High,None,None,None,High,Germany,Government,33523,Resolved,Yes
+CVE-2014-38016,2014-05-29,Logic Flaw,F5,BIG-IP,6.7,Medium,Physical,High,High,Required,Low,Low,High,Iran,Manufacturing,27322,Actively Exploited,Yes
+CVE-2014-59911,2014-03-03,SQL Injection,Microsoft,SharePoint,5.6,Medium,Local,Low,High,Required,None,Low,None,Romania,Manufacturing,18148,Exploited,Yes
+CVE-2014-65957,2014-04-18,Brute Force,SAP,HANA,3.5,Low,Physical,Low,None,None,Low,High,High,Netherlands,Retail,30113,Patched,No
+CVE-2014-08941,2014-11-27,Credential Stuffing,Palo Alto,GlobalProtect,4.8,Medium,Adjacent,High,None,Required,High,High,Low,Netherlands,Defense,26462,Exploited,Yes
+CVE-2014-30370,2014-02-19,Credential Stuffing,Microsoft,Exchange Server,6.7,Medium,Physical,High,None,None,None,None,High,Vietnam,Telecom,4219,Exploited,No
+CVE-2014-98296,2014-02-07,CSRF,Apache,HTTP Server,4.4,Medium,Network,Low,Low,None,High,Low,Low,North Korea,IT,37604,Resolved,Yes
+CVE-2014-64370,2014-08-13,Ransomware,Adobe,Photoshop,6.8,Medium,Adjacent,Low,Low,None,None,High,None,Iran,Education,2179,Patched,Yes
+CVE-2014-74488,2014-10-07,Path Traversal,SAP,Business One,8.6,High,Adjacent,High,None,None,High,Low,High,Turkey,Retail,40533,Resolved,Yes
+CVE-2014-56035,2014-11-17,RCE,Oracle,Java SE,3.8,Low,Network,Low,High,Required,None,None,Low,Germany,Finance,39420,Resolved,No
+CVE-2014-37998,2014-05-09,CSRF,Microsoft,Exchange Server,3.9,Low,Network,Low,Low,None,High,High,None,Indonesia,Defense,32772,Under Investigation,No
+CVE-2014-71558,2014-12-24,Logic Flaw,Drupal,Core,8.9,High,Physical,High,High,None,None,Low,Low,UK,Education,21925,Exploited,Yes
+CVE-2014-99267,2014-12-06,XSS,Adobe,Photoshop,9.1,Critical,Adjacent,High,None,None,Low,None,Low,Canada,Defense,5282,Resolved,No
+CVE-2014-94809,2014-01-22,Credential Stuffing,Google,Android,1.0,Low,Adjacent,High,Low,Required,Low,None,None,China,Finance,12857,Resolved,No
+CVE-2014-63200,2014-01-27,SSRF,Microsoft,Azure AD,3.9,Low,Adjacent,High,High,Required,High,None,None,Romania,Healthcare,40348,Under Investigation,No
+CVE-2014-57217,2014-01-30,RCE,Adobe,Photoshop,2.4,Low,Network,Low,Low,None,None,High,None,China,Healthcare,3713,Patched,No
+CVE-2014-05731,2014-06-10,Ransomware,Apple,macOS,3.5,Low,Local,Low,High,Required,Low,High,None,USA,Healthcare,16398,Resolved,Yes
+CVE-2014-28874,2014-08-16,CSRF,F5,BIG-IP,7.1,High,Local,Low,High,Required,Low,High,High,Indonesia,Healthcare,3539,Under Investigation,No
+CVE-2014-36672,2014-02-10,Privilege Escalation,Drupal,Modules,2.0,Low,Adjacent,High,High,None,None,Low,High,North Korea,Finance,15408,Actively Exploited,No
+CVE-2014-65393,2014-01-18,Logic Flaw,Apache,HTTP Server,2.7,Low,Physical,High,None,None,Low,High,Low,Nigeria,Finance,25074,Actively Exploited,No
+CVE-2014-26966,2014-07-14,XXE,Cisco,ASA,1.8,Low,Network,High,None,Required,None,High,Low,UK,Defense,14192,Exploited,No
+CVE-2014-56040,2014-01-30,Command Injection,Drupal,Modules,8.1,High,Physical,High,High,Required,Low,High,High,Netherlands,Transport,17046,Patched,No
+CVE-2014-17285,2014-01-08,MITM,Nginx,Nginx,2.8,Low,Network,Low,High,Required,Low,High,Low,China,Defense,17975,Under Investigation,No
+CVE-2014-79692,2014-01-07,Logic Flaw,Fortinet,FortiManager,1.2,Low,Local,High,None,Required,Low,None,Low,Russia,Manufacturing,2426,Under Investigation,No
+CVE-2014-53558,2014-01-30,RCE,Zimbra,Collaboration Suite,5.8,Medium,Local,High,None,Required,None,Low,Low,UK,Manufacturing,8338,Patched,Yes
+CVE-2014-85981,2014-01-26,XSS,Google,Workspace,2.3,Low,Adjacent,High,High,Required,None,High,High,Germany,Finance,46829,Under Investigation,No
+CVE-2014-70837,2014-01-23,CSRF,Microsoft,SharePoint,6.0,Medium,Network,Low,High,Required,None,High,None,Germany,Education,21351,Resolved,No
+CVE-2014-84134,2014-08-07,Privilege Escalation,Linux,Kernel,8.8,High,Network,High,High,Required,Low,Low,High,Turkey,Manufacturing,19272,Resolved,Yes
+CVE-2014-05848,2014-05-29,Logic Flaw,Apple,macOS,9.3,Critical,Network,Low,High,None,Low,High,High,Indonesia,Defense,46717,Under Investigation,Yes
+CVE-2014-04273,2014-12-03,SSRF,Atlassian,Bitbucket,7.3,High,Network,Low,None,Required,High,High,None,Indonesia,Finance,39788,Actively Exploited,No
+CVE-2014-25563,2014-10-22,Ransomware,IBM,MQ,2.9,Low,Local,Low,Low,None,Low,Low,High,Iran,Education,29165,Actively Exploited,No
+CVE-2014-73461,2014-09-16,CSRF,Oracle,E-Business Suite,0.8,Low,Physical,Low,Low,Required,None,High,None,South Korea,Education,26714,Resolved,Yes
+CVE-2014-37603,2014-06-24,RCE,Drupal,Modules,3.1,Low,Physical,High,High,None,High,Low,High,India,Government,29758,Exploited,Yes
+CVE-2014-34522,2014-10-11,Credential Stuffing,Apache,Log4j,7.1,High,Network,Low,None,Required,None,High,None,USA,Government,33745,Resolved,No
+CVE-2014-16706,2014-07-25,Ransomware,Linux,systemd,7.0,High,Local,Low,Low,Required,High,High,High,Iran,Finance,4834,Under Investigation,No
+CVE-2014-58951,2014-08-12,Credential Stuffing,Linux,glibc,2.9,Low,Adjacent,Low,High,None,None,None,High,Netherlands,Retail,44166,Actively Exploited,No
+CVE-2014-23164,2014-09-18,MITM,IBM,MQ,7.2,High,Network,Low,Low,Required,Low,None,High,Indonesia,Transport,38000,Resolved,No
+CVE-2014-50341,2014-06-13,Privilege Escalation,Palo Alto,GlobalProtect,7.6,High,Network,Low,Low,Required,High,High,Low,Iran,Retail,18665,Patched,Yes
+CVE-2014-63785,2014-08-13,DoS/DDoS,Palo Alto,GlobalProtect,2.2,Low,Local,High,High,None,None,High,Low,North Korea,Healthcare,13556,Resolved,Yes
+CVE-2014-05210,2014-10-04,Phishing,Microsoft,Azure AD,5.4,Medium,Network,High,None,Required,None,Low,High,Pakistan,Manufacturing,34138,Patched,No
+CVE-2014-93881,2014-12-28,Buffer Overflow,Palo Alto,PAN-OS,9.2,Critical,Physical,High,Low,Required,None,None,Low,Iran,Retail,5182,Patched,Yes
+CVE-2014-66462,2014-06-21,Brute Force,IBM,WebSphere,2.8,Low,Network,High,None,Required,None,High,High,Ukraine,Education,36581,Exploited,Yes
+CVE-2014-76854,2014-07-12,Ransomware,VMware,ESXi,8.7,High,Adjacent,High,Low,None,Low,None,High,Nigeria,Energy,8638,Patched,Yes
+CVE-2014-00420,2014-08-11,Command Injection,Juniper,Junos,0.7,Low,Adjacent,Low,None,Required,High,Low,High,Vietnam,IT,38267,Patched,No
+CVE-2014-39335,2014-04-29,Credential Stuffing,F5,BIG-IP,8.8,High,Physical,High,High,Required,High,Low,Low,Iran,Education,7365,Under Investigation,No
+CVE-2014-32427,2014-12-06,DoS/DDoS,Nginx,Nginx,4.2,Medium,Physical,High,High,None,Low,High,Low,North Korea,Manufacturing,32059,Resolved,No
+CVE-2014-38133,2014-05-18,XXE,VMware,vCenter,5.1,Medium,Network,High,Low,Required,Low,Low,Low,Pakistan,Telecom,17086,Exploited,No
+CVE-2014-44544,2014-11-22,Zero-Day Exploit,F5,BIG-IP,8.2,High,Physical,High,None,None,High,None,High,Iran,Defense,40027,Under Investigation,Yes
+CVE-2014-94664,2014-01-11,RCE,Drupal,Core,8.0,High,Local,High,High,None,High,None,High,India,Retail,35093,Patched,Yes
+CVE-2014-94087,2014-04-28,DoS/DDoS,Zimbra,Collaboration Suite,2.9,Low,Local,High,Low,None,High,High,None,Russia,Finance,1313,Resolved,Yes
+CVE-2014-63557,2014-01-22,Zero-Day Exploit,Juniper,Junos,1.6,Low,Network,Low,High,None,None,Low,High,Iran,Telecom,42945,Actively Exploited,Yes
+CVE-2014-10031,2014-02-07,XXE,Fortinet,FortiGate,5.0,Medium,Network,Low,High,None,None,High,High,Vietnam,Education,39695,Under Investigation,No
+CVE-2014-97450,2014-01-12,Deserialization,Linux,glibc,3.0,Low,Adjacent,Low,Low,Required,Low,Low,Low,USA,Education,26630,Resolved,No
+CVE-2014-92128,2014-10-01,SSRF,F5,BIG-IP,5.1,Medium,Network,High,High,Required,Low,High,High,Iran,Manufacturing,14685,Resolved,Yes
+CVE-2014-58601,2014-07-09,Buffer Overflow,Atlassian,Jira,4.8,Medium,Local,High,None,None,None,High,None,India,Manufacturing,38890,Patched,Yes
+CVE-2014-80805,2014-08-31,Logic Flaw,Google,Android,5.2,Medium,Adjacent,Low,Low,Required,Low,Low,High,Ukraine,Government,2393,Under Investigation,No
+CVE-2014-90492,2014-04-18,Credential Stuffing,Microsoft,SharePoint,7.6,High,Physical,High,High,None,Low,Low,High,Nigeria,Transport,36360,Exploited,Yes
+CVE-2014-10159,2014-07-12,SQL Injection,Linux,glibc,1.3,Low,Adjacent,Low,None,None,Low,None,None,Pakistan,Manufacturing,11189,Resolved,No
+CVE-2014-71708,2014-08-03,Zero-Day Exploit,Google,Workspace,4.0,Medium,Network,High,Low,Required,High,Low,High,Turkey,Defense,42613,Patched,Yes
+CVE-2014-80479,2014-07-10,MITM,Palo Alto,PAN-OS,5.2,Medium,Physical,High,None,Required,High,High,None,Brazil,Transport,46864,Actively Exploited,Yes
+CVE-2014-23492,2014-03-18,SQL Injection,IBM,MQ,4.7,Medium,Local,Low,None,None,High,Low,Low,Iran,Finance,40959,Actively Exploited,Yes
+CVE-2014-83407,2014-10-14,CSRF,Oracle,E-Business Suite,8.8,High,Network,Low,Low,Required,Low,High,High,France,Retail,40928,Actively Exploited,No
+CVE-2014-10155,2014-10-31,Phishing,Zimbra,Collaboration Suite,1.5,Low,Local,Low,Low,None,None,High,High,Vietnam,Retail,37727,Resolved,No
+CVE-2014-27435,2014-03-28,Ransomware,Drupal,Modules,0.0,None,Adjacent,Low,High,None,None,None,Low,Russia,Retail,5098,Exploited,Yes
+CVE-2014-55759,2014-12-07,Zero-Day Exploit,Juniper,Junos,4.7,Medium,Network,Low,High,Required,Low,Low,High,Nigeria,Retail,20432,Resolved,No
+CVE-2014-79349,2014-04-20,MITM,Juniper,Junos,9.6,Critical,Adjacent,High,High,Required,Low,High,Low,Iran,Transport,28536,Under Investigation,Yes
+CVE-2014-61090,2014-12-10,XXE,Microsoft,SharePoint,3.5,Low,Adjacent,Low,Low,Required,None,High,None,India,Manufacturing,23658,Resolved,Yes
+CVE-2014-40684,2014-06-18,CSRF,Microsoft,Azure AD,0.9,Low,Local,Low,High,Required,None,High,Low,Nigeria,Telecom,2879,Under Investigation,No
+CVE-2014-03989,2014-08-30,Deserialization,Cisco,Firepower,10.0,Critical,Physical,Low,Low,None,None,Low,None,Canada,Government,46245,Patched,Yes
+CVE-2014-15654,2014-01-29,XSS,Oracle,Java SE,4.4,Medium,Local,Low,High,Required,None,High,High,Russia,Retail,44040,Under Investigation,Yes
+CVE-2014-67678,2014-01-08,SSRF,WordPress,Plugins,9.4,Critical,Physical,Low,None,None,High,None,High,UK,Healthcare,11311,Actively Exploited,Yes
+CVE-2014-26042,2014-12-19,DoS/DDoS,Fortinet,FortiManager,5.1,Medium,Network,High,Low,Required,None,Low,Low,Netherlands,Healthcare,37106,Actively Exploited,Yes
+CVE-2014-23921,2014-02-14,Logic Flaw,Apache,HTTP Server,1.9,Low,Network,Low,None,None,High,Low,Low,USA,Education,20171,Patched,Yes
+CVE-2014-49717,2014-12-28,MITM,Palo Alto,PAN-OS,2.9,Low,Adjacent,High,Low,None,None,Low,None,Brazil,Energy,16998,Actively Exploited,No
+CVE-2014-46551,2014-10-24,Brute Force,Oracle,Java SE,3.6,Low,Physical,Low,None,Required,None,High,High,India,Telecom,22736,Under Investigation,Yes
+CVE-2014-66030,2014-10-10,MITM,IBM,QRadar,8.3,High,Network,Low,Low,None,Low,Low,None,Iran,Transport,43145,Patched,No
+CVE-2014-76916,2014-06-15,SSRF,Google,Android,3.7,Low,Network,High,High,None,High,Low,None,Brazil,Telecom,31163,Under Investigation,No
+CVE-2014-46925,2014-06-06,Command Injection,Apache,Struts,1.6,Low,Adjacent,Low,Low,Required,High,High,High,Pakistan,Telecom,31037,Patched,No
+CVE-2014-44287,2014-09-05,Zero-Day Exploit,SAP,HANA,6.8,Medium,Network,Low,High,None,Low,Low,Low,Netherlands,Telecom,38868,Exploited,Yes
+CVE-2014-39398,2014-11-02,Brute Force,Juniper,Junos,9.7,Critical,Adjacent,Low,None,Required,None,None,Low,North Korea,Retail,30063,Actively Exploited,Yes
+CVE-2014-86326,2014-03-17,DoS/DDoS,Nginx,Nginx,2.0,Low,Local,High,None,None,None,None,Low,USA,Education,10102,Resolved,No
+CVE-2014-20884,2014-06-26,Command Injection,Microsoft,Office,1.0,Low,Physical,Low,Low,Required,Low,High,None,Iran,Telecom,8422,Under Investigation,Yes
+CVE-2014-37119,2014-12-12,XXE,Atlassian,Confluence,7.3,High,Physical,Low,Low,Required,High,High,High,Russia,Education,39881,Patched,Yes
+CVE-2014-44545,2014-09-14,SSRF,SAP,Business One,8.2,High,Network,Low,None,Required,None,None,None,France,Telecom,6086,Under Investigation,No
+CVE-2014-19759,2014-05-26,Credential Stuffing,Apple,macOS,3.1,Low,Network,High,Low,None,None,Low,High,Indonesia,Healthcare,30470,Exploited,No
+CVE-2014-01603,2014-03-24,Logic Flaw,Apache,Log4j,3.2,Low,Physical,High,None,Required,High,High,Low,Pakistan,Finance,19855,Actively Exploited,No
+CVE-2014-59018,2014-09-15,Credential Stuffing,Apache,Kafka,3.7,Low,Local,High,None,None,Low,High,Low,USA,Government,456,Under Investigation,No
+CVE-2014-57002,2014-01-25,XSS,Adobe,ColdFusion,4.6,Medium,Network,High,Low,Required,None,High,High,Turkey,Energy,27899,Under Investigation,No
+CVE-2014-35028,2014-04-02,XXE,Microsoft,Azure AD,2.9,Low,Network,High,Low,Required,High,None,High,Iran,Retail,47967,Exploited,No
+CVE-2014-11017,2014-10-01,Privilege Escalation,VMware,ESXi,0.9,Low,Physical,High,Low,Required,Low,High,High,Germany,Transport,37295,Actively Exploited,Yes
+CVE-2014-48864,2014-01-20,Buffer Overflow,Oracle,E-Business Suite,1.5,Low,Physical,Low,Low,Required,Low,Low,None,Brazil,Energy,47291,Exploited,No
+CVE-2014-74829,2014-05-14,Brute Force,Apache,Struts,9.9,Critical,Adjacent,Low,Low,Required,None,Low,Low,Brazil,Energy,32871,Exploited,No
+CVE-2014-37345,2014-05-20,Phishing,Apple,Safari,0.1,Low,Network,High,High,None,Low,Low,Low,Canada,IT,20851,Exploited,Yes
+CVE-2014-92932,2014-06-16,Zero-Day Exploit,VMware,vCenter,2.2,Low,Physical,High,High,Required,High,Low,Low,South Korea,Finance,22476,Under Investigation,No
+CVE-2014-19894,2014-08-25,Credential Stuffing,SAP,Business One,8.5,High,Adjacent,Low,High,Required,Low,Low,None,Netherlands,Healthcare,41379,Actively Exploited,No
+CVE-2014-98044,2014-09-29,Zero-Day Exploit,Oracle,Database,3.7,Low,Local,High,High,Required,None,None,High,Netherlands,Government,40912,Under Investigation,No
+CVE-2014-98486,2014-05-26,Credential Stuffing,Linux,Kernel,5.6,Medium,Adjacent,High,High,None,Low,High,None,Iran,Telecom,14307,Patched,Yes
+CVE-2014-23413,2014-03-23,SSRF,WordPress,Plugins,7.7,High,Physical,High,None,Required,High,Low,Low,Turkey,IT,6924,Under Investigation,No
+CVE-2014-64859,2014-08-26,Deserialization,VMware,Horizon,2.9,Low,Adjacent,Low,Low,Required,None,High,Low,Romania,IT,11290,Exploited,No
+CVE-2014-54824,2014-07-30,SQL Injection,WordPress,Plugins,1.9,Low,Adjacent,Low,High,None,High,High,High,Pakistan,Finance,21301,Resolved,Yes
+CVE-2014-81985,2014-08-30,CSRF,Apple,Safari,6.8,Medium,Network,High,High,None,None,Low,Low,Germany,Government,30945,Patched,No
+CVE-2014-08496,2014-01-16,Deserialization,Google,Android,2.1,Low,Physical,Low,High,Required,None,None,Low,Indonesia,IT,7285,Resolved,No
+CVE-2014-60584,2014-02-05,XSS,Apple,iOS,0.1,Low,Physical,High,Low,None,Low,Low,High,South Korea,Healthcare,46911,Resolved,Yes
+CVE-2014-95163,2014-01-31,SSRF,Nginx,Nginx,2.9,Low,Network,High,Low,Required,Low,None,None,North Korea,Energy,49673,Resolved,Yes
+CVE-2014-54119,2014-12-03,Ransomware,Apple,macOS,3.4,Low,Physical,Low,Low,None,Low,High,High,USA,Manufacturing,46471,Actively Exploited,Yes
+CVE-2014-38705,2014-12-19,Deserialization,Fortinet,FortiOS,4.4,Medium,Local,High,High,None,None,None,High,France,Finance,14485,Under Investigation,No
+CVE-2014-93827,2014-03-23,Zero-Day Exploit,Palo Alto,GlobalProtect,5.7,Medium,Physical,High,High,Required,None,High,High,North Korea,Government,39810,Under Investigation,No
+CVE-2014-29874,2014-01-15,Logic Flaw,Fortinet,FortiManager,8.5,High,Local,Low,High,None,Low,Low,High,Indonesia,Transport,26598,Actively Exploited,Yes
+CVE-2014-20432,2014-10-28,Path Traversal,SAP,HANA,8.5,High,Local,High,Low,None,High,Low,None,Nigeria,Telecom,933,Exploited,No
+CVE-2014-27058,2014-04-25,Buffer Overflow,VMware,Workstation,1.5,Low,Adjacent,High,Low,Required,High,High,None,Indonesia,Education,48587,Patched,No
+CVE-2014-82104,2014-02-20,Brute Force,Cisco,AnyConnect,9.5,Critical,Network,High,High,None,None,Low,High,Indonesia,Education,16037,Under Investigation,Yes
+CVE-2014-90393,2014-08-22,MITM,VMware,ESXi,1.8,Low,Local,Low,High,None,High,None,None,Indonesia,Energy,3989,Patched,Yes
+CVE-2014-60853,2014-02-20,XSS,VMware,Horizon,5.4,Medium,Local,Low,None,Required,None,Low,None,Nigeria,Education,6546,Resolved,Yes
+CVE-2014-39317,2014-10-19,XXE,Drupal,Modules,0.1,Low,Network,High,High,None,High,High,High,Romania,Finance,16499,Actively Exploited,No
+CVE-2014-43076,2014-09-17,Zero-Day Exploit,F5,BIG-IP,4.8,Medium,Local,High,High,None,Low,Low,High,South Korea,Transport,20238,Actively Exploited,Yes
+CVE-2014-00855,2014-06-13,Brute Force,Apple,macOS,8.9,High,Physical,High,None,None,None,Low,High,France,Healthcare,29046,Under Investigation,Yes
+CVE-2014-99989,2014-04-29,Brute Force,Adobe,Acrobat,2.1,Low,Local,High,High,Required,None,High,Low,Canada,Education,37422,Patched,No
+CVE-2014-51936,2014-03-29,DoS/DDoS,Apple,iOS,8.5,High,Local,High,High,Required,High,Low,None,UK,Manufacturing,19898,Under Investigation,Yes
+CVE-2014-95252,2014-07-01,Path Traversal,Palo Alto,GlobalProtect,8.3,High,Physical,High,Low,Required,Low,None,Low,China,Telecom,23175,Patched,No
+CVE-2014-92320,2014-04-14,MITM,Fortinet,FortiGate,2.1,Low,Local,High,None,Required,Low,Low,Low,South Korea,Transport,48433,Patched,Yes
+CVE-2014-35909,2014-02-24,DoS/DDoS,Drupal,Modules,0.7,Low,Local,High,High,Required,None,High,Low,Nigeria,Education,18360,Resolved,No
+CVE-2014-07356,2014-11-24,Command Injection,Cisco,IOS,3.4,Low,Local,High,Low,None,Low,None,High,USA,Retail,48002,Actively Exploited,Yes
+CVE-2014-39172,2014-10-21,RCE,Google,Workspace,2.0,Low,Physical,Low,Low,Required,High,High,Low,Russia,Government,4457,Under Investigation,No
+CVE-2014-24136,2014-06-14,Deserialization,Nginx,Nginx,4.7,Medium,Local,High,None,Required,Low,High,High,Russia,Government,7812,Actively Exploited,No
+CVE-2014-06296,2014-09-28,Brute Force,Atlassian,Confluence,0.6,Low,Local,Low,High,Required,None,High,Low,South Korea,Manufacturing,18524,Resolved,No
+CVE-2014-74096,2014-02-17,Buffer Overflow,Oracle,WebLogic,9.7,Critical,Adjacent,Low,High,Required,High,High,None,USA,IT,28243,Under Investigation,No
+CVE-2014-85255,2014-06-19,Logic Flaw,Nginx,Nginx,0.7,Low,Local,High,High,Required,None,Low,High,France,Finance,40875,Actively Exploited,Yes
+CVE-2014-42256,2014-08-07,Ransomware,Microsoft,Exchange Server,1.5,Low,Local,High,High,None,High,Low,High,Netherlands,Government,12377,Patched,Yes
+CVE-2014-13225,2014-01-14,XSS,Palo Alto,PAN-OS,5.3,Medium,Adjacent,High,None,Required,Low,None,High,India,Education,19853,Patched,No
+CVE-2014-28474,2014-07-01,Deserialization,Fortinet,FortiGate,0.3,Low,Network,High,None,Required,High,High,None,Vietnam,Finance,29283,Actively Exploited,No
+CVE-2014-49874,2014-10-30,RCE,Adobe,Flash,8.1,High,Adjacent,Low,None,None,None,Low,High,Canada,Retail,49132,Under Investigation,No
+CVE-2014-11901,2014-09-17,MITM,Adobe,Flash,3.6,Low,Network,High,None,None,Low,Low,Low,Iran,Retail,23619,Under Investigation,Yes
+CVE-2014-39413,2014-04-28,RCE,Linux,glibc,10.0,Critical,Physical,High,None,Required,High,High,Low,China,Government,16319,Patched,Yes
+CVE-2014-20416,2014-03-13,XSS,Google,Workspace,7.0,High,Network,Low,High,Required,Low,High,Low,Brazil,Telecom,11300,Patched,Yes
+CVE-2014-14339,2014-03-25,Phishing,Apple,macOS,0.3,Low,Local,High,High,Required,Low,High,Low,Russia,Finance,21731,Exploited,No
+CVE-2014-53433,2014-01-24,Brute Force,Cisco,ASA,5.4,Medium,Adjacent,Low,None,None,Low,None,None,Pakistan,Healthcare,7367,Actively Exploited,No
+CVE-2014-57727,2014-03-10,SQL Injection,Linux,glibc,8.6,High,Local,High,Low,Required,None,Low,High,South Korea,Retail,40214,Exploited,No
+CVE-2014-16494,2014-04-23,Privilege Escalation,F5,BIG-IP,5.1,Medium,Adjacent,Low,High,None,High,Low,Low,Canada,Healthcare,16370,Patched,No
+CVE-2014-86425,2014-06-04,Deserialization,Apple,Safari,3.3,Low,Local,Low,Low,Required,Low,High,None,Netherlands,Finance,49017,Actively Exploited,Yes
+CVE-2014-01878,2014-03-15,Ransomware,Adobe,Flash,6.3,Medium,Adjacent,High,Low,None,High,Low,Low,Turkey,Education,41204,Resolved,No
+CVE-2014-59401,2014-11-15,Deserialization,Nginx,Nginx,2.6,Low,Network,High,High,Required,Low,None,Low,Ukraine,Manufacturing,35973,Actively Exploited,Yes
+CVE-2014-34455,2014-02-02,XXE,IBM,QRadar,7.8,High,Network,Low,None,None,Low,None,None,South Korea,Energy,8278,Under Investigation,No
+CVE-2014-72522,2014-02-12,Brute Force,Nginx,Nginx,9.7,Critical,Adjacent,High,High,None,None,High,None,Russia,Education,48065,Under Investigation,Yes
+CVE-2014-69882,2014-07-05,Brute Force,WordPress,Core,5.4,Medium,Adjacent,High,None,None,High,None,High,Canada,Education,49225,Patched,No
+CVE-2014-06412,2014-07-25,Brute Force,Adobe,Photoshop,3.0,Low,Physical,High,Low,Required,None,High,Low,Russia,Healthcare,16472,Resolved,No
+CVE-2014-07763,2014-07-30,Credential Stuffing,Adobe,Acrobat,1.4,Low,Adjacent,Low,Low,None,High,Low,Low,Netherlands,Education,16291,Under Investigation,Yes
+CVE-2014-18408,2014-07-25,Logic Flaw,VMware,Workstation,1.2,Low,Adjacent,Low,Low,None,High,Low,Low,Russia,IT,7687,Resolved,No
+CVE-2014-82385,2014-11-03,Deserialization,Juniper,Junos,4.7,Medium,Local,Low,High,Required,None,None,High,Ukraine,Energy,2686,Actively Exploited,No
+CVE-2014-55825,2014-10-27,Credential Stuffing,Apache,Log4j,1.7,Low,Local,Low,High,None,None,High,High,Canada,Retail,15814,Actively Exploited,No
+CVE-2014-83632,2014-02-23,MITM,Linux,Kernel,8.7,High,Local,High,High,Required,Low,High,Low,Turkey,Healthcare,848,Exploited,No
+CVE-2014-29018,2014-10-30,MITM,VMware,Horizon,4.3,Medium,Network,High,High,Required,High,High,High,Vietnam,Finance,39431,Exploited,Yes
+CVE-2014-15398,2014-05-03,XXE,WordPress,Core,3.6,Low,Physical,Low,Low,Required,Low,High,High,China,Telecom,41165,Actively Exploited,Yes
+CVE-2014-03165,2014-11-19,Buffer Overflow,Adobe,Flash,9.5,Critical,Local,High,None,Required,Low,Low,High,Turkey,Retail,16299,Under Investigation,No
+CVE-2014-60058,2014-12-24,MITM,Cisco,Webex,9.9,Critical,Adjacent,Low,High,Required,High,Low,Low,Brazil,Manufacturing,5825,Under Investigation,No
+CVE-2014-41489,2014-06-06,RCE,Drupal,Core,1.0,Low,Physical,High,High,Required,High,None,Low,India,Energy,46360,Actively Exploited,No
+CVE-2014-47378,2014-03-23,Path Traversal,IBM,MQ,9.6,Critical,Network,Low,None,Required,High,High,High,South Korea,Energy,49596,Resolved,Yes
+CVE-2014-91179,2014-02-08,RCE,Atlassian,Bitbucket,2.0,Low,Physical,High,None,Required,High,Low,Low,North Korea,Telecom,6792,Under Investigation,Yes
+CVE-2014-58005,2014-01-21,Privilege Escalation,IBM,WebSphere,2.5,Low,Local,Low,Low,None,High,None,None,Germany,Manufacturing,42461,Patched,Yes
+CVE-2014-31940,2014-01-11,Credential Stuffing,Microsoft,SharePoint,8.6,High,Physical,High,High,None,Low,None,High,Netherlands,Telecom,41108,Resolved,No
+CVE-2014-47707,2014-05-15,CSRF,Fortinet,FortiManager,4.3,Medium,Adjacent,High,High,Required,None,High,None,Ukraine,Education,35277,Resolved,Yes
+CVE-2014-92846,2014-09-01,Buffer Overflow,Apache,Kafka,5.4,Medium,Adjacent,High,High,None,Low,Low,High,China,Manufacturing,40555,Actively Exploited,No
+CVE-2014-08475,2014-03-29,Deserialization,WordPress,Plugins,0.2,Low,Network,High,Low,None,None,High,Low,USA,Energy,37340,Under Investigation,Yes
+CVE-2014-56470,2014-12-27,Privilege Escalation,Drupal,Modules,7.6,High,Physical,Low,High,Required,Low,High,High,France,Retail,15242,Resolved,No
+CVE-2014-89303,2014-10-28,SQL Injection,Google,Workspace,3.1,Low,Network,High,High,None,None,High,None,Indonesia,Telecom,47867,Patched,Yes
+CVE-2014-23756,2014-01-16,Credential Stuffing,VMware,ESXi,6.5,Medium,Network,High,None,None,Low,High,High,Vietnam,Telecom,24989,Actively Exploited,Yes
+CVE-2014-12565,2014-06-09,XXE,IBM,WebSphere,3.6,Low,Local,High,None,None,Low,Low,None,Germany,Retail,42417,Exploited,No
+CVE-2014-68665,2014-05-12,XSS,Nginx,Nginx,0.2,Low,Network,High,None,None,None,High,None,Russia,Retail,25216,Under Investigation,Yes
+CVE-2014-09095,2014-03-30,Credential Stuffing,WordPress,Plugins,1.9,Low,Adjacent,Low,Low,None,High,None,High,Turkey,Defense,11596,Actively Exploited,Yes
+CVE-2014-58341,2014-01-16,Command Injection,Juniper,Junos,6.2,Medium,Network,High,Low,None,Low,High,None,Netherlands,Transport,10970,Exploited,No
+CVE-2014-80373,2014-06-22,Command Injection,Adobe,Flash,9.4,Critical,Physical,High,None,None,Low,None,Low,North Korea,Education,32163,Patched,No
+CVE-2014-07684,2014-09-03,Logic Flaw,Cisco,Webex,8.1,High,Network,Low,High,Required,High,High,High,South Korea,Transport,25834,Resolved,Yes
+CVE-2014-17758,2014-08-18,Zero-Day Exploit,Palo Alto,GlobalProtect,7.6,High,Physical,High,Low,Required,None,Low,None,Nigeria,Healthcare,21071,Resolved,No
+CVE-2014-40095,2014-09-12,Zero-Day Exploit,Drupal,Modules,9.9,Critical,Network,Low,None,None,Low,High,High,Netherlands,Transport,11362,Under Investigation,Yes
+CVE-2014-06188,2014-06-05,CSRF,Zimbra,Collaboration Suite,3.8,Low,Network,High,High,None,High,Low,High,China,Education,6466,Actively Exploited,Yes
+CVE-2014-09564,2014-04-15,Logic Flaw,VMware,Workstation,5.0,Medium,Network,Low,Low,None,High,None,Low,Russia,Education,43228,Under Investigation,Yes
+CVE-2014-48731,2014-07-25,Privilege Escalation,Atlassian,Jira,0.4,Low,Adjacent,High,Low,Required,None,High,High,UK,Telecom,45239,Exploited,No
+CVE-2014-36450,2014-04-08,Credential Stuffing,Linux,systemd,8.2,High,Local,Low,High,Required,None,High,Low,North Korea,IT,45188,Patched,Yes
+CVE-2014-20831,2014-09-08,Command Injection,Apache,HTTP Server,0.7,Low,Local,Low,High,Required,High,High,High,Vietnam,Energy,35145,Under Investigation,No
+CVE-2014-14221,2014-03-03,Phishing,WordPress,Plugins,3.9,Low,Network,High,None,None,High,None,Low,Nigeria,Healthcare,7302,Patched,Yes
+CVE-2014-10959,2014-12-22,Ransomware,Atlassian,Jira,8.1,High,Physical,High,Low,None,Low,High,None,Indonesia,Education,13791,Under Investigation,Yes
+CVE-2014-20017,2014-06-24,MITM,WordPress,Core,8.6,High,Adjacent,High,Low,None,High,None,Low,Vietnam,Government,19124,Resolved,Yes
+CVE-2014-82211,2014-04-10,Deserialization,VMware,ESXi,3.4,Low,Network,High,None,None,High,High,Low,South Korea,Government,9396,Resolved,No
+CVE-2014-89754,2014-02-03,Command Injection,Cisco,IOS,4.1,Medium,Network,Low,High,Required,Low,None,None,Iran,IT,15314,Exploited,No
+CVE-2014-07657,2014-07-18,Buffer Overflow,Microsoft,Azure AD,7.7,High,Adjacent,Low,High,None,None,High,Low,Netherlands,IT,25301,Under Investigation,No
+CVE-2014-89507,2014-09-09,CSRF,Nginx,Nginx,6.1,Medium,Physical,High,None,Required,High,Low,None,North Korea,Energy,41753,Patched,No
+CVE-2014-48245,2014-01-11,Zero-Day Exploit,Fortinet,FortiGate,4.3,Medium,Adjacent,Low,Low,Required,High,High,None,Vietnam,Government,41059,Under Investigation,Yes
+CVE-2014-54753,2014-08-24,Deserialization,Atlassian,Confluence,7.3,High,Physical,High,Low,Required,Low,High,Low,North Korea,Transport,13495,Patched,Yes
+CVE-2014-95592,2014-12-04,CSRF,Adobe,Flash,7.8,High,Physical,High,Low,Required,None,Low,None,Nigeria,Healthcare,35575,Actively Exploited,No
+CVE-2014-06670,2014-04-13,Command Injection,Drupal,Modules,2.2,Low,Adjacent,High,High,Required,None,Low,None,India,Telecom,37185,Patched,No
+CVE-2014-84049,2014-07-25,Phishing,WordPress,Core,5.8,Medium,Adjacent,High,Low,Required,None,High,None,Nigeria,Retail,40001,Resolved,Yes
+CVE-2014-11240,2014-01-11,XSS,Apache,HTTP Server,0.1,Low,Local,Low,Low,Required,None,High,None,India,Energy,4327,Under Investigation,No
+CVE-2014-62271,2014-06-23,Zero-Day Exploit,WordPress,Plugins,7.0,High,Local,Low,High,None,None,None,Low,Iran,Transport,40521,Actively Exploited,Yes
+CVE-2014-91733,2014-05-24,Ransomware,Zimbra,Collaboration Suite,6.9,Medium,Network,Low,Low,None,None,None,Low,Nigeria,Telecom,31253,Patched,Yes
+CVE-2014-57795,2014-10-27,Deserialization,WordPress,Plugins,5.7,Medium,Network,High,High,Required,Low,None,Low,USA,Government,8844,Resolved,No
+CVE-2014-14546,2014-12-09,Path Traversal,Atlassian,Jira,2.0,Low,Local,Low,Low,Required,None,High,High,Pakistan,Government,23935,Under Investigation,Yes
+CVE-2014-68215,2014-01-13,DoS/DDoS,Juniper,Junos,4.9,Medium,Network,Low,High,Required,Low,Low,Low,Ukraine,Finance,17881,Actively Exploited,Yes
+CVE-2014-04113,2014-03-08,SQL Injection,IBM,QRadar,8.7,High,Network,High,Low,None,Low,Low,Low,China,IT,17714,Actively Exploited,No
+CVE-2014-55642,2014-07-28,Privilege Escalation,SAP,HANA,7.1,High,Local,High,High,None,Low,Low,Low,USA,Manufacturing,44028,Exploited,No
+CVE-2014-03016,2014-03-07,Buffer Overflow,Juniper,Junos,8.1,High,Adjacent,Low,None,Required,None,None,High,Germany,Healthcare,4943,Exploited,Yes
+CVE-2014-09226,2014-03-21,Deserialization,IBM,QRadar,5.8,Medium,Local,Low,High,None,None,High,None,India,Healthcare,12162,Exploited,Yes
+CVE-2014-89864,2014-04-30,RCE,Microsoft,Office,2.1,Low,Physical,High,High,None,Low,None,High,Nigeria,Defense,46287,Patched,No
+CVE-2014-58002,2014-04-05,RCE,Palo Alto,PAN-OS,5.1,Medium,Adjacent,Low,Low,None,High,High,None,Iran,Healthcare,12334,Patched,No
+CVE-2014-51730,2014-11-22,Zero-Day Exploit,VMware,ESXi,8.4,High,Physical,High,None,Required,Low,Low,High,Germany,Transport,458,Under Investigation,No
+CVE-2014-08077,2014-02-02,XSS,Apple,iOS,4.9,Medium,Physical,Low,High,Required,None,High,High,USA,Retail,38545,Under Investigation,Yes
+CVE-2014-95309,2014-06-13,Credential Stuffing,WordPress,Plugins,4.5,Medium,Local,High,Low,Required,Low,High,High,India,Education,38485,Patched,Yes
+CVE-2014-60942,2014-08-25,SSRF,SAP,Business One,3.2,Low,Physical,High,Low,None,None,High,Low,Pakistan,Finance,9138,Under Investigation,No
+CVE-2014-47935,2014-01-08,DoS/DDoS,Google,Android,4.3,Medium,Adjacent,Low,None,None,None,Low,Low,North Korea,Energy,22107,Patched,Yes
+CVE-2014-20751,2014-06-05,Command Injection,F5,BIG-IP,8.3,High,Local,Low,None,Required,High,High,Low,Pakistan,Telecom,10475,Actively Exploited,Yes
+CVE-2014-08770,2014-06-15,Zero-Day Exploit,SAP,NetWeaver,7.1,High,Adjacent,Low,High,Required,None,Low,Low,Russia,Energy,41387,Patched,No
+CVE-2014-80168,2014-03-04,Brute Force,Palo Alto,GlobalProtect,6.0,Medium,Local,High,High,Required,High,None,Low,Netherlands,Manufacturing,4137,Exploited,No
+CVE-2014-32259,2014-04-18,Ransomware,SAP,Business One,9.4,Critical,Local,High,Low,Required,High,Low,High,India,Government,21092,Resolved,Yes
+CVE-2014-32650,2014-09-08,SQL Injection,WordPress,Core,5.6,Medium,Local,Low,Low,None,High,Low,None,Indonesia,Manufacturing,30323,Resolved,No
+CVE-2014-51063,2014-04-09,MITM,Oracle,Java SE,7.9,High,Adjacent,High,None,Required,None,None,High,Russia,Retail,23342,Resolved,No
+CVE-2014-35751,2014-06-13,Path Traversal,Zimbra,Collaboration Suite,4.8,Medium,Adjacent,Low,High,None,Low,High,None,India,Transport,33039,Under Investigation,Yes
+CVE-2014-91836,2014-01-06,Phishing,Atlassian,Confluence,3.0,Low,Adjacent,High,None,None,High,High,Low,USA,Retail,30471,Patched,No
+CVE-2014-20576,2014-11-01,Path Traversal,Atlassian,Bitbucket,4.4,Medium,Network,High,Low,Required,None,High,High,Romania,Energy,10676,Resolved,Yes
+CVE-2014-16242,2014-01-27,Command Injection,IBM,WebSphere,8.7,High,Physical,High,None,Required,High,Low,High,Russia,IT,28460,Under Investigation,No
+CVE-2014-80358,2014-01-18,Path Traversal,Apple,macOS,6.4,Medium,Network,Low,High,None,Low,None,None,North Korea,Government,6702,Resolved,Yes
+CVE-2014-98915,2014-07-04,Path Traversal,VMware,vCenter,9.7,Critical,Network,High,Low,None,Low,Low,High,China,Transport,27287,Actively Exploited,Yes
+CVE-2014-27166,2014-08-18,MITM,Zimbra,Collaboration Suite,1.6,Low,Adjacent,Low,None,None,None,High,High,Germany,Manufacturing,2779,Exploited,Yes
+CVE-2014-65613,2014-06-13,SSRF,VMware,ESXi,3.2,Low,Network,High,Low,None,High,High,High,Pakistan,Transport,4454,Exploited,Yes
+CVE-2014-27373,2014-04-28,SQL Injection,WordPress,Core,5.8,Medium,Local,Low,High,Required,High,None,Low,India,Government,35143,Exploited,No
+CVE-2014-49061,2014-09-19,Phishing,Fortinet,FortiManager,3.9,Low,Local,High,None,Required,Low,Low,None,France,Manufacturing,1889,Actively Exploited,No
+CVE-2014-14771,2014-01-22,Buffer Overflow,Adobe,Flash,3.9,Low,Adjacent,Low,High,Required,High,High,None,Netherlands,Energy,23655,Actively Exploited,Yes
+CVE-2014-28418,2014-09-19,SQL Injection,VMware,Workstation,0.2,Low,Adjacent,Low,Low,None,Low,High,Low,Ukraine,Manufacturing,25609,Resolved,Yes
+CVE-2014-73510,2014-11-02,Ransomware,F5,BIG-IP,2.9,Low,Network,Low,None,None,High,None,None,UK,Finance,19887,Actively Exploited,No
+CVE-2014-12745,2014-01-28,Phishing,WordPress,Core,3.7,Low,Physical,High,None,Required,Low,High,None,France,Finance,7870,Under Investigation,Yes
+CVE-2014-26826,2014-03-03,SQL Injection,Fortinet,FortiOS,9.2,Critical,Physical,Low,None,None,None,High,None,Romania,Defense,45543,Resolved,No
+CVE-2014-73824,2014-09-03,Privilege Escalation,Fortinet,FortiGate,0.6,Low,Adjacent,Low,Low,Required,None,None,Low,Pakistan,Manufacturing,27029,Patched,Yes
+CVE-2014-86064,2014-02-02,MITM,WordPress,Core,9.6,Critical,Local,High,None,Required,None,High,Low,India,Education,45199,Actively Exploited,Yes
+CVE-2014-57062,2014-10-14,Credential Stuffing,Cisco,Firepower,9.5,Critical,Adjacent,Low,Low,Required,None,High,Low,Romania,Manufacturing,35691,Patched,No
+CVE-2014-72224,2014-10-04,CSRF,SAP,HANA,1.5,Low,Physical,Low,High,Required,Low,Low,Low,France,Government,44084,Actively Exploited,No
+CVE-2014-11331,2014-11-05,Privilege Escalation,SAP,Business One,2.5,Low,Local,High,High,Required,Low,High,High,Brazil,Finance,22509,Resolved,Yes
+CVE-2014-70807,2014-11-20,DoS/DDoS,Drupal,Modules,8.3,High,Adjacent,Low,High,Required,None,Low,None,Indonesia,Transport,2752,Resolved,Yes
+CVE-2014-33387,2014-10-09,DoS/DDoS,WordPress,Core,6.6,Medium,Adjacent,High,Low,None,Low,High,Low,South Korea,Telecom,34284,Actively Exploited,Yes
+CVE-2014-98282,2014-07-28,Buffer Overflow,WordPress,Plugins,6.9,Medium,Adjacent,High,None,None,High,None,High,Iran,Manufacturing,9461,Exploited,No
+CVE-2014-39697,2014-04-18,Buffer Overflow,VMware,Horizon,5.4,Medium,Adjacent,Low,None,None,Low,None,None,Brazil,IT,4676,Exploited,No
+CVE-2014-55302,2014-07-03,SQL Injection,Nginx,Nginx,6.6,Medium,Local,High,Low,Required,None,Low,Low,Canada,Defense,31356,Resolved,Yes
+CVE-2014-65536,2014-06-13,MITM,F5,BIG-IP,3.5,Low,Physical,High,High,None,Low,High,High,Canada,Retail,44883,Actively Exploited,Yes
+CVE-2014-63891,2014-02-14,Command Injection,Atlassian,Jira,4.7,Medium,Network,Low,None,None,Low,Low,High,Ukraine,Education,39559,Actively Exploited,Yes
+CVE-2014-72434,2014-12-27,Phishing,IBM,MQ,8.5,High,Physical,Low,None,None,High,High,None,Indonesia,Manufacturing,4529,Resolved,Yes
+CVE-2014-91375,2014-10-17,Command Injection,Nginx,Nginx,3.9,Low,Network,High,High,None,High,High,Low,Brazil,Manufacturing,19228,Patched,Yes
+CVE-2014-55933,2014-02-26,RCE,Palo Alto,GlobalProtect,6.9,Medium,Adjacent,High,Low,None,None,Low,High,Brazil,Telecom,2876,Under Investigation,Yes
+CVE-2014-89527,2014-10-26,Ransomware,VMware,Workstation,8.5,High,Physical,Low,None,None,None,None,High,Canada,Defense,1552,Actively Exploited,No
+CVE-2014-56358,2014-01-11,CSRF,SAP,HANA,7.1,High,Network,High,Low,None,Low,Low,High,Pakistan,Healthcare,4272,Exploited,No
+CVE-2014-52603,2014-09-17,Privilege Escalation,SAP,Business One,9.2,Critical,Network,Low,None,None,High,None,High,India,Manufacturing,43245,Resolved,No
+CVE-2014-62637,2014-02-04,DoS/DDoS,Zimbra,Collaboration Suite,9.7,Critical,Physical,Low,High,None,None,None,None,France,Government,48932,Actively Exploited,Yes
+CVE-2014-66873,2014-01-07,MITM,SAP,NetWeaver,1.1,Low,Network,High,None,Required,None,Low,None,India,IT,31114,Actively Exploited,No
+CVE-2014-22600,2014-07-18,Command Injection,Adobe,Acrobat,5.5,Medium,Network,Low,High,None,High,None,None,Nigeria,Transport,4758,Resolved,Yes
+CVE-2014-82002,2014-07-05,MITM,VMware,Horizon,9.4,Critical,Physical,Low,Low,None,Low,Low,None,India,IT,47612,Under Investigation,No
+CVE-2014-98122,2014-03-07,Brute Force,Nginx,Nginx,4.8,Medium,Physical,Low,None,Required,Low,None,Low,Canada,Finance,27350,Exploited,Yes
+CVE-2014-05237,2014-07-09,MITM,Google,Workspace,2.8,Low,Physical,High,Low,Required,Low,Low,High,Nigeria,Telecom,49639,Resolved,Yes
+CVE-2014-11926,2014-12-21,Path Traversal,F5,BIG-IP,4.9,Medium,Network,High,High,Required,Low,Low,High,Indonesia,Education,20517,Under Investigation,Yes
+CVE-2014-45681,2014-06-06,Path Traversal,WordPress,Core,1.9,Low,Physical,High,Low,Required,High,High,None,Canada,Government,45111,Under Investigation,Yes
+CVE-2014-71143,2014-10-11,Deserialization,SAP,HANA,3.2,Low,Adjacent,Low,High,Required,High,None,None,Canada,IT,22111,Patched,No
+CVE-2014-51332,2014-09-05,Logic Flaw,SAP,NetWeaver,7.2,High,Physical,High,None,Required,High,None,Low,Iran,Telecom,36090,Actively Exploited,Yes
+CVE-2014-33399,2014-09-11,Command Injection,Oracle,Database,4.5,Medium,Local,High,None,Required,None,Low,High,Nigeria,Defense,7084,Actively Exploited,No
+CVE-2014-15656,2014-03-13,CSRF,Atlassian,Confluence,1.8,Low,Network,Low,None,Required,None,High,High,UK,Government,6285,Actively Exploited,Yes
+CVE-2014-07849,2014-01-06,MITM,Cisco,Firepower,1.1,Low,Local,High,None,None,None,High,High,Netherlands,Energy,36217,Under Investigation,Yes
+CVE-2014-72576,2014-10-27,Ransomware,Google,Chrome,3.2,Low,Adjacent,High,None,None,None,None,High,Canada,Energy,31868,Exploited,Yes
+CVE-2014-28964,2014-05-04,DoS/DDoS,VMware,Horizon,4.6,Medium,Adjacent,Low,Low,None,None,None,High,France,Telecom,37988,Resolved,No
+CVE-2014-30433,2014-02-21,XXE,Nginx,Nginx,8.5,High,Physical,High,None,Required,High,Low,None,South Korea,Energy,13444,Actively Exploited,No
+CVE-2014-42216,2014-01-11,SSRF,Juniper,Junos,5.0,Medium,Physical,Low,Low,None,High,None,High,Vietnam,Government,26477,Patched,Yes
+CVE-2014-53098,2014-05-21,Zero-Day Exploit,IBM,MQ,2.5,Low,Adjacent,High,High,Required,None,High,High,Germany,IT,45717,Exploited,No
+CVE-2014-74929,2014-06-26,SQL Injection,Microsoft,Office,3.6,Low,Physical,High,High,Required,Low,None,Low,UK,Retail,14979,Under Investigation,No
+CVE-2014-20723,2014-03-28,Logic Flaw,Fortinet,FortiOS,2.2,Low,Adjacent,Low,Low,Required,None,None,None,Brazil,Healthcare,40335,Resolved,Yes
+CVE-2014-68847,2014-05-11,Zero-Day Exploit,Fortinet,FortiGate,4.5,Medium,Adjacent,High,Low,None,None,Low,Low,Brazil,Transport,4377,Patched,Yes
+CVE-2014-75054,2014-12-02,DoS/DDoS,Drupal,Core,7.8,High,Local,High,Low,None,None,None,None,Canada,Healthcare,4416,Exploited,No
+CVE-2014-16271,2014-08-25,CSRF,Apple,Safari,5.5,Medium,Adjacent,Low,High,None,None,None,Low,Brazil,Energy,33637,Exploited,Yes
+CVE-2014-21890,2014-01-25,Privilege Escalation,Atlassian,Jira,4.7,Medium,Adjacent,High,High,Required,Low,None,Low,Brazil,Healthcare,46756,Patched,Yes
+CVE-2014-08792,2014-07-13,Zero-Day Exploit,Drupal,Core,1.4,Low,Physical,High,High,Required,High,High,High,Vietnam,Transport,30581,Resolved,No
+CVE-2014-98518,2014-05-09,XXE,Drupal,Modules,5.2,Medium,Adjacent,High,None,None,None,None,High,Turkey,Energy,7572,Resolved,No
+CVE-2014-39259,2014-07-11,Credential Stuffing,Atlassian,Confluence,0.2,Low,Adjacent,Low,None,Required,High,None,Low,Netherlands,Government,42538,Under Investigation,No
+CVE-2014-02147,2014-04-27,MITM,VMware,ESXi,9.0,Critical,Physical,High,Low,Required,Low,None,Low,North Korea,Telecom,3366,Patched,Yes
+CVE-2014-49026,2014-01-28,SSRF,Apache,Tomcat,3.5,Low,Physical,Low,High,Required,Low,High,High,Nigeria,Finance,31422,Exploited,No
+CVE-2014-40678,2014-09-17,Buffer Overflow,IBM,WebSphere,1.7,Low,Adjacent,High,None,None,High,None,High,Indonesia,Retail,1583,Actively Exploited,No
+CVE-2014-60332,2014-06-27,Zero-Day Exploit,IBM,QRadar,6.2,Medium,Local,Low,High,None,Low,Low,Low,Indonesia,Finance,43668,Resolved,Yes
+CVE-2014-43274,2014-12-05,MITM,Google,Android,7.1,High,Adjacent,Low,None,None,High,Low,Low,Vietnam,Education,2746,Exploited,No
+CVE-2014-25493,2014-08-03,XXE,Microsoft,Exchange Server,5.7,Medium,Adjacent,High,High,Required,None,None,None,Brazil,Finance,17401,Actively Exploited,Yes
+CVE-2014-21707,2014-12-11,RCE,VMware,Horizon,4.9,Medium,Physical,High,High,Required,Low,Low,High,South Korea,Transport,48636,Under Investigation,No
+CVE-2014-87524,2014-12-16,Logic Flaw,Juniper,Junos,8.4,High,Local,Low,None,None,Low,Low,Low,Ukraine,Transport,19699,Actively Exploited,No
+CVE-2014-39367,2014-05-12,Privilege Escalation,Cisco,Firepower,1.1,Low,Adjacent,Low,None,Required,None,None,High,South Korea,Transport,23790,Actively Exploited,No
+CVE-2014-43413,2014-06-03,DoS/DDoS,Linux,glibc,0.8,Low,Physical,Low,Low,None,Low,Low,Low,North Korea,Telecom,31010,Exploited,No
+CVE-2014-40372,2014-05-01,Credential Stuffing,SAP,NetWeaver,4.9,Medium,Physical,Low,Low,Required,None,Low,None,Canada,Government,22028,Patched,No
+CVE-2014-10864,2014-02-21,SQL Injection,WordPress,Plugins,0.8,Low,Adjacent,High,Low,None,High,High,None,China,Finance,30882,Patched,Yes
+CVE-2014-48073,2014-12-14,CSRF,Google,Android,6.9,Medium,Network,Low,None,Required,Low,None,None,Netherlands,Healthcare,2590,Resolved,Yes
+CVE-2014-51232,2014-09-09,Logic Flaw,Adobe,Flash,1.1,Low,Local,Low,High,Required,None,None,Low,Canada,Energy,10315,Resolved,Yes
+CVE-2014-90313,2014-05-26,Path Traversal,F5,BIG-IP,0.3,Low,Adjacent,High,Low,Required,High,Low,Low,Vietnam,Telecom,15410,Under Investigation,No
+CVE-2014-60462,2014-03-18,XSS,Adobe,Flash,7.0,High,Network,Low,High,None,None,None,Low,North Korea,Government,47368,Exploited,No
+CVE-2014-41937,2014-10-24,Credential Stuffing,IBM,QRadar,2.4,Low,Physical,High,None,Required,High,None,Low,China,Retail,10259,Actively Exploited,Yes
+CVE-2014-33054,2014-07-19,Credential Stuffing,SAP,NetWeaver,1.9,Low,Physical,High,High,Required,Low,None,Low,Pakistan,IT,20630,Resolved,Yes
+CVE-2014-32847,2014-08-01,Path Traversal,Microsoft,Exchange Server,0.9,Low,Adjacent,Low,None,None,High,High,Low,UK,Education,47238,Patched,No
+CVE-2014-82777,2014-07-04,CSRF,Cisco,IOS,7.1,High,Local,Low,None,Required,High,None,None,North Korea,Retail,44588,Resolved,No
+CVE-2014-69303,2014-10-30,Phishing,Juniper,Junos,6.1,Medium,Physical,Low,Low,Required,High,Low,None,France,Retail,1175,Actively Exploited,Yes
+CVE-2014-60758,2014-11-08,Path Traversal,F5,BIG-IP,5.7,Medium,Adjacent,High,Low,Required,High,None,None,Netherlands,Energy,25875,Under Investigation,Yes
+CVE-2014-05315,2014-04-24,Deserialization,Juniper,Junos,9.5,Critical,Adjacent,High,None,Required,None,None,Low,South Korea,Transport,27313,Exploited,No
+CVE-2014-65096,2014-10-25,Command Injection,Drupal,Core,2.1,Low,Local,Low,None,Required,High,High,Low,Brazil,Transport,42999,Patched,Yes
+CVE-2014-43094,2014-11-28,Credential Stuffing,Linux,Kernel,2.5,Low,Network,Low,None,Required,None,High,Low,UK,Telecom,10608,Actively Exploited,Yes
+CVE-2014-12794,2014-05-28,Command Injection,Apple,macOS,3.1,Low,Network,Low,None,None,None,None,None,UK,Government,7430,Actively Exploited,No
+CVE-2014-60988,2014-09-19,MITM,Apache,Kafka,1.2,Low,Network,High,None,Required,None,Low,None,South Korea,Energy,47535,Exploited,Yes
+CVE-2014-19112,2014-06-25,Command Injection,Oracle,Database,1.6,Low,Adjacent,High,High,Required,None,Low,Low,Pakistan,Healthcare,33582,Actively Exploited,Yes
+CVE-2014-81406,2014-11-23,Logic Flaw,Apple,iOS,4.8,Medium,Network,Low,High,Required,High,Low,Low,Ukraine,IT,24175,Patched,Yes
+CVE-2014-24653,2014-01-02,SQL Injection,Cisco,AnyConnect,5.7,Medium,Local,High,Low,None,Low,Low,None,North Korea,Healthcare,38971,Resolved,Yes
+CVE-2014-62054,2014-09-11,Command Injection,WordPress,Core,5.5,Medium,Local,Low,High,None,High,Low,None,France,Transport,27895,Under Investigation,Yes
+CVE-2014-39349,2014-12-07,Privilege Escalation,Apache,HTTP Server,9.6,Critical,Local,High,None,Required,Low,Low,None,Indonesia,Retail,4923,Actively Exploited,No
+CVE-2014-02980,2014-01-14,Path Traversal,Palo Alto,GlobalProtect,9.8,Critical,Adjacent,Low,None,None,Low,None,None,UK,Retail,20861,Exploited,Yes
+CVE-2014-76314,2014-02-10,MITM,WordPress,Core,2.3,Low,Local,Low,High,Required,High,High,Low,Iran,Telecom,49303,Exploited,No
+CVE-2014-86232,2014-06-20,XSS,Linux,Kernel,2.7,Low,Adjacent,Low,None,None,None,Low,None,Nigeria,Retail,26607,Resolved,Yes
+CVE-2014-77445,2014-10-15,Ransomware,Fortinet,FortiGate,9.0,Critical,Network,High,None,None,High,High,High,Iran,IT,1104,Actively Exploited,Yes
+CVE-2014-96714,2014-12-16,XXE,Google,Chrome,5.1,Medium,Network,High,High,None,Low,High,None,China,Telecom,13829,Resolved,No
+CVE-2014-45124,2014-03-11,Logic Flaw,Adobe,Photoshop,4.0,Medium,Physical,High,Low,None,High,None,High,Pakistan,Energy,42490,Resolved,No
+CVE-2014-53156,2014-10-30,MITM,Microsoft,Windows,1.9,Low,Adjacent,Low,High,None,High,None,None,China,Education,16384,Exploited,Yes
+CVE-2014-28592,2014-05-22,Logic Flaw,Atlassian,Jira,9.6,Critical,Network,Low,High,None,High,None,Low,Iran,Retail,13523,Actively Exploited,Yes
+CVE-2014-84930,2014-03-05,Path Traversal,Google,Workspace,8.7,High,Physical,High,High,Required,Low,High,None,North Korea,Education,25508,Under Investigation,Yes
+CVE-2014-64083,2014-05-21,MITM,VMware,Horizon,4.4,Medium,Network,High,Low,None,None,None,High,Romania,Transport,18945,Patched,No
+CVE-2014-18442,2014-05-26,XXE,Apache,Tomcat,2.8,Low,Network,High,High,None,High,Low,Low,France,IT,14701,Actively Exploited,Yes
+CVE-2014-51197,2014-05-19,Ransomware,Fortinet,FortiOS,1.6,Low,Physical,Low,None,None,High,Low,Low,Germany,Transport,33404,Patched,Yes
+CVE-2014-48606,2014-09-25,Buffer Overflow,Fortinet,FortiManager,2.5,Low,Local,High,High,Required,None,None,High,Iran,Education,18535,Under Investigation,Yes
+CVE-2014-82251,2014-09-12,SQL Injection,Zimbra,Collaboration Suite,9.8,Critical,Adjacent,Low,Low,Required,High,Low,None,Nigeria,Education,12280,Exploited,No
+CVE-2014-91230,2014-05-20,SSRF,Linux,systemd,5.9,Medium,Local,Low,Low,Required,High,None,None,Ukraine,Finance,22030,Under Investigation,No
+CVE-2014-64639,2014-04-27,Command Injection,VMware,Workstation,4.3,Medium,Network,Low,None,None,None,Low,None,India,Manufacturing,27025,Resolved,Yes
+CVE-2014-57840,2014-03-11,Phishing,Apache,Kafka,2.2,Low,Adjacent,High,None,None,Low,None,High,Pakistan,Healthcare,18378,Resolved,No
+CVE-2014-44672,2014-05-02,RCE,Adobe,Acrobat,6.1,Medium,Local,Low,None,Required,High,Low,High,Brazil,IT,49633,Exploited,No
+CVE-2014-43352,2014-02-21,Logic Flaw,Adobe,ColdFusion,0.9,Low,Adjacent,High,None,Required,High,Low,Low,Romania,Transport,45610,Patched,Yes
+CVE-2014-02800,2014-12-08,DoS/DDoS,Apache,Kafka,2.8,Low,Adjacent,Low,High,None,High,None,None,India,Education,8692,Under Investigation,No
+CVE-2014-29574,2014-11-13,Buffer Overflow,Cisco,AnyConnect,1.3,Low,Adjacent,High,High,Required,High,Low,None,USA,Government,31047,Actively Exploited,Yes
+CVE-2014-04605,2014-09-30,XXE,Apple,macOS,1.8,Low,Network,Low,None,None,None,None,Low,Iran,Telecom,15025,Patched,No
+CVE-2014-59383,2014-03-22,Command Injection,Juniper,Junos,8.3,High,Adjacent,High,Low,None,High,Low,Low,Ukraine,Energy,39734,Patched,Yes
+CVE-2014-38737,2014-07-12,Deserialization,Adobe,ColdFusion,7.7,High,Network,Low,High,None,None,None,High,South Korea,Healthcare,36705,Actively Exploited,No
+CVE-2014-06925,2014-09-23,Ransomware,WordPress,Core,1.8,Low,Adjacent,Low,None,None,None,High,High,USA,Retail,34412,Resolved,Yes
+CVE-2014-43526,2014-10-09,DoS/DDoS,Fortinet,FortiOS,1.4,Low,Network,High,Low,None,None,None,High,USA,Transport,9688,Resolved,No
+CVE-2014-94493,2014-11-21,Path Traversal,Oracle,Java SE,5.5,Medium,Physical,Low,High,Required,Low,None,None,Russia,Finance,43574,Exploited,Yes
+CVE-2014-21617,2014-11-23,RCE,Oracle,E-Business Suite,5.9,Medium,Adjacent,High,None,Required,High,High,Low,China,IT,49052,Resolved,Yes
+CVE-2014-41006,2014-07-14,Brute Force,Google,Android,6.7,Medium,Local,High,Low,None,None,High,None,Canada,IT,37774,Resolved,No
+CVE-2014-68449,2014-02-09,Zero-Day Exploit,Palo Alto,GlobalProtect,1.5,Low,Network,High,Low,Required,None,High,Low,Romania,Finance,2894,Resolved,Yes
+CVE-2014-32193,2014-07-13,Path Traversal,Microsoft,SharePoint,3.5,Low,Network,High,High,Required,High,None,Low,Vietnam,Defense,8058,Patched,No
+CVE-2014-67068,2014-04-27,CSRF,Google,Android,9.9,Critical,Network,High,Low,None,High,Low,High,China,Transport,46812,Exploited,No
+CVE-2014-27253,2014-05-04,Command Injection,Cisco,AnyConnect,4.1,Medium,Physical,High,None,None,None,None,None,UK,Finance,8023,Actively Exploited,No
+CVE-2014-72849,2014-09-28,MITM,Juniper,Junos,7.4,High,Local,Low,High,Required,Low,None,High,India,Telecom,47067,Patched,Yes
+CVE-2014-31750,2014-03-21,Privilege Escalation,Atlassian,Confluence,6.7,Medium,Physical,High,High,None,High,High,High,France,Telecom,19503,Patched,Yes
+CVE-2014-99154,2014-03-08,Brute Force,VMware,Horizon,3.7,Low,Physical,Low,None,Required,Low,None,Low,China,Telecom,19112,Actively Exploited,Yes
+CVE-2014-99308,2014-05-29,XSS,SAP,Business One,8.7,High,Adjacent,High,None,Required,Low,High,High,Brazil,Energy,12562,Exploited,Yes
+CVE-2014-40335,2014-07-30,Zero-Day Exploit,F5,BIG-IP,7.9,High,Network,Low,High,None,Low,None,High,Indonesia,Transport,11696,Under Investigation,No
+CVE-2014-79967,2014-12-23,Path Traversal,Google,Android,0.6,Low,Network,High,High,None,Low,None,None,India,Education,23270,Patched,No
+CVE-2014-92915,2014-03-04,Ransomware,WordPress,Plugins,3.9,Low,Adjacent,Low,None,None,High,High,Low,Indonesia,Manufacturing,47268,Exploited,Yes
+CVE-2014-31601,2014-10-31,Phishing,Drupal,Core,0.9,Low,Physical,Low,None,Required,High,Low,None,China,Telecom,2278,Exploited,Yes
+CVE-2014-99405,2014-06-17,Buffer Overflow,Drupal,Modules,9.9,Critical,Physical,High,High,None,None,None,None,Russia,Finance,38411,Exploited,No
+CVE-2014-72056,2014-03-07,Brute Force,Linux,Kernel,8.4,High,Network,Low,High,Required,Low,Low,High,Nigeria,Energy,47793,Under Investigation,Yes
+CVE-2014-81404,2014-12-15,CSRF,Linux,Kernel,2.1,Low,Local,Low,None,None,Low,High,None,Iran,Transport,41897,Resolved,No
+CVE-2014-38305,2014-04-26,Brute Force,Apache,Kafka,2.3,Low,Physical,High,None,None,Low,None,None,Brazil,Education,39753,Resolved,Yes

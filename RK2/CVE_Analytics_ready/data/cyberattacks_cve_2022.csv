@@ -1,0 +1,999 @@
+cve_id,date,attack_type,vendor,product,cvss_score,severity,attack_vector,access_complexity,privileges_required,user_interaction,confidentiality_impact,integrity_impact,availability_impact,attacker_country,target_sector,affected_hosts,status,exploit_available
+CVE-2022-56877,2022-09-22,CSRF,Fortinet,FortiGate,5.0,Medium,Adjacent,High,Low,None,Low,Low,None,Germany,Retail,13884,Exploited,No
+CVE-2022-94680,2022-11-21,RCE,Google,Chrome,2.4,Low,Network,High,Low,None,None,None,High,USA,Finance,4455,Patched,No
+CVE-2022-32835,2022-09-28,XXE,Google,Workspace,7.0,High,Network,Low,High,None,High,None,Low,Ukraine,Government,46996,Patched,Yes
+CVE-2022-99954,2022-08-10,XSS,Linux,glibc,6.2,Medium,Local,High,Low,Required,High,None,High,Nigeria,IT,40870,Under Investigation,No
+CVE-2022-00576,2022-06-13,Brute Force,Drupal,Core,7.8,High,Adjacent,Low,Low,None,High,None,High,France,Telecom,46714,Under Investigation,Yes
+CVE-2022-53662,2022-08-27,DoS/DDoS,Microsoft,Windows,5.5,Medium,Adjacent,High,None,Required,None,Low,Low,France,Education,42158,Actively Exploited,No
+CVE-2022-24456,2022-03-09,SSRF,IBM,WebSphere,3.7,Low,Physical,High,Low,Required,Low,None,High,UK,Energy,44577,Under Investigation,Yes
+CVE-2022-94011,2022-07-23,Credential Stuffing,Apache,Struts,4.8,Medium,Network,Low,High,None,Low,Low,High,Vietnam,Telecom,41966,Exploited,No
+CVE-2022-94617,2022-10-30,Buffer Overflow,Juniper,Junos,0.5,Low,Local,High,None,Required,High,High,High,Germany,Defense,3033,Patched,Yes
+CVE-2022-58904,2022-05-11,Path Traversal,Cisco,ASA,6.8,Medium,Adjacent,High,High,None,High,Low,Low,Vietnam,Manufacturing,36851,Actively Exploited,Yes
+CVE-2022-60366,2022-09-12,Buffer Overflow,Google,Workspace,10.0,Critical,Adjacent,High,None,Required,High,Low,None,Canada,Retail,33751,Actively Exploited,Yes
+CVE-2022-03808,2022-11-09,Deserialization,WordPress,Core,9.5,Critical,Network,Low,High,None,High,High,Low,Turkey,Retail,5434,Actively Exploited,Yes
+CVE-2022-29464,2022-12-18,SQL Injection,VMware,Workstation,4.9,Medium,Local,High,Low,None,Low,None,High,Brazil,Transport,19080,Resolved,No
+CVE-2022-94433,2022-09-11,Command Injection,VMware,Workstation,2.8,Low,Adjacent,High,Low,None,Low,None,High,Nigeria,Finance,21185,Resolved,No
+CVE-2022-73457,2022-10-05,DoS/DDoS,Drupal,Core,8.1,High,Adjacent,Low,Low,Required,None,High,Low,Germany,Telecom,6872,Exploited,No
+CVE-2022-09826,2022-06-23,Logic Flaw,Linux,glibc,7.2,High,Local,Low,High,Required,High,None,High,Turkey,Government,43919,Actively Exploited,Yes
+CVE-2022-95783,2022-09-15,Privilege Escalation,Palo Alto,GlobalProtect,2.6,Low,Physical,Low,Low,None,Low,None,None,France,Manufacturing,21879,Resolved,Yes
+CVE-2022-39130,2022-12-28,SSRF,Juniper,Junos,6.4,Medium,Physical,Low,Low,None,Low,Low,High,South Korea,Telecom,3164,Patched,Yes
+CVE-2022-45709,2022-12-29,Privilege Escalation,F5,BIG-IP,6.6,Medium,Adjacent,High,Low,Required,High,None,Low,Pakistan,Healthcare,16596,Actively Exploited,Yes
+CVE-2022-42381,2022-01-12,Privilege Escalation,Adobe,Flash,2.8,Low,Local,Low,High,Required,High,High,None,Turkey,Healthcare,35134,Exploited,No
+CVE-2022-33891,2022-05-23,DoS/DDoS,Drupal,Modules,5.8,Medium,Adjacent,High,High,Required,Low,Low,High,Ukraine,Finance,4380,Under Investigation,Yes
+CVE-2022-02029,2022-01-30,XXE,Adobe,Photoshop,6.4,Medium,Network,Low,Low,Required,Low,High,Low,South Korea,Finance,29609,Under Investigation,Yes
+CVE-2022-22493,2022-09-22,Deserialization,Cisco,AnyConnect,8.3,High,Local,High,Low,Required,High,None,Low,India,Government,22774,Patched,No
+CVE-2022-25468,2022-04-11,Privilege Escalation,Cisco,ASA,8.4,High,Adjacent,High,None,None,High,None,Low,Nigeria,Retail,14503,Under Investigation,No
+CVE-2022-01596,2022-04-17,Buffer Overflow,Atlassian,Jira,8.5,High,Network,Low,Low,Required,Low,High,Low,Netherlands,Retail,29064,Actively Exploited,No
+CVE-2022-75998,2022-02-15,Privilege Escalation,WordPress,Plugins,6.5,Medium,Local,Low,High,None,Low,Low,None,North Korea,Retail,18727,Patched,Yes
+CVE-2022-76527,2022-05-22,CSRF,Apple,macOS,3.7,Low,Network,Low,None,None,High,High,High,France,Retail,31968,Patched,Yes
+CVE-2022-16403,2022-06-13,XSS,WordPress,Plugins,0.8,Low,Physical,High,None,None,None,None,High,China,Defense,26104,Actively Exploited,No
+CVE-2022-28208,2022-01-11,Logic Flaw,Adobe,Flash,7.2,High,Local,Low,High,Required,High,Low,Low,UK,Manufacturing,44947,Actively Exploited,Yes
+CVE-2022-14955,2022-04-26,Buffer Overflow,Drupal,Modules,8.8,High,Physical,Low,High,None,None,Low,Low,Netherlands,Defense,23140,Under Investigation,No
+CVE-2022-04353,2022-03-10,Command Injection,Palo Alto,GlobalProtect,1.9,Low,Physical,High,None,Required,None,High,None,USA,Transport,19053,Under Investigation,No
+CVE-2022-41110,2022-05-31,Logic Flaw,Adobe,Photoshop,8.8,High,Physical,High,High,Required,Low,Low,Low,Indonesia,Manufacturing,40905,Actively Exploited,No
+CVE-2022-43843,2022-07-06,XXE,WordPress,Plugins,7.1,High,Local,High,High,None,Low,None,High,Pakistan,Healthcare,13951,Patched,No
+CVE-2022-31949,2022-07-02,XSS,VMware,Workstation,9.6,Critical,Local,High,Low,Required,High,High,None,France,Healthcare,32015,Under Investigation,No
+CVE-2022-90250,2022-08-13,SSRF,Cisco,Firepower,4.0,Medium,Adjacent,Low,None,Required,None,None,Low,South Korea,Telecom,41625,Actively Exploited,Yes
+CVE-2022-10291,2022-01-28,RCE,WordPress,Plugins,6.7,Medium,Local,High,High,None,None,High,None,South Korea,Transport,7747,Exploited,Yes
+CVE-2022-31021,2022-05-20,XXE,Linux,glibc,2.0,Low,Adjacent,Low,Low,Required,High,High,High,China,Energy,15016,Actively Exploited,Yes
+CVE-2022-75986,2022-02-15,Buffer Overflow,Atlassian,Confluence,5.2,Medium,Network,Low,None,None,High,Low,High,Indonesia,Energy,45912,Resolved,No
+CVE-2022-76793,2022-07-30,SSRF,F5,BIG-IP,1.9,Low,Network,High,High,Required,High,Low,High,South Korea,Telecom,5053,Resolved,Yes
+CVE-2022-49929,2022-04-28,Phishing,IBM,MQ,7.1,High,Adjacent,High,High,Required,Low,Low,None,Nigeria,Defense,41362,Resolved,Yes
+CVE-2022-48498,2022-10-17,Zero-Day Exploit,Nginx,Nginx,4.7,Medium,Physical,Low,None,None,Low,High,High,Brazil,Transport,22785,Exploited,Yes
+CVE-2022-42753,2022-12-22,MITM,Microsoft,Windows,8.6,High,Physical,High,None,Required,None,High,High,USA,Healthcare,31085,Resolved,Yes
+CVE-2022-06622,2022-08-04,Phishing,Adobe,Photoshop,1.6,Low,Adjacent,High,High,Required,None,Low,None,Turkey,Education,26808,Patched,No
+CVE-2022-47230,2022-03-14,SQL Injection,WordPress,Core,1.6,Low,Local,Low,Low,Required,None,None,None,Vietnam,Manufacturing,2616,Exploited,No
+CVE-2022-47838,2022-03-07,Logic Flaw,Cisco,IOS,6.6,Medium,Physical,Low,High,Required,Low,High,Low,South Korea,Manufacturing,20760,Patched,Yes
+CVE-2022-89657,2022-08-22,XSS,Fortinet,FortiOS,6.7,Medium,Local,High,High,None,High,High,High,Germany,IT,27279,Resolved,Yes
+CVE-2022-57604,2022-05-07,Credential Stuffing,Microsoft,Azure AD,0.2,Low,Physical,High,Low,Required,Low,High,None,India,Education,20709,Under Investigation,No
+CVE-2022-28278,2022-04-05,MITM,VMware,Horizon,4.5,Medium,Physical,High,Low,None,None,None,None,India,Government,3734,Resolved,No
+CVE-2022-60922,2022-09-29,XSS,Palo Alto,GlobalProtect,6.1,Medium,Network,Low,High,None,None,None,Low,Ukraine,Energy,40687,Exploited,No
+CVE-2022-99528,2022-06-14,Deserialization,Palo Alto,PAN-OS,4.3,Medium,Adjacent,High,None,None,None,Low,High,Germany,Telecom,45704,Patched,Yes
+CVE-2022-02018,2022-05-14,XSS,Linux,glibc,0.7,Low,Network,Low,Low,None,None,Low,None,Ukraine,Telecom,44633,Resolved,Yes
+CVE-2022-31571,2022-07-17,RCE,Oracle,WebLogic,0.0,None,Adjacent,High,None,Required,None,High,High,Russia,Healthcare,26233,Actively Exploited,No
+CVE-2022-16796,2022-07-07,Phishing,VMware,ESXi,7.4,High,Network,High,Low,Required,None,High,Low,China,Retail,41431,Resolved,No
+CVE-2022-64799,2022-04-07,Ransomware,Cisco,Webex,4.7,Medium,Network,High,High,Required,None,None,High,Pakistan,Energy,34207,Exploited,Yes
+CVE-2022-94076,2022-01-07,Path Traversal,Apache,Kafka,2.4,Low,Network,Low,None,None,None,Low,High,Vietnam,Finance,12734,Under Investigation,No
+CVE-2022-48197,2022-06-21,Brute Force,Juniper,Junos,5.7,Medium,Local,Low,High,None,None,None,High,Romania,Manufacturing,49379,Exploited,No
+CVE-2022-87591,2022-08-28,RCE,Fortinet,FortiGate,3.3,Low,Adjacent,High,None,None,None,None,None,Canada,Retail,16368,Resolved,No
+CVE-2022-39197,2022-12-23,DoS/DDoS,Juniper,Junos,1.7,Low,Network,High,None,None,None,Low,High,Indonesia,Government,48830,Under Investigation,Yes
+CVE-2022-94473,2022-08-12,Brute Force,Palo Alto,PAN-OS,7.4,High,Local,High,None,Required,None,None,High,North Korea,Education,43625,Actively Exploited,Yes
+CVE-2022-15485,2022-01-12,DoS/DDoS,Adobe,Flash,0.6,Low,Local,High,High,None,Low,High,High,France,Government,18968,Resolved,No
+CVE-2022-25382,2022-04-13,Zero-Day Exploit,Adobe,Flash,3.8,Low,Local,Low,None,None,Low,High,High,Germany,Telecom,31024,Patched,No
+CVE-2022-76803,2022-12-19,Credential Stuffing,Juniper,Junos,6.6,Medium,Adjacent,High,None,Required,High,None,High,Vietnam,Telecom,40833,Patched,No
+CVE-2022-68578,2022-03-19,SQL Injection,Juniper,Junos,1.2,Low,Adjacent,Low,High,Required,High,High,Low,Russia,Transport,35157,Patched,Yes
+CVE-2022-69119,2022-03-27,RCE,VMware,Horizon,0.3,Low,Physical,Low,None,None,Low,High,None,Indonesia,Government,34664,Exploited,Yes
+CVE-2022-54228,2022-05-07,XXE,Juniper,Junos,7.5,High,Adjacent,Low,None,Required,High,None,Low,Germany,Energy,40126,Patched,Yes
+CVE-2022-21126,2022-01-05,Credential Stuffing,Apache,HTTP Server,1.5,Low,Network,High,None,Required,Low,None,None,Indonesia,Healthcare,12873,Exploited,Yes
+CVE-2022-58485,2022-03-08,Deserialization,Nginx,Nginx,7.4,High,Adjacent,High,None,None,None,Low,High,Romania,Telecom,6711,Patched,No
+CVE-2022-59298,2022-12-03,XXE,WordPress,Core,5.4,Medium,Adjacent,Low,Low,Required,High,None,None,North Korea,Energy,13026,Patched,No
+CVE-2022-80990,2022-05-02,Credential Stuffing,Drupal,Core,7.3,High,Local,High,High,None,High,High,Low,Brazil,Education,36361,Actively Exploited,No
+CVE-2022-59084,2022-09-16,Credential Stuffing,Cisco,Webex,0.5,Low,Adjacent,Low,High,Required,None,High,Low,Germany,Defense,30859,Resolved,No
+CVE-2022-83402,2022-11-26,Logic Flaw,Oracle,Java SE,4.1,Medium,Network,Low,High,Required,High,None,None,Netherlands,Transport,6101,Actively Exploited,Yes
+CVE-2022-97412,2022-01-23,Brute Force,IBM,QRadar,2.3,Low,Adjacent,Low,Low,None,Low,None,Low,Russia,Energy,1504,Resolved,No
+CVE-2022-64329,2022-12-20,Zero-Day Exploit,Google,Android,5.3,Medium,Network,High,High,None,None,None,High,North Korea,Defense,42512,Actively Exploited,Yes
+CVE-2022-75784,2022-08-28,Zero-Day Exploit,Drupal,Core,2.1,Low,Local,High,None,Required,None,High,Low,Ukraine,Government,30918,Resolved,Yes
+CVE-2022-12008,2022-11-28,XSS,Drupal,Modules,0.5,Low,Physical,High,High,Required,None,Low,Low,UK,Transport,5004,Actively Exploited,Yes
+CVE-2022-45950,2022-10-27,Phishing,WordPress,Core,6.8,Medium,Network,High,Low,None,None,High,None,USA,Energy,29370,Resolved,No
+CVE-2022-25477,2022-04-07,Deserialization,Apple,Safari,4.4,Medium,Local,High,None,None,High,None,Low,Brazil,Transport,42586,Resolved,No
+CVE-2022-13755,2022-10-30,Ransomware,Juniper,Junos,5.4,Medium,Adjacent,High,High,None,High,High,Low,Canada,Education,14539,Actively Exploited,No
+CVE-2022-85819,2022-08-25,SQL Injection,VMware,ESXi,4.4,Medium,Adjacent,High,Low,None,Low,High,Low,UK,Government,33617,Actively Exploited,No
+CVE-2022-28637,2022-02-05,XSS,Cisco,Webex,4.7,Medium,Adjacent,Low,High,None,High,Low,High,Canada,Transport,31350,Resolved,No
+CVE-2022-81340,2022-06-26,Credential Stuffing,Atlassian,Jira,4.1,Medium,Adjacent,High,None,Required,High,Low,None,Turkey,Healthcare,44657,Patched,No
+CVE-2022-88784,2022-05-04,Command Injection,Fortinet,FortiManager,0.0,None,Adjacent,Low,Low,Required,None,High,Low,Russia,Transport,30227,Under Investigation,Yes
+CVE-2022-09698,2022-05-04,Phishing,Fortinet,FortiManager,3.2,Low,Local,High,Low,Required,None,High,Low,USA,Healthcare,18896,Patched,No
+CVE-2022-46741,2022-08-13,Phishing,Drupal,Modules,2.1,Low,Adjacent,Low,High,None,None,None,Low,India,Manufacturing,31575,Under Investigation,No
+CVE-2022-47979,2022-09-02,Deserialization,Oracle,Java SE,6.6,Medium,Adjacent,Low,None,Required,High,High,High,Nigeria,Telecom,17217,Patched,Yes
+CVE-2022-54514,2022-02-09,Deserialization,F5,BIG-IP,0.7,Low,Network,Low,Low,None,None,High,Low,Pakistan,Retail,28860,Under Investigation,No
+CVE-2022-10874,2022-09-27,Path Traversal,Drupal,Core,1.8,Low,Local,Low,High,Required,High,High,Low,Vietnam,Healthcare,38401,Patched,Yes
+CVE-2022-60659,2022-11-19,Path Traversal,Adobe,Acrobat,8.3,High,Adjacent,Low,None,Required,None,None,None,Turkey,Healthcare,1253,Actively Exploited,No
+CVE-2022-51177,2022-01-29,Command Injection,Microsoft,Azure AD,2.5,Low,Physical,Low,None,None,High,High,High,Iran,Transport,21211,Resolved,Yes
+CVE-2022-71840,2022-04-30,Brute Force,Google,Android,7.7,High,Local,Low,None,None,Low,High,High,China,Education,46351,Under Investigation,No
+CVE-2022-84322,2022-10-04,Path Traversal,SAP,NetWeaver,3.2,Low,Local,High,High,Required,High,Low,Low,South Korea,Defense,26192,Resolved,Yes
+CVE-2022-66652,2022-11-17,Credential Stuffing,Oracle,Java SE,7.7,High,Local,High,None,Required,Low,High,High,Pakistan,IT,25751,Actively Exploited,No
+CVE-2022-87456,2022-02-15,Brute Force,VMware,vCenter,0.1,Low,Adjacent,Low,None,None,Low,Low,Low,Vietnam,Defense,12601,Resolved,No
+CVE-2022-57566,2022-01-28,Buffer Overflow,Palo Alto,GlobalProtect,6.3,Medium,Local,Low,High,Required,High,High,High,Ukraine,Energy,40791,Patched,Yes
+CVE-2022-28953,2022-06-20,CSRF,Cisco,IOS,3.7,Low,Physical,High,Low,Required,High,Low,Low,Romania,Government,1802,Actively Exploited,No
+CVE-2022-02079,2022-07-22,Buffer Overflow,WordPress,Plugins,3.9,Low,Local,High,High,None,None,None,Low,France,IT,24558,Actively Exploited,No
+CVE-2022-04132,2022-03-08,Zero-Day Exploit,Juniper,Junos,8.5,High,Network,Low,High,None,High,None,Low,Indonesia,Retail,44294,Patched,Yes
+CVE-2022-24380,2022-04-06,Command Injection,Drupal,Modules,4.9,Medium,Physical,Low,None,None,None,Low,None,Nigeria,Retail,15508,Exploited,No
+CVE-2022-86868,2022-02-26,Brute Force,Atlassian,Bitbucket,7.2,High,Network,Low,High,Required,Low,Low,Low,Indonesia,Education,41259,Under Investigation,Yes
+CVE-2022-01760,2022-11-18,CSRF,Linux,glibc,2.1,Low,Local,High,None,None,High,Low,None,Romania,Telecom,27032,Actively Exploited,Yes
+CVE-2022-27083,2022-11-09,XXE,SAP,Business One,3.6,Low,Physical,Low,Low,Required,None,None,High,Ukraine,Healthcare,22548,Exploited,No
+CVE-2022-95694,2022-01-07,Phishing,Palo Alto,GlobalProtect,1.9,Low,Adjacent,High,None,Required,Low,Low,High,Iran,IT,26346,Under Investigation,Yes
+CVE-2022-61922,2022-09-22,XXE,Nginx,Nginx,6.7,Medium,Adjacent,Low,None,Required,Low,Low,Low,Brazil,Retail,49730,Actively Exploited,Yes
+CVE-2022-74708,2022-12-07,MITM,Juniper,Junos,4.0,Medium,Adjacent,Low,None,Required,None,Low,Low,Vietnam,Retail,11932,Patched,No
+CVE-2022-45402,2022-07-26,Logic Flaw,Google,Chrome,6.9,Medium,Adjacent,Low,High,Required,None,High,Low,Nigeria,Transport,43243,Under Investigation,Yes
+CVE-2022-19110,2022-06-19,SSRF,Microsoft,Windows,1.3,Low,Network,High,High,None,Low,None,None,Vietnam,Manufacturing,30699,Exploited,Yes
+CVE-2022-07276,2022-11-29,Buffer Overflow,Google,Workspace,10.0,Critical,Adjacent,High,High,None,Low,High,High,Russia,IT,27154,Resolved,Yes
+CVE-2022-10245,2022-09-11,XXE,WordPress,Plugins,3.5,Low,Adjacent,High,Low,None,High,Low,None,Romania,Finance,48800,Actively Exploited,No
+CVE-2022-55868,2022-06-22,Brute Force,Google,Workspace,4.5,Medium,Network,Low,High,Required,High,None,None,Canada,Defense,39715,Exploited,Yes
+CVE-2022-94773,2022-07-25,Logic Flaw,Zimbra,Collaboration Suite,9.8,Critical,Physical,High,None,None,None,High,None,Ukraine,Healthcare,14556,Under Investigation,Yes
+CVE-2022-65509,2022-04-17,Logic Flaw,Oracle,WebLogic,0.2,Low,Physical,Low,High,None,None,High,Low,Vietnam,IT,20897,Resolved,No
+CVE-2022-65530,2022-02-22,Credential Stuffing,SAP,Business One,7.6,High,Adjacent,High,None,Required,Low,High,None,Turkey,Finance,25290,Under Investigation,No
+CVE-2022-10535,2022-03-16,Buffer Overflow,Cisco,AnyConnect,4.3,Medium,Adjacent,Low,High,None,Low,High,High,Russia,Retail,23431,Actively Exploited,No
+CVE-2022-01187,2022-12-30,Deserialization,Drupal,Modules,1.2,Low,Adjacent,Low,High,None,Low,None,None,Romania,IT,19344,Actively Exploited,No
+CVE-2022-15647,2022-12-02,XXE,Fortinet,FortiManager,5.6,Medium,Local,Low,High,Required,None,Low,None,Iran,Defense,9322,Resolved,No
+CVE-2022-89573,2022-03-03,Command Injection,WordPress,Plugins,2.5,Low,Network,Low,None,None,None,None,None,India,Transport,46630,Patched,Yes
+CVE-2022-18870,2022-05-25,Credential Stuffing,Adobe,Flash,4.3,Medium,Physical,Low,Low,None,High,None,None,Romania,Transport,1347,Actively Exploited,No
+CVE-2022-79151,2022-07-30,Command Injection,IBM,MQ,9.4,Critical,Network,Low,High,Required,High,None,High,UK,Telecom,6749,Exploited,No
+CVE-2022-33682,2022-02-20,SSRF,VMware,Workstation,7.0,High,Physical,Low,None,None,Low,High,None,Indonesia,IT,25312,Resolved,No
+CVE-2022-46744,2022-03-01,MITM,IBM,WebSphere,0.2,Low,Network,Low,High,None,Low,High,None,Indonesia,Healthcare,49163,Patched,No
+CVE-2022-71482,2022-10-19,Buffer Overflow,Juniper,Junos,3.0,Low,Physical,Low,High,Required,Low,Low,Low,Germany,Defense,16839,Patched,No
+CVE-2022-97211,2022-01-05,Phishing,Apple,iOS,8.9,High,Network,Low,High,Required,Low,High,High,China,Healthcare,27854,Under Investigation,No
+CVE-2022-61349,2022-01-07,DoS/DDoS,VMware,Horizon,8.1,High,Adjacent,Low,None,None,None,None,High,Germany,Education,3183,Resolved,Yes
+CVE-2022-86097,2022-03-07,Command Injection,Oracle,WebLogic,5.1,Medium,Physical,Low,Low,Required,None,None,High,Pakistan,Energy,23970,Resolved,Yes
+CVE-2022-00324,2022-01-27,Logic Flaw,Fortinet,FortiManager,0.5,Low,Adjacent,High,None,Required,Low,None,Low,Germany,Education,19351,Patched,Yes
+CVE-2022-07319,2022-02-13,Command Injection,Juniper,Junos,9.1,Critical,Local,High,None,Required,Low,High,Low,China,Government,46943,Under Investigation,No
+CVE-2022-37286,2022-10-08,MITM,WordPress,Core,2.7,Low,Local,High,None,None,Low,Low,None,Romania,Defense,34726,Exploited,Yes
+CVE-2022-96627,2022-03-25,MITM,Apache,Kafka,6.4,Medium,Adjacent,Low,None,None,High,Low,None,Russia,IT,47765,Actively Exploited,No
+CVE-2022-53350,2022-04-09,Phishing,SAP,HANA,8.8,High,Adjacent,High,None,None,None,Low,High,North Korea,Healthcare,7829,Resolved,No
+CVE-2022-97018,2022-04-02,SQL Injection,Fortinet,FortiManager,8.9,High,Adjacent,Low,High,None,None,Low,High,Nigeria,Energy,46193,Patched,Yes
+CVE-2022-63411,2022-07-06,Path Traversal,Zimbra,Collaboration Suite,4.6,Medium,Adjacent,Low,High,None,High,High,None,Romania,IT,23445,Patched,No
+CVE-2022-25725,2022-02-05,DoS/DDoS,F5,BIG-IP,6.9,Medium,Physical,High,High,Required,Low,High,None,Russia,Defense,10357,Patched,No
+CVE-2022-15077,2022-04-30,Zero-Day Exploit,Oracle,Database,1.9,Low,Network,Low,None,Required,High,High,High,Ukraine,Retail,25509,Under Investigation,Yes
+CVE-2022-64580,2022-12-01,DoS/DDoS,Atlassian,Jira,9.6,Critical,Physical,Low,None,None,None,High,Low,Vietnam,Telecom,28843,Actively Exploited,No
+CVE-2022-75751,2022-01-19,Zero-Day Exploit,Google,Chrome,8.3,High,Network,Low,High,None,High,High,None,Romania,Transport,43125,Under Investigation,Yes
+CVE-2022-28422,2022-09-29,Path Traversal,Oracle,E-Business Suite,6.3,Medium,Physical,Low,High,Required,High,Low,Low,Ukraine,Energy,39914,Actively Exploited,Yes
+CVE-2022-11574,2022-09-18,DoS/DDoS,F5,BIG-IP,4.7,Medium,Network,Low,None,None,Low,None,High,Romania,Energy,16708,Actively Exploited,No
+CVE-2022-94639,2022-10-18,Buffer Overflow,Apple,macOS,3.5,Low,Local,High,High,Required,High,None,None,Romania,IT,13718,Under Investigation,No
+CVE-2022-55357,2022-04-22,CSRF,Zimbra,Collaboration Suite,5.5,Medium,Physical,Low,None,Required,None,High,High,Ukraine,Manufacturing,16046,Patched,Yes
+CVE-2022-48635,2022-11-28,Ransomware,F5,BIG-IP,3.7,Low,Physical,High,Low,Required,Low,None,High,USA,Retail,37949,Resolved,No
+CVE-2022-86271,2022-08-26,Brute Force,Zimbra,Collaboration Suite,9.8,Critical,Network,Low,None,None,Low,None,None,China,Education,26934,Under Investigation,Yes
+CVE-2022-46829,2022-12-30,Ransomware,Nginx,Nginx,7.5,High,Local,High,Low,Required,High,None,None,Iran,Finance,46339,Under Investigation,Yes
+CVE-2022-42854,2022-12-17,DoS/DDoS,Apache,Tomcat,9.8,Critical,Local,High,High,None,High,High,High,Romania,Healthcare,9308,Actively Exploited,No
+CVE-2022-49595,2022-07-09,Zero-Day Exploit,Zimbra,Collaboration Suite,7.9,High,Physical,Low,Low,None,High,None,None,Romania,Energy,19704,Resolved,No
+CVE-2022-06732,2022-03-19,RCE,F5,BIG-IP,1.5,Low,Adjacent,High,None,None,None,None,High,Germany,Manufacturing,20731,Exploited,No
+CVE-2022-99468,2022-03-27,Credential Stuffing,WordPress,Core,2.2,Low,Adjacent,Low,None,None,High,None,High,Russia,Manufacturing,8020,Resolved,No
+CVE-2022-86131,2022-11-14,Phishing,Apple,macOS,8.1,High,Network,Low,High,None,High,None,None,France,Government,46180,Actively Exploited,Yes
+CVE-2022-18349,2022-11-30,Deserialization,F5,BIG-IP,10.0,Critical,Adjacent,High,High,Required,None,High,None,Canada,Telecom,43890,Actively Exploited,No
+CVE-2022-89250,2022-12-19,Zero-Day Exploit,Drupal,Core,1.7,Low,Adjacent,Low,High,None,High,High,High,Ukraine,Finance,26874,Patched,No
+CVE-2022-50763,2022-05-28,Zero-Day Exploit,Cisco,ASA,3.4,Low,Adjacent,Low,Low,None,Low,None,High,China,Transport,15391,Resolved,No
+CVE-2022-47969,2022-06-10,Ransomware,Apple,macOS,7.7,High,Local,High,High,None,None,High,Low,China,Defense,49828,Actively Exploited,No
+CVE-2022-76594,2022-03-06,Deserialization,Apple,iOS,7.0,High,Adjacent,Low,High,None,None,Low,None,Romania,Healthcare,45632,Under Investigation,No
+CVE-2022-19678,2022-04-10,SQL Injection,Juniper,Junos,9.7,Critical,Network,High,Low,None,None,High,None,Vietnam,Retail,6682,Actively Exploited,Yes
+CVE-2022-84975,2022-04-30,Zero-Day Exploit,SAP,Business One,1.2,Low,Physical,Low,Low,None,High,High,Low,USA,Education,33520,Patched,No
+CVE-2022-08563,2022-09-20,Ransomware,Zimbra,Collaboration Suite,7.5,High,Network,Low,High,None,High,Low,High,North Korea,Transport,28546,Resolved,No
+CVE-2022-96880,2022-01-04,SSRF,F5,BIG-IP,6.9,Medium,Physical,Low,High,Required,Low,High,Low,Brazil,Healthcare,45044,Exploited,Yes
+CVE-2022-51232,2022-08-28,DoS/DDoS,Microsoft,Azure AD,8.9,High,Network,High,None,Required,None,Low,Low,Brazil,IT,14576,Resolved,No
+CVE-2022-51852,2022-05-15,Path Traversal,Oracle,Java SE,4.6,Medium,Network,Low,None,Required,None,None,None,Indonesia,Energy,3679,Under Investigation,Yes
+CVE-2022-02225,2022-09-30,Credential Stuffing,Microsoft,Azure AD,8.0,High,Adjacent,Low,High,Required,High,High,High,India,Retail,21665,Under Investigation,No
+CVE-2022-50499,2022-06-05,MITM,Fortinet,FortiManager,4.0,Medium,Local,High,None,None,High,High,None,Turkey,Government,2545,Under Investigation,No
+CVE-2022-67117,2022-06-03,Credential Stuffing,F5,BIG-IP,8.5,High,Physical,High,None,Required,High,High,Low,South Korea,Government,35213,Resolved,No
+CVE-2022-03042,2022-06-06,Path Traversal,Cisco,AnyConnect,9.8,Critical,Local,Low,None,None,High,Low,High,Canada,Telecom,11242,Exploited,No
+CVE-2022-25081,2022-11-25,CSRF,SAP,NetWeaver,5.8,Medium,Adjacent,High,None,None,High,Low,Low,Brazil,Manufacturing,2731,Resolved,Yes
+CVE-2022-35846,2022-08-25,Brute Force,Google,Chrome,9.9,Critical,Local,Low,High,Required,None,High,Low,USA,Defense,27735,Actively Exploited,Yes
+CVE-2022-15894,2022-01-03,Ransomware,Atlassian,Confluence,5.2,Medium,Physical,Low,None,Required,Low,None,None,Romania,Telecom,29898,Patched,No
+CVE-2022-49372,2022-11-12,SQL Injection,WordPress,Core,3.4,Low,Network,Low,High,None,None,High,None,North Korea,Education,9017,Under Investigation,Yes
+CVE-2022-33022,2022-03-17,Deserialization,IBM,QRadar,5.8,Medium,Adjacent,Low,High,Required,None,Low,Low,France,Transport,35477,Resolved,No
+CVE-2022-27297,2022-04-28,MITM,Linux,Kernel,2.1,Low,Local,Low,None,Required,None,High,Low,Netherlands,Education,978,Resolved,Yes
+CVE-2022-90875,2022-03-23,SSRF,Linux,systemd,3.4,Low,Network,Low,Low,Required,High,Low,None,UK,Defense,23343,Exploited,No
+CVE-2022-91725,2022-02-07,XSS,Nginx,Nginx,9.9,Critical,Local,Low,High,Required,High,Low,High,Russia,IT,38188,Exploited,Yes
+CVE-2022-75872,2022-06-13,MITM,Google,Workspace,8.1,High,Network,Low,Low,None,High,Low,High,Vietnam,Government,1954,Patched,Yes
+CVE-2022-25547,2022-09-10,Credential Stuffing,Microsoft,Office,6.6,Medium,Physical,Low,High,Required,Low,High,High,Brazil,Healthcare,43736,Patched,No
+CVE-2022-18298,2022-07-21,RCE,VMware,Horizon,5.7,Medium,Local,High,High,None,None,High,None,UK,Manufacturing,26615,Actively Exploited,No
+CVE-2022-60504,2022-08-19,RCE,Fortinet,FortiGate,5.0,Medium,Network,Low,Low,None,Low,None,None,Brazil,Retail,16839,Resolved,No
+CVE-2022-25899,2022-07-10,Privilege Escalation,SAP,NetWeaver,1.6,Low,Adjacent,High,High,Required,None,Low,None,China,Transport,48581,Resolved,Yes
+CVE-2022-86253,2022-05-23,Buffer Overflow,VMware,Horizon,5.3,Medium,Physical,High,Low,None,None,High,High,Turkey,Manufacturing,25274,Actively Exploited,No
+CVE-2022-79002,2022-12-05,Credential Stuffing,WordPress,Core,1.1,Low,Adjacent,High,High,Required,None,High,Low,France,Retail,14375,Actively Exploited,Yes
+CVE-2022-81922,2022-03-04,Credential Stuffing,Google,Android,5.8,Medium,Adjacent,High,None,Required,Low,Low,Low,Russia,Energy,25120,Actively Exploited,No
+CVE-2022-43831,2022-02-02,Path Traversal,Drupal,Modules,7.7,High,Local,Low,High,None,High,Low,Low,China,Finance,12723,Patched,Yes
+CVE-2022-20965,2022-10-27,Logic Flaw,Juniper,Junos,0.3,Low,Adjacent,High,None,Required,High,Low,Low,China,IT,14675,Resolved,Yes
+CVE-2022-44971,2022-03-07,Phishing,Oracle,E-Business Suite,6.6,Medium,Adjacent,Low,High,Required,High,High,High,India,IT,22001,Patched,No
+CVE-2022-35656,2022-01-10,SSRF,Fortinet,FortiGate,1.5,Low,Physical,Low,None,Required,Low,Low,None,Turkey,Healthcare,713,Under Investigation,Yes
+CVE-2022-42798,2022-01-31,Phishing,Google,Workspace,3.5,Low,Local,High,Low,Required,High,None,High,Canada,Defense,32924,Under Investigation,No
+CVE-2022-27654,2022-05-11,SQL Injection,Nginx,Nginx,2.4,Low,Adjacent,Low,High,Required,None,High,None,North Korea,Finance,38292,Under Investigation,No
+CVE-2022-54975,2022-02-03,SQL Injection,Linux,glibc,0.6,Low,Physical,High,Low,None,None,High,None,Vietnam,Energy,49639,Exploited,No
+CVE-2022-19034,2022-10-04,SSRF,IBM,MQ,2.6,Low,Physical,Low,High,None,High,Low,Low,North Korea,Manufacturing,18336,Actively Exploited,Yes
+CVE-2022-40180,2022-08-30,Privilege Escalation,Apache,Kafka,3.6,Low,Network,Low,High,None,None,None,None,Indonesia,Healthcare,6707,Resolved,No
+CVE-2022-59354,2022-03-09,Brute Force,F5,BIG-IP,2.4,Low,Adjacent,Low,None,None,Low,High,Low,Netherlands,Education,24520,Exploited,No
+CVE-2022-21979,2022-01-17,SQL Injection,Juniper,Junos,9.0,Critical,Local,High,Low,Required,None,Low,None,South Korea,Healthcare,11609,Patched,No
+CVE-2022-14091,2022-07-06,Credential Stuffing,VMware,vCenter,2.6,Low,Adjacent,Low,None,Required,High,Low,None,Netherlands,Telecom,17489,Exploited,No
+CVE-2022-40707,2022-02-14,XSS,Apache,Struts,4.9,Medium,Adjacent,Low,Low,None,None,None,None,South Korea,Healthcare,11535,Patched,No
+CVE-2022-99540,2022-07-02,RCE,Adobe,Acrobat,9.7,Critical,Adjacent,High,High,None,High,High,None,Brazil,IT,42389,Actively Exploited,Yes
+CVE-2022-87331,2022-05-12,XSS,SAP,NetWeaver,8.9,High,Adjacent,Low,None,None,None,High,None,Nigeria,Healthcare,35775,Patched,No
+CVE-2022-12740,2022-03-06,MITM,Microsoft,Exchange Server,3.3,Low,Network,Low,High,None,None,High,None,Ukraine,Transport,38641,Patched,No
+CVE-2022-07814,2022-01-16,DoS/DDoS,Cisco,Webex,2.3,Low,Physical,High,Low,None,Low,None,Low,Nigeria,Retail,19323,Resolved,No
+CVE-2022-19817,2022-09-21,MITM,Zimbra,Collaboration Suite,9.9,Critical,Local,Low,High,Required,High,None,None,Netherlands,Healthcare,33638,Patched,Yes
+CVE-2022-20483,2022-03-21,Command Injection,Juniper,Junos,8.8,High,Physical,Low,Low,None,None,None,None,Netherlands,Government,48775,Resolved,Yes
+CVE-2022-64080,2022-02-02,RCE,Palo Alto,PAN-OS,0.1,Low,Physical,High,None,None,High,High,Low,France,Transport,8621,Patched,Yes
+CVE-2022-20900,2022-05-25,Privilege Escalation,Microsoft,Exchange Server,5.7,Medium,Physical,Low,High,Required,Low,High,None,Indonesia,Healthcare,38870,Exploited,Yes
+CVE-2022-64242,2022-07-01,Zero-Day Exploit,Nginx,Nginx,1.5,Low,Physical,High,High,Required,Low,High,Low,UK,Government,22741,Under Investigation,No
+CVE-2022-63801,2022-07-05,Path Traversal,Palo Alto,GlobalProtect,6.0,Medium,Network,Low,None,Required,Low,Low,High,Canada,Government,35781,Exploited,No
+CVE-2022-57833,2022-02-07,XSS,WordPress,Core,1.8,Low,Adjacent,Low,Low,None,High,None,None,France,Transport,415,Exploited,Yes
+CVE-2022-55274,2022-12-27,Deserialization,Apple,macOS,3.8,Low,Adjacent,High,High,Required,Low,None,High,USA,Manufacturing,4932,Patched,Yes
+CVE-2022-75911,2022-03-07,SSRF,Apache,Tomcat,4.7,Medium,Physical,High,High,Required,High,Low,Low,Vietnam,Defense,18250,Patched,Yes
+CVE-2022-70515,2022-02-17,Privilege Escalation,Atlassian,Jira,0.5,Low,Adjacent,High,Low,None,None,High,Low,Iran,Retail,42075,Actively Exploited,Yes
+CVE-2022-93112,2022-12-16,XXE,Zimbra,Collaboration Suite,3.8,Low,Physical,High,Low,Required,Low,None,High,Ukraine,Retail,42656,Actively Exploited,Yes
+CVE-2022-71307,2022-05-27,Logic Flaw,SAP,HANA,5.1,Medium,Adjacent,Low,Low,Required,Low,Low,High,USA,Energy,22914,Under Investigation,No
+CVE-2022-52772,2022-04-27,DoS/DDoS,Palo Alto,GlobalProtect,6.0,Medium,Local,High,None,None,None,Low,None,South Korea,IT,31919,Resolved,No
+CVE-2022-94312,2022-07-18,Command Injection,WordPress,Plugins,9.1,Critical,Physical,Low,None,Required,None,High,High,Canada,Defense,2887,Resolved,No
+CVE-2022-61665,2022-06-06,Logic Flaw,IBM,MQ,4.0,Medium,Network,High,High,None,High,None,Low,Vietnam,Energy,10849,Patched,No
+CVE-2022-00351,2022-10-19,Credential Stuffing,Adobe,Flash,6.3,Medium,Local,Low,Low,None,High,None,Low,South Korea,Finance,15929,Exploited,Yes
+CVE-2022-44287,2022-06-03,Credential Stuffing,Atlassian,Confluence,1.9,Low,Adjacent,Low,High,Required,None,High,High,UK,Government,49046,Under Investigation,Yes
+CVE-2022-06759,2022-12-20,Credential Stuffing,Nginx,Nginx,1.1,Low,Adjacent,Low,Low,None,None,None,High,China,Retail,17688,Actively Exploited,Yes
+CVE-2022-99901,2022-05-15,MITM,Linux,systemd,6.3,Medium,Physical,High,None,Required,None,High,High,Turkey,Retail,34286,Actively Exploited,No
+CVE-2022-55921,2022-06-03,Credential Stuffing,Adobe,Flash,3.0,Low,Physical,High,Low,None,None,High,Low,Pakistan,Energy,7811,Actively Exploited,No
+CVE-2022-08292,2022-03-13,Ransomware,SAP,Business One,4.2,Medium,Physical,Low,Low,Required,High,Low,High,Romania,Telecom,3140,Actively Exploited,Yes
+CVE-2022-94941,2022-10-10,CSRF,IBM,WebSphere,7.5,High,Physical,High,High,None,High,High,None,Ukraine,Telecom,36355,Actively Exploited,Yes
+CVE-2022-74930,2022-04-26,Logic Flaw,Fortinet,FortiManager,4.9,Medium,Physical,Low,None,None,High,High,None,India,Manufacturing,31205,Under Investigation,No
+CVE-2022-46318,2022-01-28,Zero-Day Exploit,Zimbra,Collaboration Suite,5.3,Medium,Physical,Low,Low,None,High,None,High,Canada,Manufacturing,10525,Resolved,Yes
+CVE-2022-21888,2022-11-09,SQL Injection,Drupal,Modules,3.7,Low,Physical,Low,High,Required,Low,None,Low,Iran,Transport,40802,Under Investigation,No
+CVE-2022-85958,2022-01-03,MITM,Microsoft,Exchange Server,2.7,Low,Adjacent,Low,High,None,Low,None,High,North Korea,Government,32020,Actively Exploited,No
+CVE-2022-41077,2022-01-24,RCE,Apple,iOS,8.0,High,Network,Low,High,Required,None,Low,None,India,Telecom,34473,Resolved,Yes
+CVE-2022-99045,2022-08-23,MITM,SAP,NetWeaver,8.5,High,Adjacent,Low,None,Required,High,High,None,Nigeria,Finance,46393,Patched,No
+CVE-2022-43623,2022-03-24,RCE,Atlassian,Bitbucket,0.4,Low,Local,High,None,Required,High,Low,High,Romania,Defense,5126,Exploited,No
+CVE-2022-31296,2022-01-23,CSRF,Drupal,Core,9.9,Critical,Local,Low,None,None,High,High,High,South Korea,Defense,7066,Patched,No
+CVE-2022-23487,2022-07-11,Deserialization,WordPress,Core,7.4,High,Adjacent,High,High,Required,None,None,None,Ukraine,IT,36605,Patched,No
+CVE-2022-07166,2022-05-09,Brute Force,Apple,Safari,4.2,Medium,Network,High,None,None,None,Low,Low,USA,Healthcare,456,Under Investigation,No
+CVE-2022-84991,2022-05-04,Buffer Overflow,WordPress,Plugins,8.6,High,Physical,High,Low,Required,None,None,None,South Korea,Transport,38804,Patched,No
+CVE-2022-82175,2022-09-06,Privilege Escalation,Microsoft,Exchange Server,9.8,Critical,Adjacent,Low,High,None,None,High,Low,Germany,Retail,44145,Patched,No
+CVE-2022-83937,2022-02-12,Credential Stuffing,Atlassian,Bitbucket,1.1,Low,Physical,Low,None,Required,None,High,None,Vietnam,Education,36688,Resolved,No
+CVE-2022-20870,2022-03-05,Deserialization,Palo Alto,GlobalProtect,6.2,Medium,Adjacent,Low,Low,None,Low,Low,None,France,Education,42247,Patched,No
+CVE-2022-14686,2022-01-11,MITM,WordPress,Core,0.6,Low,Local,High,None,None,High,None,High,Pakistan,IT,48364,Resolved,Yes
+CVE-2022-23501,2022-09-08,Brute Force,VMware,Workstation,2.2,Low,Network,Low,Low,Required,None,Low,High,Vietnam,Retail,45983,Patched,Yes
+CVE-2022-99632,2022-05-21,CSRF,Drupal,Core,2.6,Low,Network,High,None,Required,High,None,None,China,Government,21049,Patched,No
+CVE-2022-63360,2022-05-30,Ransomware,Linux,systemd,2.8,Low,Adjacent,High,Low,Required,Low,Low,High,Netherlands,Manufacturing,49194,Resolved,Yes
+CVE-2022-54507,2022-10-03,Privilege Escalation,Palo Alto,GlobalProtect,1.0,Low,Local,Low,Low,None,Low,High,None,Ukraine,Manufacturing,269,Patched,Yes
+CVE-2022-77324,2022-06-18,DoS/DDoS,Adobe,ColdFusion,1.7,Low,Network,High,High,Required,Low,Low,None,Brazil,Manufacturing,20503,Patched,Yes
+CVE-2022-45177,2022-09-04,Buffer Overflow,WordPress,Plugins,5.8,Medium,Network,Low,None,None,Low,None,None,Brazil,Finance,31642,Actively Exploited,No
+CVE-2022-94451,2022-05-28,Command Injection,Juniper,Junos,7.2,High,Physical,Low,Low,None,High,Low,High,North Korea,Government,24111,Resolved,No
+CVE-2022-67692,2022-08-22,XSS,Adobe,Photoshop,7.2,High,Network,Low,Low,None,High,Low,High,North Korea,Government,2249,Under Investigation,No
+CVE-2022-26832,2022-01-13,Phishing,Google,Android,8.3,High,Adjacent,Low,None,None,High,None,None,Romania,Retail,39028,Under Investigation,Yes
+CVE-2022-28680,2022-04-30,Privilege Escalation,Apple,Safari,1.1,Low,Local,High,High,Required,Low,Low,High,Iran,Manufacturing,33002,Patched,Yes
+CVE-2022-82421,2022-02-14,DoS/DDoS,Microsoft,Office,3.2,Low,Physical,Low,None,Required,High,None,High,Romania,Retail,30553,Resolved,Yes
+CVE-2022-13620,2022-03-12,Logic Flaw,Microsoft,Office,3.5,Low,Network,Low,None,None,None,High,Low,Canada,Finance,46859,Actively Exploited,No
+CVE-2022-52701,2022-04-23,RCE,WordPress,Core,10.0,Critical,Local,High,Low,Required,Low,None,Low,Pakistan,IT,29190,Resolved,No
+CVE-2022-05243,2022-12-21,DoS/DDoS,Apache,Kafka,3.3,Low,Network,High,Low,Required,Low,High,None,Ukraine,Government,1611,Resolved,Yes
+CVE-2022-14860,2022-09-05,DoS/DDoS,Google,Workspace,9.8,Critical,Adjacent,High,Low,Required,High,High,None,Netherlands,Education,21784,Exploited,Yes
+CVE-2022-58003,2022-11-26,XXE,WordPress,Core,9.3,Critical,Adjacent,Low,Low,Required,None,Low,High,Russia,Telecom,31815,Under Investigation,Yes
+CVE-2022-14885,2022-07-06,Logic Flaw,IBM,QRadar,0.2,Low,Network,High,Low,Required,None,None,None,USA,IT,769,Resolved,No
+CVE-2022-21988,2022-09-16,DoS/DDoS,F5,BIG-IP,7.8,High,Local,High,Low,None,None,High,High,France,Finance,40449,Actively Exploited,No
+CVE-2022-67535,2022-02-06,SQL Injection,Google,Chrome,6.7,Medium,Physical,High,None,None,High,High,High,China,Transport,8007,Patched,No
+CVE-2022-32700,2022-06-30,SQL Injection,Nginx,Nginx,1.8,Low,Network,High,High,Required,High,None,High,Canada,Education,36706,Exploited,Yes
+CVE-2022-47256,2022-01-16,CSRF,Drupal,Core,8.4,High,Network,High,High,None,None,High,None,Russia,Finance,15024,Exploited,No
+CVE-2022-03034,2022-10-06,MITM,Atlassian,Bitbucket,9.0,Critical,Local,High,High,None,None,High,Low,UK,Retail,851,Actively Exploited,Yes
+CVE-2022-60885,2022-05-07,SQL Injection,Microsoft,Office,3.6,Low,Network,High,High,Required,None,Low,None,Ukraine,Education,4599,Patched,Yes
+CVE-2022-74871,2022-09-14,Credential Stuffing,Adobe,Acrobat,6.5,Medium,Physical,Low,High,None,None,High,High,Indonesia,Energy,35716,Patched,Yes
+CVE-2022-99759,2022-09-12,Phishing,Juniper,Junos,0.5,Low,Adjacent,High,Low,None,High,Low,Low,Netherlands,Defense,18447,Resolved,Yes
+CVE-2022-41228,2022-04-18,Credential Stuffing,F5,BIG-IP,2.6,Low,Adjacent,Low,Low,None,None,None,None,USA,Transport,8282,Resolved,Yes
+CVE-2022-49995,2022-10-05,XXE,IBM,MQ,7.2,High,Network,Low,None,Required,None,Low,High,Canada,Energy,37690,Resolved,No
+CVE-2022-14504,2022-09-12,XSS,Zimbra,Collaboration Suite,5.5,Medium,Local,Low,Low,Required,None,High,None,China,Retail,26082,Actively Exploited,Yes
+CVE-2022-65220,2022-07-25,Ransomware,Palo Alto,PAN-OS,5.3,Medium,Adjacent,Low,High,None,High,None,None,Russia,Transport,36106,Exploited,Yes
+CVE-2022-20683,2022-03-08,DoS/DDoS,Fortinet,FortiOS,6.1,Medium,Local,Low,Low,None,High,None,High,South Korea,Defense,42121,Resolved,Yes
+CVE-2022-34373,2022-02-19,XSS,Nginx,Nginx,3.3,Low,Network,High,High,None,High,None,High,Turkey,Transport,1394,Patched,No
+CVE-2022-23222,2022-05-23,MITM,Microsoft,Exchange Server,9.7,Critical,Physical,Low,Low,None,High,High,None,Netherlands,Energy,31952,Actively Exploited,Yes
+CVE-2022-65976,2022-03-07,Credential Stuffing,VMware,ESXi,1.1,Low,Local,High,Low,None,None,Low,None,UK,Government,25466,Patched,Yes
+CVE-2022-25216,2022-12-17,Zero-Day Exploit,Palo Alto,PAN-OS,4.9,Medium,Physical,Low,High,Required,High,Low,High,USA,Healthcare,22898,Resolved,Yes
+CVE-2022-76876,2022-12-10,Path Traversal,Drupal,Core,1.2,Low,Adjacent,High,None,None,High,High,Low,France,Energy,43310,Under Investigation,No
+CVE-2022-21514,2022-10-03,Credential Stuffing,WordPress,Plugins,0.2,Low,Network,High,None,None,Low,None,High,China,Education,29157,Resolved,No
+CVE-2022-75247,2022-09-13,Brute Force,VMware,ESXi,7.3,High,Adjacent,Low,High,None,High,High,None,Germany,Retail,40211,Under Investigation,Yes
+CVE-2022-53039,2022-05-26,Ransomware,F5,BIG-IP,7.5,High,Physical,High,High,None,Low,Low,High,India,Retail,38036,Resolved,Yes
+CVE-2022-98506,2022-02-18,Buffer Overflow,SAP,NetWeaver,4.7,Medium,Adjacent,Low,Low,Required,High,Low,None,France,Transport,14653,Resolved,No
+CVE-2022-59440,2022-10-16,XSS,SAP,HANA,3.7,Low,Adjacent,Low,High,None,Low,None,Low,Romania,IT,4135,Under Investigation,No
+CVE-2022-19674,2022-02-02,Brute Force,Drupal,Modules,2.0,Low,Network,High,High,Required,Low,Low,None,UK,Energy,33083,Under Investigation,Yes
+CVE-2022-75429,2022-03-13,XSS,Linux,systemd,5.0,Medium,Network,Low,High,None,Low,Low,None,Canada,Education,20692,Under Investigation,No
+CVE-2022-67763,2022-09-29,Phishing,Fortinet,FortiGate,3.8,Low,Adjacent,Low,High,Required,High,Low,High,France,Manufacturing,11126,Exploited,No
+CVE-2022-83907,2022-01-27,SSRF,F5,BIG-IP,4.4,Medium,Network,Low,High,Required,None,Low,High,South Korea,Healthcare,17299,Resolved,Yes
+CVE-2022-88833,2022-07-12,Ransomware,Oracle,Java SE,2.9,Low,Physical,Low,None,Required,None,High,None,India,Defense,15268,Under Investigation,Yes
+CVE-2022-23290,2022-07-17,MITM,Microsoft,Office,1.8,Low,Network,Low,None,None,High,High,Low,Netherlands,Defense,24006,Patched,Yes
+CVE-2022-97230,2022-02-05,Brute Force,IBM,WebSphere,4.0,Medium,Network,High,High,Required,High,Low,None,Canada,Government,918,Patched,Yes
+CVE-2022-19188,2022-04-26,Zero-Day Exploit,Nginx,Nginx,2.3,Low,Network,High,None,Required,Low,Low,Low,USA,Manufacturing,11887,Patched,Yes
+CVE-2022-48639,2022-07-05,Buffer Overflow,Apache,HTTP Server,3.8,Low,Local,High,Low,Required,High,None,High,Nigeria,IT,21817,Resolved,No
+CVE-2022-66423,2022-10-18,SQL Injection,Microsoft,Office,6.7,Medium,Network,High,High,None,High,Low,None,North Korea,Education,32648,Under Investigation,Yes
+CVE-2022-01752,2022-05-27,Zero-Day Exploit,Apple,Safari,5.2,Medium,Adjacent,Low,None,None,High,Low,Low,Nigeria,Retail,45304,Patched,No
+CVE-2022-12188,2022-06-23,RCE,Nginx,Nginx,1.8,Low,Local,High,Low,Required,Low,Low,None,South Korea,Healthcare,28088,Exploited,No
+CVE-2022-62068,2022-09-17,CSRF,Google,Workspace,5.2,Medium,Local,High,High,Required,None,Low,None,France,IT,16017,Exploited,Yes
+CVE-2022-05908,2022-09-02,Ransomware,Apple,iOS,2.0,Low,Physical,Low,Low,None,Low,Low,High,Pakistan,Manufacturing,35399,Under Investigation,No
+CVE-2022-33964,2022-01-20,DoS/DDoS,Oracle,E-Business Suite,5.9,Medium,Physical,High,Low,Required,Low,None,None,China,Manufacturing,47909,Patched,No
+CVE-2022-93604,2022-04-25,Deserialization,Drupal,Modules,7.3,High,Local,High,None,Required,None,None,None,North Korea,Healthcare,30130,Resolved,No
+CVE-2022-99355,2022-01-20,Command Injection,Nginx,Nginx,6.6,Medium,Physical,High,Low,None,High,High,High,Iran,Manufacturing,31738,Resolved,Yes
+CVE-2022-55373,2022-07-15,Buffer Overflow,Palo Alto,GlobalProtect,10.0,Critical,Physical,High,None,Required,Low,High,High,France,Defense,19236,Patched,No
+CVE-2022-84868,2022-12-11,Phishing,Adobe,Flash,0.6,Low,Physical,High,None,None,High,None,High,Nigeria,Energy,44326,Patched,No
+CVE-2022-71152,2022-02-10,Privilege Escalation,Drupal,Modules,3.7,Low,Network,High,Low,None,High,None,High,Netherlands,IT,12122,Actively Exploited,Yes
+CVE-2022-41784,2022-07-13,Privilege Escalation,Cisco,IOS,2.8,Low,Adjacent,Low,High,None,High,None,Low,Canada,Telecom,29347,Actively Exploited,No
+CVE-2022-43942,2022-06-19,Ransomware,F5,BIG-IP,2.4,Low,Network,Low,None,Required,High,Low,High,UK,IT,41588,Actively Exploited,No
+CVE-2022-24583,2022-02-07,DoS/DDoS,Apple,Safari,2.3,Low,Network,High,High,None,Low,High,High,Germany,Healthcare,26506,Patched,Yes
+CVE-2022-62720,2022-07-31,Path Traversal,Drupal,Core,0.7,Low,Physical,Low,Low,None,None,High,High,Vietnam,Defense,22755,Resolved,No
+CVE-2022-90752,2022-07-01,Zero-Day Exploit,Adobe,Flash,0.2,Low,Network,High,Low,Required,High,None,Low,Iran,Transport,44444,Resolved,Yes
+CVE-2022-71624,2022-04-04,DoS/DDoS,Google,Android,3.3,Low,Network,Low,High,Required,None,None,High,Netherlands,Manufacturing,5564,Resolved,Yes
+CVE-2022-07195,2022-06-04,Ransomware,Zimbra,Collaboration Suite,6.4,Medium,Local,High,Low,Required,Low,High,None,France,IT,37100,Exploited,No
+CVE-2022-41289,2022-10-25,Phishing,Adobe,ColdFusion,0.2,Low,Network,Low,None,None,High,None,Low,North Korea,Education,14614,Resolved,Yes
+CVE-2022-71157,2022-08-04,XXE,Zimbra,Collaboration Suite,8.7,High,Network,High,High,Required,High,Low,None,Pakistan,Retail,23250,Resolved,Yes
+CVE-2022-61846,2022-06-28,Phishing,Google,Android,9.0,Critical,Physical,Low,High,Required,High,None,None,Canada,Finance,12661,Actively Exploited,No
+CVE-2022-34522,2022-05-28,XXE,Cisco,IOS,2.2,Low,Adjacent,Low,Low,Required,Low,None,Low,Vietnam,Retail,11812,Under Investigation,No
+CVE-2022-83642,2022-07-12,Phishing,Zimbra,Collaboration Suite,5.8,Medium,Network,High,Low,Required,High,None,High,UK,Telecom,32238,Resolved,No
+CVE-2022-97097,2022-06-02,SSRF,Nginx,Nginx,8.0,High,Physical,High,None,Required,High,High,High,Ukraine,Finance,743,Resolved,No
+CVE-2022-30873,2022-07-02,Zero-Day Exploit,Google,Workspace,8.7,High,Physical,High,Low,None,Low,None,Low,India,Education,34248,Patched,Yes
+CVE-2022-38227,2022-04-09,CSRF,Palo Alto,GlobalProtect,3.5,Low,Adjacent,Low,Low,None,Low,Low,None,North Korea,IT,5423,Actively Exploited,No
+CVE-2022-10684,2022-03-28,MITM,SAP,HANA,6.0,Medium,Physical,High,None,Required,High,High,High,Ukraine,Education,46895,Exploited,No
+CVE-2022-70407,2022-02-01,Command Injection,Zimbra,Collaboration Suite,8.0,High,Local,Low,High,Required,Low,High,None,Nigeria,Telecom,47213,Resolved,Yes
+CVE-2022-13641,2022-10-02,Logic Flaw,Apple,macOS,7.6,High,Network,Low,Low,Required,High,None,High,Ukraine,Telecom,38226,Patched,Yes
+CVE-2022-58091,2022-08-29,Path Traversal,SAP,HANA,4.1,Medium,Physical,Low,None,Required,High,High,None,Turkey,IT,44864,Exploited,Yes
+CVE-2022-77981,2022-01-17,Buffer Overflow,Juniper,Junos,5.0,Medium,Adjacent,Low,None,Required,High,None,None,Nigeria,Education,23478,Patched,Yes
+CVE-2022-58255,2022-08-12,Zero-Day Exploit,Apache,Kafka,6.0,Medium,Network,High,High,Required,High,Low,High,Ukraine,Retail,7115,Under Investigation,No
+CVE-2022-49527,2022-08-24,XXE,Oracle,WebLogic,4.2,Medium,Network,Low,None,None,Low,None,Low,Pakistan,Finance,30943,Actively Exploited,No
+CVE-2022-63358,2022-09-09,Zero-Day Exploit,Fortinet,FortiOS,4.5,Medium,Network,High,None,Required,Low,High,High,Russia,Government,30594,Exploited,No
+CVE-2022-66999,2022-08-25,Ransomware,Atlassian,Bitbucket,1.1,Low,Network,Low,High,Required,None,None,None,India,Healthcare,46384,Actively Exploited,No
+CVE-2022-22205,2022-03-28,Command Injection,Oracle,WebLogic,5.4,Medium,Local,Low,High,Required,None,None,Low,Germany,Transport,24294,Actively Exploited,Yes
+CVE-2022-70788,2022-09-27,MITM,Drupal,Modules,4.0,Medium,Physical,Low,Low,Required,None,High,None,North Korea,Education,48861,Under Investigation,No
+CVE-2022-34885,2022-09-12,DoS/DDoS,F5,BIG-IP,4.4,Medium,Local,High,None,Required,High,Low,None,Nigeria,Healthcare,39568,Exploited,Yes
+CVE-2022-29352,2022-03-02,Buffer Overflow,VMware,Horizon,5.3,Medium,Network,Low,High,Required,Low,High,None,USA,Government,9897,Resolved,No
+CVE-2022-48952,2022-12-19,Command Injection,F5,BIG-IP,5.2,Medium,Network,High,None,None,High,High,High,Netherlands,Defense,37009,Resolved,No
+CVE-2022-86023,2022-05-04,Brute Force,WordPress,Plugins,9.8,Critical,Adjacent,High,None,None,None,None,Low,Russia,Manufacturing,28595,Exploited,Yes
+CVE-2022-25517,2022-11-13,DoS/DDoS,WordPress,Plugins,2.0,Low,Physical,Low,High,None,Low,High,None,UK,Education,22910,Patched,Yes
+CVE-2022-05499,2022-06-14,Command Injection,Microsoft,Exchange Server,4.3,Medium,Physical,Low,Low,Required,High,Low,High,Turkey,Finance,33474,Exploited,Yes
+CVE-2022-59500,2022-07-02,Logic Flaw,Linux,Kernel,8.6,High,Physical,Low,High,None,High,None,High,France,Finance,13467,Patched,No
+CVE-2022-70317,2022-07-22,Deserialization,Fortinet,FortiGate,0.3,Low,Local,High,None,Required,High,Low,None,UK,Finance,14903,Under Investigation,Yes
+CVE-2022-23156,2022-06-26,Privilege Escalation,Apple,iOS,9.5,Critical,Adjacent,Low,None,Required,None,None,None,India,Manufacturing,18611,Under Investigation,Yes
+CVE-2022-22333,2022-02-01,Ransomware,Fortinet,FortiGate,9.3,Critical,Local,Low,Low,Required,Low,High,Low,Turkey,Retail,30786,Patched,Yes
+CVE-2022-81678,2022-09-09,Buffer Overflow,Apple,Safari,7.9,High,Adjacent,High,Low,Required,None,None,High,Romania,Government,47920,Patched,No
+CVE-2022-68500,2022-09-13,SSRF,VMware,vCenter,3.6,Low,Adjacent,High,High,Required,None,High,None,Netherlands,Energy,24585,Resolved,No
+CVE-2022-76500,2022-08-20,Deserialization,Palo Alto,GlobalProtect,0.8,Low,Network,Low,Low,None,None,Low,None,India,Education,19980,Patched,No
+CVE-2022-30446,2022-06-27,Deserialization,Atlassian,Jira,8.6,High,Network,High,High,None,Low,None,High,Russia,Finance,34334,Resolved,No
+CVE-2022-86493,2022-09-12,Zero-Day Exploit,Apache,Kafka,6.6,Medium,Physical,Low,Low,None,None,Low,None,USA,IT,38535,Actively Exploited,No
+CVE-2022-57608,2022-09-29,XSS,Cisco,AnyConnect,3.7,Low,Network,High,None,None,High,Low,Low,Brazil,Defense,37543,Actively Exploited,No
+CVE-2022-44173,2022-04-15,RCE,Zimbra,Collaboration Suite,0.0,None,Local,High,Low,None,None,None,Low,Romania,IT,33568,Actively Exploited,No
+CVE-2022-38761,2022-09-14,CSRF,IBM,MQ,7.7,High,Physical,Low,High,Required,High,None,None,USA,IT,45450,Under Investigation,Yes
+CVE-2022-97963,2022-09-25,Ransomware,Microsoft,Azure AD,6.9,Medium,Local,Low,Low,None,None,High,High,Germany,Finance,22389,Exploited,No
+CVE-2022-59832,2022-03-30,Zero-Day Exploit,Atlassian,Bitbucket,4.5,Medium,Adjacent,Low,None,None,High,None,None,Iran,Telecom,35735,Patched,No
+CVE-2022-67388,2022-01-05,Ransomware,Juniper,Junos,10.0,Critical,Network,High,Low,Required,Low,None,Low,China,Defense,13763,Resolved,No
+CVE-2022-64406,2022-06-21,Privilege Escalation,Atlassian,Bitbucket,9.4,Critical,Local,Low,None,None,Low,None,None,Iran,Defense,46192,Under Investigation,No
+CVE-2022-50957,2022-03-09,XSS,Adobe,ColdFusion,4.2,Medium,Physical,Low,Low,None,High,None,None,Netherlands,Education,32187,Resolved,Yes
+CVE-2022-78559,2022-09-16,SQL Injection,WordPress,Plugins,0.5,Low,Local,Low,High,None,Low,Low,High,Germany,Defense,28973,Under Investigation,No
+CVE-2022-80778,2022-11-06,Path Traversal,Google,Android,6.6,Medium,Adjacent,Low,High,None,None,Low,Low,Iran,Energy,42448,Actively Exploited,No
+CVE-2022-66334,2022-02-20,Phishing,IBM,MQ,2.8,Low,Physical,Low,Low,None,Low,None,High,Brazil,Manufacturing,30424,Patched,Yes
+CVE-2022-07733,2022-10-31,Deserialization,Apple,Safari,4.0,Medium,Adjacent,High,High,None,High,High,High,Russia,Retail,40985,Patched,Yes
+CVE-2022-81512,2022-02-25,CSRF,Nginx,Nginx,1.2,Low,Adjacent,Low,High,None,None,Low,Low,Canada,Education,47705,Exploited,No
+CVE-2022-23818,2022-05-15,Logic Flaw,Palo Alto,GlobalProtect,8.3,High,Adjacent,High,Low,None,High,None,Low,Pakistan,IT,11833,Resolved,No
+CVE-2022-27315,2022-10-30,Path Traversal,F5,BIG-IP,7.0,High,Adjacent,Low,None,Required,None,High,Low,Brazil,Retail,30729,Patched,Yes
+CVE-2022-64332,2022-07-02,Buffer Overflow,Adobe,Flash,0.9,Low,Network,Low,Low,None,High,High,None,UK,IT,9363,Exploited,Yes
+CVE-2022-05651,2022-05-27,Credential Stuffing,Oracle,E-Business Suite,7.0,High,Physical,High,Low,Required,None,None,Low,South Korea,Transport,39880,Under Investigation,Yes
+CVE-2022-10198,2022-03-21,XSS,Apple,macOS,5.6,Medium,Local,High,Low,None,None,High,High,North Korea,Finance,36753,Actively Exploited,No
+CVE-2022-08430,2022-04-26,XXE,Palo Alto,PAN-OS,0.0,None,Network,Low,Low,Required,None,High,Low,Germany,Retail,14575,Exploited,Yes
+CVE-2022-50453,2022-06-15,Ransomware,Drupal,Modules,7.6,High,Local,Low,High,Required,Low,High,Low,UK,IT,8211,Under Investigation,No
+CVE-2022-27519,2022-09-18,CSRF,Atlassian,Jira,4.5,Medium,Local,Low,None,Required,Low,High,Low,Brazil,Government,23226,Patched,Yes
+CVE-2022-44866,2022-03-11,Privilege Escalation,Oracle,E-Business Suite,2.9,Low,Physical,Low,High,None,High,Low,Low,Ukraine,Finance,7204,Patched,No
+CVE-2022-23709,2022-06-17,Command Injection,Google,Android,7.3,High,Adjacent,High,Low,None,High,Low,None,Germany,Government,7941,Actively Exploited,No
+CVE-2022-21803,2022-04-04,Logic Flaw,SAP,Business One,3.4,Low,Physical,Low,Low,None,Low,Low,High,Ukraine,Telecom,48691,Patched,No
+CVE-2022-40154,2022-07-09,Deserialization,IBM,MQ,7.9,High,Physical,Low,Low,Required,Low,None,High,Brazil,Defense,29322,Under Investigation,Yes
+CVE-2022-31374,2022-11-24,XSS,Fortinet,FortiGate,3.1,Low,Local,High,Low,None,Low,Low,Low,Canada,Energy,24496,Resolved,No
+CVE-2022-12873,2022-11-04,Command Injection,Cisco,Webex,3.1,Low,Local,High,None,None,High,None,None,Nigeria,Telecom,27083,Under Investigation,No
+CVE-2022-22511,2022-09-16,Buffer Overflow,F5,BIG-IP,5.9,Medium,Local,High,Low,Required,Low,High,None,Iran,Transport,6693,Under Investigation,No
+CVE-2022-78877,2022-06-17,DoS/DDoS,Juniper,Junos,0.2,Low,Physical,High,High,Required,High,None,Low,Canada,Manufacturing,47741,Under Investigation,No
+CVE-2022-93972,2022-11-13,CSRF,SAP,Business One,6.8,Medium,Adjacent,Low,High,Required,None,Low,None,Russia,Finance,45278,Exploited,Yes
+CVE-2022-75189,2022-12-17,XXE,IBM,QRadar,8.3,High,Physical,Low,Low,None,High,None,High,Iran,Healthcare,3857,Patched,No
+CVE-2022-85409,2022-12-10,XXE,Microsoft,SharePoint,0.0,None,Local,Low,Low,Required,High,Low,High,Netherlands,Education,43950,Resolved,Yes
+CVE-2022-63963,2022-02-23,Path Traversal,F5,BIG-IP,4.9,Medium,Network,High,None,Required,None,High,High,Vietnam,Healthcare,48369,Actively Exploited,Yes
+CVE-2022-99556,2022-12-13,CSRF,Fortinet,FortiGate,8.2,High,Local,High,None,Required,None,Low,High,Brazil,Retail,8744,Under Investigation,No
+CVE-2022-51330,2022-11-10,Phishing,Adobe,Acrobat,8.6,High,Local,High,None,Required,High,None,High,Netherlands,Defense,22641,Resolved,Yes
+CVE-2022-25250,2022-12-28,MITM,Cisco,AnyConnect,4.7,Medium,Local,Low,Low,Required,None,High,None,Pakistan,Transport,20112,Actively Exploited,No
+CVE-2022-42430,2022-04-19,MITM,Apache,Tomcat,5.8,Medium,Network,Low,High,None,None,None,High,Iran,Telecom,10536,Exploited,No
+CVE-2022-30192,2022-09-08,DoS/DDoS,Nginx,Nginx,7.6,High,Network,High,Low,None,None,None,Low,Pakistan,Education,6832,Resolved,Yes
+CVE-2022-71210,2022-05-07,Phishing,Nginx,Nginx,7.6,High,Local,High,None,Required,High,None,High,Romania,Healthcare,45640,Patched,Yes
+CVE-2022-63519,2022-05-25,Path Traversal,Adobe,Flash,4.3,Medium,Physical,Low,None,Required,None,None,High,USA,Energy,21734,Actively Exploited,No
+CVE-2022-12893,2022-12-13,Privilege Escalation,Nginx,Nginx,0.1,Low,Adjacent,High,High,Required,None,High,None,Pakistan,Government,21326,Under Investigation,Yes
+CVE-2022-28321,2022-08-09,Deserialization,Google,Workspace,0.2,Low,Adjacent,Low,Low,None,None,None,High,France,Government,21889,Under Investigation,No
+CVE-2022-98575,2022-01-03,Deserialization,F5,BIG-IP,0.2,Low,Network,High,High,None,None,High,High,Russia,IT,25397,Resolved,Yes
+CVE-2022-41236,2022-02-20,Deserialization,WordPress,Plugins,9.5,Critical,Network,Low,High,Required,Low,High,Low,Vietnam,IT,40000,Patched,No
+CVE-2022-17100,2022-08-26,Logic Flaw,Cisco,IOS,6.5,Medium,Local,Low,Low,Required,None,None,None,USA,Energy,48872,Patched,Yes
+CVE-2022-91739,2022-10-29,SQL Injection,Apache,Struts,4.7,Medium,Network,High,Low,None,Low,Low,None,North Korea,Transport,26374,Exploited,No
+CVE-2022-14554,2022-11-24,Command Injection,Drupal,Core,3.9,Low,Physical,High,High,Required,None,High,None,Romania,IT,688,Exploited,Yes
+CVE-2022-88274,2022-08-16,SSRF,IBM,MQ,4.7,Medium,Network,High,None,Required,None,Low,Low,Nigeria,Education,34932,Exploited,No
+CVE-2022-25615,2022-09-20,Deserialization,WordPress,Plugins,7.6,High,Local,Low,None,Required,None,Low,Low,India,Transport,20330,Under Investigation,Yes
+CVE-2022-80287,2022-10-16,SQL Injection,Oracle,Java SE,3.5,Low,Adjacent,Low,None,None,High,High,Low,Ukraine,Healthcare,42763,Actively Exploited,Yes
+CVE-2022-67581,2022-12-08,Ransomware,Cisco,AnyConnect,9.2,Critical,Physical,High,None,Required,None,High,Low,Iran,Retail,37213,Resolved,No
+CVE-2022-24727,2022-11-09,Buffer Overflow,Juniper,Junos,2.9,Low,Physical,High,None,Required,Low,None,High,Romania,Telecom,5744,Actively Exploited,No
+CVE-2022-95574,2022-05-06,MITM,Microsoft,Azure AD,9.4,Critical,Physical,Low,High,Required,None,None,Low,Ukraine,Transport,26415,Actively Exploited,No
+CVE-2022-85697,2022-05-23,Logic Flaw,SAP,NetWeaver,7.8,High,Network,Low,None,None,High,High,High,Vietnam,Education,15792,Patched,No
+CVE-2022-95338,2022-08-31,SSRF,Cisco,Firepower,1.5,Low,Physical,Low,Low,None,Low,None,Low,USA,Telecom,40098,Patched,Yes
+CVE-2022-43306,2022-03-01,Command Injection,Nginx,Nginx,8.1,High,Physical,High,None,Required,None,High,None,Pakistan,Retail,25735,Under Investigation,No
+CVE-2022-32055,2022-11-27,Privilege Escalation,Atlassian,Confluence,6.7,Medium,Adjacent,Low,Low,Required,High,Low,High,Pakistan,Healthcare,7437,Resolved,Yes
+CVE-2022-81499,2022-09-10,Zero-Day Exploit,SAP,HANA,9.1,Critical,Adjacent,Low,High,Required,High,None,Low,Indonesia,Healthcare,21878,Patched,Yes
+CVE-2022-25326,2022-01-08,Path Traversal,Zimbra,Collaboration Suite,0.1,Low,Physical,High,Low,Required,Low,None,High,Netherlands,Education,29082,Patched,Yes
+CVE-2022-05093,2022-01-19,Buffer Overflow,Microsoft,Azure AD,7.3,High,Physical,High,None,None,High,High,None,Indonesia,Energy,2542,Resolved,Yes
+CVE-2022-71578,2022-03-09,SSRF,Atlassian,Bitbucket,5.1,Medium,Network,High,High,Required,None,Low,Low,Brazil,Education,37536,Under Investigation,No
+CVE-2022-06355,2022-12-21,XXE,WordPress,Plugins,10.0,Critical,Network,Low,Low,None,High,Low,High,Ukraine,Retail,22437,Actively Exploited,No
+CVE-2022-59509,2022-08-17,Privilege Escalation,F5,BIG-IP,9.3,Critical,Local,High,High,None,Low,Low,None,Indonesia,Manufacturing,11089,Exploited,No
+CVE-2022-81768,2022-05-27,XXE,Atlassian,Confluence,8.6,High,Network,Low,High,Required,Low,None,Low,Germany,Finance,6635,Actively Exploited,No
+CVE-2022-29818,2022-09-26,CSRF,Linux,glibc,6.3,Medium,Local,High,High,None,High,None,None,Netherlands,Telecom,26900,Under Investigation,Yes
+CVE-2022-59249,2022-03-03,Phishing,Zimbra,Collaboration Suite,9.0,Critical,Local,Low,Low,None,None,None,Low,India,Government,1716,Resolved,No
+CVE-2022-53033,2022-03-29,Logic Flaw,Google,Chrome,3.8,Low,Physical,High,High,None,Low,Low,High,France,Government,42162,Under Investigation,No
+CVE-2022-12683,2022-06-23,DoS/DDoS,Google,Chrome,3.3,Low,Adjacent,High,High,None,Low,Low,High,Iran,IT,37764,Under Investigation,No
+CVE-2022-10504,2022-07-31,DoS/DDoS,Adobe,Flash,4.6,Medium,Local,High,High,Required,Low,High,Low,South Korea,Defense,13831,Exploited,Yes
+CVE-2022-99017,2022-09-15,Deserialization,Juniper,Junos,6.7,Medium,Adjacent,Low,None,Required,None,None,None,France,Transport,46460,Patched,No
+CVE-2022-38126,2022-05-09,Deserialization,Apache,Kafka,6.4,Medium,Network,Low,None,None,Low,Low,None,USA,IT,31131,Patched,Yes
+CVE-2022-01890,2022-12-20,Privilege Escalation,Linux,systemd,3.6,Low,Adjacent,Low,None,None,None,Low,High,Germany,Finance,12577,Patched,Yes
+CVE-2022-53809,2022-02-17,Zero-Day Exploit,Juniper,Junos,8.5,High,Network,High,High,None,Low,High,High,Ukraine,Defense,3358,Under Investigation,Yes
+CVE-2022-37241,2022-03-21,DoS/DDoS,Juniper,Junos,2.5,Low,Adjacent,High,High,None,None,High,High,Iran,Finance,47521,Under Investigation,No
+CVE-2022-27497,2022-08-11,Zero-Day Exploit,F5,BIG-IP,6.7,Medium,Physical,Low,High,Required,Low,None,None,Indonesia,Transport,29662,Patched,Yes
+CVE-2022-16580,2022-10-23,Path Traversal,Zimbra,Collaboration Suite,5.4,Medium,Local,Low,Low,Required,Low,None,None,Ukraine,Education,8104,Exploited,Yes
+CVE-2022-70169,2022-12-28,Zero-Day Exploit,Juniper,Junos,3.4,Low,Physical,Low,Low,Required,None,None,None,Pakistan,Defense,798,Resolved,No
+CVE-2022-06865,2022-06-14,Buffer Overflow,Apache,Struts,8.1,High,Local,High,High,Required,None,High,High,Pakistan,Healthcare,34908,Patched,No
+CVE-2022-88920,2022-01-05,Logic Flaw,Juniper,Junos,2.2,Low,Physical,High,High,None,Low,High,Low,Germany,Healthcare,49793,Actively Exploited,Yes
+CVE-2022-81474,2022-02-27,Path Traversal,Apple,iOS,8.1,High,Local,Low,High,None,High,High,Low,UK,Retail,47188,Under Investigation,No
+CVE-2022-07398,2022-07-29,Privilege Escalation,VMware,Workstation,5.2,Medium,Physical,High,Low,None,High,High,Low,USA,Manufacturing,33370,Under Investigation,No
+CVE-2022-45793,2022-12-16,SQL Injection,Apple,Safari,2.5,Low,Adjacent,Low,Low,Required,None,High,None,Ukraine,Education,36676,Resolved,Yes
+CVE-2022-71562,2022-03-18,Brute Force,Apple,iOS,7.0,High,Adjacent,High,None,None,None,None,None,Ukraine,Retail,13031,Actively Exploited,Yes
+CVE-2022-61251,2022-09-14,SSRF,Drupal,Modules,5.5,Medium,Network,Low,None,None,Low,None,High,China,Manufacturing,8142,Actively Exploited,Yes
+CVE-2022-73500,2022-10-16,SQL Injection,VMware,ESXi,9.2,Critical,Adjacent,Low,None,Required,High,High,None,China,IT,12251,Actively Exploited,No
+CVE-2022-87221,2022-12-27,Brute Force,Oracle,Java SE,5.8,Medium,Local,Low,High,Required,Low,High,None,France,Energy,32896,Exploited,No
+CVE-2022-65870,2022-01-16,Credential Stuffing,Oracle,WebLogic,6.3,Medium,Local,High,Low,None,None,High,Low,Canada,IT,32583,Exploited,No
+CVE-2022-64128,2022-03-29,Logic Flaw,Oracle,Database,8.5,High,Physical,High,None,Required,None,None,None,Pakistan,Transport,15931,Actively Exploited,No
+CVE-2022-44441,2022-08-11,Privilege Escalation,Cisco,ASA,8.3,High,Local,High,None,None,High,None,Low,Russia,Healthcare,44601,Exploited,No
+CVE-2022-36083,2022-07-08,XXE,Zimbra,Collaboration Suite,5.5,Medium,Physical,Low,High,Required,None,High,Low,Romania,Retail,31930,Resolved,Yes
+CVE-2022-08491,2022-05-31,Command Injection,SAP,Business One,2.2,Low,Physical,High,None,None,Low,Low,High,Brazil,Healthcare,33101,Exploited,Yes
+CVE-2022-26938,2022-05-20,CSRF,Apache,Tomcat,4.7,Medium,Network,Low,None,None,None,High,None,Indonesia,Telecom,22125,Exploited,Yes
+CVE-2022-92400,2022-08-07,XXE,Adobe,Photoshop,2.5,Low,Adjacent,High,High,None,High,High,High,Vietnam,Telecom,1961,Under Investigation,Yes
+CVE-2022-23723,2022-06-29,Path Traversal,VMware,Workstation,5.2,Medium,Network,Low,High,None,Low,None,High,Netherlands,Transport,19031,Patched,Yes
+CVE-2022-78481,2022-08-31,DoS/DDoS,Linux,Kernel,7.2,High,Adjacent,Low,High,None,Low,High,Low,Russia,Finance,19769,Exploited,Yes
+CVE-2022-54917,2022-07-04,CSRF,Adobe,Flash,8.0,High,Local,Low,Low,None,Low,Low,None,Pakistan,Healthcare,47275,Under Investigation,No
+CVE-2022-46462,2022-05-02,RCE,Nginx,Nginx,5.6,Medium,Local,High,None,Required,None,None,High,Indonesia,Healthcare,2685,Patched,Yes
+CVE-2022-61332,2022-06-15,DoS/DDoS,Linux,glibc,9.0,Critical,Local,High,High,None,Low,Low,Low,Vietnam,IT,20004,Actively Exploited,No
+CVE-2022-82154,2022-05-12,Credential Stuffing,Adobe,Acrobat,0.1,Low,Local,High,None,None,Low,High,None,France,IT,47074,Actively Exploited,Yes
+CVE-2022-25526,2022-12-04,Privilege Escalation,Microsoft,SharePoint,6.3,Medium,Physical,High,Low,Required,High,Low,None,Brazil,Manufacturing,38245,Patched,No
+CVE-2022-70174,2022-12-24,Ransomware,Oracle,WebLogic,0.2,Low,Adjacent,High,None,None,High,Low,None,India,Transport,1111,Exploited,Yes
+CVE-2022-28084,2022-07-14,Brute Force,Atlassian,Bitbucket,1.1,Low,Adjacent,Low,Low,None,High,High,None,Ukraine,Education,48684,Resolved,No
+CVE-2022-95278,2022-03-29,Privilege Escalation,Nginx,Nginx,6.5,Medium,Physical,Low,None,None,Low,None,High,UK,Government,18696,Patched,Yes
+CVE-2022-97841,2022-04-23,RCE,Apache,Log4j,3.3,Low,Physical,Low,Low,None,Low,Low,None,Germany,Healthcare,25038,Patched,No
+CVE-2022-70215,2022-01-29,Credential Stuffing,Juniper,Junos,6.5,Medium,Adjacent,Low,High,Required,High,High,High,Romania,Education,32918,Patched,No
+CVE-2022-63685,2022-11-09,CSRF,SAP,HANA,3.6,Low,Network,Low,None,Required,High,High,None,Russia,Finance,15269,Actively Exploited,Yes
+CVE-2022-83923,2022-04-08,Deserialization,F5,BIG-IP,4.5,Medium,Local,High,None,Required,High,None,None,UK,Education,34081,Under Investigation,No
+CVE-2022-84297,2022-11-08,DoS/DDoS,Google,Android,5.7,Medium,Network,High,Low,None,None,High,High,Ukraine,Government,11154,Under Investigation,No
+CVE-2022-37207,2022-10-24,Phishing,Fortinet,FortiOS,6.0,Medium,Physical,High,Low,Required,Low,Low,Low,Indonesia,Manufacturing,17558,Exploited,No
+CVE-2022-62824,2022-11-04,Brute Force,VMware,vCenter,4.9,Medium,Network,High,Low,Required,Low,None,None,USA,Retail,16441,Resolved,No
+CVE-2022-20358,2022-09-28,CSRF,Nginx,Nginx,1.2,Low,Adjacent,Low,Low,Required,High,High,Low,South Korea,Retail,9236,Resolved,Yes
+CVE-2022-97613,2022-01-11,Ransomware,Microsoft,Azure AD,2.8,Low,Network,High,None,None,None,Low,Low,Nigeria,Transport,2071,Patched,Yes
+CVE-2022-27059,2022-05-15,Credential Stuffing,F5,BIG-IP,3.3,Low,Adjacent,High,High,None,None,None,Low,Iran,Energy,49199,Resolved,No
+CVE-2022-20023,2022-08-21,RCE,SAP,NetWeaver,0.2,Low,Local,Low,Low,Required,None,Low,None,China,Finance,23905,Exploited,Yes
+CVE-2022-89003,2022-03-01,MITM,Palo Alto,GlobalProtect,1.8,Low,Network,High,None,Required,Low,None,High,Brazil,Healthcare,25435,Actively Exploited,Yes
+CVE-2022-85269,2022-11-20,Deserialization,Google,Chrome,2.2,Low,Adjacent,Low,None,None,Low,Low,Low,Romania,Healthcare,35232,Resolved,No
+CVE-2022-07855,2022-08-19,SSRF,Atlassian,Confluence,2.3,Low,Physical,High,Low,Required,None,High,High,Turkey,Manufacturing,35006,Exploited,Yes
+CVE-2022-35835,2022-12-12,XXE,Oracle,Java SE,7.9,High,Adjacent,High,Low,None,None,Low,None,Russia,IT,9597,Resolved,Yes
+CVE-2022-00093,2022-07-23,Zero-Day Exploit,Linux,glibc,1.7,Low,Network,Low,Low,None,None,High,None,Canada,Manufacturing,37649,Under Investigation,No
+CVE-2022-70560,2022-08-17,XXE,Drupal,Core,4.0,Medium,Physical,High,High,Required,High,None,High,Romania,IT,40574,Exploited,No
+CVE-2022-22470,2022-09-16,Privilege Escalation,Cisco,ASA,4.0,Medium,Local,High,None,Required,None,None,High,Canada,Transport,45585,Resolved,No
+CVE-2022-85855,2022-05-16,Deserialization,Nginx,Nginx,0.4,Low,Network,Low,Low,None,None,High,High,USA,IT,714,Under Investigation,No
+CVE-2022-99176,2022-11-11,Phishing,SAP,HANA,8.5,High,Network,High,High,None,High,Low,High,Brazil,Education,27129,Actively Exploited,Yes
+CVE-2022-13874,2022-02-18,XXE,IBM,WebSphere,1.4,Low,Local,Low,High,None,None,Low,High,UK,Government,20453,Exploited,No
+CVE-2022-21280,2022-06-21,XXE,Apache,Tomcat,4.4,Medium,Local,High,High,None,High,None,High,Canada,Manufacturing,39241,Actively Exploited,No
+CVE-2022-97531,2022-08-08,DoS/DDoS,Atlassian,Jira,9.3,Critical,Physical,Low,None,None,High,Low,High,Turkey,Education,24905,Actively Exploited,No
+CVE-2022-03344,2022-05-01,Command Injection,Atlassian,Confluence,0.9,Low,Physical,Low,High,None,High,Low,High,Pakistan,Transport,4324,Actively Exploited,No
+CVE-2022-16455,2022-07-14,Brute Force,Zimbra,Collaboration Suite,8.9,High,Adjacent,Low,None,None,None,None,High,China,Transport,8260,Exploited,No
+CVE-2022-64390,2022-09-07,Ransomware,IBM,MQ,6.8,Medium,Adjacent,Low,None,None,High,Low,Low,South Korea,IT,35641,Under Investigation,Yes
+CVE-2022-80687,2022-03-11,Phishing,SAP,Business One,4.8,Medium,Local,High,High,None,None,Low,None,UK,Retail,147,Exploited,Yes
+CVE-2022-52624,2022-10-01,RCE,WordPress,Plugins,5.7,Medium,Adjacent,Low,High,None,Low,High,High,Netherlands,Government,37891,Under Investigation,No
+CVE-2022-05493,2022-12-17,Deserialization,F5,BIG-IP,2.1,Low,Physical,Low,None,None,Low,Low,None,Romania,Government,35329,Under Investigation,Yes
+CVE-2022-24040,2022-04-02,Logic Flaw,Fortinet,FortiOS,3.9,Low,Adjacent,Low,High,Required,None,High,High,Netherlands,Healthcare,48265,Resolved,Yes
+CVE-2022-23174,2022-11-18,Zero-Day Exploit,Drupal,Core,1.3,Low,Local,High,High,Required,High,Low,Low,Netherlands,Education,9961,Under Investigation,No
+CVE-2022-33477,2022-06-13,XXE,SAP,Business One,7.3,High,Local,Low,Low,None,None,Low,High,China,Transport,11539,Patched,No
+CVE-2022-23766,2022-12-14,RCE,IBM,WebSphere,1.1,Low,Physical,High,High,None,None,High,Low,Nigeria,Energy,11827,Actively Exploited,No
+CVE-2022-59297,2022-08-06,Command Injection,Nginx,Nginx,9.7,Critical,Physical,High,None,None,None,Low,Low,France,Government,46388,Patched,No
+CVE-2022-95433,2022-04-23,Deserialization,Fortinet,FortiGate,6.3,Medium,Local,Low,Low,None,None,None,Low,Pakistan,Telecom,38921,Patched,No
+CVE-2022-41864,2022-05-02,DoS/DDoS,WordPress,Plugins,5.6,Medium,Adjacent,High,None,None,High,Low,High,South Korea,Retail,36460,Under Investigation,Yes
+CVE-2022-40302,2022-08-06,MITM,Oracle,Java SE,9.4,Critical,Network,High,None,None,High,None,None,Germany,Finance,15793,Patched,No
+CVE-2022-17609,2022-01-17,SSRF,Fortinet,FortiGate,5.2,Medium,Local,Low,Low,None,Low,Low,Low,Canada,Energy,23762,Patched,Yes
+CVE-2022-25729,2022-09-17,Buffer Overflow,Nginx,Nginx,7.3,High,Adjacent,Low,None,Required,Low,Low,Low,Romania,Finance,3016,Actively Exploited,Yes
+CVE-2022-12443,2022-11-05,Logic Flaw,VMware,vCenter,6.8,Medium,Local,Low,Low,Required,None,High,High,Nigeria,IT,16193,Exploited,Yes
+CVE-2022-87804,2022-10-10,Buffer Overflow,Apple,Safari,3.8,Low,Network,High,None,None,High,Low,None,Brazil,Transport,41533,Actively Exploited,No
+CVE-2022-85624,2022-04-12,XXE,Apache,Struts,7.8,High,Network,Low,None,None,None,High,High,Nigeria,Education,35775,Actively Exploited,No
+CVE-2022-29504,2022-06-01,XSS,Google,Android,6.0,Medium,Physical,High,Low,Required,None,None,Low,Ukraine,Transport,2921,Exploited,Yes
+CVE-2022-38723,2022-05-06,SQL Injection,Zimbra,Collaboration Suite,1.3,Low,Physical,High,High,Required,High,High,High,Netherlands,Energy,16092,Exploited,Yes
+CVE-2022-75950,2022-07-29,Phishing,Drupal,Core,0.2,Low,Network,Low,Low,Required,High,None,None,France,Retail,937,Exploited,No
+CVE-2022-46023,2022-01-19,Deserialization,Microsoft,Office,0.2,Low,Physical,High,Low,None,Low,None,None,Romania,Transport,43338,Patched,Yes
+CVE-2022-80936,2022-09-03,SSRF,Google,Android,6.2,Medium,Adjacent,Low,None,None,Low,High,None,Ukraine,Healthcare,454,Under Investigation,Yes
+CVE-2022-70600,2022-03-01,SQL Injection,SAP,Business One,8.5,High,Local,High,High,None,Low,Low,High,Nigeria,Energy,6345,Resolved,Yes
+CVE-2022-06712,2022-07-15,Command Injection,Nginx,Nginx,6.2,Medium,Network,High,Low,None,None,None,High,North Korea,Defense,16343,Under Investigation,Yes
+CVE-2022-18114,2022-06-25,Credential Stuffing,Palo Alto,GlobalProtect,2.8,Low,Network,High,Low,Required,Low,Low,High,South Korea,Healthcare,17912,Actively Exploited,Yes
+CVE-2022-90331,2022-09-11,Deserialization,Fortinet,FortiManager,4.6,Medium,Local,Low,Low,None,High,None,High,India,Manufacturing,12277,Resolved,No
+CVE-2022-57562,2022-06-09,XSS,F5,BIG-IP,9.5,Critical,Physical,High,High,None,High,None,Low,Russia,Defense,7258,Exploited,Yes
+CVE-2022-44062,2022-11-11,Path Traversal,Palo Alto,GlobalProtect,5.5,Medium,Adjacent,Low,None,None,None,Low,None,Netherlands,Telecom,34436,Exploited,No
+CVE-2022-06440,2022-01-11,Credential Stuffing,Apple,macOS,8.3,High,Network,Low,None,Required,High,None,High,Romania,Retail,18170,Patched,No
+CVE-2022-62483,2022-07-28,Credential Stuffing,F5,BIG-IP,2.4,Low,Adjacent,High,None,Required,High,Low,Low,South Korea,Transport,14786,Under Investigation,No
+CVE-2022-65908,2022-08-13,SQL Injection,Cisco,Webex,6.2,Medium,Adjacent,High,None,Required,Low,None,Low,Turkey,Retail,41221,Exploited,Yes
+CVE-2022-75350,2022-02-11,Logic Flaw,Nginx,Nginx,0.4,Low,Adjacent,High,None,None,None,High,Low,Russia,IT,30689,Actively Exploited,No
+CVE-2022-78435,2022-09-02,Logic Flaw,Fortinet,FortiManager,4.5,Medium,Local,Low,Low,None,None,High,Low,Vietnam,Manufacturing,19438,Resolved,No
+CVE-2022-81065,2022-09-16,MITM,SAP,Business One,6.9,Medium,Network,High,High,Required,None,Low,High,Iran,Energy,7601,Exploited,Yes
+CVE-2022-88481,2022-10-09,MITM,Microsoft,Exchange Server,4.4,Medium,Local,Low,None,Required,None,None,Low,Pakistan,Healthcare,4383,Resolved,No
+CVE-2022-25079,2022-12-11,Brute Force,WordPress,Plugins,6.7,Medium,Local,Low,High,Required,High,Low,None,South Korea,Defense,30284,Patched,Yes
+CVE-2022-57681,2022-04-09,Command Injection,Cisco,AnyConnect,0.3,Low,Adjacent,High,High,None,Low,High,High,UK,Retail,3873,Patched,No
+CVE-2022-71997,2022-07-05,XXE,Oracle,Database,1.8,Low,Network,High,Low,None,Low,High,None,China,Retail,29964,Resolved,No
+CVE-2022-20755,2022-10-29,Brute Force,Atlassian,Bitbucket,2.5,Low,Adjacent,Low,None,Required,None,None,Low,Netherlands,Retail,3552,Under Investigation,Yes
+CVE-2022-83055,2022-08-01,XSS,IBM,WebSphere,7.4,High,Physical,High,Low,None,None,None,High,Indonesia,Manufacturing,17578,Resolved,No
+CVE-2022-12874,2022-07-27,SQL Injection,Cisco,AnyConnect,5.3,Medium,Adjacent,High,Low,None,High,Low,Low,Canada,Government,17880,Resolved,No
+CVE-2022-75910,2022-06-28,MITM,VMware,Workstation,2.0,Low,Adjacent,Low,Low,Required,Low,High,Low,UK,Transport,45290,Patched,No
+CVE-2022-35584,2022-09-26,Zero-Day Exploit,Fortinet,FortiManager,6.9,Medium,Physical,High,None,Required,High,Low,None,North Korea,Government,9666,Actively Exploited,Yes
+CVE-2022-31432,2022-03-08,SSRF,Oracle,E-Business Suite,5.4,Medium,Physical,High,High,None,High,None,High,Germany,Telecom,13868,Under Investigation,No
+CVE-2022-23225,2022-08-13,Phishing,Atlassian,Jira,2.5,Low,Local,Low,High,Required,Low,None,High,Indonesia,Government,22822,Exploited,No
+CVE-2022-21687,2022-07-03,Command Injection,IBM,QRadar,5.8,Medium,Adjacent,High,High,None,Low,None,None,North Korea,Manufacturing,42529,Under Investigation,No
+CVE-2022-09647,2022-05-03,Logic Flaw,Zimbra,Collaboration Suite,1.8,Low,Local,Low,None,None,Low,Low,High,Ukraine,Manufacturing,11041,Actively Exploited,No
+CVE-2022-04011,2022-06-23,SQL Injection,Fortinet,FortiManager,3.8,Low,Adjacent,Low,Low,Required,Low,High,Low,France,Education,28010,Exploited,No
+CVE-2022-31209,2022-03-13,CSRF,Cisco,Webex,8.9,High,Local,High,None,None,High,None,High,South Korea,Healthcare,41940,Actively Exploited,No
+CVE-2022-11290,2022-01-29,XSS,Apple,Safari,0.4,Low,Network,High,None,Required,Low,Low,High,Turkey,Energy,34454,Under Investigation,Yes
+CVE-2022-97402,2022-07-10,Phishing,Apple,Safari,1.1,Low,Adjacent,Low,None,Required,None,High,None,UK,Transport,38699,Resolved,Yes
+CVE-2022-67924,2022-03-25,DoS/DDoS,Linux,systemd,2.3,Low,Physical,Low,Low,Required,None,High,Low,Indonesia,Healthcare,3237,Patched,Yes
+CVE-2022-75891,2022-12-01,XXE,Apache,Tomcat,1.9,Low,Network,High,Low,Required,None,None,Low,Canada,Energy,48808,Under Investigation,Yes
+CVE-2022-18076,2022-07-31,SQL Injection,VMware,vCenter,9.4,Critical,Network,High,Low,None,None,High,Low,France,Defense,9894,Resolved,No
+CVE-2022-41281,2022-05-30,Zero-Day Exploit,Oracle,WebLogic,2.6,Low,Local,High,Low,None,Low,High,None,Pakistan,Transport,38919,Actively Exploited,No
+CVE-2022-49743,2022-06-17,CSRF,WordPress,Core,1.1,Low,Physical,Low,Low,Required,High,Low,None,Canada,Transport,27086,Patched,Yes
+CVE-2022-29075,2022-11-28,Buffer Overflow,Palo Alto,PAN-OS,3.1,Low,Network,High,High,None,None,High,Low,Iran,Retail,18397,Patched,No
+CVE-2022-00785,2022-12-09,Logic Flaw,Apache,Tomcat,1.1,Low,Local,High,Low,Required,None,Low,None,South Korea,Healthcare,16075,Under Investigation,No
+CVE-2022-57750,2022-04-06,DoS/DDoS,Adobe,Flash,4.2,Medium,Adjacent,Low,High,Required,High,High,High,China,Energy,44317,Patched,Yes
+CVE-2022-59070,2022-04-06,Phishing,VMware,vCenter,8.1,High,Network,Low,High,Required,Low,Low,None,Romania,Government,6270,Under Investigation,Yes
+CVE-2022-36288,2022-12-20,Credential Stuffing,VMware,ESXi,2.4,Low,Network,Low,Low,None,High,None,Low,Canada,Retail,11894,Actively Exploited,Yes
+CVE-2022-99413,2022-05-10,XSS,Oracle,WebLogic,2.0,Low,Adjacent,Low,None,None,None,None,High,Nigeria,Education,20104,Resolved,No
+CVE-2022-97080,2022-05-19,Path Traversal,WordPress,Core,3.2,Low,Physical,High,None,Required,High,Low,High,Ukraine,Finance,45399,Exploited,No
+CVE-2022-10602,2022-05-20,RCE,Cisco,Webex,2.9,Low,Physical,Low,High,None,High,High,Low,North Korea,Healthcare,9521,Exploited,Yes
+CVE-2022-41362,2022-06-30,XSS,Drupal,Core,6.4,Medium,Adjacent,Low,None,None,High,High,None,Vietnam,IT,10359,Exploited,Yes
+CVE-2022-76125,2022-12-09,MITM,Cisco,AnyConnect,6.6,Medium,Network,High,None,Required,High,High,High,Brazil,Government,13611,Actively Exploited,No
+CVE-2022-06048,2022-05-12,DoS/DDoS,Zimbra,Collaboration Suite,3.9,Low,Network,Low,None,Required,High,Low,None,India,Retail,6872,Exploited,Yes
+CVE-2022-91671,2022-05-09,Command Injection,Atlassian,Bitbucket,4.6,Medium,Local,High,None,None,Low,Low,None,Netherlands,Manufacturing,7900,Actively Exploited,No
+CVE-2022-62852,2022-11-20,SSRF,Apple,iOS,3.7,Low,Local,High,Low,Required,Low,None,Low,Vietnam,Manufacturing,18399,Exploited,No
+CVE-2022-70391,2022-07-28,Privilege Escalation,Cisco,IOS,7.0,High,Adjacent,Low,Low,Required,Low,High,High,Iran,Manufacturing,39352,Under Investigation,Yes
+CVE-2022-85960,2022-07-02,Deserialization,Palo Alto,PAN-OS,1.3,Low,Network,High,Low,Required,None,None,High,North Korea,Defense,47689,Exploited,No
+CVE-2022-24614,2022-09-23,CSRF,SAP,Business One,3.4,Low,Local,Low,Low,None,High,High,Low,North Korea,Transport,33494,Patched,Yes
+CVE-2022-61203,2022-03-07,Deserialization,Google,Android,0.6,Low,Physical,High,High,Required,Low,High,Low,UK,Energy,26919,Under Investigation,No
+CVE-2022-60527,2022-12-27,XSS,Cisco,Firepower,0.5,Low,Network,Low,None,None,High,Low,Low,Brazil,Finance,3770,Under Investigation,No
+CVE-2022-25223,2022-10-16,Brute Force,Google,Chrome,4.8,Medium,Local,Low,High,Required,High,Low,High,Pakistan,Manufacturing,23177,Actively Exploited,Yes
+CVE-2022-32269,2022-06-20,Ransomware,Oracle,E-Business Suite,8.5,High,Local,High,Low,Required,Low,Low,High,South Korea,Defense,972,Actively Exploited,Yes
+CVE-2022-36582,2022-07-24,Buffer Overflow,Cisco,AnyConnect,10.0,Critical,Adjacent,Low,High,Required,Low,High,Low,Germany,Finance,32251,Resolved,No
+CVE-2022-20248,2022-07-13,XSS,VMware,Workstation,4.1,Medium,Physical,Low,Low,None,Low,High,High,Canada,IT,14478,Exploited,Yes
+CVE-2022-10693,2022-04-30,Zero-Day Exploit,Apple,iOS,4.3,Medium,Network,Low,Low,None,High,High,High,North Korea,Energy,30539,Exploited,Yes
+CVE-2022-38481,2022-10-06,Privilege Escalation,Drupal,Core,3.6,Low,Adjacent,High,None,None,High,High,None,Vietnam,Defense,45781,Resolved,No
+CVE-2022-88071,2022-10-08,Buffer Overflow,F5,BIG-IP,8.0,High,Physical,Low,Low,Required,Low,High,Low,India,Manufacturing,36685,Exploited,No
+CVE-2022-20924,2022-06-24,Path Traversal,Juniper,Junos,7.0,High,Physical,High,None,Required,Low,Low,Low,Vietnam,Retail,45577,Resolved,No
+CVE-2022-63624,2022-11-21,SQL Injection,Palo Alto,GlobalProtect,3.5,Low,Physical,Low,Low,None,Low,None,Low,France,Transport,48446,Under Investigation,Yes
+CVE-2022-09025,2022-06-11,Path Traversal,Apple,Safari,8.9,High,Network,Low,None,None,High,High,High,India,Education,6719,Resolved,No
+CVE-2022-99592,2022-07-09,SQL Injection,Apache,HTTP Server,9.2,Critical,Physical,Low,None,None,None,High,Low,Nigeria,Energy,33000,Patched,Yes
+CVE-2022-89639,2022-06-14,MITM,Apache,HTTP Server,3.4,Low,Local,High,None,Required,None,Low,Low,UK,Government,25974,Under Investigation,No
+CVE-2022-02717,2022-01-26,Ransomware,Cisco,Firepower,5.7,Medium,Physical,Low,Low,Required,High,Low,High,South Korea,Healthcare,15323,Actively Exploited,No
+CVE-2022-23256,2022-07-11,XXE,Linux,Kernel,3.0,Low,Network,High,None,None,High,None,None,Romania,Manufacturing,41863,Actively Exploited,No
+CVE-2022-79702,2022-07-22,Deserialization,Apple,Safari,6.8,Medium,Network,High,None,Required,High,Low,None,France,Manufacturing,12922,Under Investigation,Yes
+CVE-2022-01853,2022-08-20,Privilege Escalation,Zimbra,Collaboration Suite,8.0,High,Physical,High,None,None,High,Low,Low,China,Retail,32536,Actively Exploited,Yes
+CVE-2022-36583,2022-11-05,XXE,IBM,MQ,0.1,Low,Adjacent,High,High,Required,Low,High,Low,Netherlands,Healthcare,11099,Patched,No
+CVE-2022-12832,2022-08-30,MITM,VMware,vCenter,1.5,Low,Local,High,Low,None,High,High,High,Germany,Manufacturing,2599,Under Investigation,Yes
+CVE-2022-10899,2022-07-11,SSRF,Cisco,Webex,8.9,High,Network,High,High,Required,None,High,High,Netherlands,Defense,36537,Actively Exploited,Yes
+CVE-2022-58031,2022-08-03,Phishing,Apache,HTTP Server,4.4,Medium,Network,Low,Low,None,None,High,High,Canada,Energy,20148,Actively Exploited,Yes
+CVE-2022-11577,2022-09-12,DoS/DDoS,Palo Alto,GlobalProtect,1.5,Low,Network,High,High,None,High,None,High,Iran,Transport,32892,Resolved,Yes
+CVE-2022-66858,2022-06-01,Deserialization,Linux,systemd,8.0,High,Adjacent,High,None,None,None,None,None,Brazil,Transport,49491,Exploited,Yes
+CVE-2022-86699,2022-05-01,Deserialization,Drupal,Core,4.7,Medium,Network,High,None,None,None,High,None,Germany,Telecom,15214,Resolved,Yes
+CVE-2022-97885,2022-10-18,Logic Flaw,Adobe,Photoshop,2.9,Low,Local,Low,None,None,Low,High,High,India,Government,29395,Exploited,Yes
+CVE-2022-71540,2022-07-27,Zero-Day Exploit,Drupal,Modules,4.2,Medium,Network,Low,High,Required,Low,High,Low,Iran,Retail,33192,Resolved,Yes
+CVE-2022-37637,2022-04-11,Command Injection,Google,Workspace,6.0,Medium,Network,High,None,Required,High,Low,None,Romania,Telecom,16352,Exploited,Yes
+CVE-2022-70727,2022-05-05,SSRF,Drupal,Modules,4.9,Medium,Local,High,Low,Required,None,Low,None,UK,Transport,2176,Exploited,Yes
+CVE-2022-62165,2022-10-17,SSRF,Atlassian,Bitbucket,9.7,Critical,Physical,High,Low,Required,None,High,High,Ukraine,Manufacturing,43480,Exploited,Yes
+CVE-2022-57795,2022-03-27,Credential Stuffing,IBM,WebSphere,2.1,Low,Adjacent,High,None,Required,None,None,Low,Russia,Transport,43160,Under Investigation,Yes
+CVE-2022-85238,2022-07-23,CSRF,Drupal,Modules,0.7,Low,Physical,Low,Low,Required,None,High,None,France,Government,48453,Actively Exploited,No
+CVE-2022-65885,2022-03-08,SQL Injection,Apple,Safari,4.0,Medium,Local,Low,High,Required,Low,None,None,Turkey,Education,42347,Exploited,No
+CVE-2022-15947,2022-12-08,Buffer Overflow,Drupal,Core,6.1,Medium,Local,Low,High,None,None,High,Low,Pakistan,Government,15876,Exploited,Yes
+CVE-2022-35642,2022-07-02,DoS/DDoS,Cisco,AnyConnect,6.9,Medium,Network,High,Low,Required,Low,None,None,Romania,Telecom,28915,Resolved,No
+CVE-2022-42582,2022-11-13,Phishing,Zimbra,Collaboration Suite,7.0,High,Adjacent,Low,Low,None,Low,High,High,Germany,IT,26117,Under Investigation,No
+CVE-2022-59593,2022-12-03,Deserialization,Apache,Struts,6.0,Medium,Physical,High,Low,None,High,High,High,Brazil,Energy,4898,Resolved,No
+CVE-2022-70301,2022-09-25,DoS/DDoS,Oracle,Database,0.1,Low,Physical,Low,High,None,Low,High,None,Brazil,Telecom,21368,Actively Exploited,No
+CVE-2022-12652,2022-07-27,Zero-Day Exploit,SAP,HANA,8.7,High,Local,High,High,None,Low,None,None,UK,Education,8194,Exploited,No
+CVE-2022-20130,2022-11-11,CSRF,F5,BIG-IP,3.9,Low,Local,High,High,Required,Low,High,High,Vietnam,Transport,287,Patched,No
+CVE-2022-68860,2022-05-09,Credential Stuffing,SAP,NetWeaver,6.8,Medium,Adjacent,Low,Low,Required,Low,Low,High,Netherlands,Telecom,44330,Patched,Yes
+CVE-2022-77904,2022-06-15,SQL Injection,WordPress,Plugins,9.5,Critical,Physical,Low,High,Required,None,None,Low,Nigeria,Government,15235,Patched,Yes
+CVE-2022-99509,2022-05-22,RCE,Apache,Struts,0.3,Low,Local,Low,None,None,High,None,Low,France,Telecom,6110,Patched,No
+CVE-2022-65465,2022-11-19,CSRF,Palo Alto,GlobalProtect,8.5,High,Network,High,Low,None,Low,Low,None,Ukraine,Energy,22771,Under Investigation,No
+CVE-2022-20036,2022-06-24,RCE,WordPress,Plugins,8.2,High,Network,Low,Low,None,High,High,None,Iran,Government,12023,Under Investigation,Yes
+CVE-2022-11180,2022-04-23,XSS,Fortinet,FortiManager,4.2,Medium,Network,High,High,Required,Low,High,None,Romania,Telecom,49647,Under Investigation,Yes
+CVE-2022-27498,2022-05-18,SQL Injection,Cisco,AnyConnect,0.0,None,Local,High,Low,None,None,Low,Low,India,Retail,325,Actively Exploited,No
+CVE-2022-31331,2022-07-13,Ransomware,Cisco,Firepower,9.2,Critical,Network,Low,High,None,None,High,Low,France,Government,16918,Resolved,No
+CVE-2022-91150,2022-04-08,CSRF,WordPress,Core,5.5,Medium,Network,High,None,Required,High,High,None,Turkey,Government,12705,Under Investigation,No
+CVE-2022-72515,2022-05-30,Buffer Overflow,Nginx,Nginx,0.6,Low,Physical,High,Low,None,High,None,High,Pakistan,Defense,8503,Exploited,No
+CVE-2022-94333,2022-01-12,Zero-Day Exploit,Microsoft,SharePoint,2.6,Low,Local,Low,Low,Required,Low,High,None,Brazil,Energy,20213,Resolved,No
+CVE-2022-41693,2022-12-11,Buffer Overflow,Adobe,Photoshop,6.4,Medium,Physical,High,None,Required,High,None,High,Canada,Energy,4059,Resolved,No
+CVE-2022-40103,2022-06-07,Deserialization,F5,BIG-IP,7.2,High,Adjacent,High,High,Required,High,Low,Low,Russia,Manufacturing,14962,Resolved,No
+CVE-2022-44689,2022-11-15,CSRF,Palo Alto,PAN-OS,6.5,Medium,Local,High,Low,Required,High,None,None,Turkey,Telecom,27454,Resolved,No
+CVE-2022-11334,2022-09-11,XXE,Oracle,Java SE,2.3,Low,Physical,High,Low,Required,Low,Low,None,Brazil,Retail,17238,Patched,Yes
+CVE-2022-62539,2022-05-15,CSRF,SAP,Business One,9.5,Critical,Adjacent,High,Low,Required,Low,High,High,North Korea,Healthcare,38680,Exploited,Yes
+CVE-2022-32304,2022-06-17,Command Injection,Fortinet,FortiGate,8.9,High,Adjacent,High,Low,Required,High,High,None,Canada,Healthcare,26805,Exploited,No
+CVE-2022-79994,2022-06-06,CSRF,Linux,Kernel,3.4,Low,Network,Low,Low,None,Low,High,None,Canada,Education,45960,Under Investigation,No
+CVE-2022-49889,2022-02-19,Deserialization,Adobe,Acrobat,8.2,High,Physical,Low,None,Required,Low,Low,Low,Netherlands,Transport,7375,Exploited,No
+CVE-2022-86626,2022-09-19,Brute Force,Zimbra,Collaboration Suite,5.8,Medium,Physical,Low,High,Required,None,High,High,Canada,Telecom,16145,Actively Exploited,No
+CVE-2022-16335,2022-07-13,RCE,Atlassian,Confluence,6.0,Medium,Physical,Low,Low,Required,Low,High,Low,Germany,Telecom,41796,Exploited,No
+CVE-2022-65135,2022-02-28,Brute Force,Zimbra,Collaboration Suite,9.9,Critical,Adjacent,High,Low,Required,None,None,Low,South Korea,Energy,12748,Actively Exploited,No
+CVE-2022-76247,2022-02-23,Credential Stuffing,Apache,Log4j,8.1,High,Adjacent,High,None,Required,Low,High,High,North Korea,Government,12479,Resolved,No
+CVE-2022-13660,2022-09-26,RCE,Adobe,Photoshop,4.8,Medium,Network,High,Low,Required,Low,High,Low,China,Energy,1939,Patched,Yes
+CVE-2022-94925,2022-01-13,Privilege Escalation,Atlassian,Bitbucket,8.9,High,Network,Low,None,Required,Low,Low,None,Russia,IT,31566,Resolved,No
+CVE-2022-71591,2022-05-21,XXE,Microsoft,Windows,1.6,Low,Adjacent,Low,None,None,Low,None,None,South Korea,Manufacturing,33677,Resolved,Yes
+CVE-2022-36762,2022-07-29,Ransomware,Microsoft,Office,6.4,Medium,Physical,Low,None,Required,Low,Low,High,Canada,Defense,2209,Resolved,No
+CVE-2022-42280,2022-08-15,Ransomware,VMware,ESXi,8.0,High,Adjacent,Low,None,Required,None,None,High,Pakistan,Telecom,26095,Patched,Yes
+CVE-2022-36978,2022-12-23,Buffer Overflow,Fortinet,FortiManager,2.8,Low,Adjacent,High,Low,Required,None,High,Low,UK,Defense,26157,Patched,No
+CVE-2022-26886,2022-11-03,Path Traversal,Drupal,Modules,4.5,Medium,Physical,High,None,Required,High,High,Low,Ukraine,Education,29829,Resolved,No
+CVE-2022-99684,2022-10-29,CSRF,Apache,HTTP Server,9.0,Critical,Local,High,None,None,None,High,None,Brazil,Government,43182,Resolved,No
+CVE-2022-51348,2022-02-06,Command Injection,IBM,QRadar,1.4,Low,Physical,High,None,None,None,None,Low,India,Retail,15432,Under Investigation,No
+CVE-2022-40704,2022-06-27,Ransomware,Apache,HTTP Server,8.3,High,Physical,High,None,None,Low,Low,Low,North Korea,Education,35007,Actively Exploited,Yes
+CVE-2022-66281,2022-02-24,Command Injection,Palo Alto,PAN-OS,2.1,Low,Network,Low,None,None,None,Low,Low,Nigeria,Retail,18079,Patched,No
+CVE-2022-83619,2022-07-19,SQL Injection,VMware,vCenter,2.3,Low,Local,High,Low,Required,Low,Low,High,France,Government,449,Actively Exploited,No
+CVE-2022-41214,2022-07-08,Brute Force,Zimbra,Collaboration Suite,7.4,High,Local,Low,None,Required,High,None,High,China,Education,35473,Exploited,Yes
+CVE-2022-85177,2022-10-18,Phishing,SAP,NetWeaver,2.9,Low,Adjacent,Low,High,None,High,Low,None,UK,Government,36679,Exploited,No
+CVE-2022-87119,2022-07-27,Deserialization,Drupal,Modules,4.7,Medium,Network,Low,Low,Required,High,Low,None,Pakistan,Healthcare,33683,Under Investigation,No
+CVE-2022-29194,2022-01-01,DoS/DDoS,Drupal,Modules,0.4,Low,Local,High,Low,Required,High,High,Low,Vietnam,Defense,13833,Actively Exploited,No
+CVE-2022-46130,2022-12-27,Path Traversal,Adobe,Photoshop,6.2,Medium,Network,High,None,Required,None,Low,High,Iran,Manufacturing,26208,Under Investigation,No
+CVE-2022-05916,2022-07-21,MITM,WordPress,Plugins,3.5,Low,Local,Low,None,None,High,High,Low,Netherlands,Healthcare,11641,Actively Exploited,No
+CVE-2022-40066,2022-03-22,Deserialization,Linux,Kernel,5.4,Medium,Physical,High,None,None,High,High,None,Germany,Transport,25843,Exploited,Yes
+CVE-2022-06883,2022-07-14,Path Traversal,SAP,Business One,7.7,High,Physical,High,Low,Required,None,Low,Low,Brazil,Defense,4261,Actively Exploited,Yes
+CVE-2022-74024,2022-01-15,Zero-Day Exploit,Juniper,Junos,1.7,Low,Physical,High,Low,None,High,High,None,Russia,IT,7758,Resolved,Yes
+CVE-2022-10179,2022-11-26,Logic Flaw,Nginx,Nginx,1.6,Low,Network,High,None,Required,High,Low,None,India,Telecom,31790,Exploited,Yes
+CVE-2022-22575,2022-04-16,Ransomware,Fortinet,FortiManager,9.2,Critical,Adjacent,Low,High,Required,High,Low,High,Romania,Healthcare,33385,Resolved,No
+CVE-2022-87083,2022-05-25,Path Traversal,Oracle,WebLogic,1.4,Low,Physical,Low,High,Required,None,High,Low,Brazil,Telecom,41234,Actively Exploited,No
+CVE-2022-89670,2022-04-17,Ransomware,F5,BIG-IP,2.1,Low,Physical,Low,Low,None,Low,None,High,Indonesia,Energy,10451,Patched,No
+CVE-2022-51472,2022-11-13,Path Traversal,Apple,Safari,5.4,Medium,Network,High,High,Required,High,High,Low,Turkey,Manufacturing,8076,Exploited,Yes
+CVE-2022-94759,2022-10-28,SSRF,SAP,Business One,9.8,Critical,Adjacent,High,Low,Required,Low,High,High,South Korea,Manufacturing,14958,Patched,No
+CVE-2022-71681,2022-11-06,SSRF,Microsoft,Office,7.8,High,Adjacent,High,Low,Required,Low,None,None,France,Government,17096,Resolved,Yes
+CVE-2022-10164,2022-02-20,Privilege Escalation,WordPress,Plugins,1.9,Low,Local,High,None,Required,High,High,High,UK,Telecom,43401,Exploited,No
+CVE-2022-65207,2022-03-25,XSS,Linux,glibc,8.9,High,Network,Low,Low,Required,Low,High,None,Germany,Energy,17071,Exploited,Yes
+CVE-2022-05877,2022-05-03,Deserialization,Cisco,AnyConnect,6.4,Medium,Adjacent,Low,High,None,High,Low,High,Nigeria,Education,7739,Resolved,No
+CVE-2022-71035,2022-06-30,Deserialization,VMware,Workstation,4.1,Medium,Adjacent,High,High,Required,Low,None,None,Pakistan,IT,2196,Under Investigation,No
+CVE-2022-95255,2022-04-22,DoS/DDoS,Juniper,Junos,4.1,Medium,Adjacent,Low,None,Required,Low,None,High,Iran,Transport,26781,Actively Exploited,Yes
+CVE-2022-18268,2022-11-03,Phishing,Microsoft,Windows,4.6,Medium,Local,High,Low,Required,High,None,None,China,IT,40425,Under Investigation,Yes
+CVE-2022-21017,2022-09-15,Phishing,Apache,Log4j,7.1,High,Network,High,High,Required,High,None,None,Germany,Education,26380,Patched,Yes
+CVE-2022-69092,2022-11-07,SQL Injection,Microsoft,Azure AD,9.6,Critical,Adjacent,High,Low,Required,Low,None,Low,Romania,Finance,26490,Under Investigation,No
+CVE-2022-49942,2022-08-16,Phishing,Apache,Struts,3.1,Low,Physical,High,Low,None,None,None,Low,Germany,Energy,39968,Resolved,Yes
+CVE-2022-84568,2022-04-01,SSRF,Palo Alto,GlobalProtect,7.2,High,Adjacent,High,High,Required,None,High,Low,China,Manufacturing,26854,Patched,No
+CVE-2022-79640,2022-11-05,Path Traversal,Oracle,E-Business Suite,4.7,Medium,Network,Low,None,None,None,High,Low,USA,Defense,30918,Resolved,Yes
+CVE-2022-46019,2022-02-23,SSRF,Nginx,Nginx,9.7,Critical,Local,Low,None,None,None,None,Low,North Korea,Transport,27931,Exploited,Yes
+CVE-2022-65422,2022-06-15,XSS,Linux,glibc,8.2,High,Local,Low,High,Required,Low,None,High,France,Telecom,24918,Patched,No
+CVE-2022-83852,2022-05-17,Privilege Escalation,VMware,Workstation,0.7,Low,Network,Low,None,Required,None,High,High,UK,IT,779,Under Investigation,Yes
+CVE-2022-81113,2022-11-26,Path Traversal,Oracle,Database,9.1,Critical,Adjacent,Low,None,None,High,High,None,Romania,Retail,43349,Under Investigation,Yes
+CVE-2022-12756,2022-06-28,Credential Stuffing,SAP,HANA,4.6,Medium,Local,Low,Low,None,Low,High,None,Iran,Manufacturing,29752,Resolved,No
+CVE-2022-05819,2022-11-18,Logic Flaw,Atlassian,Confluence,3.0,Low,Physical,High,Low,None,Low,Low,Low,Indonesia,Defense,43234,Resolved,No
+CVE-2022-62448,2022-12-31,SSRF,Apache,Tomcat,1.1,Low,Adjacent,Low,Low,Required,Low,High,High,Turkey,Manufacturing,45551,Under Investigation,No
+CVE-2022-57177,2022-12-07,DoS/DDoS,Apache,Tomcat,4.8,Medium,Physical,Low,Low,None,High,High,Low,Iran,Transport,36808,Patched,No
+CVE-2022-07478,2022-11-18,Buffer Overflow,Cisco,IOS,1.9,Low,Adjacent,Low,None,Required,High,High,None,Canada,Telecom,35144,Actively Exploited,Yes
+CVE-2022-12212,2022-02-25,Privilege Escalation,SAP,NetWeaver,3.8,Low,Physical,Low,High,None,High,High,Low,Iran,Defense,42734,Exploited,Yes
+CVE-2022-39296,2022-10-21,Buffer Overflow,Apple,iOS,7.5,High,Network,High,High,Required,Low,None,None,Pakistan,Defense,28498,Resolved,No
+CVE-2022-24283,2022-04-16,XSS,WordPress,Core,0.8,Low,Network,Low,Low,Required,High,Low,Low,UK,Transport,29468,Resolved,No
+CVE-2022-32495,2022-01-14,Buffer Overflow,Google,Chrome,6.0,Medium,Adjacent,Low,Low,None,High,Low,Low,Netherlands,IT,34709,Resolved,Yes
+CVE-2022-27902,2022-04-20,RCE,Atlassian,Jira,3.1,Low,Adjacent,High,High,Required,None,Low,Low,India,Education,7747,Exploited,Yes
+CVE-2022-31730,2022-05-03,Ransomware,Apache,Struts,8.8,High,Local,High,High,Required,Low,Low,None,Ukraine,Defense,3033,Resolved,Yes
+CVE-2022-10228,2022-08-19,Brute Force,Google,Chrome,0.1,Low,Network,Low,High,None,High,Low,Low,Russia,Healthcare,4161,Under Investigation,Yes
+CVE-2022-54719,2022-10-25,Logic Flaw,Palo Alto,PAN-OS,1.2,Low,Adjacent,High,High,None,None,None,None,USA,Energy,17454,Patched,Yes
+CVE-2022-19726,2022-02-18,Brute Force,Fortinet,FortiManager,5.3,Medium,Network,Low,High,None,High,High,Low,UK,Energy,15606,Actively Exploited,Yes
+CVE-2022-18992,2022-07-04,Command Injection,Google,Android,1.7,Low,Physical,High,None,Required,High,High,High,North Korea,IT,27036,Actively Exploited,Yes
+CVE-2022-49451,2022-04-23,Phishing,VMware,Horizon,7.5,High,Local,High,None,Required,None,High,High,France,Energy,45461,Resolved,Yes
+CVE-2022-30911,2022-06-30,Zero-Day Exploit,Adobe,Photoshop,0.0,None,Network,High,Low,Required,Low,None,Low,USA,Government,35506,Actively Exploited,No
+CVE-2022-87873,2022-04-19,CSRF,Google,Android,3.3,Low,Local,Low,None,None,Low,Low,None,Russia,Defense,47284,Exploited,No
+CVE-2022-65829,2022-12-04,XSS,VMware,Workstation,8.8,High,Adjacent,High,High,Required,Low,None,Low,South Korea,Transport,43088,Actively Exploited,Yes
+CVE-2022-89837,2022-03-04,XSS,Apache,Kafka,1.6,Low,Network,Low,Low,None,High,Low,Low,Netherlands,Telecom,12782,Resolved,No
+CVE-2022-26018,2022-09-05,RCE,Adobe,ColdFusion,0.3,Low,Network,Low,None,Required,High,None,Low,Turkey,Defense,32502,Resolved,Yes
+CVE-2022-33313,2022-05-16,MITM,IBM,WebSphere,7.2,High,Local,Low,Low,None,Low,High,Low,USA,Defense,47382,Under Investigation,Yes
+CVE-2022-64285,2022-12-18,Logic Flaw,F5,BIG-IP,8.2,High,Local,Low,Low,None,None,None,None,Turkey,Defense,38869,Resolved,No
+CVE-2022-17315,2022-02-16,CSRF,VMware,Horizon,7.5,High,Network,Low,High,Required,Low,Low,High,Canada,Finance,19427,Exploited,Yes
+CVE-2022-29000,2022-02-19,Command Injection,Oracle,E-Business Suite,6.2,Medium,Network,High,Low,Required,High,High,High,Russia,Defense,6859,Actively Exploited,Yes
+CVE-2022-92855,2022-04-21,MITM,Microsoft,Exchange Server,1.1,Low,Network,Low,Low,Required,None,None,High,Netherlands,Healthcare,13795,Exploited,Yes
+CVE-2022-24491,2022-02-19,Privilege Escalation,SAP,Business One,7.7,High,Network,Low,None,Required,High,High,None,Germany,Manufacturing,33066,Resolved,Yes
+CVE-2022-68747,2022-06-13,Ransomware,F5,BIG-IP,4.1,Medium,Local,Low,High,None,Low,None,High,India,Healthcare,10205,Exploited,Yes
+CVE-2022-38067,2022-04-09,Phishing,Microsoft,Azure AD,2.5,Low,Physical,High,Low,Required,Low,High,Low,USA,Energy,24687,Exploited,Yes
+CVE-2022-99385,2022-02-26,SQL Injection,Fortinet,FortiManager,5.3,Medium,Adjacent,Low,Low,None,None,Low,High,Russia,Government,42423,Patched,Yes
+CVE-2022-92382,2022-03-06,CSRF,Nginx,Nginx,8.4,High,Local,Low,None,Required,High,None,Low,Pakistan,Retail,36558,Patched,No
+CVE-2022-87102,2022-08-08,Zero-Day Exploit,Fortinet,FortiGate,5.7,Medium,Adjacent,High,Low,Required,None,Low,None,UK,Manufacturing,39340,Under Investigation,No
+CVE-2022-87161,2022-12-09,RCE,Juniper,Junos,5.2,Medium,Local,High,Low,Required,Low,Low,High,Turkey,Finance,6060,Resolved,Yes
+CVE-2022-62274,2022-04-21,Deserialization,Juniper,Junos,5.6,Medium,Network,High,High,None,Low,High,Low,USA,Government,35941,Under Investigation,Yes
+CVE-2022-81675,2022-11-17,MITM,WordPress,Core,2.8,Low,Local,High,None,None,High,None,High,Vietnam,Energy,36718,Resolved,Yes
+CVE-2022-82029,2022-04-15,Path Traversal,Microsoft,Windows,5.6,Medium,Network,Low,None,Required,Low,None,High,Ukraine,Finance,32895,Patched,Yes
+CVE-2022-39232,2022-01-18,XXE,Apple,iOS,6.1,Medium,Local,High,High,Required,Low,Low,High,Ukraine,Retail,5703,Exploited,Yes
+CVE-2022-60236,2022-12-08,Deserialization,Zimbra,Collaboration Suite,1.9,Low,Network,Low,Low,Required,None,Low,High,UK,Transport,23401,Resolved,No
+CVE-2022-50210,2022-08-15,Deserialization,Linux,systemd,4.1,Medium,Adjacent,Low,None,Required,Low,Low,High,Indonesia,Energy,17436,Actively Exploited,No
+CVE-2022-03009,2022-12-03,Command Injection,F5,BIG-IP,6.3,Medium,Adjacent,Low,None,None,None,High,None,Pakistan,Energy,45045,Patched,No
+CVE-2022-16466,2022-12-03,Ransomware,Google,Android,1.7,Low,Local,High,High,Required,High,High,Low,Vietnam,Finance,21467,Exploited,Yes
+CVE-2022-41860,2022-05-04,XXE,Juniper,Junos,9.4,Critical,Local,High,None,None,Low,Low,None,Nigeria,Retail,44947,Exploited,No
+CVE-2022-25772,2022-10-06,SQL Injection,Fortinet,FortiOS,6.7,Medium,Adjacent,High,None,None,None,High,High,Indonesia,Finance,423,Patched,Yes
+CVE-2022-88050,2022-05-19,Privilege Escalation,Apple,macOS,7.3,High,Network,Low,None,None,High,None,Low,India,Retail,5627,Actively Exploited,No
+CVE-2022-17188,2022-09-05,Logic Flaw,Google,Workspace,4.6,Medium,Network,Low,High,Required,High,High,None,Netherlands,Defense,15128,Patched,Yes
+CVE-2022-07908,2022-07-28,Path Traversal,VMware,ESXi,6.9,Medium,Local,Low,High,None,Low,None,Low,Canada,Manufacturing,25825,Actively Exploited,Yes
+CVE-2022-33045,2022-02-26,Privilege Escalation,Adobe,Acrobat,0.7,Low,Adjacent,High,None,Required,None,None,High,Pakistan,Telecom,48056,Actively Exploited,Yes
+CVE-2022-69140,2022-09-08,Privilege Escalation,Zimbra,Collaboration Suite,4.0,Medium,Network,Low,Low,Required,None,Low,Low,Russia,Defense,13356,Patched,No
+CVE-2022-10737,2022-04-18,DoS/DDoS,Apache,HTTP Server,7.9,High,Physical,High,Low,None,High,High,High,Iran,Government,15956,Actively Exploited,Yes
+CVE-2022-52446,2022-09-22,Deserialization,F5,BIG-IP,1.4,Low,Adjacent,High,Low,Required,High,None,High,Indonesia,Retail,14629,Exploited,Yes
+CVE-2022-11592,2022-09-12,Brute Force,Oracle,WebLogic,4.6,Medium,Local,High,None,None,Low,Low,Low,USA,Telecom,43382,Exploited,Yes
+CVE-2022-28697,2022-02-12,Brute Force,Cisco,Firepower,8.3,High,Local,Low,Low,None,None,Low,High,Russia,Retail,31289,Under Investigation,No
+CVE-2022-81616,2022-09-20,Logic Flaw,Palo Alto,PAN-OS,0.1,Low,Adjacent,Low,None,Required,None,Low,Low,Brazil,Defense,9818,Actively Exploited,Yes
+CVE-2022-33512,2022-09-14,Ransomware,Microsoft,SharePoint,5.6,Medium,Physical,High,Low,Required,High,High,High,Indonesia,IT,43167,Exploited,Yes
+CVE-2022-86806,2022-01-05,DoS/DDoS,VMware,Horizon,6.3,Medium,Local,High,High,Required,Low,Low,Low,Russia,Government,30480,Patched,Yes
+CVE-2022-52170,2022-05-25,Zero-Day Exploit,WordPress,Core,6.7,Medium,Local,High,None,Required,High,High,Low,Brazil,Finance,12530,Under Investigation,Yes
+CVE-2022-78910,2022-04-12,Deserialization,Apple,iOS,1.2,Low,Local,Low,High,None,Low,None,High,France,Finance,2512,Resolved,Yes
+CVE-2022-56987,2022-05-16,Credential Stuffing,Microsoft,Exchange Server,5.6,Medium,Network,Low,High,Required,None,Low,None,Iran,Telecom,5261,Patched,Yes
+CVE-2022-08836,2022-10-26,XSS,Oracle,E-Business Suite,1.5,Low,Physical,High,High,None,High,High,None,India,IT,18819,Resolved,Yes
+CVE-2022-97835,2022-09-25,Buffer Overflow,F5,BIG-IP,7.5,High,Physical,High,None,None,None,High,None,China,Education,46630,Actively Exploited,No
+CVE-2022-36256,2022-09-04,Ransomware,Nginx,Nginx,5.6,Medium,Physical,High,None,None,None,Low,Low,Romania,Manufacturing,30767,Actively Exploited,No
+CVE-2022-32268,2022-11-02,Brute Force,Juniper,Junos,9.2,Critical,Network,Low,High,Required,High,None,High,India,Finance,44718,Patched,No
+CVE-2022-50643,2022-07-29,CSRF,Palo Alto,GlobalProtect,0.3,Low,Physical,Low,High,Required,Low,None,None,Netherlands,Healthcare,130,Resolved,Yes
+CVE-2022-12822,2022-01-19,Path Traversal,Microsoft,Exchange Server,5.0,Medium,Local,Low,Low,Required,None,None,High,Vietnam,Energy,27917,Patched,Yes
+CVE-2022-62419,2022-12-05,Logic Flaw,Cisco,ASA,3.9,Low,Network,High,High,None,Low,Low,None,Germany,Retail,13554,Exploited,Yes
+CVE-2022-11179,2022-09-17,XSS,Oracle,Database,2.2,Low,Adjacent,Low,None,Required,None,Low,High,China,Manufacturing,29096,Patched,No
+CVE-2022-71019,2022-09-27,Credential Stuffing,IBM,MQ,9.1,Critical,Network,Low,Low,None,None,None,None,Nigeria,Finance,3274,Patched,No
+CVE-2022-21830,2022-04-16,Privilege Escalation,Google,Workspace,5.8,Medium,Physical,Low,High,Required,Low,Low,High,Germany,Telecom,16437,Exploited,No
+CVE-2022-31428,2022-06-06,RCE,Nginx,Nginx,1.6,Low,Network,Low,High,None,Low,High,High,Netherlands,Finance,18350,Actively Exploited,Yes
+CVE-2022-62851,2022-04-02,XSS,Palo Alto,GlobalProtect,8.8,High,Adjacent,Low,High,Required,None,Low,None,Ukraine,Healthcare,11315,Exploited,Yes
+CVE-2022-86246,2022-03-17,Command Injection,Apple,macOS,8.4,High,Physical,Low,Low,Required,High,Low,Low,India,Retail,32203,Under Investigation,No
+CVE-2022-45128,2022-06-09,XXE,VMware,vCenter,1.4,Low,Network,Low,Low,None,Low,None,None,Romania,Telecom,47632,Patched,Yes
+CVE-2022-13714,2022-06-08,Brute Force,Nginx,Nginx,6.3,Medium,Network,High,None,Required,Low,Low,Low,Brazil,Finance,14367,Resolved,Yes
+CVE-2022-83796,2022-10-12,XXE,WordPress,Core,5.6,Medium,Adjacent,High,None,Required,None,Low,High,India,IT,15023,Patched,No
+CVE-2022-95464,2022-04-10,Brute Force,Drupal,Core,1.0,Low,Physical,Low,None,None,High,None,High,Iran,Healthcare,34704,Under Investigation,No
+CVE-2022-35566,2022-06-08,XSS,SAP,HANA,3.1,Low,Adjacent,High,High,None,Low,High,High,France,Transport,2421,Resolved,Yes
+CVE-2022-86956,2022-07-31,Path Traversal,SAP,HANA,0.8,Low,Network,Low,None,None,Low,Low,High,Germany,IT,27902,Actively Exploited,Yes
+CVE-2022-82479,2022-02-03,DoS/DDoS,Linux,Kernel,4.4,Medium,Physical,High,High,Required,High,Low,None,Netherlands,Energy,23289,Actively Exploited,Yes
+CVE-2022-56463,2022-04-23,XXE,WordPress,Plugins,4.4,Medium,Physical,Low,None,Required,High,Low,Low,France,Retail,47620,Resolved,No
+CVE-2022-93063,2022-12-31,RCE,Microsoft,Office,6.6,Medium,Local,Low,Low,None,Low,None,None,Russia,Energy,6885,Resolved,No
+CVE-2022-52574,2022-10-30,Zero-Day Exploit,Microsoft,Office,3.1,Low,Local,Low,Low,None,High,High,High,Vietnam,Retail,40160,Exploited,Yes
+CVE-2022-67294,2022-05-20,CSRF,Google,Android,8.1,High,Adjacent,Low,None,None,High,None,Low,Indonesia,Finance,10392,Actively Exploited,No
+CVE-2022-84183,2022-07-13,Zero-Day Exploit,Drupal,Core,0.4,Low,Physical,High,High,None,Low,Low,High,Vietnam,IT,7600,Resolved,Yes
+CVE-2022-51209,2022-10-15,Phishing,Microsoft,Windows,1.8,Low,Local,High,None,None,Low,None,None,Vietnam,IT,22683,Patched,Yes
+CVE-2022-71368,2022-02-28,Phishing,Linux,systemd,3.7,Low,Adjacent,Low,None,None,Low,None,None,Turkey,Energy,15249,Resolved,No
+CVE-2022-77356,2022-05-23,Logic Flaw,Zimbra,Collaboration Suite,3.7,Low,Adjacent,Low,Low,None,Low,High,High,Brazil,Education,26703,Patched,Yes
+CVE-2022-85472,2022-01-04,Logic Flaw,Microsoft,Azure AD,8.0,High,Network,High,None,None,Low,High,None,France,Healthcare,6608,Under Investigation,Yes
+CVE-2022-42385,2022-12-14,DoS/DDoS,IBM,WebSphere,0.4,Low,Network,Low,None,None,None,Low,Low,USA,Telecom,39692,Exploited,No
+CVE-2022-89817,2022-04-07,Command Injection,Cisco,IOS,5.7,Medium,Local,High,None,None,Low,High,Low,USA,Government,49772,Patched,No
+CVE-2022-14368,2022-12-14,MITM,Oracle,WebLogic,1.4,Low,Local,High,Low,None,High,High,High,Russia,IT,3647,Patched,Yes
+CVE-2022-07037,2022-12-01,Command Injection,Google,Workspace,0.6,Low,Physical,High,High,Required,High,High,None,Netherlands,Government,25249,Patched,No
+CVE-2022-59105,2022-07-31,XSS,VMware,Horizon,7.4,High,Local,High,High,Required,Low,High,Low,China,Energy,42264,Actively Exploited,No
+CVE-2022-09034,2022-10-14,Buffer Overflow,F5,BIG-IP,9.7,Critical,Network,Low,Low,Required,Low,None,High,USA,Transport,41449,Under Investigation,No
+CVE-2022-25549,2022-02-10,Brute Force,SAP,NetWeaver,7.1,High,Physical,Low,High,None,None,Low,Low,Pakistan,IT,45343,Under Investigation,No
+CVE-2022-72202,2022-08-06,XXE,Apple,iOS,9.9,Critical,Local,High,Low,Required,Low,Low,None,Romania,Defense,4580,Resolved,Yes
+CVE-2022-79178,2022-01-24,XSS,Google,Workspace,8.1,High,Local,High,None,None,High,None,Low,Canada,IT,17714,Patched,No
+CVE-2022-69850,2022-12-19,SQL Injection,WordPress,Core,0.8,Low,Local,Low,High,None,High,Low,Low,Vietnam,Education,24611,Under Investigation,No
+CVE-2022-52332,2022-10-10,Ransomware,VMware,vCenter,6.8,Medium,Physical,Low,None,Required,None,Low,None,Turkey,Retail,16751,Resolved,Yes
+CVE-2022-41034,2022-11-10,Ransomware,Zimbra,Collaboration Suite,8.4,High,Physical,Low,None,None,Low,None,High,Pakistan,Education,40785,Patched,Yes
+CVE-2022-31073,2022-06-22,Ransomware,Atlassian,Jira,6.7,Medium,Local,High,None,Required,None,None,Low,Vietnam,Government,37945,Resolved,No
+CVE-2022-19019,2022-09-17,MITM,SAP,NetWeaver,4.1,Medium,Local,High,High,None,Low,High,None,Brazil,Education,31746,Patched,Yes
+CVE-2022-48337,2022-02-12,Brute Force,F5,BIG-IP,8.4,High,Network,Low,Low,Required,None,None,Low,Netherlands,Energy,43699,Exploited,No
+CVE-2022-93236,2022-08-24,Ransomware,Nginx,Nginx,0.2,Low,Physical,High,Low,None,Low,High,None,USA,Education,11111,Under Investigation,Yes
+CVE-2022-78217,2022-06-03,Command Injection,Drupal,Modules,9.3,Critical,Network,High,High,None,None,None,None,Turkey,Healthcare,7239,Under Investigation,No
+CVE-2022-55455,2022-09-27,XXE,Palo Alto,PAN-OS,2.6,Low,Local,High,Low,None,High,None,None,Canada,Telecom,33551,Exploited,Yes
+CVE-2022-84700,2022-10-12,RCE,Microsoft,Exchange Server,5.8,Medium,Local,High,High,None,None,None,High,Indonesia,Government,3915,Under Investigation,No
+CVE-2022-10242,2022-09-09,RCE,Microsoft,Azure AD,3.7,Low,Network,Low,Low,Required,Low,High,High,Vietnam,Retail,35682,Actively Exploited,Yes
+CVE-2022-29457,2022-12-10,RCE,Fortinet,FortiOS,2.3,Low,Adjacent,Low,High,None,None,Low,None,Germany,Retail,49974,Under Investigation,Yes
+CVE-2022-11221,2022-03-26,Phishing,Fortinet,FortiGate,1.2,Low,Physical,Low,High,Required,High,None,High,Ukraine,Manufacturing,47472,Resolved,No
+CVE-2022-89164,2022-09-20,MITM,Cisco,ASA,1.1,Low,Local,High,None,Required,High,Low,High,Iran,Energy,8319,Actively Exploited,No
+CVE-2022-93844,2022-04-13,Path Traversal,Linux,systemd,0.4,Low,Local,High,None,Required,High,High,Low,Russia,Telecom,32120,Resolved,Yes
+CVE-2022-98038,2022-09-09,Buffer Overflow,Cisco,AnyConnect,2.5,Low,Adjacent,High,High,None,None,Low,None,Germany,Telecom,13373,Under Investigation,No
+CVE-2022-98673,2022-02-23,MITM,WordPress,Plugins,1.6,Low,Physical,High,High,None,High,High,Low,Pakistan,Education,24626,Exploited,No
+CVE-2022-73212,2022-07-20,SQL Injection,Apple,iOS,2.5,Low,Adjacent,High,High,None,Low,None,High,Romania,Healthcare,46759,Actively Exploited,No
+CVE-2022-19063,2022-08-23,CSRF,Palo Alto,GlobalProtect,7.1,High,Adjacent,Low,Low,Required,None,Low,Low,South Korea,Transport,24420,Resolved,Yes
+CVE-2022-30664,2022-11-28,Ransomware,Fortinet,FortiOS,2.9,Low,Adjacent,Low,High,Required,Low,None,Low,South Korea,Manufacturing,47108,Resolved,No
+CVE-2022-55945,2022-11-18,SQL Injection,F5,BIG-IP,5.7,Medium,Physical,High,High,Required,High,None,Low,South Korea,Retail,18848,Exploited,Yes
+CVE-2022-46020,2022-09-19,SQL Injection,Nginx,Nginx,5.5,Medium,Local,High,None,None,None,None,Low,France,Transport,1515,Exploited,Yes
+CVE-2022-23274,2022-05-27,Ransomware,Google,Android,9.3,Critical,Adjacent,Low,None,Required,None,High,High,Brazil,Retail,25066,Under Investigation,Yes
+CVE-2022-20954,2022-05-16,XXE,F5,BIG-IP,8.7,High,Physical,Low,High,Required,High,None,None,France,Defense,18197,Resolved,Yes
+CVE-2022-91580,2022-12-10,Buffer Overflow,Linux,Kernel,5.9,Medium,Local,Low,Low,Required,Low,Low,Low,Netherlands,Healthcare,32292,Actively Exploited,No
+CVE-2022-78986,2022-03-19,MITM,SAP,NetWeaver,1.8,Low,Adjacent,Low,None,None,None,Low,None,Indonesia,Manufacturing,41777,Resolved,No
+CVE-2022-17041,2022-10-26,Command Injection,Linux,systemd,4.6,Medium,Local,High,None,Required,None,None,None,USA,Defense,20353,Under Investigation,No
+CVE-2022-32037,2022-04-08,MITM,Google,Chrome,9.8,Critical,Adjacent,High,Low,Required,None,High,Low,North Korea,Defense,17563,Patched,No
+CVE-2022-20838,2022-02-20,XSS,Google,Android,6.1,Medium,Local,Low,High,None,Low,High,None,USA,Retail,47056,Patched,No
+CVE-2022-88390,2022-05-15,Privilege Escalation,WordPress,Plugins,9.1,Critical,Adjacent,High,None,Required,None,None,High,Pakistan,Retail,46253,Actively Exploited,Yes
+CVE-2022-73415,2022-06-23,XXE,F5,BIG-IP,8.1,High,Physical,High,Low,None,High,Low,High,Pakistan,Finance,8555,Actively Exploited,Yes
+CVE-2022-60955,2022-08-04,RCE,Juniper,Junos,8.2,High,Local,Low,Low,Required,High,Low,None,Romania,Retail,1609,Actively Exploited,Yes
+CVE-2022-04770,2022-03-24,CSRF,Oracle,E-Business Suite,0.4,Low,Network,Low,High,Required,None,Low,None,Canada,Defense,10070,Resolved,No
+CVE-2022-38503,2022-03-26,Zero-Day Exploit,Juniper,Junos,3.6,Low,Physical,High,Low,None,High,None,Low,Netherlands,Retail,45405,Actively Exploited,Yes
+CVE-2022-24590,2022-02-06,MITM,F5,BIG-IP,9.3,Critical,Physical,High,High,None,High,Low,Low,Pakistan,Telecom,1267,Patched,No
+CVE-2022-94803,2022-11-17,Zero-Day Exploit,Cisco,ASA,6.5,Medium,Adjacent,High,None,None,Low,Low,High,Iran,Education,39767,Patched,Yes
+CVE-2022-93521,2022-01-21,Ransomware,VMware,ESXi,9.9,Critical,Physical,Low,Low,Required,None,Low,None,Ukraine,Telecom,39884,Actively Exploited,No
+CVE-2022-87463,2022-07-09,SQL Injection,Atlassian,Bitbucket,1.4,Low,Local,Low,Low,None,High,None,High,Germany,Government,44191,Actively Exploited,No
+CVE-2022-44668,2022-06-06,CSRF,Adobe,ColdFusion,4.7,Medium,Local,High,High,None,Low,High,None,Vietnam,Telecom,16681,Patched,Yes
+CVE-2022-14944,2022-03-11,SQL Injection,Microsoft,Exchange Server,5.4,Medium,Network,High,None,None,High,None,Low,Pakistan,Transport,11168,Actively Exploited,No
+CVE-2022-98509,2022-10-21,RCE,Atlassian,Jira,8.1,High,Physical,High,Low,None,High,Low,High,Pakistan,Government,19092,Patched,No
+CVE-2022-87079,2022-03-15,Credential Stuffing,Zimbra,Collaboration Suite,0.0,None,Local,High,Low,Required,None,None,High,Indonesia,Energy,27883,Patched,No
+CVE-2022-13318,2022-01-31,XSS,Zimbra,Collaboration Suite,0.8,Low,Network,High,High,None,None,High,Low,Germany,Healthcare,46939,Resolved,Yes
+CVE-2022-31945,2022-05-16,Credential Stuffing,Nginx,Nginx,9.6,Critical,Adjacent,High,Low,Required,Low,High,High,Brazil,Retail,9525,Resolved,Yes
+CVE-2022-12595,2022-01-17,Deserialization,Atlassian,Jira,2.5,Low,Physical,High,None,Required,High,High,High,Germany,Defense,42588,Resolved,No
+CVE-2022-25189,2022-09-17,CSRF,Microsoft,SharePoint,6.3,Medium,Local,Low,Low,None,High,High,None,Indonesia,Energy,40797,Exploited,No
+CVE-2022-88685,2022-02-27,CSRF,Google,Android,6.2,Medium,Local,High,Low,Required,Low,Low,Low,Ukraine,Energy,19282,Exploited,Yes
+CVE-2022-70623,2022-06-20,XSS,Cisco,IOS,8.3,High,Local,High,Low,Required,Low,Low,High,North Korea,Education,31973,Under Investigation,Yes
+CVE-2022-44370,2022-09-09,Credential Stuffing,Oracle,Database,6.1,Medium,Adjacent,High,None,Required,None,High,High,Netherlands,Education,21721,Under Investigation,No
+CVE-2022-34440,2022-12-16,Phishing,Fortinet,FortiManager,4.0,Medium,Adjacent,Low,Low,Required,None,None,Low,Germany,Education,3808,Under Investigation,Yes
+CVE-2022-18968,2022-04-03,SQL Injection,Linux,glibc,7.8,High,Adjacent,High,High,None,None,None,Low,Brazil,Manufacturing,3801,Exploited,Yes
+CVE-2022-48601,2022-07-06,XXE,Juniper,Junos,5.5,Medium,Physical,Low,Low,None,None,Low,Low,France,Finance,19532,Patched,No
+CVE-2022-28213,2022-05-17,Logic Flaw,Apache,HTTP Server,1.1,Low,Adjacent,High,None,Required,None,None,None,South Korea,Healthcare,14628,Patched,No
+CVE-2022-13760,2022-04-25,MITM,Zimbra,Collaboration Suite,0.9,Low,Adjacent,High,High,Required,High,None,High,Canada,Defense,6553,Exploited,No
+CVE-2022-50146,2022-01-02,Privilege Escalation,Fortinet,FortiGate,7.9,High,Local,Low,Low,Required,Low,High,High,Indonesia,Defense,31486,Exploited,Yes
+CVE-2022-50450,2022-01-20,XXE,Linux,glibc,2.8,Low,Local,High,Low,None,High,High,High,Netherlands,Transport,33119,Actively Exploited,No
+CVE-2022-24374,2022-08-15,Zero-Day Exploit,F5,BIG-IP,7.9,High,Adjacent,High,Low,None,Low,None,None,South Korea,Energy,13246,Exploited,Yes
+CVE-2022-31426,2022-03-03,Credential Stuffing,Google,Android,1.2,Low,Physical,Low,None,None,None,Low,None,Brazil,Transport,12249,Under Investigation,Yes
+CVE-2022-32582,2022-07-14,Zero-Day Exploit,Palo Alto,PAN-OS,7.5,High,Network,High,High,Required,High,Low,High,Ukraine,Education,28713,Actively Exploited,Yes
+CVE-2022-95979,2022-02-13,DoS/DDoS,Palo Alto,PAN-OS,3.3,Low,Network,Low,None,None,None,High,None,Nigeria,Defense,5089,Patched,No
+CVE-2022-93027,2022-01-17,SSRF,SAP,NetWeaver,4.8,Medium,Adjacent,Low,High,None,High,High,High,Brazil,Energy,28015,Exploited,No
+CVE-2022-78826,2022-01-04,MITM,VMware,Workstation,7.0,High,Network,High,Low,None,Low,None,None,Netherlands,Defense,30240,Patched,No
+CVE-2022-95749,2022-07-18,Zero-Day Exploit,WordPress,Core,4.8,Medium,Adjacent,High,High,None,None,None,High,Brazil,Healthcare,36598,Under Investigation,Yes
+CVE-2022-82443,2022-01-03,CSRF,Adobe,Photoshop,9.8,Critical,Adjacent,High,None,Required,High,None,None,Canada,Manufacturing,23125,Exploited,No
+CVE-2022-79875,2022-01-06,SQL Injection,Fortinet,FortiGate,1.5,Low,Adjacent,Low,Low,None,Low,Low,Low,North Korea,IT,21685,Exploited,Yes
+CVE-2022-37735,2022-08-23,Credential Stuffing,Oracle,Database,7.7,High,Physical,High,High,Required,Low,None,High,Nigeria,Transport,6740,Under Investigation,Yes
+CVE-2022-59812,2022-06-26,XXE,Zimbra,Collaboration Suite,8.9,High,Physical,Low,High,None,High,High,Low,Ukraine,Defense,33282,Actively Exploited,No
+CVE-2022-10022,2022-12-13,Command Injection,F5,BIG-IP,1.6,Low,Physical,High,High,None,None,High,None,Netherlands,Telecom,14161,Actively Exploited,Yes
+CVE-2022-29727,2022-09-25,Command Injection,Nginx,Nginx,4.6,Medium,Network,Low,High,None,Low,High,None,Iran,Manufacturing,20033,Under Investigation,Yes
+CVE-2022-98374,2022-04-21,DoS/DDoS,WordPress,Core,7.1,High,Physical,High,None,Required,High,Low,Low,Brazil,Telecom,9179,Exploited,Yes
+CVE-2022-45083,2022-11-01,Command Injection,Juniper,Junos,9.8,Critical,Network,Low,High,Required,Low,High,High,UK,Retail,25165,Patched,Yes
+CVE-2022-14519,2022-10-02,RCE,Apache,Struts,9.0,Critical,Local,High,High,Required,High,High,Low,North Korea,Education,38360,Patched,Yes
+CVE-2022-01867,2022-08-28,RCE,Apple,iOS,2.6,Low,Adjacent,Low,Low,Required,High,None,None,Germany,Government,44040,Exploited,No
+CVE-2022-40118,2022-07-13,XXE,Zimbra,Collaboration Suite,2.1,Low,Adjacent,Low,None,None,High,Low,None,North Korea,Healthcare,43799,Actively Exploited,No
+CVE-2022-49160,2022-05-08,Zero-Day Exploit,Oracle,Java SE,1.5,Low,Local,High,None,Required,High,None,High,India,IT,45627,Patched,No
+CVE-2022-38957,2022-09-26,XSS,Microsoft,Azure AD,0.8,Low,Adjacent,High,High,None,High,High,Low,Canada,Healthcare,45035,Under Investigation,Yes
+CVE-2022-72534,2022-10-12,Deserialization,Linux,glibc,8.4,High,Adjacent,Low,High,None,Low,High,High,Romania,Finance,17822,Actively Exploited,Yes
+CVE-2022-83329,2022-11-26,Brute Force,F5,BIG-IP,9.4,Critical,Adjacent,Low,High,Required,High,Low,None,North Korea,Government,45545,Exploited,No
+CVE-2022-21211,2022-12-01,XSS,VMware,Horizon,8.5,High,Physical,Low,Low,None,High,Low,High,Romania,Telecom,31390,Exploited,Yes
+CVE-2022-83409,2022-01-29,Credential Stuffing,Palo Alto,GlobalProtect,9.8,Critical,Network,High,High,None,None,High,Low,Iran,IT,15500,Under Investigation,Yes
+CVE-2022-68267,2022-03-20,Credential Stuffing,Microsoft,Office,9.2,Critical,Network,Low,None,None,Low,Low,None,Germany,Finance,26394,Exploited,Yes
+CVE-2022-25846,2022-05-26,XSS,Juniper,Junos,1.7,Low,Network,High,Low,Required,High,Low,Low,USA,Defense,8878,Patched,Yes
+CVE-2022-66555,2022-03-03,XSS,Zimbra,Collaboration Suite,3.6,Low,Adjacent,High,High,Required,High,High,High,Indonesia,Healthcare,17327,Exploited,Yes
+CVE-2022-01590,2022-07-26,Buffer Overflow,Apache,Tomcat,2.1,Low,Local,Low,High,Required,Low,High,High,Turkey,Retail,30217,Resolved,No
+CVE-2022-40668,2022-12-11,SQL Injection,Fortinet,FortiManager,6.8,Medium,Network,High,High,Required,None,Low,Low,Iran,Finance,40742,Resolved,No
+CVE-2022-67620,2022-11-09,Path Traversal,Palo Alto,GlobalProtect,9.2,Critical,Local,High,None,Required,None,Low,None,Germany,Defense,10853,Actively Exploited,No
+CVE-2022-45907,2022-07-30,Ransomware,Atlassian,Bitbucket,2.5,Low,Physical,High,Low,Required,High,Low,None,North Korea,Energy,24648,Exploited,Yes
+CVE-2022-18946,2022-06-08,XSS,F5,BIG-IP,5.6,Medium,Adjacent,Low,Low,Required,High,Low,High,Romania,Finance,44758,Actively Exploited,Yes
+CVE-2022-99666,2022-11-28,Command Injection,IBM,MQ,5.9,Medium,Local,Low,None,Required,None,High,None,Turkey,Finance,15384,Patched,No
+CVE-2022-08154,2022-02-12,Logic Flaw,Juniper,Junos,2.9,Low,Physical,Low,Low,Required,High,High,None,South Korea,Manufacturing,5063,Resolved,No
+CVE-2022-89475,2022-07-19,Ransomware,Oracle,Database,2.7,Low,Network,High,None,None,High,High,High,USA,IT,45554,Under Investigation,Yes
+CVE-2022-48596,2022-03-15,Zero-Day Exploit,F5,BIG-IP,2.8,Low,Adjacent,High,None,Required,Low,Low,None,France,Energy,42784,Patched,No
+CVE-2022-10288,2022-01-25,CSRF,Microsoft,Azure AD,0.2,Low,Physical,High,None,None,High,None,High,India,Telecom,18475,Resolved,No
+CVE-2022-50826,2022-12-12,XSS,Adobe,ColdFusion,9.2,Critical,Network,High,High,None,Low,High,High,South Korea,Telecom,18087,Under Investigation,No
+CVE-2022-04328,2022-08-22,Phishing,Microsoft,Office,6.9,Medium,Physical,Low,High,Required,Low,Low,High,Iran,Education,28320,Resolved,Yes
+CVE-2022-35688,2022-09-03,Ransomware,WordPress,Core,5.3,Medium,Network,Low,Low,Required,High,Low,Low,North Korea,Government,34774,Exploited,Yes
+CVE-2022-77220,2022-05-19,Path Traversal,Zimbra,Collaboration Suite,5.7,Medium,Adjacent,Low,High,None,None,None,High,USA,IT,28280,Patched,Yes
+CVE-2022-69413,2022-11-13,Logic Flaw,Drupal,Core,2.3,Low,Network,Low,None,None,None,None,None,Canada,Transport,40766,Actively Exploited,No
+CVE-2022-95224,2022-10-14,Path Traversal,Adobe,Flash,6.8,Medium,Adjacent,Low,None,None,Low,None,None,UK,Transport,32826,Resolved,Yes
+CVE-2022-32460,2022-10-12,Phishing,VMware,vCenter,4.3,Medium,Local,Low,High,None,High,None,None,UK,Defense,48797,Resolved,No
+CVE-2022-13005,2022-06-15,Command Injection,IBM,MQ,9.9,Critical,Physical,Low,None,Required,None,High,High,South Korea,Transport,42100,Actively Exploited,Yes
+CVE-2022-91510,2022-08-31,Path Traversal,Cisco,ASA,3.4,Low,Adjacent,Low,High,Required,None,Low,None,North Korea,Telecom,9092,Resolved,No
+CVE-2022-79384,2022-11-06,Command Injection,Linux,glibc,4.2,Medium,Network,High,Low,Required,None,Low,Low,North Korea,Energy,22964,Actively Exploited,No
+CVE-2022-18819,2022-04-05,Buffer Overflow,Juniper,Junos,6.3,Medium,Physical,Low,Low,Required,High,Low,None,Russia,Manufacturing,44209,Under Investigation,No
+CVE-2022-60926,2022-05-03,Ransomware,Adobe,Flash,5.5,Medium,Adjacent,Low,High,None,None,None,None,Germany,Manufacturing,33337,Actively Exploited,No
+CVE-2022-69688,2022-12-27,Command Injection,Apache,Struts,3.1,Low,Adjacent,Low,Low,None,High,High,Low,UK,Retail,6097,Exploited,No
+CVE-2022-59129,2022-08-08,CSRF,Adobe,ColdFusion,3.8,Low,Network,High,Low,Required,High,Low,None,North Korea,Finance,27972,Patched,Yes
+CVE-2022-58825,2022-12-22,XXE,Palo Alto,GlobalProtect,1.4,Low,Network,High,High,Required,Low,None,High,Ukraine,Transport,432,Under Investigation,No
+CVE-2022-46166,2022-09-03,Credential Stuffing,Nginx,Nginx,3.2,Low,Local,High,None,None,High,High,Low,France,Finance,46185,Actively Exploited,Yes
+CVE-2022-84777,2022-04-29,Ransomware,Apache,Kafka,4.1,Medium,Local,Low,High,None,None,Low,None,Turkey,Retail,49009,Exploited,Yes
+CVE-2022-18414,2022-08-02,Zero-Day Exploit,Zimbra,Collaboration Suite,4.0,Medium,Local,High,None,Required,High,Low,Low,Germany,Finance,49465,Exploited,Yes
+CVE-2022-28049,2022-04-29,XXE,VMware,Horizon,8.7,High,Physical,High,Low,Required,High,High,None,Romania,Telecom,36041,Patched,No
+CVE-2022-67852,2022-05-25,Buffer Overflow,Atlassian,Confluence,4.0,Medium,Adjacent,Low,None,None,Low,Low,Low,South Korea,Government,36480,Actively Exploited,Yes
+CVE-2022-46626,2022-10-06,Buffer Overflow,Juniper,Junos,1.3,Low,Network,High,None,None,None,Low,High,Ukraine,Healthcare,48350,Actively Exploited,Yes
+CVE-2022-90121,2022-05-13,MITM,Oracle,Java SE,2.4,Low,Local,Low,None,Required,High,Low,None,Vietnam,Manufacturing,37185,Under Investigation,No
+CVE-2022-06890,2022-02-10,SSRF,Microsoft,Azure AD,0.4,Low,Adjacent,High,High,None,None,High,High,Pakistan,IT,19205,Actively Exploited,Yes
+CVE-2022-45819,2022-06-07,MITM,IBM,WebSphere,7.9,High,Network,Low,High,Required,High,None,None,Turkey,IT,19098,Patched,Yes
+CVE-2022-16245,2022-07-14,CSRF,Nginx,Nginx,3.5,Low,Physical,High,None,Required,High,High,Low,North Korea,Telecom,19822,Patched,Yes
+CVE-2022-18514,2022-03-25,Logic Flaw,Apache,Tomcat,3.3,Low,Local,Low,High,None,High,None,None,UK,Manufacturing,15833,Under Investigation,No
+CVE-2022-52360,2022-08-13,Zero-Day Exploit,Microsoft,Exchange Server,4.1,Medium,Local,Low,Low,None,High,High,None,Russia,Government,30166,Exploited,No
+CVE-2022-86172,2022-06-23,Path Traversal,Atlassian,Confluence,9.7,Critical,Network,Low,None,None,Low,None,High,Netherlands,Government,20176,Under Investigation,Yes
+CVE-2022-91392,2022-09-25,Deserialization,Atlassian,Jira,0.0,None,Network,High,High,Required,Low,Low,None,Iran,Healthcare,24651,Resolved,No
+CVE-2022-99245,2022-07-14,Privilege Escalation,Cisco,ASA,0.0,None,Network,Low,Low,Required,Low,Low,High,China,Finance,21827,Patched,Yes
+CVE-2022-40787,2022-11-12,MITM,Adobe,Photoshop,3.0,Low,Network,High,High,None,None,High,High,USA,Telecom,24044,Resolved,No
+CVE-2022-38877,2022-12-29,Credential Stuffing,Cisco,Webex,2.5,Low,Physical,Low,High,Required,Low,Low,None,Canada,Telecom,19208,Patched,Yes
+CVE-2022-72462,2022-11-27,Zero-Day Exploit,Google,Android,3.2,Low,Physical,High,High,Required,High,None,Low,USA,Retail,11371,Under Investigation,Yes
+CVE-2022-39028,2022-03-05,MITM,Linux,Kernel,5.0,Medium,Adjacent,Low,None,Required,None,Low,Low,China,Retail,45948,Patched,Yes
+CVE-2022-67501,2022-11-30,DoS/DDoS,SAP,NetWeaver,8.2,High,Network,Low,Low,Required,High,None,High,Vietnam,Retail,17611,Under Investigation,No
+CVE-2022-43857,2022-07-25,XSS,Google,Chrome,5.0,Medium,Physical,Low,Low,Required,Low,None,Low,Pakistan,Manufacturing,48919,Patched,No
+CVE-2022-51931,2022-08-13,RCE,Linux,glibc,9.8,Critical,Local,High,None,Required,Low,High,None,Germany,Finance,495,Under Investigation,Yes
+CVE-2022-14900,2022-12-08,XSS,VMware,Workstation,1.6,Low,Physical,Low,Low,Required,High,Low,Low,Indonesia,Government,575,Patched,No
+CVE-2022-11784,2022-05-08,XXE,Drupal,Core,2.6,Low,Adjacent,Low,None,Required,None,None,High,Brazil,Transport,48349,Actively Exploited,Yes
+CVE-2022-81933,2022-12-18,Privilege Escalation,IBM,MQ,5.8,Medium,Adjacent,Low,Low,Required,Low,None,High,Vietnam,Education,18955,Resolved,Yes
+CVE-2022-49399,2022-06-07,SQL Injection,F5,BIG-IP,7.3,High,Local,High,High,Required,High,High,Low,Romania,Healthcare,19066,Actively Exploited,Yes
+CVE-2022-88375,2022-12-08,Phishing,Juniper,Junos,6.7,Medium,Network,High,Low,Required,High,High,None,Pakistan,Education,5226,Actively Exploited,No
+CVE-2022-90610,2022-06-19,Logic Flaw,Juniper,Junos,4.3,Medium,Adjacent,High,None,None,High,None,High,Nigeria,IT,19492,Exploited,Yes
+CVE-2022-51512,2022-01-12,XSS,Atlassian,Confluence,5.1,Medium,Local,Low,None,Required,High,None,None,Iran,Government,25419,Actively Exploited,No
+CVE-2022-76557,2022-09-13,MITM,Oracle,Database,3.5,Low,Adjacent,High,None,None,None,Low,High,India,Retail,27968,Under Investigation,No
+CVE-2022-94980,2022-05-23,XSS,Google,Chrome,9.6,Critical,Local,Low,High,Required,High,High,None,China,Government,25915,Under Investigation,Yes
+CVE-2022-21632,2022-04-17,XSS,Google,Chrome,0.4,Low,Network,High,High,None,None,High,High,Pakistan,Telecom,20691,Patched,Yes
+CVE-2022-98821,2022-12-01,Logic Flaw,Zimbra,Collaboration Suite,7.3,High,Physical,Low,High,Required,None,None,High,Netherlands,Manufacturing,6689,Exploited,No
+CVE-2022-17147,2022-11-06,SSRF,Zimbra,Collaboration Suite,8.9,High,Network,Low,None,None,High,Low,Low,Pakistan,Government,8190,Actively Exploited,Yes
+CVE-2022-86785,2022-05-25,RCE,Nginx,Nginx,9.7,Critical,Physical,Low,None,None,High,None,High,Romania,Telecom,31526,Exploited,Yes
+CVE-2022-16248,2022-01-14,Credential Stuffing,Linux,systemd,0.5,Low,Network,High,Low,None,High,High,None,South Korea,Retail,38342,Under Investigation,Yes
+CVE-2022-23442,2022-08-23,Logic Flaw,Apple,Safari,0.4,Low,Local,High,High,Required,None,Low,Low,Turkey,Retail,20482,Under Investigation,Yes
+CVE-2022-47042,2022-03-01,Credential Stuffing,Fortinet,FortiGate,3.7,Low,Local,Low,High,None,High,High,Low,France,Telecom,21071,Patched,No
+CVE-2022-07112,2022-04-08,Path Traversal,Zimbra,Collaboration Suite,7.7,High,Local,Low,None,None,None,None,Low,North Korea,Healthcare,49225,Resolved,Yes
+CVE-2022-94085,2022-01-06,Deserialization,Drupal,Modules,6.0,Medium,Adjacent,High,High,None,None,Low,High,Ukraine,Finance,3878,Exploited,No
+CVE-2022-83681,2022-06-25,CSRF,Juniper,Junos,0.2,Low,Adjacent,High,Low,Required,Low,None,None,Canada,Healthcare,3143,Resolved,No
+CVE-2022-04985,2022-05-06,XXE,Zimbra,Collaboration Suite,8.6,High,Adjacent,Low,None,None,Low,Low,None,Brazil,Defense,7731,Patched,No
+CVE-2022-75258,2022-09-22,XSS,Linux,Kernel,6.6,Medium,Local,High,None,None,None,High,None,Romania,Finance,39665,Under Investigation,Yes
+CVE-2022-52073,2022-12-29,MITM,WordPress,Core,6.0,Medium,Local,Low,Low,Required,High,High,None,India,Retail,31285,Patched,No
+CVE-2022-87255,2022-07-28,RCE,Palo Alto,PAN-OS,8.7,High,Physical,Low,Low,Required,High,High,Low,Turkey,Retail,637,Actively Exploited,No
+CVE-2022-98202,2022-09-30,Path Traversal,Atlassian,Confluence,4.0,Medium,Physical,Low,Low,Required,Low,High,Low,North Korea,Transport,31514,Exploited,Yes
+CVE-2022-34698,2022-12-21,XSS,Palo Alto,PAN-OS,3.6,Low,Network,Low,None,Required,Low,High,Low,Iran,Retail,4428,Actively Exploited,No
+CVE-2022-73334,2022-10-20,MITM,Cisco,ASA,4.3,Medium,Adjacent,High,None,Required,None,High,Low,Pakistan,Manufacturing,11277,Patched,Yes
+CVE-2022-51643,2022-01-29,CSRF,SAP,HANA,8.3,High,Local,High,High,Required,None,High,None,Pakistan,Energy,33750,Exploited,No
+CVE-2022-55454,2022-06-14,Phishing,WordPress,Plugins,2.7,Low,Physical,High,High,None,None,None,High,UK,Finance,38971,Patched,No
+CVE-2022-25472,2022-06-14,XXE,Adobe,ColdFusion,8.8,High,Physical,Low,Low,Required,Low,High,High,Ukraine,Energy,28043,Under Investigation,No
+CVE-2022-73422,2022-12-28,Logic Flaw,Adobe,Acrobat,5.3,Medium,Local,Low,None,Required,None,Low,Low,Indonesia,Telecom,30567,Exploited,No
+CVE-2022-98043,2022-12-13,Phishing,Linux,Kernel,7.6,High,Local,High,Low,None,High,Low,None,Brazil,Finance,11805,Under Investigation,No
+CVE-2022-24428,2022-12-30,RCE,SAP,Business One,4.2,Medium,Adjacent,Low,Low,None,Low,Low,None,China,Retail,30317,Under Investigation,Yes
+CVE-2022-11114,2022-10-31,Command Injection,Juniper,Junos,7.0,High,Physical,High,High,None,High,None,None,India,Finance,7322,Patched,No
+CVE-2022-39801,2022-05-25,Credential Stuffing,WordPress,Plugins,5.8,Medium,Network,Low,High,None,Low,High,Low,Brazil,Manufacturing,4850,Resolved,No
+CVE-2022-27630,2022-02-12,Privilege Escalation,SAP,NetWeaver,0.4,Low,Adjacent,High,Low,None,High,None,Low,Iran,Retail,34798,Exploited,No
+CVE-2022-62889,2022-03-15,Command Injection,Cisco,Webex,7.4,High,Adjacent,High,None,None,None,High,Low,North Korea,Energy,34928,Actively Exploited,No
+CVE-2022-35534,2022-10-28,Buffer Overflow,IBM,WebSphere,9.1,Critical,Adjacent,High,Low,Required,None,None,High,Canada,Finance,44741,Exploited,No
+CVE-2022-62922,2022-09-27,Phishing,Linux,glibc,1.7,Low,Network,Low,None,None,None,Low,None,Ukraine,Education,36075,Actively Exploited,No
+CVE-2022-56565,2022-01-16,SQL Injection,Fortinet,FortiManager,7.5,High,Network,Low,High,None,Low,Low,None,Romania,Energy,26009,Resolved,Yes
+CVE-2022-92864,2022-12-18,Brute Force,F5,BIG-IP,5.0,Medium,Adjacent,High,Low,None,None,None,High,Canada,Education,34472,Patched,No
+CVE-2022-50713,2022-11-05,Brute Force,Linux,systemd,7.6,High,Network,High,High,Required,Low,High,Low,Turkey,Telecom,19473,Resolved,Yes
+CVE-2022-87632,2022-11-16,Credential Stuffing,WordPress,Core,7.6,High,Local,Low,High,None,Low,None,None,Nigeria,IT,43669,Actively Exploited,No
+CVE-2022-96769,2022-06-25,Path Traversal,Juniper,Junos,8.6,High,Physical,High,High,None,High,High,Low,UK,Government,22176,Patched,Yes
+CVE-2022-83174,2022-01-19,Privilege Escalation,Juniper,Junos,1.8,Low,Adjacent,High,None,None,None,High,Low,UK,Finance,19658,Actively Exploited,Yes
+CVE-2022-50437,2022-04-07,Phishing,Nginx,Nginx,4.8,Medium,Physical,High,Low,None,Low,None,None,Russia,Retail,3883,Actively Exploited,Yes
+CVE-2022-99873,2022-07-14,SQL Injection,F5,BIG-IP,0.6,Low,Network,High,High,Required,High,Low,Low,Turkey,Healthcare,10740,Under Investigation,Yes
+CVE-2022-40780,2022-11-21,Privilege Escalation,Drupal,Core,9.9,Critical,Adjacent,Low,None,Required,None,Low,High,Ukraine,Government,33557,Exploited,No
+CVE-2022-23660,2022-01-13,SQL Injection,Google,Chrome,3.7,Low,Adjacent,Low,None,None,Low,High,Low,South Korea,Telecom,13062,Under Investigation,No
+CVE-2022-85024,2022-12-21,Zero-Day Exploit,Nginx,Nginx,0.1,Low,Local,Low,None,Required,Low,Low,High,Indonesia,Finance,20472,Resolved,No
+CVE-2022-71947,2022-09-27,SQL Injection,IBM,MQ,0.7,Low,Physical,Low,None,Required,None,None,Low,Germany,Energy,29458,Patched,No
+CVE-2022-37130,2022-06-14,DoS/DDoS,Oracle,WebLogic,0.8,Low,Local,High,None,None,None,Low,High,India,Telecom,37704,Exploited,No
+CVE-2022-93449,2022-08-19,Privilege Escalation,Fortinet,FortiOS,0.5,Low,Physical,High,None,None,Low,None,None,France,Telecom,14710,Under Investigation,Yes
+CVE-2022-90180,2022-07-07,Deserialization,IBM,MQ,1.1,Low,Physical,Low,High,None,None,None,Low,Nigeria,Government,31362,Exploited,No
+CVE-2022-60515,2022-03-18,Command Injection,Microsoft,Office,3.1,Low,Local,Low,High,Required,High,Low,Low,Turkey,Healthcare,28023,Actively Exploited,No
+CVE-2022-89046,2022-12-03,Zero-Day Exploit,Adobe,Acrobat,8.0,High,Local,Low,High,None,High,High,Low,France,Government,48578,Resolved,No
+CVE-2022-69825,2022-04-21,RCE,SAP,NetWeaver,8.2,High,Adjacent,High,High,Required,Low,High,Low,Ukraine,Telecom,4652,Actively Exploited,No
+CVE-2022-81122,2022-10-15,Path Traversal,WordPress,Core,5.4,Medium,Physical,Low,None,None,None,High,High,South Korea,IT,12594,Actively Exploited,Yes
+CVE-2022-06950,2022-12-23,Brute Force,Linux,glibc,1.5,Low,Network,High,High,Required,Low,High,None,India,Defense,23048,Actively Exploited,No
+CVE-2022-60406,2022-05-19,Path Traversal,WordPress,Core,5.9,Medium,Physical,Low,High,None,High,High,Low,UK,IT,47622,Actively Exploited,No
+CVE-2022-90907,2022-01-22,SSRF,WordPress,Core,5.8,Medium,Adjacent,High,Low,Required,None,High,Low,North Korea,Finance,6678,Exploited,No
+CVE-2022-10764,2022-01-14,SQL Injection,VMware,Horizon,0.7,Low,Adjacent,High,High,Required,None,High,Low,Nigeria,Manufacturing,6143,Under Investigation,No
+CVE-2022-18697,2022-09-16,XXE,Drupal,Core,4.0,Medium,Physical,Low,High,Required,None,None,None,Germany,Manufacturing,31747,Patched,Yes
+CVE-2022-00692,2022-04-10,Ransomware,Linux,Kernel,6.0,Medium,Local,Low,Low,None,Low,None,High,Ukraine,Transport,15041,Resolved,No
+CVE-2022-35229,2022-01-08,Privilege Escalation,Apple,Safari,4.2,Medium,Local,High,None,Required,High,None,Low,South Korea,Government,43125,Under Investigation,No
+CVE-2022-95646,2022-09-16,Ransomware,Google,Android,4.1,Medium,Local,Low,High,None,High,Low,High,India,Retail,32253,Exploited,No
+CVE-2022-74144,2022-07-14,Credential Stuffing,Microsoft,Windows,2.9,Low,Local,Low,High,Required,None,Low,None,India,Manufacturing,29809,Patched,Yes
+CVE-2022-29106,2022-06-10,XXE,SAP,NetWeaver,3.4,Low,Local,High,High,Required,Low,Low,High,Nigeria,Defense,13802,Resolved,No
+CVE-2022-42665,2022-01-21,XXE,Atlassian,Jira,4.7,Medium,Network,Low,High,Required,High,Low,None,Romania,Telecom,12141,Resolved,Yes
+CVE-2022-26850,2022-08-26,CSRF,Juniper,Junos,1.5,Low,Physical,High,High,Required,Low,None,Low,India,Telecom,12363,Resolved,No
+CVE-2022-14877,2022-01-18,XXE,Apple,Safari,3.8,Low,Network,Low,High,None,Low,None,None,Ukraine,Education,20192,Resolved,Yes
+CVE-2022-16694,2022-12-30,MITM,Linux,Kernel,0.0,None,Physical,Low,None,None,None,Low,High,Pakistan,Government,32767,Exploited,No
+CVE-2022-76905,2022-02-03,Buffer Overflow,Microsoft,Azure AD,5.1,Medium,Adjacent,High,Low,None,High,High,Low,Germany,Government,7694,Actively Exploited,No
+CVE-2022-90123,2022-01-24,DoS/DDoS,Cisco,Webex,3.7,Low,Local,High,Low,Required,High,Low,Low,USA,Retail,37092,Resolved,No
+CVE-2022-03400,2022-03-29,Logic Flaw,Adobe,Photoshop,9.9,Critical,Adjacent,Low,None,None,High,High,High,Canada,Government,46198,Patched,No
+CVE-2022-12074,2022-04-11,Brute Force,Adobe,Flash,7.5,High,Physical,High,High,None,None,Low,Low,Ukraine,Defense,11563,Exploited,Yes
+CVE-2022-16777,2022-08-04,MITM,IBM,WebSphere,4.7,Medium,Adjacent,Low,High,Required,High,Low,None,South Korea,Education,32353,Exploited,No
+CVE-2022-90388,2022-08-30,XSS,Linux,systemd,0.9,Low,Local,High,High,Required,None,High,Low,India,Retail,17275,Exploited,Yes
+CVE-2022-94762,2022-06-11,MITM,Cisco,IOS,1.4,Low,Adjacent,High,Low,Required,High,Low,Low,Canada,Transport,21884,Exploited,No
+CVE-2022-70946,2022-04-25,Deserialization,Google,Android,0.7,Low,Local,High,High,None,None,None,Low,Turkey,Retail,9668,Patched,Yes
+CVE-2022-15414,2022-05-12,Deserialization,WordPress,Core,9.5,Critical,Adjacent,High,Low,None,Low,High,Low,Nigeria,Healthcare,24865,Exploited,Yes
+CVE-2022-36699,2022-08-25,SSRF,Nginx,Nginx,6.0,Medium,Local,High,None,Required,High,None,None,Romania,Finance,24413,Actively Exploited,No
+CVE-2022-69881,2022-12-15,XXE,Drupal,Core,8.5,High,Physical,Low,High,None,None,Low,None,Canada,IT,28017,Patched,Yes
+CVE-2022-91430,2022-06-13,DoS/DDoS,F5,BIG-IP,3.5,Low,Adjacent,High,None,Required,Low,Low,None,Germany,Defense,240,Under Investigation,Yes
+CVE-2022-71619,2022-07-29,XSS,VMware,ESXi,2.3,Low,Adjacent,High,High,Required,None,High,Low,Iran,Healthcare,22242,Patched,Yes
+CVE-2022-70179,2022-01-05,SSRF,F5,BIG-IP,8.1,High,Physical,High,Low,None,Low,None,None,Canada,Education,2361,Under Investigation,No
+CVE-2022-43702,2022-01-10,Deserialization,Microsoft,Azure AD,2.7,Low,Adjacent,High,High,Required,Low,High,Low,Turkey,Defense,48699,Under Investigation,No
+CVE-2022-78525,2022-03-03,Path Traversal,Google,Android,2.8,Low,Network,Low,High,Required,Low,High,Low,India,IT,55,Actively Exploited,No
+CVE-2022-42195,2022-09-20,Buffer Overflow,Microsoft,Exchange Server,3.2,Low,Network,Low,High,None,Low,None,Low,Ukraine,Manufacturing,13131,Patched,No
+CVE-2022-34687,2022-03-31,Deserialization,Apple,iOS,5.8,Medium,Network,High,Low,Required,None,Low,Low,Iran,Government,13949,Exploited,Yes
+CVE-2022-75196,2022-01-01,XSS,VMware,vCenter,6.8,Medium,Physical,High,High,None,High,High,None,China,Manufacturing,34692,Under Investigation,No
+CVE-2022-02160,2022-12-22,Path Traversal,Microsoft,Windows,3.0,Low,Network,High,Low,None,None,None,None,USA,Defense,46795,Under Investigation,Yes
+CVE-2022-65555,2022-04-16,XXE,SAP,NetWeaver,9.0,Critical,Adjacent,High,High,Required,None,None,Low,UK,Retail,45702,Resolved,Yes
+CVE-2022-62285,2022-09-22,Deserialization,Apache,Kafka,3.9,Low,Adjacent,High,Low,None,High,High,None,South Korea,Education,21047,Patched,Yes
+CVE-2022-01877,2022-12-27,Privilege Escalation,Adobe,Acrobat,5.0,Medium,Adjacent,Low,High,None,High,High,Low,Vietnam,Transport,35191,Resolved,No
+CVE-2022-57234,2022-11-08,SQL Injection,WordPress,Plugins,6.8,Medium,Local,High,High,None,High,None,High,Brazil,Retail,11994,Exploited,Yes
+CVE-2022-04590,2022-09-27,CSRF,Drupal,Core,9.2,Critical,Local,Low,Low,Required,None,None,High,Canada,IT,24248,Exploited,No
+CVE-2022-74051,2022-05-22,Buffer Overflow,Linux,systemd,1.2,Low,Physical,Low,Low,None,High,Low,High,USA,Defense,39222,Exploited,No
+CVE-2022-33603,2022-08-26,RCE,Apache,Kafka,5.6,Medium,Physical,Low,Low,Required,None,None,None,Nigeria,Manufacturing,27853,Patched,No
+CVE-2022-29373,2022-03-20,Privilege Escalation,WordPress,Plugins,1.4,Low,Adjacent,Low,None,None,None,High,High,Romania,Finance,17763,Patched,No
+CVE-2022-98878,2022-05-06,SSRF,Fortinet,FortiOS,6.9,Medium,Network,High,None,None,None,Low,Low,Iran,IT,47244,Exploited,Yes
+CVE-2022-18218,2022-11-04,Logic Flaw,Juniper,Junos,6.0,Medium,Physical,Low,Low,Required,High,High,High,Russia,IT,48305,Resolved,Yes
+CVE-2022-53360,2022-03-31,Ransomware,Apache,HTTP Server,7.4,High,Network,High,None,None,High,None,None,China,Education,36600,Patched,Yes
+CVE-2022-70892,2022-05-20,Privilege Escalation,VMware,vCenter,4.9,Medium,Network,High,Low,Required,High,None,None,Pakistan,Energy,46115,Under Investigation,Yes
+CVE-2022-57469,2022-09-25,CSRF,Apache,Struts,5.6,Medium,Local,Low,Low,None,None,Low,High,Ukraine,Energy,21929,Patched,No
+CVE-2022-84202,2022-04-18,Credential Stuffing,Cisco,IOS,9.0,Critical,Adjacent,Low,High,Required,Low,Low,None,Romania,Education,19859,Exploited,Yes
+CVE-2022-99210,2022-01-05,MITM,Fortinet,FortiManager,9.8,Critical,Network,Low,None,None,None,None,None,Pakistan,Finance,15940,Resolved,No
+CVE-2022-02050,2022-04-01,SQL Injection,Apple,iOS,1.0,Low,Network,Low,None,Required,None,High,None,Turkey,Education,30602,Patched,Yes
+CVE-2022-49367,2022-08-18,Privilege Escalation,SAP,HANA,1.2,Low,Adjacent,Low,High,Required,High,None,None,Russia,Healthcare,23001,Patched,Yes
+CVE-2022-61629,2022-10-05,Credential Stuffing,Juniper,Junos,3.1,Low,Adjacent,High,Low,Required,High,None,None,India,Education,21114,Patched,Yes
+CVE-2022-70234,2022-08-24,RCE,Juniper,Junos,2.9,Low,Local,Low,Low,Required,Low,High,High,Pakistan,Retail,35800,Actively Exploited,No
+CVE-2022-60938,2022-05-17,CSRF,Zimbra,Collaboration Suite,4.1,Medium,Physical,High,Low,None,None,High,None,France,IT,36110,Resolved,No
+CVE-2022-89918,2022-01-01,Deserialization,Juniper,Junos,2.5,Low,Adjacent,Low,High,None,None,None,None,South Korea,Healthcare,17899,Patched,No
+CVE-2022-81006,2022-02-16,Ransomware,F5,BIG-IP,7.7,High,Adjacent,Low,None,None,High,None,None,USA,Transport,36828,Resolved,Yes
+CVE-2022-86880,2022-03-12,Privilege Escalation,Nginx,Nginx,3.1,Low,Physical,High,None,Required,Low,None,High,Brazil,Education,9833,Resolved,Yes
+CVE-2022-68067,2022-12-11,CSRF,VMware,ESXi,1.6,Low,Adjacent,High,None,None,Low,None,High,India,Transport,29365,Under Investigation,Yes
+CVE-2022-54795,2022-07-27,RCE,Adobe,ColdFusion,8.4,High,Local,Low,High,None,None,Low,Low,China,Transport,5844,Under Investigation,Yes
+CVE-2022-39943,2022-02-14,RCE,Atlassian,Bitbucket,8.5,High,Physical,High,None,Required,High,Low,High,France,IT,3721,Resolved,Yes
+CVE-2022-20213,2022-12-14,SSRF,Microsoft,Office,0.6,Low,Network,High,Low,Required,High,High,Low,Indonesia,Government,46230,Under Investigation,Yes
+CVE-2022-69261,2022-07-10,Privilege Escalation,Fortinet,FortiGate,7.9,High,Adjacent,High,High,None,None,High,High,Germany,Transport,11590,Exploited,Yes
+CVE-2022-43862,2022-04-18,RCE,Atlassian,Bitbucket,6.8,Medium,Network,High,Low,Required,High,Low,None,UK,IT,36629,Resolved,Yes
+CVE-2022-44939,2022-07-10,Path Traversal,Cisco,ASA,0.1,Low,Physical,High,High,Required,High,High,Low,Netherlands,Education,11477,Exploited,Yes
+CVE-2022-09885,2022-07-15,Zero-Day Exploit,Cisco,ASA,2.8,Low,Adjacent,Low,High,None,None,None,Low,Romania,Telecom,43905,Resolved,Yes
+CVE-2022-91909,2022-11-02,SQL Injection,Linux,Kernel,2.4,Low,Adjacent,High,High,None,None,High,Low,Turkey,Telecom,23891,Resolved,Yes
+CVE-2022-03593,2022-11-03,RCE,IBM,MQ,7.9,High,Network,Low,High,None,None,High,None,Iran,Telecom,2662,Under Investigation,Yes
+CVE-2022-93409,2022-08-21,Phishing,Nginx,Nginx,2.9,Low,Local,High,Low,None,None,High,None,France,Energy,30975,Actively Exploited,No
+CVE-2022-02776,2022-04-10,Zero-Day Exploit,Microsoft,Azure AD,2.1,Low,Local,High,None,None,None,Low,Low,USA,Education,11687,Patched,No
+CVE-2022-69833,2022-07-12,CSRF,Linux,Kernel,5.5,Medium,Network,High,Low,Required,Low,High,None,UK,Healthcare,15227,Exploited,Yes
+CVE-2022-95971,2022-01-27,SSRF,SAP,HANA,8.2,High,Local,Low,Low,Required,High,Low,Low,Pakistan,Defense,5257,Exploited,No
+CVE-2022-10681,2022-08-27,Deserialization,F5,BIG-IP,9.6,Critical,Adjacent,High,None,None,High,High,None,Ukraine,IT,49105,Under Investigation,Yes
+CVE-2022-07803,2022-11-30,Path Traversal,Fortinet,FortiManager,1.8,Low,Adjacent,High,None,Required,None,None,Low,France,Transport,13597,Resolved,No
+CVE-2022-81129,2022-04-19,DoS/DDoS,Cisco,IOS,1.3,Low,Physical,Low,High,None,None,High,Low,North Korea,Finance,28390,Exploited,Yes
+CVE-2022-77470,2022-01-14,Path Traversal,Apple,iOS,1.3,Low,Adjacent,High,None,None,Low,Low,Low,USA,Government,42481,Patched,Yes
+CVE-2022-29644,2022-02-28,Ransomware,Cisco,AnyConnect,4.1,Medium,Physical,High,Low,None,Low,High,High,Germany,Healthcare,31709,Exploited,No

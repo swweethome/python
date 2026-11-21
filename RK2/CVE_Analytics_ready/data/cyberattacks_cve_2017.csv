@@ -1,0 +1,1150 @@
+cve_id,date,attack_type,vendor,product,cvss_score,severity,attack_vector,access_complexity,privileges_required,user_interaction,confidentiality_impact,integrity_impact,availability_impact,attacker_country,target_sector,affected_hosts,status,exploit_available
+CVE-2017-11858,2017-04-27,Brute Force,Linux,glibc,0.3,Low,Adjacent,High,None,None,High,High,High,Germany,Retail,38111,Under Investigation,Yes
+CVE-2017-30926,2017-05-14,DoS/DDoS,Apple,Safari,3.3,Low,Adjacent,Low,Low,None,High,None,Low,Turkey,Retail,32765,Exploited,Yes
+CVE-2017-91679,2017-08-27,Phishing,Atlassian,Jira,2.7,Low,Local,Low,Low,None,High,Low,None,North Korea,Manufacturing,45930,Exploited,Yes
+CVE-2017-60906,2017-05-12,XSS,Adobe,Acrobat,6.3,Medium,Adjacent,Low,None,Required,None,High,Low,Vietnam,Education,19448,Under Investigation,Yes
+CVE-2017-89093,2017-08-01,SSRF,Adobe,Photoshop,0.0,None,Adjacent,Low,High,Required,Low,Low,None,Vietnam,IT,11746,Resolved,No
+CVE-2017-43356,2017-03-19,RCE,Cisco,ASA,0.9,Low,Local,Low,Low,None,Low,None,High,India,IT,24991,Resolved,No
+CVE-2017-95712,2017-12-04,CSRF,Cisco,Webex,3.1,Low,Adjacent,High,None,None,High,None,Low,France,IT,30841,Patched,Yes
+CVE-2017-41885,2017-07-04,Ransomware,Fortinet,FortiGate,8.0,High,Network,High,None,None,None,High,None,Russia,Energy,23959,Resolved,Yes
+CVE-2017-83173,2017-03-26,XSS,F5,BIG-IP,2.0,Low,Physical,Low,Low,Required,High,High,None,Germany,Retail,23986,Under Investigation,No
+CVE-2017-77342,2017-10-12,Privilege Escalation,VMware,Workstation,0.6,Low,Local,Low,High,Required,Low,High,Low,Netherlands,Transport,2775,Exploited,No
+CVE-2017-93250,2017-04-17,Phishing,SAP,Business One,8.3,High,Network,High,High,None,Low,High,Low,Russia,Defense,44158,Under Investigation,Yes
+CVE-2017-59763,2017-07-09,Deserialization,Palo Alto,GlobalProtect,0.3,Low,Local,Low,Low,Required,High,Low,Low,Ukraine,Transport,39011,Resolved,Yes
+CVE-2017-70112,2017-07-23,Credential Stuffing,Atlassian,Confluence,8.7,High,Adjacent,Low,None,None,Low,None,None,UK,Education,1190,Exploited,No
+CVE-2017-75256,2017-02-23,XXE,VMware,vCenter,8.7,High,Physical,Low,High,None,Low,None,Low,Netherlands,Healthcare,49924,Exploited,No
+CVE-2017-20184,2017-10-08,Privilege Escalation,Google,Chrome,4.0,Medium,Adjacent,Low,None,Required,High,None,Low,Russia,Government,41682,Under Investigation,No
+CVE-2017-19090,2017-05-14,Privilege Escalation,Palo Alto,PAN-OS,7.4,High,Adjacent,High,None,None,None,None,High,North Korea,Finance,989,Exploited,Yes
+CVE-2017-58667,2017-09-27,DoS/DDoS,Adobe,Flash,9.4,Critical,Adjacent,High,High,None,Low,None,High,Netherlands,Manufacturing,37171,Exploited,Yes
+CVE-2017-99475,2017-03-24,SSRF,IBM,WebSphere,6.0,Medium,Network,High,Low,None,High,Low,High,Indonesia,Energy,26733,Actively Exploited,No
+CVE-2017-70433,2017-11-02,Deserialization,Palo Alto,PAN-OS,8.7,High,Local,Low,Low,None,Low,None,High,India,Finance,42071,Actively Exploited,Yes
+CVE-2017-51395,2017-05-06,Ransomware,Drupal,Core,9.0,Critical,Physical,Low,None,Required,None,None,High,Ukraine,Telecom,30795,Patched,No
+CVE-2017-97765,2017-04-12,Logic Flaw,Oracle,Java SE,4.3,Medium,Adjacent,High,Low,Required,High,Low,Low,India,Transport,47598,Patched,No
+CVE-2017-08393,2017-05-24,DoS/DDoS,Adobe,Flash,4.3,Medium,Adjacent,Low,None,None,None,High,High,USA,Education,32775,Under Investigation,Yes
+CVE-2017-44283,2017-11-04,SSRF,Apple,iOS,9.9,Critical,Adjacent,High,High,None,High,High,Low,China,IT,6285,Under Investigation,No
+CVE-2017-40829,2017-06-23,DoS/DDoS,Oracle,Database,9.2,Critical,Adjacent,High,Low,Required,Low,High,None,Indonesia,IT,42273,Resolved,Yes
+CVE-2017-91402,2017-11-26,MITM,WordPress,Core,3.5,Low,Physical,Low,High,None,None,High,Low,UK,Healthcare,23096,Patched,No
+CVE-2017-27162,2017-09-25,Logic Flaw,Zimbra,Collaboration Suite,4.5,Medium,Local,Low,High,None,Low,None,None,Netherlands,IT,48797,Under Investigation,No
+CVE-2017-47371,2017-10-20,Brute Force,Zimbra,Collaboration Suite,3.5,Low,Adjacent,High,Low,None,None,None,High,India,Finance,373,Actively Exploited,Yes
+CVE-2017-09181,2017-10-13,Zero-Day Exploit,Zimbra,Collaboration Suite,4.4,Medium,Local,High,High,Required,Low,Low,High,Turkey,Government,48704,Resolved,Yes
+CVE-2017-32718,2017-07-07,SSRF,Fortinet,FortiManager,9.5,Critical,Local,Low,High,Required,High,None,High,North Korea,Manufacturing,43293,Exploited,Yes
+CVE-2017-88800,2017-12-16,MITM,IBM,WebSphere,3.7,Low,Network,Low,High,None,Low,Low,High,Pakistan,Government,42818,Under Investigation,Yes
+CVE-2017-86470,2017-07-28,Brute Force,Google,Android,4.5,Medium,Network,High,None,Required,High,Low,Low,Nigeria,Finance,16277,Patched,No
+CVE-2017-37888,2017-06-16,Privilege Escalation,Fortinet,FortiGate,7.6,High,Network,High,Low,Required,High,High,None,North Korea,Telecom,41545,Exploited,No
+CVE-2017-07689,2017-12-23,Phishing,VMware,Workstation,6.7,Medium,Physical,Low,Low,None,High,Low,None,Iran,Finance,39892,Exploited,No
+CVE-2017-32435,2017-11-30,CSRF,Linux,glibc,9.1,Critical,Adjacent,Low,High,None,None,Low,None,Vietnam,Energy,38435,Actively Exploited,No
+CVE-2017-08093,2017-08-11,SSRF,Nginx,Nginx,4.4,Medium,Local,High,None,Required,High,None,None,Romania,IT,48304,Exploited,No
+CVE-2017-96278,2017-01-21,XSS,Juniper,Junos,7.3,High,Network,Low,Low,Required,High,None,Low,Vietnam,Defense,41955,Under Investigation,Yes
+CVE-2017-96848,2017-09-18,Logic Flaw,Apache,HTTP Server,4.8,Medium,Network,Low,Low,Required,High,None,None,China,Manufacturing,11112,Patched,Yes
+CVE-2017-04033,2017-05-26,Phishing,Palo Alto,PAN-OS,5.7,Medium,Network,High,Low,None,Low,None,None,USA,Finance,30044,Exploited,No
+CVE-2017-03831,2017-06-28,SQL Injection,Adobe,Acrobat,3.7,Low,Adjacent,Low,Low,Required,High,Low,None,Vietnam,Telecom,1011,Actively Exploited,No
+CVE-2017-15174,2017-05-17,Brute Force,SAP,HANA,1.2,Low,Adjacent,High,None,Required,Low,None,High,Turkey,Healthcare,17422,Patched,No
+CVE-2017-89824,2017-03-21,Ransomware,F5,BIG-IP,0.7,Low,Physical,Low,None,Required,None,None,None,Pakistan,Government,47508,Actively Exploited,Yes
+CVE-2017-98489,2017-07-09,MITM,Fortinet,FortiGate,6.2,Medium,Network,Low,Low,None,High,Low,Low,Russia,IT,16696,Actively Exploited,Yes
+CVE-2017-28240,2017-03-04,XSS,IBM,MQ,8.5,High,Physical,Low,Low,None,None,None,None,Romania,Government,21097,Exploited,No
+CVE-2017-97992,2017-04-01,SQL Injection,IBM,QRadar,3.0,Low,Physical,Low,High,Required,High,High,None,Ukraine,Education,15388,Actively Exploited,Yes
+CVE-2017-76326,2017-12-02,Ransomware,Apache,HTTP Server,6.1,Medium,Network,Low,High,Required,None,None,High,Canada,IT,33101,Exploited,Yes
+CVE-2017-92707,2017-02-26,Logic Flaw,Drupal,Modules,9.9,Critical,Adjacent,Low,High,Required,Low,High,None,Ukraine,Defense,16836,Resolved,Yes
+CVE-2017-83352,2017-04-09,Path Traversal,SAP,Business One,3.0,Low,Network,Low,Low,Required,Low,High,None,Nigeria,Education,34901,Actively Exploited,No
+CVE-2017-71920,2017-02-02,XSS,Linux,systemd,8.8,High,Local,Low,None,None,High,Low,None,UK,Education,1261,Actively Exploited,No
+CVE-2017-80941,2017-09-22,SSRF,F5,BIG-IP,2.3,Low,Physical,High,High,None,None,Low,None,Indonesia,Government,16479,Exploited,Yes
+CVE-2017-93829,2017-12-22,Ransomware,SAP,NetWeaver,8.6,High,Adjacent,Low,Low,Required,High,None,None,South Korea,Government,44030,Patched,No
+CVE-2017-93124,2017-07-18,SQL Injection,Atlassian,Jira,6.4,Medium,Network,High,None,Required,High,None,High,North Korea,Telecom,42233,Actively Exploited,Yes
+CVE-2017-76865,2017-08-05,RCE,Zimbra,Collaboration Suite,7.8,High,Network,High,None,None,High,None,High,Netherlands,Government,43142,Actively Exploited,No
+CVE-2017-99276,2017-07-30,Brute Force,F5,BIG-IP,0.2,Low,Physical,Low,None,None,High,High,High,Turkey,Finance,25633,Actively Exploited,No
+CVE-2017-01126,2017-06-24,Brute Force,F5,BIG-IP,3.5,Low,Network,Low,Low,None,High,High,None,South Korea,Education,2822,Actively Exploited,Yes
+CVE-2017-90682,2017-12-30,Brute Force,SAP,NetWeaver,5.9,Medium,Network,High,Low,Required,Low,Low,None,Netherlands,Defense,49074,Under Investigation,Yes
+CVE-2017-27681,2017-08-02,XSS,Google,Android,0.7,Low,Local,Low,High,None,High,High,High,Canada,Finance,28851,Actively Exploited,Yes
+CVE-2017-99920,2017-11-19,Zero-Day Exploit,WordPress,Core,5.0,Medium,Adjacent,High,Low,Required,High,None,None,North Korea,Healthcare,29486,Actively Exploited,No
+CVE-2017-15585,2017-09-02,Path Traversal,WordPress,Core,4.4,Medium,Local,Low,High,None,Low,None,Low,Ukraine,IT,13047,Exploited,No
+CVE-2017-84493,2017-12-07,DoS/DDoS,Nginx,Nginx,8.6,High,Local,Low,High,None,High,Low,None,India,Defense,3860,Patched,No
+CVE-2017-72774,2017-08-08,CSRF,F5,BIG-IP,4.4,Medium,Physical,High,Low,None,Low,None,Low,Germany,Energy,43346,Actively Exploited,No
+CVE-2017-65074,2017-01-01,DoS/DDoS,Adobe,Flash,5.2,Medium,Network,High,High,None,High,None,None,Nigeria,Transport,5833,Exploited,Yes
+CVE-2017-83102,2017-03-15,SQL Injection,Microsoft,Exchange Server,8.0,High,Adjacent,Low,Low,None,Low,None,High,Canada,Finance,37802,Actively Exploited,No
+CVE-2017-14913,2017-07-25,Logic Flaw,F5,BIG-IP,4.0,Medium,Network,High,Low,Required,Low,Low,High,China,Energy,14640,Resolved,No
+CVE-2017-09817,2017-08-11,Privilege Escalation,Atlassian,Bitbucket,9.6,Critical,Adjacent,Low,Low,Required,None,Low,None,Russia,Retail,17601,Exploited,Yes
+CVE-2017-97736,2017-04-03,Zero-Day Exploit,Atlassian,Jira,5.2,Medium,Physical,High,High,Required,High,None,None,Indonesia,Defense,20780,Actively Exploited,No
+CVE-2017-75515,2017-04-22,Logic Flaw,Fortinet,FortiManager,8.5,High,Physical,High,Low,None,High,None,High,China,Government,15289,Resolved,No
+CVE-2017-53821,2017-02-13,Zero-Day Exploit,Zimbra,Collaboration Suite,7.8,High,Local,High,None,None,High,High,Low,Germany,Telecom,42213,Exploited,Yes
+CVE-2017-57457,2017-06-23,Deserialization,Juniper,Junos,2.2,Low,Local,High,Low,None,None,High,High,India,IT,16707,Patched,Yes
+CVE-2017-37423,2017-10-31,Credential Stuffing,Microsoft,Exchange Server,1.7,Low,Local,Low,None,Required,Low,High,High,USA,Retail,4548,Patched,Yes
+CVE-2017-52854,2017-01-03,XXE,Linux,systemd,8.2,High,Network,Low,None,Required,Low,Low,High,Canada,Manufacturing,32902,Patched,No
+CVE-2017-48434,2017-08-04,Privilege Escalation,Google,Workspace,3.6,Low,Adjacent,High,Low,None,High,High,Low,France,IT,22070,Exploited,Yes
+CVE-2017-25381,2017-09-27,Phishing,WordPress,Plugins,8.8,High,Local,High,Low,None,High,None,Low,France,Defense,34804,Actively Exploited,Yes
+CVE-2017-93211,2017-07-27,Ransomware,Google,Workspace,7.9,High,Adjacent,Low,None,Required,High,None,None,Nigeria,Finance,30560,Resolved,Yes
+CVE-2017-38206,2017-12-28,Credential Stuffing,Drupal,Core,5.3,Medium,Physical,Low,None,Required,None,High,High,Germany,Education,18164,Under Investigation,Yes
+CVE-2017-69182,2017-03-18,MITM,Apple,Safari,6.0,Medium,Local,High,None,None,None,Low,High,Indonesia,Healthcare,19944,Actively Exploited,No
+CVE-2017-03098,2017-08-23,Zero-Day Exploit,Google,Android,8.0,High,Adjacent,Low,None,None,High,Low,High,China,IT,46596,Exploited,No
+CVE-2017-58621,2017-08-17,Path Traversal,Juniper,Junos,8.7,High,Network,Low,Low,None,High,Low,Low,Vietnam,Finance,42750,Patched,No
+CVE-2017-28479,2017-07-19,DoS/DDoS,Nginx,Nginx,0.7,Low,Local,High,Low,None,Low,None,Low,Germany,Government,40359,Under Investigation,No
+CVE-2017-08440,2017-11-25,DoS/DDoS,Linux,glibc,2.8,Low,Local,Low,Low,Required,High,Low,None,Romania,Transport,10615,Actively Exploited,No
+CVE-2017-26604,2017-01-31,RCE,F5,BIG-IP,7.6,High,Local,High,None,None,Low,High,Low,USA,Defense,24763,Under Investigation,Yes
+CVE-2017-95475,2017-10-29,XXE,Cisco,IOS,1.6,Low,Adjacent,High,High,Required,None,Low,High,Germany,IT,36495,Actively Exploited,No
+CVE-2017-43056,2017-05-14,Ransomware,F5,BIG-IP,0.0,None,Local,High,None,Required,Low,None,None,Romania,Energy,43169,Exploited,Yes
+CVE-2017-54808,2017-07-02,XXE,Zimbra,Collaboration Suite,8.0,High,Local,Low,High,None,High,Low,Low,Turkey,Telecom,11715,Actively Exploited,No
+CVE-2017-88371,2017-05-13,Zero-Day Exploit,Fortinet,FortiOS,0.1,Low,Adjacent,High,Low,Required,Low,None,Low,France,IT,11110,Patched,Yes
+CVE-2017-57415,2017-01-18,MITM,WordPress,Plugins,3.3,Low,Physical,High,Low,None,High,High,High,Russia,Healthcare,36845,Actively Exploited,No
+CVE-2017-58495,2017-02-01,Ransomware,Drupal,Core,2.7,Low,Local,Low,High,Required,None,Low,High,Indonesia,Education,17788,Under Investigation,Yes
+CVE-2017-76416,2017-11-14,Deserialization,Microsoft,Exchange Server,6.9,Medium,Adjacent,High,Low,Required,None,Low,None,North Korea,Defense,17009,Resolved,Yes
+CVE-2017-67576,2017-09-26,Command Injection,Palo Alto,GlobalProtect,3.9,Low,Network,High,Low,None,Low,High,None,Nigeria,Government,20142,Actively Exploited,No
+CVE-2017-46001,2017-08-17,Phishing,Apache,HTTP Server,5.5,Medium,Physical,Low,Low,Required,None,Low,None,USA,Manufacturing,13870,Actively Exploited,No
+CVE-2017-97263,2017-09-28,Phishing,Oracle,Database,7.2,High,Network,High,None,None,None,High,High,Iran,Telecom,27864,Actively Exploited,Yes
+CVE-2017-40727,2017-12-12,Command Injection,Linux,Kernel,6.6,Medium,Physical,High,Low,None,High,None,High,North Korea,Government,20449,Actively Exploited,Yes
+CVE-2017-64755,2017-07-27,Command Injection,Google,Android,6.5,Medium,Physical,High,None,Required,None,Low,Low,USA,IT,17543,Resolved,No
+CVE-2017-43776,2017-08-22,DoS/DDoS,Nginx,Nginx,5.4,Medium,Adjacent,High,None,None,None,High,None,France,Healthcare,14596,Actively Exploited,Yes
+CVE-2017-35309,2017-03-07,Credential Stuffing,Fortinet,FortiOS,10.0,Critical,Network,Low,Low,Required,High,None,None,USA,Transport,7424,Resolved,No
+CVE-2017-12069,2017-11-06,Deserialization,Oracle,Java SE,9.7,Critical,Network,High,Low,Required,High,Low,High,Canada,Education,7666,Patched,Yes
+CVE-2017-40989,2017-05-05,Phishing,Atlassian,Confluence,5.5,Medium,Physical,High,None,Required,Low,None,None,Turkey,Education,15931,Patched,Yes
+CVE-2017-21037,2017-06-22,SSRF,Cisco,IOS,9.5,Critical,Physical,High,High,None,Low,High,High,Canada,Retail,37411,Actively Exploited,No
+CVE-2017-12491,2017-12-26,SQL Injection,Cisco,ASA,8.0,High,Local,High,High,None,Low,High,None,Brazil,Finance,4390,Under Investigation,Yes
+CVE-2017-48615,2017-07-18,Phishing,IBM,MQ,8.0,High,Physical,High,High,None,Low,High,Low,Germany,Telecom,41466,Under Investigation,No
+CVE-2017-03980,2017-12-05,Phishing,Palo Alto,PAN-OS,4.0,Medium,Adjacent,High,Low,None,High,None,High,Russia,Telecom,46511,Exploited,No
+CVE-2017-38605,2017-03-17,Privilege Escalation,Google,Workspace,6.2,Medium,Network,Low,High,None,Low,Low,Low,India,IT,49887,Under Investigation,Yes
+CVE-2017-86993,2017-09-05,DoS/DDoS,Linux,glibc,5.4,Medium,Network,Low,High,Required,None,None,None,North Korea,Finance,14126,Resolved,Yes
+CVE-2017-77008,2017-11-02,XSS,WordPress,Core,8.8,High,Network,High,None,Required,High,Low,Low,Nigeria,Telecom,5153,Actively Exploited,Yes
+CVE-2017-04514,2017-05-02,SQL Injection,Atlassian,Bitbucket,0.4,Low,Network,High,High,Required,Low,High,None,USA,Education,7767,Under Investigation,Yes
+CVE-2017-00128,2017-07-03,Phishing,VMware,Horizon,4.9,Medium,Adjacent,Low,High,None,None,Low,Low,Netherlands,Retail,40597,Resolved,Yes
+CVE-2017-99429,2017-12-16,Buffer Overflow,WordPress,Core,4.7,Medium,Physical,Low,High,None,None,Low,Low,USA,Manufacturing,42169,Actively Exploited,No
+CVE-2017-02369,2017-07-08,Zero-Day Exploit,WordPress,Core,9.8,Critical,Adjacent,High,None,None,None,Low,High,Russia,Healthcare,49567,Exploited,No
+CVE-2017-02366,2017-11-16,Phishing,Adobe,ColdFusion,3.9,Low,Local,High,High,None,High,Low,High,Nigeria,Education,8265,Exploited,Yes
+CVE-2017-04375,2017-03-01,Path Traversal,WordPress,Plugins,3.7,Low,Adjacent,Low,Low,None,None,Low,Low,Brazil,Energy,44379,Resolved,Yes
+CVE-2017-05664,2017-05-16,Command Injection,Palo Alto,GlobalProtect,4.1,Medium,Local,High,Low,None,High,Low,High,India,Government,47022,Under Investigation,Yes
+CVE-2017-59044,2017-12-11,Zero-Day Exploit,IBM,QRadar,9.5,Critical,Network,Low,High,None,Low,None,High,Iran,IT,97,Patched,Yes
+CVE-2017-65224,2017-08-14,CSRF,Atlassian,Confluence,6.9,Medium,Adjacent,Low,High,Required,High,High,Low,Indonesia,Finance,17116,Patched,No
+CVE-2017-01837,2017-01-17,Brute Force,Google,Workspace,10.0,Critical,Adjacent,High,High,Required,Low,High,None,Canada,Transport,2955,Patched,No
+CVE-2017-59271,2017-08-30,RCE,Microsoft,Exchange Server,2.1,Low,Adjacent,Low,Low,Required,High,High,High,France,Transport,23251,Patched,Yes
+CVE-2017-68224,2017-08-23,RCE,Nginx,Nginx,9.5,Critical,Adjacent,High,None,Required,High,High,None,UK,Finance,20934,Exploited,Yes
+CVE-2017-31819,2017-12-30,SSRF,Zimbra,Collaboration Suite,8.4,High,Network,High,None,None,None,Low,High,Turkey,Energy,47721,Exploited,Yes
+CVE-2017-66367,2017-02-23,Logic Flaw,Adobe,Photoshop,0.1,Low,Local,High,None,Required,Low,None,High,Netherlands,Telecom,9576,Under Investigation,No
+CVE-2017-35595,2017-05-18,Privilege Escalation,Linux,Kernel,1.0,Low,Physical,Low,None,None,High,None,High,North Korea,Healthcare,21845,Patched,No
+CVE-2017-56534,2017-02-26,Zero-Day Exploit,Apache,Log4j,1.1,Low,Adjacent,Low,Low,None,High,Low,High,Ukraine,Government,44353,Actively Exploited,Yes
+CVE-2017-50858,2017-07-31,Logic Flaw,Google,Chrome,10.0,Critical,Local,Low,High,None,None,None,None,Brazil,Education,14369,Exploited,Yes
+CVE-2017-75983,2017-07-15,CSRF,Linux,systemd,3.4,Low,Physical,High,None,None,None,High,High,India,Telecom,33092,Under Investigation,Yes
+CVE-2017-40277,2017-05-25,DoS/DDoS,Palo Alto,PAN-OS,3.9,Low,Adjacent,Low,High,Required,Low,High,High,China,Retail,13089,Resolved,Yes
+CVE-2017-80444,2017-07-08,MITM,IBM,QRadar,0.1,Low,Adjacent,Low,Low,None,Low,None,Low,Romania,Manufacturing,11740,Exploited,Yes
+CVE-2017-24252,2017-08-28,Buffer Overflow,Juniper,Junos,2.9,Low,Network,High,High,None,Low,High,Low,Netherlands,Transport,49003,Exploited,No
+CVE-2017-11938,2017-10-10,CSRF,IBM,MQ,3.1,Low,Local,Low,High,Required,Low,None,High,Ukraine,Government,9027,Exploited,No
+CVE-2017-72312,2017-06-06,Brute Force,Adobe,Flash,1.4,Low,Physical,Low,High,None,High,None,None,North Korea,Defense,4986,Actively Exploited,Yes
+CVE-2017-13942,2017-12-01,MITM,Atlassian,Confluence,6.5,Medium,Adjacent,Low,Low,Required,Low,High,None,Germany,Healthcare,19072,Under Investigation,No
+CVE-2017-48874,2017-04-27,XSS,Google,Workspace,0.6,Low,Adjacent,High,None,None,None,None,None,Iran,Education,4320,Under Investigation,No
+CVE-2017-24238,2017-02-12,Deserialization,Palo Alto,GlobalProtect,2.8,Low,Physical,Low,Low,Required,High,High,None,North Korea,Manufacturing,31081,Exploited,Yes
+CVE-2017-97058,2017-06-06,SSRF,Linux,Kernel,5.6,Medium,Physical,High,High,None,Low,Low,High,Netherlands,Telecom,42466,Under Investigation,Yes
+CVE-2017-45569,2017-01-08,XXE,Oracle,Database,8.5,High,Local,High,Low,None,High,Low,High,Vietnam,Education,14272,Resolved,No
+CVE-2017-05251,2017-08-15,Buffer Overflow,Juniper,Junos,1.1,Low,Local,High,Low,None,High,Low,High,Brazil,Government,2981,Exploited,Yes
+CVE-2017-01077,2017-05-25,CSRF,Google,Android,1.4,Low,Adjacent,Low,High,None,None,High,None,France,Education,13907,Exploited,No
+CVE-2017-53231,2017-11-15,Credential Stuffing,Oracle,Java SE,8.8,High,Local,High,Low,Required,None,Low,None,Iran,Defense,34541,Resolved,No
+CVE-2017-15428,2017-07-09,Deserialization,Oracle,WebLogic,4.9,Medium,Adjacent,Low,High,None,None,Low,None,Ukraine,IT,24180,Resolved,No
+CVE-2017-52736,2017-06-04,SSRF,Microsoft,Exchange Server,1.3,Low,Adjacent,High,Low,Required,High,Low,High,Netherlands,Education,29228,Exploited,No
+CVE-2017-45403,2017-01-14,SQL Injection,Nginx,Nginx,5.2,Medium,Local,High,High,None,None,Low,High,UK,IT,20108,Under Investigation,Yes
+CVE-2017-96115,2017-09-07,Brute Force,Cisco,ASA,8.3,High,Local,Low,Low,Required,None,Low,High,India,Telecom,25542,Actively Exploited,Yes
+CVE-2017-70613,2017-07-23,Deserialization,Palo Alto,GlobalProtect,7.9,High,Network,Low,High,None,Low,None,High,Brazil,Manufacturing,46980,Actively Exploited,Yes
+CVE-2017-60772,2017-05-28,Deserialization,Palo Alto,GlobalProtect,5.9,Medium,Local,High,High,None,Low,None,High,Germany,IT,41551,Exploited,Yes
+CVE-2017-64948,2017-06-17,Buffer Overflow,IBM,MQ,8.5,High,Adjacent,High,Low,Required,Low,High,Low,Canada,Manufacturing,41732,Exploited,No
+CVE-2017-62415,2017-08-15,Zero-Day Exploit,Drupal,Core,6.4,Medium,Local,High,None,None,None,None,Low,India,Healthcare,17183,Exploited,Yes
+CVE-2017-46065,2017-10-28,DoS/DDoS,F5,BIG-IP,1.8,Low,Local,High,Low,None,Low,None,Low,Turkey,Retail,42319,Patched,No
+CVE-2017-61492,2017-05-28,CSRF,Apache,Log4j,6.3,Medium,Physical,High,None,Required,Low,None,High,UK,Education,28690,Under Investigation,Yes
+CVE-2017-20176,2017-01-13,XSS,Juniper,Junos,1.8,Low,Local,Low,None,Required,Low,High,Low,China,Manufacturing,10613,Actively Exploited,No
+CVE-2017-08088,2017-12-18,MITM,Apple,Safari,1.1,Low,Physical,High,None,Required,Low,None,Low,Brazil,Retail,2199,Exploited,Yes
+CVE-2017-96307,2017-10-21,Phishing,Apple,iOS,3.4,Low,Adjacent,Low,Low,None,Low,High,Low,China,Telecom,37246,Actively Exploited,Yes
+CVE-2017-68137,2017-05-10,CSRF,IBM,QRadar,2.7,Low,Adjacent,Low,Low,Required,High,Low,None,Iran,Finance,2179,Patched,Yes
+CVE-2017-64445,2017-07-26,Zero-Day Exploit,Zimbra,Collaboration Suite,7.5,High,Network,High,None,None,None,None,Low,Iran,Manufacturing,20647,Exploited,No
+CVE-2017-75574,2017-07-28,Brute Force,F5,BIG-IP,0.3,Low,Physical,High,None,None,Low,High,None,UK,Government,11764,Exploited,No
+CVE-2017-28442,2017-02-10,XSS,Cisco,Webex,7.9,High,Physical,High,None,None,None,High,Low,UK,Defense,39155,Under Investigation,Yes
+CVE-2017-38412,2017-03-26,SSRF,Atlassian,Confluence,5.4,Medium,Network,Low,Low,Required,High,High,Low,Indonesia,Manufacturing,13988,Resolved,Yes
+CVE-2017-08355,2017-04-16,CSRF,Apache,HTTP Server,0.3,Low,Adjacent,Low,None,None,Low,None,None,India,Manufacturing,32362,Under Investigation,Yes
+CVE-2017-68719,2017-01-16,Ransomware,Fortinet,FortiOS,4.0,Medium,Adjacent,High,Low,Required,High,Low,Low,China,Energy,7186,Patched,No
+CVE-2017-94892,2017-07-07,Zero-Day Exploit,Apache,Log4j,3.2,Low,Adjacent,High,High,None,None,High,High,Netherlands,Manufacturing,3650,Patched,Yes
+CVE-2017-10145,2017-07-17,XSS,Palo Alto,GlobalProtect,6.1,Medium,Local,High,High,Required,None,None,None,Canada,Telecom,43385,Under Investigation,No
+CVE-2017-76940,2017-01-23,MITM,Palo Alto,PAN-OS,7.6,High,Adjacent,High,Low,None,None,High,High,Pakistan,Manufacturing,2155,Under Investigation,Yes
+CVE-2017-54206,2017-03-28,Deserialization,Adobe,Photoshop,2.4,Low,Adjacent,High,Low,Required,Low,Low,None,France,Transport,49810,Under Investigation,Yes
+CVE-2017-53032,2017-06-13,Ransomware,Oracle,WebLogic,7.5,High,Adjacent,Low,High,Required,Low,High,None,Iran,Healthcare,32204,Resolved,No
+CVE-2017-45566,2017-11-05,Deserialization,Apache,Struts,7.1,High,Adjacent,Low,Low,Required,None,None,None,Canada,Government,22817,Patched,No
+CVE-2017-43300,2017-09-02,SSRF,Oracle,Java SE,9.7,Critical,Network,High,Low,Required,High,Low,None,Brazil,IT,16932,Under Investigation,Yes
+CVE-2017-01843,2017-09-13,Phishing,Linux,systemd,5.9,Medium,Adjacent,High,None,None,High,None,Low,Indonesia,Education,25715,Exploited,No
+CVE-2017-50996,2017-08-01,SSRF,WordPress,Core,5.2,Medium,Network,Low,Low,Required,Low,Low,None,China,Finance,3242,Patched,Yes
+CVE-2017-01773,2017-11-12,XXE,F5,BIG-IP,2.0,Low,Network,High,Low,None,High,None,High,China,Education,14557,Actively Exploited,Yes
+CVE-2017-89420,2017-02-27,Credential Stuffing,Fortinet,FortiGate,2.2,Low,Local,High,None,Required,High,None,High,Brazil,IT,9430,Actively Exploited,No
+CVE-2017-34083,2017-03-22,XXE,WordPress,Plugins,5.0,Medium,Adjacent,Low,High,None,Low,High,High,Indonesia,Education,9261,Under Investigation,Yes
+CVE-2017-67511,2017-02-13,CSRF,F5,BIG-IP,7.8,High,Network,High,None,None,High,High,None,Canada,Transport,36786,Exploited,No
+CVE-2017-27245,2017-04-29,DoS/DDoS,Microsoft,Azure AD,3.9,Low,Physical,Low,Low,Required,Low,None,None,Nigeria,Retail,39472,Under Investigation,Yes
+CVE-2017-30484,2017-03-10,Credential Stuffing,Atlassian,Confluence,6.9,Medium,Adjacent,Low,None,None,Low,Low,None,North Korea,Retail,3289,Exploited,No
+CVE-2017-24367,2017-10-18,Deserialization,Drupal,Core,9.3,Critical,Local,High,None,None,High,High,Low,Ukraine,Healthcare,27662,Exploited,No
+CVE-2017-77712,2017-06-16,Ransomware,Apple,macOS,8.8,High,Adjacent,High,Low,None,High,Low,Low,Ukraine,Government,42036,Resolved,No
+CVE-2017-39955,2017-09-03,RCE,Atlassian,Bitbucket,0.7,Low,Network,Low,None,None,Low,None,None,Netherlands,Healthcare,38205,Exploited,No
+CVE-2017-47835,2017-01-28,Phishing,Atlassian,Confluence,7.8,High,Physical,High,None,Required,Low,High,Low,Turkey,Retail,40636,Resolved,Yes
+CVE-2017-54062,2017-10-27,XSS,Drupal,Modules,4.4,Medium,Adjacent,Low,None,Required,Low,Low,High,Netherlands,Retail,44977,Exploited,No
+CVE-2017-87377,2017-01-03,Phishing,VMware,Horizon,7.4,High,Local,Low,Low,None,Low,None,Low,India,Healthcare,32601,Actively Exploited,No
+CVE-2017-35837,2017-03-17,Buffer Overflow,Fortinet,FortiManager,1.8,Low,Adjacent,High,None,None,High,High,Low,India,Transport,6072,Resolved,Yes
+CVE-2017-58165,2017-04-15,Path Traversal,VMware,Workstation,1.0,Low,Network,Low,High,None,High,Low,High,Germany,Transport,21426,Exploited,Yes
+CVE-2017-62123,2017-02-21,Path Traversal,VMware,ESXi,0.2,Low,Adjacent,High,None,None,Low,High,Low,India,IT,46463,Under Investigation,Yes
+CVE-2017-10204,2017-11-06,RCE,Oracle,Java SE,6.7,Medium,Physical,Low,None,Required,Low,Low,High,USA,Retail,17071,Patched,Yes
+CVE-2017-42422,2017-06-04,XXE,Juniper,Junos,1.1,Low,Adjacent,Low,None,Required,High,None,High,Netherlands,Energy,22348,Resolved,Yes
+CVE-2017-39799,2017-06-27,Command Injection,Apple,Safari,4.6,Medium,Physical,Low,High,None,Low,High,None,Turkey,Energy,39120,Resolved,Yes
+CVE-2017-42238,2017-05-08,Path Traversal,Apache,Tomcat,7.3,High,Network,Low,None,Required,None,None,Low,Romania,Energy,25299,Exploited,No
+CVE-2017-01422,2017-06-13,Ransomware,Apache,Log4j,2.7,Low,Physical,Low,Low,None,Low,Low,None,North Korea,Manufacturing,45928,Under Investigation,No
+CVE-2017-79361,2017-07-11,RCE,Microsoft,Office,9.6,Critical,Adjacent,Low,Low,Required,None,High,High,Vietnam,Defense,29561,Patched,No
+CVE-2017-06898,2017-05-20,XXE,Nginx,Nginx,0.9,Low,Adjacent,Low,None,None,High,Low,Low,South Korea,IT,29640,Under Investigation,No
+CVE-2017-33881,2017-01-08,Buffer Overflow,Fortinet,FortiOS,8.9,High,Adjacent,High,Low,None,None,Low,Low,Ukraine,Finance,17072,Actively Exploited,Yes
+CVE-2017-38662,2017-12-28,MITM,Linux,Kernel,2.3,Low,Network,Low,High,Required,None,Low,Low,Ukraine,Energy,22656,Actively Exploited,No
+CVE-2017-76268,2017-05-31,Privilege Escalation,WordPress,Core,0.9,Low,Local,Low,High,Required,Low,None,Low,China,Education,33388,Under Investigation,No
+CVE-2017-99056,2017-09-25,Buffer Overflow,Apple,Safari,1.9,Low,Adjacent,Low,High,Required,Low,High,None,France,Education,23524,Resolved,No
+CVE-2017-79492,2017-08-26,Deserialization,Drupal,Core,8.8,High,Physical,Low,High,Required,High,Low,High,Netherlands,Government,9291,Under Investigation,No
+CVE-2017-90744,2017-07-28,SSRF,VMware,Horizon,2.0,Low,Adjacent,High,None,None,Low,None,Low,Turkey,Education,41742,Under Investigation,No
+CVE-2017-79364,2017-05-18,XSS,SAP,NetWeaver,9.3,Critical,Physical,High,High,None,High,Low,High,Pakistan,Education,4007,Resolved,No
+CVE-2017-43716,2017-06-16,MITM,Google,Workspace,6.9,Medium,Network,High,High,None,High,High,Low,Germany,Healthcare,20463,Resolved,Yes
+CVE-2017-09336,2017-07-02,XSS,Fortinet,FortiGate,2.5,Low,Physical,High,Low,None,Low,None,High,Turkey,Manufacturing,17151,Exploited,No
+CVE-2017-20826,2017-12-09,Deserialization,Microsoft,SharePoint,6.9,Medium,Network,Low,Low,Required,Low,Low,Low,Germany,Finance,29674,Actively Exploited,No
+CVE-2017-87439,2017-11-27,SQL Injection,IBM,WebSphere,0.0,None,Physical,High,None,Required,None,Low,None,Germany,Energy,26748,Exploited,No
+CVE-2017-15512,2017-12-31,Credential Stuffing,Cisco,Webex,7.4,High,Network,Low,High,None,None,None,High,North Korea,Retail,5770,Patched,Yes
+CVE-2017-76696,2017-12-19,RCE,Microsoft,Exchange Server,3.6,Low,Network,High,Low,Required,High,Low,None,Canada,Defense,3593,Under Investigation,No
+CVE-2017-31541,2017-09-04,SQL Injection,IBM,WebSphere,5.0,Medium,Local,High,Low,Required,High,Low,Low,Vietnam,Transport,18560,Under Investigation,Yes
+CVE-2017-25636,2017-04-18,Ransomware,Atlassian,Jira,8.2,High,Local,High,Low,None,High,None,None,France,Transport,13097,Exploited,Yes
+CVE-2017-27323,2017-01-22,XSS,Palo Alto,PAN-OS,1.2,Low,Physical,High,High,Required,High,None,None,Turkey,IT,48777,Resolved,Yes
+CVE-2017-63613,2017-12-16,Phishing,Palo Alto,PAN-OS,4.8,Medium,Adjacent,High,High,None,High,High,None,Romania,Healthcare,35852,Patched,Yes
+CVE-2017-12062,2017-07-16,XXE,Zimbra,Collaboration Suite,6.7,Medium,Adjacent,Low,None,None,High,Low,Low,Indonesia,Healthcare,44248,Exploited,Yes
+CVE-2017-20219,2017-05-01,Command Injection,Zimbra,Collaboration Suite,9.2,Critical,Adjacent,High,High,Required,None,High,None,Turkey,Manufacturing,39856,Under Investigation,Yes
+CVE-2017-40582,2017-05-19,RCE,SAP,Business One,6.6,Medium,Adjacent,High,Low,Required,High,None,High,Vietnam,Education,38787,Resolved,No
+CVE-2017-02184,2017-12-06,Brute Force,Apple,macOS,1.6,Low,Local,Low,None,None,None,Low,High,Turkey,Defense,4936,Under Investigation,No
+CVE-2017-05819,2017-11-04,Phishing,Microsoft,Azure AD,6.4,Medium,Local,High,None,Required,High,None,High,Ukraine,Education,37770,Exploited,Yes
+CVE-2017-63024,2017-04-26,Brute Force,Atlassian,Bitbucket,2.2,Low,Adjacent,High,Low,Required,None,Low,High,China,Government,45368,Under Investigation,No
+CVE-2017-80706,2017-10-22,Ransomware,Atlassian,Bitbucket,7.0,High,Local,High,High,Required,High,None,None,USA,Finance,44571,Exploited,No
+CVE-2017-40394,2017-10-09,Credential Stuffing,Palo Alto,GlobalProtect,8.5,High,Adjacent,Low,Low,Required,None,Low,None,South Korea,Manufacturing,913,Patched,Yes
+CVE-2017-94710,2017-11-30,Path Traversal,Apple,iOS,4.5,Medium,Network,Low,Low,Required,High,High,High,Indonesia,Education,37629,Exploited,Yes
+CVE-2017-00818,2017-12-20,XSS,Adobe,Flash,2.7,Low,Adjacent,High,None,None,None,None,High,Romania,Government,39023,Under Investigation,No
+CVE-2017-14998,2017-03-21,Deserialization,IBM,MQ,4.3,Medium,Network,Low,Low,Required,High,High,None,India,Finance,11842,Patched,No
+CVE-2017-50742,2017-08-08,Command Injection,Apache,Log4j,4.4,Medium,Adjacent,Low,None,Required,Low,Low,None,Iran,Education,14031,Under Investigation,No
+CVE-2017-73626,2017-04-01,CSRF,WordPress,Plugins,6.4,Medium,Physical,High,Low,None,None,High,None,Canada,Retail,39208,Exploited,No
+CVE-2017-98397,2017-06-02,Phishing,Palo Alto,PAN-OS,5.0,Medium,Physical,High,None,Required,High,High,None,Turkey,Telecom,19144,Resolved,No
+CVE-2017-40860,2017-09-12,Logic Flaw,Zimbra,Collaboration Suite,4.4,Medium,Local,High,High,Required,Low,High,None,Ukraine,Healthcare,36749,Actively Exploited,No
+CVE-2017-60813,2017-11-03,Logic Flaw,Cisco,AnyConnect,7.3,High,Physical,High,Low,None,None,Low,High,Russia,Retail,40387,Patched,No
+CVE-2017-59818,2017-01-02,DoS/DDoS,Linux,glibc,3.1,Low,Physical,High,Low,Required,High,Low,None,South Korea,Finance,19622,Actively Exploited,No
+CVE-2017-28885,2017-09-17,DoS/DDoS,Microsoft,Office,7.0,High,Local,Low,High,Required,None,Low,None,Romania,Retail,4,Patched,Yes
+CVE-2017-23661,2017-06-21,DoS/DDoS,Drupal,Core,1.7,Low,Adjacent,Low,None,Required,Low,High,Low,North Korea,Manufacturing,24775,Patched,No
+CVE-2017-67043,2017-08-26,Credential Stuffing,Apache,Tomcat,2.6,Low,Network,High,High,None,None,High,High,Ukraine,Energy,24229,Resolved,Yes
+CVE-2017-29309,2017-11-20,Ransomware,Zimbra,Collaboration Suite,9.9,Critical,Local,High,High,None,Low,High,Low,Germany,Retail,49926,Resolved,No
+CVE-2017-72106,2017-08-31,Path Traversal,Google,Chrome,6.5,Medium,Network,Low,None,None,None,High,None,Nigeria,IT,19788,Resolved,No
+CVE-2017-16057,2017-02-10,XXE,VMware,vCenter,2.9,Low,Adjacent,Low,Low,None,High,High,High,Iran,Finance,20612,Exploited,No
+CVE-2017-98556,2017-07-19,Buffer Overflow,IBM,QRadar,6.4,Medium,Physical,High,None,None,High,Low,High,Nigeria,Retail,34068,Patched,No
+CVE-2017-78700,2017-05-20,SQL Injection,Palo Alto,GlobalProtect,1.7,Low,Local,Low,None,Required,None,High,None,South Korea,IT,26678,Under Investigation,No
+CVE-2017-60977,2017-10-08,Path Traversal,WordPress,Core,4.4,Medium,Local,Low,High,Required,Low,None,Low,Iran,Defense,3156,Resolved,Yes
+CVE-2017-58687,2017-08-27,Deserialization,Nginx,Nginx,9.8,Critical,Physical,Low,High,Required,None,High,Low,Netherlands,Energy,7389,Patched,No
+CVE-2017-71038,2017-05-15,Command Injection,Apache,Struts,7.9,High,Adjacent,High,High,Required,Low,High,Low,South Korea,Government,31745,Actively Exploited,Yes
+CVE-2017-81184,2017-03-09,XXE,Linux,glibc,8.9,High,Network,High,Low,Required,High,None,Low,Russia,Transport,42271,Patched,No
+CVE-2017-02548,2017-01-06,Ransomware,Linux,Kernel,1.7,Low,Local,Low,High,None,None,High,Low,Turkey,Defense,46431,Actively Exploited,Yes
+CVE-2017-26935,2017-12-27,MITM,IBM,MQ,2.6,Low,Adjacent,High,High,Required,None,None,Low,Turkey,Defense,33549,Under Investigation,Yes
+CVE-2017-92634,2017-09-28,SQL Injection,VMware,Horizon,5.0,Medium,Network,Low,High,None,None,High,None,Germany,Manufacturing,39984,Under Investigation,Yes
+CVE-2017-12290,2017-05-17,MITM,Adobe,Flash,2.4,Low,Network,High,None,Required,None,None,Low,Indonesia,Manufacturing,39433,Actively Exploited,Yes
+CVE-2017-99545,2017-11-12,Brute Force,VMware,Horizon,6.5,Medium,Network,Low,High,None,None,High,None,Indonesia,Government,11866,Exploited,No
+CVE-2017-86352,2017-05-03,Buffer Overflow,Palo Alto,GlobalProtect,8.6,High,Physical,Low,Low,Required,High,Low,Low,Iran,Finance,19066,Patched,No
+CVE-2017-01948,2017-12-27,DoS/DDoS,Drupal,Core,7.8,High,Local,Low,None,Required,None,Low,None,Iran,Transport,42827,Patched,Yes
+CVE-2017-64513,2017-12-13,MITM,VMware,Horizon,2.8,Low,Network,Low,None,Required,High,High,Low,Netherlands,Government,21765,Exploited,No
+CVE-2017-32235,2017-06-27,Ransomware,VMware,ESXi,5.2,Medium,Physical,Low,None,None,None,High,Low,North Korea,Defense,45147,Actively Exploited,No
+CVE-2017-37717,2017-07-26,RCE,Zimbra,Collaboration Suite,1.8,Low,Physical,High,None,None,Low,None,None,Indonesia,Government,6932,Patched,No
+CVE-2017-86039,2017-07-13,Path Traversal,Microsoft,Office,4.3,Medium,Adjacent,High,None,None,None,High,None,Ukraine,Finance,41484,Exploited,Yes
+CVE-2017-33593,2017-11-07,Logic Flaw,VMware,Workstation,3.8,Low,Local,Low,High,None,High,None,High,France,Transport,38369,Resolved,No
+CVE-2017-87635,2017-10-26,Deserialization,SAP,Business One,2.8,Low,Adjacent,High,Low,Required,None,High,None,France,Manufacturing,16431,Under Investigation,Yes
+CVE-2017-47281,2017-07-30,MITM,Apache,Log4j,2.3,Low,Network,High,Low,Required,None,Low,Low,UK,Energy,27568,Under Investigation,No
+CVE-2017-38327,2017-06-12,Privilege Escalation,Palo Alto,PAN-OS,1.6,Low,Physical,High,Low,Required,None,High,High,Germany,Finance,16385,Patched,Yes
+CVE-2017-20350,2017-02-09,Buffer Overflow,F5,BIG-IP,2.4,Low,Adjacent,High,High,Required,Low,Low,High,Germany,Defense,14068,Actively Exploited,No
+CVE-2017-98095,2017-08-14,CSRF,F5,BIG-IP,7.4,High,Local,Low,None,Required,None,None,Low,Russia,Education,34542,Patched,No
+CVE-2017-37746,2017-09-01,Ransomware,Apache,Struts,1.4,Low,Physical,Low,None,Required,Low,None,High,Nigeria,Retail,14191,Actively Exploited,Yes
+CVE-2017-30961,2017-03-24,Command Injection,Cisco,AnyConnect,2.3,Low,Physical,High,None,None,Low,None,None,Russia,Transport,22379,Resolved,Yes
+CVE-2017-46712,2017-12-16,DoS/DDoS,Nginx,Nginx,9.3,Critical,Physical,Low,None,None,High,High,Low,Turkey,Healthcare,47662,Exploited,No
+CVE-2017-69176,2017-03-04,MITM,Juniper,Junos,9.1,Critical,Adjacent,Low,Low,None,Low,None,High,Russia,Telecom,16726,Patched,Yes
+CVE-2017-44487,2017-04-07,Phishing,WordPress,Plugins,8.1,High,Adjacent,High,High,Required,High,None,High,Romania,Government,40990,Exploited,No
+CVE-2017-88471,2017-04-21,Privilege Escalation,Cisco,Firepower,1.9,Low,Local,Low,High,None,None,High,High,USA,IT,48528,Actively Exploited,Yes
+CVE-2017-25260,2017-04-24,Ransomware,Apache,Log4j,1.3,Low,Network,High,None,Required,Low,Low,High,Germany,Defense,48283,Exploited,No
+CVE-2017-10953,2017-03-27,Command Injection,Apache,Struts,3.7,Low,Physical,Low,None,None,Low,None,High,Indonesia,IT,11742,Actively Exploited,Yes
+CVE-2017-85388,2017-11-16,XSS,Fortinet,FortiOS,3.6,Low,Physical,High,High,None,Low,None,High,India,Healthcare,5900,Resolved,No
+CVE-2017-13991,2017-08-07,XSS,F5,BIG-IP,4.1,Medium,Network,Low,None,Required,Low,Low,None,North Korea,Manufacturing,28678,Actively Exploited,Yes
+CVE-2017-29134,2017-02-19,Path Traversal,Apache,Struts,3.9,Low,Physical,High,None,None,None,None,None,Vietnam,Telecom,49179,Resolved,No
+CVE-2017-31347,2017-10-27,Credential Stuffing,F5,BIG-IP,7.8,High,Adjacent,High,Low,None,High,High,High,UK,Retail,32960,Exploited,No
+CVE-2017-23116,2017-02-24,RCE,VMware,vCenter,1.7,Low,Adjacent,Low,Low,None,Low,None,Low,Iran,Healthcare,9133,Resolved,Yes
+CVE-2017-06910,2017-03-20,Ransomware,Adobe,Acrobat,3.8,Low,Physical,Low,Low,None,Low,Low,High,France,Transport,47363,Patched,No
+CVE-2017-75466,2017-03-23,SSRF,Apple,iOS,3.3,Low,Local,High,Low,Required,None,None,Low,Canada,Healthcare,19458,Under Investigation,No
+CVE-2017-27041,2017-07-17,CSRF,Drupal,Core,3.4,Low,Local,Low,None,Required,None,Low,Low,Pakistan,Manufacturing,25165,Patched,Yes
+CVE-2017-63156,2017-07-19,Zero-Day Exploit,Linux,glibc,0.7,Low,Physical,Low,Low,Required,Low,None,None,France,Government,45357,Exploited,No
+CVE-2017-34174,2017-03-17,Deserialization,Drupal,Modules,3.7,Low,Network,High,Low,None,Low,None,High,Vietnam,Finance,45522,Patched,No
+CVE-2017-29114,2017-02-05,XSS,Juniper,Junos,1.1,Low,Network,High,Low,Required,None,High,High,Turkey,Government,6025,Exploited,No
+CVE-2017-33433,2017-01-03,SQL Injection,Fortinet,FortiGate,0.9,Low,Local,Low,High,Required,High,None,High,Indonesia,Telecom,35918,Exploited,Yes
+CVE-2017-94146,2017-07-09,Brute Force,IBM,QRadar,8.9,High,Adjacent,High,Low,Required,Low,High,High,Romania,Retail,40169,Actively Exploited,No
+CVE-2017-45802,2017-05-30,Logic Flaw,Fortinet,FortiGate,9.2,Critical,Network,High,None,Required,High,None,Low,Ukraine,Telecom,33760,Under Investigation,No
+CVE-2017-08092,2017-12-21,Deserialization,Juniper,Junos,8.9,High,Physical,High,None,Required,None,None,High,Iran,Retail,34731,Exploited,No
+CVE-2017-48908,2017-02-25,Ransomware,Nginx,Nginx,1.1,Low,Adjacent,High,Low,Required,None,High,High,Netherlands,Defense,38890,Patched,No
+CVE-2017-28359,2017-08-13,SQL Injection,IBM,WebSphere,9.0,Critical,Network,Low,High,Required,High,High,Low,India,Retail,4833,Resolved,No
+CVE-2017-07287,2017-07-07,DoS/DDoS,SAP,Business One,2.0,Low,Network,Low,Low,None,None,High,High,Russia,Healthcare,18908,Under Investigation,No
+CVE-2017-81498,2017-09-04,Logic Flaw,Fortinet,FortiGate,1.6,Low,Local,Low,High,None,None,Low,Low,Ukraine,Transport,932,Actively Exploited,Yes
+CVE-2017-95684,2017-09-26,MITM,Google,Workspace,8.9,High,Network,Low,None,Required,None,None,None,Germany,Manufacturing,1833,Resolved,No
+CVE-2017-34666,2017-07-30,Logic Flaw,Apache,Kafka,8.3,High,Network,High,Low,None,Low,None,High,Iran,Telecom,37429,Patched,No
+CVE-2017-22203,2017-09-09,XSS,SAP,HANA,3.1,Low,Network,Low,None,Required,High,High,High,Romania,Manufacturing,19141,Exploited,Yes
+CVE-2017-07216,2017-02-02,Privilege Escalation,Drupal,Modules,5.1,Medium,Local,High,Low,None,High,None,Low,Iran,Finance,34515,Under Investigation,Yes
+CVE-2017-00849,2017-09-13,SQL Injection,Nginx,Nginx,0.6,Low,Network,Low,None,None,None,High,None,Brazil,Telecom,36675,Patched,Yes
+CVE-2017-97675,2017-01-19,RCE,IBM,WebSphere,1.2,Low,Network,High,High,None,Low,High,High,Iran,Finance,25037,Actively Exploited,No
+CVE-2017-08491,2017-01-21,Buffer Overflow,Drupal,Modules,8.4,High,Local,High,None,None,Low,None,None,South Korea,Government,48739,Patched,No
+CVE-2017-49957,2017-05-12,Logic Flaw,Apache,Kafka,7.7,High,Local,High,None,Required,Low,None,None,USA,Manufacturing,1296,Patched,No
+CVE-2017-77997,2017-07-19,XSS,Fortinet,FortiOS,3.2,Low,Adjacent,High,High,None,High,None,High,North Korea,Retail,17261,Resolved,Yes
+CVE-2017-61159,2017-06-26,Path Traversal,IBM,QRadar,6.2,Medium,Network,Low,Low,None,Low,High,None,Pakistan,Education,16064,Under Investigation,Yes
+CVE-2017-86438,2017-08-26,Zero-Day Exploit,VMware,vCenter,6.3,Medium,Physical,High,None,None,None,None,None,Russia,Telecom,5905,Patched,Yes
+CVE-2017-13877,2017-09-26,XXE,Microsoft,Exchange Server,4.2,Medium,Physical,High,Low,None,None,High,High,Nigeria,Transport,713,Actively Exploited,Yes
+CVE-2017-05754,2017-06-03,Ransomware,Drupal,Core,6.1,Medium,Network,High,Low,Required,Low,Low,None,Netherlands,Telecom,2074,Patched,No
+CVE-2017-83551,2017-01-22,Credential Stuffing,Palo Alto,PAN-OS,2.6,Low,Network,High,Low,Required,Low,Low,High,Indonesia,Energy,48032,Under Investigation,No
+CVE-2017-60532,2017-03-02,Deserialization,SAP,Business One,2.5,Low,Network,High,None,Required,None,Low,High,Netherlands,Education,41656,Patched,No
+CVE-2017-22745,2017-08-28,XXE,Adobe,Flash,7.7,High,Local,High,High,Required,None,Low,Low,Canada,Energy,28073,Under Investigation,No
+CVE-2017-07682,2017-04-07,SQL Injection,Fortinet,FortiManager,8.9,High,Network,Low,High,None,Low,None,Low,Pakistan,Retail,49599,Resolved,No
+CVE-2017-72631,2017-10-11,Phishing,SAP,NetWeaver,1.7,Low,Adjacent,Low,Low,Required,High,None,None,Turkey,Telecom,27344,Resolved,Yes
+CVE-2017-78469,2017-08-01,Credential Stuffing,Google,Workspace,8.2,High,Local,High,High,None,High,None,None,Canada,Transport,48,Exploited,Yes
+CVE-2017-83733,2017-07-23,RCE,VMware,Horizon,0.7,Low,Local,High,Low,None,None,Low,None,Iran,Healthcare,23340,Resolved,Yes
+CVE-2017-27770,2017-02-05,MITM,Atlassian,Jira,3.5,Low,Adjacent,Low,None,Required,High,Low,High,Vietnam,Retail,2560,Resolved,Yes
+CVE-2017-78662,2017-08-18,CSRF,Atlassian,Jira,8.8,High,Network,High,Low,None,None,Low,None,China,IT,39558,Resolved,Yes
+CVE-2017-84472,2017-10-24,Zero-Day Exploit,Cisco,IOS,8.5,High,Adjacent,Low,None,None,Low,Low,None,North Korea,Finance,44390,Actively Exploited,No
+CVE-2017-37893,2017-03-16,XXE,Atlassian,Bitbucket,4.5,Medium,Adjacent,Low,High,None,Low,None,None,Vietnam,Manufacturing,27341,Patched,Yes
+CVE-2017-32308,2017-02-10,Deserialization,Oracle,E-Business Suite,7.5,High,Local,Low,High,Required,None,Low,None,UK,Government,28304,Under Investigation,Yes
+CVE-2017-04029,2017-07-12,MITM,WordPress,Core,6.7,Medium,Physical,Low,Low,None,High,High,None,Indonesia,Healthcare,27069,Actively Exploited,No
+CVE-2017-70808,2017-11-01,Zero-Day Exploit,Google,Workspace,8.3,High,Network,High,High,Required,High,Low,Low,Germany,Transport,38271,Under Investigation,No
+CVE-2017-66624,2017-10-29,DoS/DDoS,IBM,WebSphere,4.8,Medium,Local,High,High,Required,High,High,High,South Korea,Government,12265,Under Investigation,No
+CVE-2017-38680,2017-01-14,MITM,SAP,HANA,7.3,High,Adjacent,Low,None,None,None,Low,High,Netherlands,Defense,26179,Exploited,Yes
+CVE-2017-69042,2017-06-14,CSRF,F5,BIG-IP,8.0,High,Adjacent,Low,High,Required,Low,High,High,South Korea,Telecom,25188,Patched,No
+CVE-2017-28175,2017-05-02,Ransomware,Drupal,Core,5.7,Medium,Network,Low,High,None,High,Low,High,Turkey,Education,38984,Under Investigation,Yes
+CVE-2017-90859,2017-04-16,Credential Stuffing,SAP,Business One,4.5,Medium,Adjacent,Low,None,Required,None,Low,Low,Indonesia,Manufacturing,2094,Exploited,Yes
+CVE-2017-08194,2017-08-16,Credential Stuffing,Apache,HTTP Server,3.5,Low,Adjacent,Low,Low,None,Low,None,Low,Netherlands,IT,11558,Exploited,No
+CVE-2017-56196,2017-10-24,Ransomware,Oracle,E-Business Suite,3.1,Low,Physical,High,None,Required,None,None,Low,Canada,Education,22842,Resolved,Yes
+CVE-2017-36518,2017-10-03,DoS/DDoS,Cisco,Webex,9.0,Critical,Local,High,None,Required,None,High,Low,UK,Education,44127,Patched,Yes
+CVE-2017-20213,2017-01-01,Privilege Escalation,Linux,Kernel,6.4,Medium,Physical,High,High,Required,None,High,High,Nigeria,Manufacturing,21661,Exploited,No
+CVE-2017-86155,2017-08-14,XSS,VMware,Horizon,7.9,High,Physical,High,None,Required,Low,High,High,Iran,IT,42052,Patched,No
+CVE-2017-43206,2017-10-17,Zero-Day Exploit,Atlassian,Bitbucket,8.6,High,Network,High,Low,None,None,None,None,USA,Retail,25004,Resolved,No
+CVE-2017-22302,2017-07-18,Privilege Escalation,Palo Alto,PAN-OS,7.5,High,Network,Low,Low,None,High,None,Low,Germany,Government,15132,Under Investigation,Yes
+CVE-2017-22508,2017-03-16,RCE,Zimbra,Collaboration Suite,5.9,Medium,Physical,High,Low,None,None,High,None,Romania,Education,40641,Resolved,No
+CVE-2017-67000,2017-05-29,MITM,Oracle,E-Business Suite,6.8,Medium,Local,Low,None,None,Low,High,Low,Ukraine,IT,29539,Actively Exploited,No
+CVE-2017-84968,2017-05-31,CSRF,Palo Alto,PAN-OS,9.0,Critical,Network,Low,None,Required,None,None,None,Turkey,Education,15875,Actively Exploited,Yes
+CVE-2017-59869,2017-06-30,Brute Force,Cisco,Webex,4.6,Medium,Physical,High,None,Required,None,None,Low,Russia,Manufacturing,47125,Actively Exploited,No
+CVE-2017-50667,2017-10-22,CSRF,Linux,Kernel,6.4,Medium,Network,High,High,None,Low,None,None,Pakistan,Transport,40389,Actively Exploited,No
+CVE-2017-27419,2017-03-11,MITM,SAP,HANA,3.9,Low,Physical,High,None,Required,None,None,High,UK,Finance,44196,Under Investigation,Yes
+CVE-2017-68209,2017-05-26,Phishing,WordPress,Plugins,5.1,Medium,Local,High,None,None,None,None,High,North Korea,Finance,33663,Actively Exploited,Yes
+CVE-2017-28408,2017-09-29,Buffer Overflow,Atlassian,Bitbucket,8.9,High,Adjacent,Low,Low,None,High,None,High,Netherlands,Defense,14444,Resolved,Yes
+CVE-2017-79159,2017-03-07,Path Traversal,Drupal,Modules,1.0,Low,Network,Low,High,None,Low,High,Low,Romania,Telecom,48790,Exploited,Yes
+CVE-2017-68148,2017-08-09,Path Traversal,Juniper,Junos,7.1,High,Adjacent,Low,Low,None,Low,High,None,Ukraine,Government,44966,Resolved,Yes
+CVE-2017-14072,2017-07-26,Path Traversal,Apple,Safari,8.7,High,Network,High,Low,None,None,None,None,Canada,Manufacturing,18983,Resolved,Yes
+CVE-2017-42750,2017-03-12,Credential Stuffing,Apache,Struts,7.1,High,Physical,Low,Low,Required,High,None,Low,Pakistan,IT,24242,Exploited,Yes
+CVE-2017-42008,2017-08-12,XXE,Juniper,Junos,7.5,High,Local,Low,Low,None,High,None,Low,Brazil,Manufacturing,6268,Under Investigation,No
+CVE-2017-54187,2017-03-30,Phishing,Zimbra,Collaboration Suite,5.4,Medium,Local,Low,None,Required,None,None,None,France,Telecom,812,Actively Exploited,No
+CVE-2017-83192,2017-09-16,Deserialization,WordPress,Plugins,4.4,Medium,Local,High,Low,Required,Low,High,Low,South Korea,Government,7531,Resolved,No
+CVE-2017-13859,2017-03-07,Path Traversal,Adobe,Flash,8.9,High,Physical,High,Low,None,Low,None,None,USA,Retail,4345,Patched,No
+CVE-2017-07064,2017-10-07,XXE,Atlassian,Confluence,7.0,High,Local,High,High,Required,High,High,None,South Korea,Manufacturing,17465,Under Investigation,No
+CVE-2017-29947,2017-06-07,Path Traversal,F5,BIG-IP,0.9,Low,Adjacent,Low,Low,None,None,Low,Low,Romania,Government,40035,Resolved,No
+CVE-2017-48063,2017-08-04,XSS,Linux,systemd,7.6,High,Physical,High,High,None,None,High,None,India,Telecom,28876,Actively Exploited,No
+CVE-2017-12447,2017-01-18,Command Injection,Fortinet,FortiOS,8.6,High,Local,Low,High,Required,None,High,None,Indonesia,Government,46178,Exploited,Yes
+CVE-2017-04611,2017-11-15,Path Traversal,Adobe,Photoshop,7.4,High,Adjacent,High,High,None,Low,None,High,North Korea,Finance,13839,Exploited,Yes
+CVE-2017-51717,2017-05-25,CSRF,Linux,systemd,9.0,Critical,Network,High,Low,Required,High,High,High,Romania,Transport,35987,Resolved,No
+CVE-2017-82016,2017-12-27,CSRF,SAP,HANA,7.3,High,Physical,High,None,None,Low,High,None,Romania,Defense,19249,Actively Exploited,Yes
+CVE-2017-49228,2017-10-29,DoS/DDoS,Drupal,Core,7.1,High,Adjacent,High,None,None,High,High,High,India,Government,49934,Actively Exploited,No
+CVE-2017-55792,2017-10-05,Logic Flaw,Atlassian,Bitbucket,9.7,Critical,Local,Low,None,None,None,None,Low,Ukraine,Finance,42040,Patched,Yes
+CVE-2017-34279,2017-02-18,DoS/DDoS,IBM,WebSphere,1.0,Low,Network,High,Low,Required,None,None,None,Ukraine,Government,36888,Under Investigation,No
+CVE-2017-06953,2017-05-08,Logic Flaw,F5,BIG-IP,7.1,High,Physical,Low,None,Required,High,High,High,Brazil,Defense,31317,Exploited,No
+CVE-2017-68356,2017-08-06,SSRF,IBM,WebSphere,5.4,Medium,Network,Low,High,Required,Low,Low,Low,North Korea,Healthcare,41726,Patched,No
+CVE-2017-52957,2017-02-04,Ransomware,Palo Alto,GlobalProtect,9.9,Critical,Network,High,High,None,High,High,High,India,IT,19935,Resolved,No
+CVE-2017-23364,2017-01-26,Path Traversal,VMware,vCenter,0.3,Low,Network,High,None,None,None,Low,None,Romania,Finance,14086,Actively Exploited,No
+CVE-2017-64347,2017-05-08,Phishing,Apple,iOS,2.2,Low,Local,Low,Low,None,Low,High,Low,Iran,Transport,37510,Actively Exploited,No
+CVE-2017-99568,2017-09-03,Credential Stuffing,Apple,iOS,7.8,High,Local,Low,High,None,None,None,None,Nigeria,Government,32489,Under Investigation,Yes
+CVE-2017-11390,2017-09-03,SQL Injection,Oracle,E-Business Suite,7.7,High,Physical,High,None,None,None,None,Low,China,IT,47617,Under Investigation,No
+CVE-2017-91632,2017-11-26,Path Traversal,Oracle,Java SE,9.7,Critical,Network,High,Low,None,Low,None,Low,Turkey,Manufacturing,3377,Actively Exploited,No
+CVE-2017-66512,2017-08-12,Phishing,Zimbra,Collaboration Suite,1.6,Low,Physical,High,High,Required,Low,None,High,Romania,Healthcare,11662,Exploited,Yes
+CVE-2017-64574,2017-07-14,Credential Stuffing,Drupal,Core,7.2,High,Network,High,High,None,None,None,None,Romania,Defense,27781,Patched,No
+CVE-2017-23992,2017-08-15,Zero-Day Exploit,Palo Alto,GlobalProtect,5.1,Medium,Adjacent,Low,High,None,None,High,High,Nigeria,Transport,41755,Exploited,No
+CVE-2017-44629,2017-10-16,RCE,Palo Alto,GlobalProtect,3.1,Low,Physical,High,High,Required,High,Low,High,India,Government,506,Patched,Yes
+CVE-2017-72471,2017-07-26,SQL Injection,Apple,macOS,5.0,Medium,Adjacent,High,Low,Required,High,Low,High,Turkey,Energy,21475,Actively Exploited,No
+CVE-2017-00558,2017-10-24,XXE,IBM,WebSphere,1.4,Low,Local,Low,None,None,None,None,None,Brazil,Retail,30179,Under Investigation,Yes
+CVE-2017-18105,2017-03-25,Zero-Day Exploit,Fortinet,FortiGate,4.2,Medium,Adjacent,High,High,None,High,Low,Low,Turkey,IT,42225,Actively Exploited,Yes
+CVE-2017-74726,2017-03-19,XXE,Apache,Tomcat,6.6,Medium,Physical,Low,None,Required,Low,Low,Low,Russia,Education,36401,Patched,Yes
+CVE-2017-07978,2017-01-26,Path Traversal,F5,BIG-IP,1.4,Low,Physical,High,None,Required,High,High,None,Canada,Defense,25503,Resolved,No
+CVE-2017-86251,2017-11-24,Phishing,Drupal,Core,2.2,Low,Adjacent,Low,High,None,High,Low,Low,South Korea,Transport,13780,Resolved,No
+CVE-2017-45286,2017-09-20,Deserialization,Juniper,Junos,1.2,Low,Adjacent,High,High,None,Low,Low,None,North Korea,Education,21799,Exploited,No
+CVE-2017-62905,2017-10-06,Ransomware,Drupal,Core,9.7,Critical,Local,Low,None,None,Low,High,Low,Canada,Telecom,1998,Patched,Yes
+CVE-2017-77891,2017-11-12,XSS,Palo Alto,PAN-OS,7.2,High,Physical,High,None,None,Low,High,High,Pakistan,Government,35036,Exploited,Yes
+CVE-2017-57720,2017-08-22,Deserialization,Nginx,Nginx,7.4,High,Physical,High,High,None,High,High,Low,USA,Transport,4431,Resolved,Yes
+CVE-2017-75528,2017-08-13,XXE,SAP,HANA,2.6,Low,Adjacent,Low,None,Required,None,High,Low,UK,Finance,43820,Actively Exploited,Yes
+CVE-2017-50845,2017-03-02,Ransomware,Fortinet,FortiGate,0.6,Low,Adjacent,Low,Low,Required,Low,None,Low,Turkey,Healthcare,34613,Resolved,No
+CVE-2017-80493,2017-10-02,SSRF,Drupal,Core,8.2,High,Network,Low,None,Required,None,Low,None,Turkey,Manufacturing,11960,Under Investigation,No
+CVE-2017-78567,2017-10-09,Privilege Escalation,Atlassian,Jira,3.5,Low,Physical,High,None,None,Low,None,High,France,Education,33301,Under Investigation,Yes
+CVE-2017-81516,2017-10-29,XXE,Microsoft,Azure AD,9.1,Critical,Physical,Low,High,Required,High,Low,High,Russia,Retail,4247,Under Investigation,Yes
+CVE-2017-97995,2017-04-25,Credential Stuffing,Palo Alto,GlobalProtect,3.4,Low,Local,High,None,Required,Low,None,Low,France,Defense,37050,Actively Exploited,Yes
+CVE-2017-65467,2017-10-21,Deserialization,Cisco,AnyConnect,6.1,Medium,Physical,Low,None,None,None,High,Low,France,Telecom,47872,Exploited,No
+CVE-2017-04475,2017-01-06,SQL Injection,VMware,ESXi,1.5,Low,Adjacent,High,Low,None,Low,Low,High,Nigeria,Telecom,45469,Resolved,Yes
+CVE-2017-41836,2017-02-25,Ransomware,Zimbra,Collaboration Suite,2.5,Low,Physical,Low,None,Required,High,None,None,China,Manufacturing,22416,Exploited,Yes
+CVE-2017-80199,2017-11-13,CSRF,Microsoft,Office,6.8,Medium,Local,High,High,None,High,High,None,North Korea,Energy,16787,Under Investigation,No
+CVE-2017-23952,2017-04-19,Buffer Overflow,Linux,systemd,1.8,Low,Local,High,Low,None,None,High,High,Netherlands,Retail,42989,Exploited,No
+CVE-2017-78604,2017-04-12,XSS,Atlassian,Bitbucket,2.1,Low,Adjacent,Low,Low,Required,High,Low,High,China,Manufacturing,870,Under Investigation,No
+CVE-2017-92849,2017-02-03,XXE,Drupal,Modules,0.1,Low,Adjacent,High,None,None,None,High,Low,France,Finance,46199,Resolved,Yes
+CVE-2017-25002,2017-01-13,Logic Flaw,Oracle,Java SE,6.9,Medium,Adjacent,Low,None,Required,Low,None,High,Romania,Transport,38208,Resolved,No
+CVE-2017-75535,2017-05-01,DoS/DDoS,Google,Workspace,0.1,Low,Local,Low,Low,None,None,High,Low,China,Retail,25122,Exploited,Yes
+CVE-2017-12577,2017-03-18,XSS,Apache,Kafka,6.5,Medium,Local,High,High,Required,Low,Low,High,South Korea,Healthcare,35910,Under Investigation,No
+CVE-2017-31695,2017-10-06,XXE,Microsoft,Azure AD,9.4,Critical,Local,High,Low,None,High,None,Low,China,IT,24430,Under Investigation,No
+CVE-2017-04841,2017-06-22,Privilege Escalation,Palo Alto,GlobalProtect,4.0,Medium,Adjacent,Low,High,None,Low,Low,None,Netherlands,IT,20234,Under Investigation,No
+CVE-2017-01378,2017-02-19,Ransomware,Apache,Tomcat,1.4,Low,Local,Low,Low,Required,High,Low,Low,Pakistan,Finance,23599,Exploited,No
+CVE-2017-67021,2017-07-04,Deserialization,Drupal,Core,6.4,Medium,Physical,High,Low,None,Low,High,High,Germany,Defense,6306,Resolved,No
+CVE-2017-29590,2017-08-25,Logic Flaw,F5,BIG-IP,1.5,Low,Network,Low,Low,None,None,High,High,Vietnam,Finance,38830,Exploited,Yes
+CVE-2017-55390,2017-05-20,Zero-Day Exploit,Google,Android,5.0,Medium,Adjacent,High,High,None,None,None,None,USA,IT,38070,Exploited,Yes
+CVE-2017-54596,2017-12-11,Credential Stuffing,Linux,glibc,1.3,Low,Physical,Low,High,None,None,None,None,Canada,Transport,15950,Exploited,No
+CVE-2017-32754,2017-09-09,SQL Injection,SAP,NetWeaver,5.3,Medium,Adjacent,High,Low,None,None,High,None,Indonesia,Manufacturing,17320,Patched,No
+CVE-2017-52876,2017-10-10,Command Injection,Linux,systemd,3.9,Low,Network,High,High,None,None,None,High,Turkey,Transport,37734,Under Investigation,Yes
+CVE-2017-42943,2017-08-29,XSS,Zimbra,Collaboration Suite,8.3,High,Network,High,Low,None,High,High,High,Ukraine,Manufacturing,35420,Exploited,Yes
+CVE-2017-81396,2017-12-31,Buffer Overflow,F5,BIG-IP,8.0,High,Local,Low,Low,None,Low,Low,Low,Pakistan,Healthcare,39101,Resolved,No
+CVE-2017-59526,2017-02-17,XXE,Fortinet,FortiGate,0.4,Low,Local,High,None,Required,Low,Low,High,South Korea,Retail,19038,Under Investigation,No
+CVE-2017-28814,2017-09-12,Credential Stuffing,VMware,Horizon,9.3,Critical,Physical,High,Low,Required,High,High,None,Brazil,IT,14984,Under Investigation,No
+CVE-2017-73538,2017-02-22,DoS/DDoS,Google,Chrome,8.3,High,Adjacent,High,Low,Required,High,Low,High,Iran,Transport,42476,Actively Exploited,Yes
+CVE-2017-20994,2017-10-08,SSRF,Palo Alto,GlobalProtect,5.2,Medium,Adjacent,High,High,None,High,Low,None,India,Healthcare,43140,Under Investigation,Yes
+CVE-2017-88809,2017-04-11,Buffer Overflow,Adobe,Acrobat,3.5,Low,Network,High,None,None,Low,High,Low,Nigeria,Education,19472,Under Investigation,No
+CVE-2017-58408,2017-03-29,Ransomware,WordPress,Core,7.5,High,Network,High,Low,None,High,High,Low,South Korea,Government,11152,Under Investigation,No
+CVE-2017-86708,2017-04-11,Path Traversal,Juniper,Junos,1.2,Low,Physical,High,None,Required,Low,Low,Low,Russia,Manufacturing,12800,Resolved,No
+CVE-2017-82374,2017-08-03,Credential Stuffing,Google,Workspace,1.0,Low,Local,High,Low,Required,Low,High,High,China,Telecom,8173,Resolved,Yes
+CVE-2017-19574,2017-06-18,Brute Force,Palo Alto,GlobalProtect,1.2,Low,Network,High,Low,Required,Low,None,High,North Korea,Energy,6847,Under Investigation,Yes
+CVE-2017-31051,2017-06-09,SQL Injection,Juniper,Junos,5.5,Medium,Network,High,None,Required,None,High,High,Vietnam,Energy,39770,Exploited,No
+CVE-2017-27833,2017-05-06,CSRF,Palo Alto,GlobalProtect,4.9,Medium,Adjacent,Low,None,Required,Low,High,None,UK,Telecom,44118,Exploited,No
+CVE-2017-45968,2017-08-31,Credential Stuffing,Palo Alto,PAN-OS,2.3,Low,Physical,High,None,None,None,Low,None,Nigeria,Transport,4509,Exploited,Yes
+CVE-2017-75216,2017-07-11,Buffer Overflow,F5,BIG-IP,4.8,Medium,Local,High,None,Required,High,Low,None,UK,Defense,45258,Under Investigation,No
+CVE-2017-71125,2017-09-07,SSRF,Zimbra,Collaboration Suite,8.6,High,Network,High,None,Required,Low,High,None,Indonesia,Finance,35069,Under Investigation,Yes
+CVE-2017-50151,2017-10-04,Privilege Escalation,Juniper,Junos,3.1,Low,Physical,Low,None,None,High,High,None,Romania,Finance,20430,Actively Exploited,No
+CVE-2017-00421,2017-05-01,SQL Injection,Fortinet,FortiOS,0.2,Low,Physical,Low,Low,Required,High,High,None,Canada,Defense,3119,Resolved,Yes
+CVE-2017-30248,2017-04-19,DoS/DDoS,Juniper,Junos,0.5,Low,Physical,High,None,None,Low,None,None,India,Manufacturing,14548,Actively Exploited,No
+CVE-2017-27203,2017-03-16,SSRF,Cisco,Webex,9.2,Critical,Network,High,High,None,Low,Low,None,Turkey,Education,21455,Patched,Yes
+CVE-2017-47980,2017-05-14,XSS,Linux,glibc,5.9,Medium,Local,Low,High,Required,None,Low,Low,Iran,Education,44371,Under Investigation,No
+CVE-2017-55157,2017-01-31,XSS,Palo Alto,PAN-OS,6.3,Medium,Network,High,None,Required,Low,None,High,Ukraine,Healthcare,16933,Patched,Yes
+CVE-2017-11945,2017-02-05,RCE,Atlassian,Confluence,6.1,Medium,Adjacent,High,Low,Required,Low,High,None,Brazil,Retail,18910,Patched,No
+CVE-2017-54099,2017-03-07,Logic Flaw,Cisco,IOS,5.4,Medium,Adjacent,Low,None,Required,None,Low,Low,Canada,Defense,12297,Resolved,No
+CVE-2017-48141,2017-10-15,Privilege Escalation,WordPress,Plugins,5.7,Medium,Local,Low,High,Required,Low,Low,Low,Brazil,Defense,17747,Resolved,No
+CVE-2017-52187,2017-07-07,DoS/DDoS,Nginx,Nginx,3.1,Low,Local,High,None,None,Low,Low,Low,Pakistan,Retail,29758,Exploited,Yes
+CVE-2017-10260,2017-03-27,RCE,Oracle,WebLogic,1.3,Low,Adjacent,Low,High,Required,Low,None,High,UK,Government,4830,Under Investigation,No
+CVE-2017-44014,2017-05-28,Path Traversal,Juniper,Junos,6.8,Medium,Physical,High,High,None,High,Low,High,India,Transport,45426,Patched,No
+CVE-2017-37533,2017-04-21,Phishing,Google,Android,0.4,Low,Local,Low,Low,None,None,Low,None,Nigeria,Education,44583,Under Investigation,No
+CVE-2017-56696,2017-09-30,Logic Flaw,Linux,Kernel,7.2,High,Adjacent,High,Low,None,Low,Low,Low,Pakistan,Healthcare,1127,Resolved,Yes
+CVE-2017-27963,2017-01-11,Buffer Overflow,Oracle,WebLogic,1.6,Low,Adjacent,Low,High,Required,Low,None,None,Iran,Telecom,39080,Resolved,Yes
+CVE-2017-20093,2017-10-12,MITM,Google,Chrome,3.6,Low,Network,High,None,None,Low,None,High,North Korea,Telecom,48748,Patched,Yes
+CVE-2017-41869,2017-04-14,Buffer Overflow,Palo Alto,GlobalProtect,9.1,Critical,Local,Low,Low,Required,None,High,Low,Nigeria,Transport,28875,Actively Exploited,Yes
+CVE-2017-83738,2017-06-30,Buffer Overflow,Oracle,WebLogic,7.6,High,Adjacent,Low,Low,Required,None,None,None,Vietnam,Education,22132,Under Investigation,No
+CVE-2017-89192,2017-01-21,SSRF,Linux,glibc,2.1,Low,Adjacent,Low,None,Required,Low,None,High,Romania,Education,11534,Patched,Yes
+CVE-2017-44661,2017-06-23,Command Injection,SAP,Business One,1.4,Low,Physical,High,High,None,High,Low,None,Brazil,Education,21610,Actively Exploited,No
+CVE-2017-30504,2017-01-08,Command Injection,Microsoft,Azure AD,6.2,Medium,Physical,Low,High,Required,None,Low,High,South Korea,Telecom,32470,Resolved,No
+CVE-2017-87541,2017-09-26,Logic Flaw,WordPress,Core,9.5,Critical,Network,High,High,Required,Low,Low,None,Brazil,Education,43217,Exploited,Yes
+CVE-2017-37890,2017-02-16,Buffer Overflow,Cisco,ASA,3.6,Low,Physical,High,High,Required,None,Low,None,Ukraine,Education,13285,Patched,No
+CVE-2017-66152,2017-10-31,XXE,Cisco,ASA,6.0,Medium,Physical,High,High,Required,High,High,Low,India,Healthcare,5826,Actively Exploited,Yes
+CVE-2017-93375,2017-12-10,CSRF,Oracle,WebLogic,6.9,Medium,Network,High,High,Required,Low,None,High,Vietnam,Retail,44854,Under Investigation,Yes
+CVE-2017-44554,2017-07-01,RCE,Oracle,WebLogic,4.4,Medium,Network,Low,High,None,High,None,Low,Ukraine,Defense,27155,Exploited,No
+CVE-2017-79931,2017-08-20,Path Traversal,Zimbra,Collaboration Suite,6.1,Medium,Local,Low,Low,None,None,None,Low,Netherlands,Energy,21852,Patched,Yes
+CVE-2017-92695,2017-10-08,XXE,Apple,macOS,4.3,Medium,Adjacent,Low,High,None,High,None,High,UK,Finance,42814,Resolved,Yes
+CVE-2017-39582,2017-02-23,CSRF,IBM,WebSphere,2.9,Low,Network,High,None,None,High,None,High,UK,Manufacturing,41239,Under Investigation,Yes
+CVE-2017-28728,2017-08-01,DoS/DDoS,Drupal,Modules,2.5,Low,Adjacent,High,Low,Required,None,Low,High,UK,Education,45834,Resolved,Yes
+CVE-2017-27772,2017-11-04,SSRF,Palo Alto,GlobalProtect,9.3,Critical,Network,High,None,Required,None,High,None,Romania,Energy,46389,Under Investigation,Yes
+CVE-2017-31103,2017-10-20,SSRF,SAP,HANA,7.0,High,Local,Low,Low,Required,High,None,None,Netherlands,Healthcare,35920,Resolved,Yes
+CVE-2017-40195,2017-07-16,MITM,Apple,iOS,3.9,Low,Adjacent,Low,High,Required,None,None,None,Canada,Manufacturing,38465,Exploited,No
+CVE-2017-13306,2017-12-18,RCE,VMware,Workstation,3.2,Low,Network,High,Low,None,None,None,Low,China,Government,43956,Under Investigation,Yes
+CVE-2017-78455,2017-08-31,SSRF,VMware,Horizon,0.0,None,Network,High,High,None,Low,Low,Low,South Korea,Manufacturing,11802,Under Investigation,Yes
+CVE-2017-64533,2017-03-12,Buffer Overflow,Nginx,Nginx,0.4,Low,Local,Low,None,None,None,None,None,Brazil,Retail,25088,Resolved,No
+CVE-2017-32955,2017-02-04,Ransomware,Fortinet,FortiOS,1.9,Low,Network,Low,Low,None,High,Low,High,Germany,Defense,19050,Resolved,No
+CVE-2017-54035,2017-12-02,RCE,Apple,iOS,4.3,Medium,Local,High,None,None,High,High,None,India,IT,42805,Under Investigation,Yes
+CVE-2017-46634,2017-07-15,Phishing,VMware,vCenter,6.4,Medium,Physical,High,Low,None,None,Low,Low,Pakistan,Education,21542,Exploited,No
+CVE-2017-24085,2017-09-21,Privilege Escalation,IBM,WebSphere,7.5,High,Adjacent,Low,Low,None,Low,High,High,Ukraine,Government,46970,Resolved,No
+CVE-2017-93328,2017-05-11,XXE,Drupal,Core,6.0,Medium,Local,High,Low,Required,High,None,High,Germany,Retail,11553,Exploited,No
+CVE-2017-38562,2017-01-04,Zero-Day Exploit,Microsoft,Office,9.5,Critical,Network,Low,None,None,Low,Low,None,North Korea,Energy,17124,Actively Exploited,Yes
+CVE-2017-43781,2017-01-08,Phishing,Microsoft,Office,1.1,Low,Adjacent,High,High,None,None,High,Low,Netherlands,Healthcare,16561,Exploited,Yes
+CVE-2017-49863,2017-11-06,Phishing,SAP,NetWeaver,6.3,Medium,Physical,High,None,Required,None,High,None,Brazil,Telecom,17138,Under Investigation,No
+CVE-2017-63760,2017-08-03,Credential Stuffing,Adobe,ColdFusion,5.1,Medium,Physical,High,High,Required,Low,Low,High,Brazil,Telecom,39051,Resolved,No
+CVE-2017-11665,2017-12-20,Ransomware,Adobe,Acrobat,2.3,Low,Adjacent,High,High,None,None,Low,None,Brazil,IT,27331,Actively Exploited,Yes
+CVE-2017-09243,2017-06-01,Zero-Day Exploit,Drupal,Modules,8.6,High,Network,High,None,Required,High,Low,Low,Pakistan,Healthcare,27251,Exploited,Yes
+CVE-2017-76437,2017-06-17,Privilege Escalation,Zimbra,Collaboration Suite,9.7,Critical,Physical,Low,Low,None,None,High,Low,Netherlands,Retail,46576,Actively Exploited,Yes
+CVE-2017-98740,2017-01-06,SSRF,Palo Alto,PAN-OS,5.7,Medium,Physical,Low,High,Required,High,None,High,India,Government,47954,Under Investigation,No
+CVE-2017-71718,2017-09-16,XSS,Juniper,Junos,3.3,Low,Physical,Low,None,None,High,None,Low,Nigeria,Healthcare,5135,Patched,Yes
+CVE-2017-27863,2017-01-13,Privilege Escalation,Google,Android,8.3,High,Adjacent,High,High,Required,High,None,High,North Korea,Defense,41034,Patched,Yes
+CVE-2017-19290,2017-04-11,Phishing,Nginx,Nginx,0.5,Low,Adjacent,High,High,None,None,None,High,South Korea,Defense,44286,Under Investigation,Yes
+CVE-2017-31601,2017-11-17,Logic Flaw,Apache,HTTP Server,7.6,High,Physical,High,None,Required,High,None,Low,South Korea,Manufacturing,25561,Actively Exploited,Yes
+CVE-2017-01008,2017-11-22,Zero-Day Exploit,VMware,Horizon,5.5,Medium,Adjacent,Low,High,Required,Low,Low,None,France,Energy,44978,Under Investigation,No
+CVE-2017-35489,2017-04-12,SSRF,IBM,MQ,0.2,Low,Adjacent,Low,Low,None,Low,High,High,South Korea,IT,19580,Resolved,Yes
+CVE-2017-18511,2017-01-26,Logic Flaw,WordPress,Plugins,1.7,Low,Network,Low,None,None,None,High,Low,Germany,IT,14317,Resolved,Yes
+CVE-2017-75918,2017-12-28,RCE,Palo Alto,PAN-OS,5.5,Medium,Physical,High,None,None,None,High,Low,Russia,Manufacturing,49352,Under Investigation,No
+CVE-2017-37077,2017-05-03,DoS/DDoS,Cisco,Webex,8.5,High,Physical,Low,High,None,High,High,High,Russia,Government,46279,Resolved,No
+CVE-2017-53656,2017-02-14,Logic Flaw,Fortinet,FortiGate,6.7,Medium,Adjacent,High,None,Required,None,High,High,Indonesia,Retail,7515,Actively Exploited,Yes
+CVE-2017-66315,2017-02-23,SQL Injection,Google,Chrome,2.0,Low,Local,High,High,Required,None,None,None,Nigeria,Telecom,10403,Patched,No
+CVE-2017-35095,2017-03-04,Privilege Escalation,IBM,QRadar,7.2,High,Local,Low,High,Required,None,Low,None,Ukraine,Manufacturing,33884,Exploited,Yes
+CVE-2017-36444,2017-08-11,Brute Force,Linux,systemd,4.1,Medium,Local,High,None,None,None,High,High,China,Healthcare,3857,Patched,Yes
+CVE-2017-88357,2017-06-24,Buffer Overflow,IBM,QRadar,6.9,Medium,Local,Low,None,None,None,Low,Low,China,Government,12539,Under Investigation,Yes
+CVE-2017-77601,2017-07-23,Brute Force,IBM,QRadar,5.1,Medium,Network,Low,Low,None,High,None,None,Germany,Retail,28102,Patched,Yes
+CVE-2017-50142,2017-07-22,Deserialization,Atlassian,Confluence,0.5,Low,Network,High,High,None,Low,High,High,South Korea,Transport,18000,Actively Exploited,No
+CVE-2017-80700,2017-04-12,Command Injection,Oracle,WebLogic,8.4,High,Adjacent,High,Low,Required,High,None,Low,USA,Finance,42494,Under Investigation,No
+CVE-2017-82194,2017-10-12,Brute Force,VMware,vCenter,0.3,Low,Adjacent,Low,None,None,High,None,High,France,Transport,11319,Under Investigation,Yes
+CVE-2017-02741,2017-05-21,Zero-Day Exploit,Palo Alto,PAN-OS,7.6,High,Physical,High,High,Required,None,Low,High,Pakistan,Education,19682,Resolved,Yes
+CVE-2017-77431,2017-08-20,Ransomware,Microsoft,Windows,4.2,Medium,Adjacent,High,Low,None,None,Low,None,Canada,Retail,5852,Exploited,Yes
+CVE-2017-03451,2017-08-15,SSRF,Cisco,ASA,7.8,High,Network,High,None,Required,High,None,Low,Vietnam,Transport,48085,Under Investigation,No
+CVE-2017-84014,2017-01-16,Brute Force,Palo Alto,PAN-OS,9.3,Critical,Physical,Low,High,Required,High,None,High,Iran,Transport,25509,Resolved,No
+CVE-2017-29665,2017-05-24,MITM,Drupal,Core,2.5,Low,Network,High,Low,Required,None,Low,Low,Romania,Government,5436,Patched,No
+CVE-2017-20017,2017-01-14,Logic Flaw,Adobe,ColdFusion,7.1,High,Network,High,None,Required,High,High,Low,Iran,Manufacturing,48209,Patched,Yes
+CVE-2017-08197,2017-08-13,SSRF,Oracle,WebLogic,0.6,Low,Physical,High,None,Required,None,None,High,South Korea,Retail,36358,Resolved,Yes
+CVE-2017-32794,2017-12-02,Zero-Day Exploit,SAP,HANA,0.5,Low,Physical,Low,Low,Required,None,None,Low,Ukraine,Telecom,22706,Actively Exploited,No
+CVE-2017-41357,2017-07-22,Deserialization,Apache,Log4j,3.9,Low,Network,High,Low,None,None,None,None,China,Manufacturing,1177,Exploited,Yes
+CVE-2017-69006,2017-10-18,CSRF,IBM,QRadar,1.9,Low,Physical,High,High,None,Low,None,Low,Ukraine,Government,22623,Actively Exploited,No
+CVE-2017-03707,2017-12-31,Ransomware,Oracle,E-Business Suite,7.1,High,Adjacent,High,High,Required,High,None,High,Pakistan,Healthcare,33029,Actively Exploited,Yes
+CVE-2017-26759,2017-05-24,DoS/DDoS,Microsoft,SharePoint,9.5,Critical,Physical,High,None,None,None,High,High,Russia,Healthcare,46660,Patched,Yes
+CVE-2017-01259,2017-10-17,SQL Injection,WordPress,Core,0.1,Low,Network,Low,Low,Required,Low,High,Low,Netherlands,IT,1042,Exploited,No
+CVE-2017-56709,2017-06-20,Privilege Escalation,Cisco,Webex,7.4,High,Local,High,High,Required,None,High,High,Canada,Finance,40023,Under Investigation,Yes
+CVE-2017-60418,2017-11-05,MITM,Google,Workspace,5.6,Medium,Physical,Low,Low,None,High,High,None,Indonesia,Education,34190,Actively Exploited,No
+CVE-2017-49859,2017-03-10,XXE,Juniper,Junos,4.1,Medium,Network,High,High,None,Low,Low,High,Nigeria,Healthcare,29847,Actively Exploited,No
+CVE-2017-53877,2017-12-15,Zero-Day Exploit,Apple,Safari,5.7,Medium,Adjacent,High,High,None,Low,Low,High,South Korea,IT,40247,Actively Exploited,Yes
+CVE-2017-90461,2017-03-12,DoS/DDoS,Fortinet,FortiGate,2.6,Low,Physical,High,None,Required,None,High,Low,Ukraine,Retail,2684,Under Investigation,No
+CVE-2017-38705,2017-10-01,Command Injection,Apple,macOS,0.8,Low,Physical,High,High,Required,None,None,None,Netherlands,Healthcare,37815,Patched,No
+CVE-2017-36488,2017-02-11,DoS/DDoS,Cisco,AnyConnect,3.0,Low,Network,Low,None,Required,High,High,High,France,Education,36183,Patched,Yes
+CVE-2017-38399,2017-07-19,Credential Stuffing,Palo Alto,PAN-OS,1.8,Low,Physical,Low,Low,Required,None,None,Low,Brazil,Manufacturing,14893,Patched,Yes
+CVE-2017-31707,2017-06-06,Zero-Day Exploit,Juniper,Junos,3.2,Low,Local,High,High,Required,None,None,None,China,Defense,21095,Under Investigation,No
+CVE-2017-13334,2017-09-07,Phishing,Zimbra,Collaboration Suite,4.6,Medium,Network,High,High,None,High,High,None,Netherlands,Defense,42010,Resolved,No
+CVE-2017-54968,2017-02-04,Logic Flaw,Atlassian,Confluence,4.7,Medium,Local,Low,None,None,None,High,Low,Vietnam,Government,20875,Actively Exploited,No
+CVE-2017-07439,2017-11-17,Privilege Escalation,Google,Chrome,6.0,Medium,Network,High,Low,Required,Low,None,None,China,Energy,19518,Under Investigation,Yes
+CVE-2017-50101,2017-12-15,CSRF,SAP,Business One,2.4,Low,Physical,Low,Low,Required,Low,None,None,Russia,Government,7446,Actively Exploited,No
+CVE-2017-73579,2017-04-19,SQL Injection,Zimbra,Collaboration Suite,5.6,Medium,Local,Low,Low,None,None,High,None,Nigeria,Telecom,46034,Exploited,No
+CVE-2017-88051,2017-04-21,MITM,Apple,iOS,1.5,Low,Adjacent,Low,None,Required,Low,Low,Low,Nigeria,Manufacturing,40065,Under Investigation,No
+CVE-2017-42623,2017-04-15,MITM,Atlassian,Bitbucket,8.3,High,Network,High,High,Required,None,Low,High,South Korea,Defense,33312,Resolved,Yes
+CVE-2017-47056,2017-09-01,Zero-Day Exploit,F5,BIG-IP,8.7,High,Physical,High,High,Required,High,High,Low,South Korea,Retail,25853,Under Investigation,No
+CVE-2017-36312,2017-03-12,Ransomware,Oracle,Database,4.5,Medium,Local,High,High,None,High,High,High,South Korea,Retail,5977,Actively Exploited,No
+CVE-2017-87429,2017-09-24,Phishing,Google,Chrome,4.9,Medium,Local,Low,None,Required,Low,High,Low,Germany,Energy,41096,Exploited,No
+CVE-2017-87182,2017-09-06,Deserialization,Palo Alto,GlobalProtect,4.4,Medium,Physical,Low,High,Required,High,High,None,Russia,Education,4412,Resolved,No
+CVE-2017-63761,2017-10-19,XSS,Apple,macOS,9.5,Critical,Physical,High,Low,Required,High,None,None,Ukraine,IT,46066,Exploited,No
+CVE-2017-52880,2017-03-31,RCE,F5,BIG-IP,1.4,Low,Physical,Low,Low,Required,Low,None,High,Vietnam,Retail,7425,Under Investigation,Yes
+CVE-2017-08347,2017-05-31,Ransomware,Oracle,Database,8.9,High,Adjacent,High,High,None,High,High,High,Pakistan,IT,33359,Actively Exploited,No
+CVE-2017-57240,2017-07-29,Buffer Overflow,Apache,Tomcat,8.1,High,Physical,Low,High,Required,High,None,High,Pakistan,Manufacturing,2425,Exploited,No
+CVE-2017-21622,2017-04-05,RCE,SAP,HANA,3.9,Low,Adjacent,High,Low,Required,Low,None,High,Canada,Retail,47073,Actively Exploited,No
+CVE-2017-15040,2017-07-14,Privilege Escalation,Adobe,Photoshop,5.4,Medium,Network,Low,None,Required,High,None,None,India,IT,5291,Resolved,Yes
+CVE-2017-10783,2017-05-23,XSS,Cisco,ASA,6.0,Medium,Network,High,Low,Required,Low,Low,Low,Nigeria,Education,19013,Patched,Yes
+CVE-2017-30001,2017-11-07,Privilege Escalation,Zimbra,Collaboration Suite,0.7,Low,Network,Low,Low,Required,High,High,Low,Canada,Transport,16317,Under Investigation,Yes
+CVE-2017-51124,2017-11-04,Credential Stuffing,Juniper,Junos,5.2,Medium,Adjacent,Low,High,Required,Low,High,Low,Ukraine,Telecom,9285,Actively Exploited,Yes
+CVE-2017-06991,2017-11-17,Zero-Day Exploit,Adobe,ColdFusion,1.4,Low,Physical,High,Low,None,High,None,Low,Vietnam,Finance,37596,Under Investigation,No
+CVE-2017-07164,2017-08-02,XXE,Juniper,Junos,1.5,Low,Local,High,High,Required,High,High,High,Netherlands,Transport,32749,Patched,No
+CVE-2017-50967,2017-05-05,Brute Force,Fortinet,FortiOS,0.8,Low,Local,Low,High,None,High,None,Low,France,Defense,16101,Resolved,Yes
+CVE-2017-89842,2017-02-10,XSS,WordPress,Core,1.4,Low,Adjacent,Low,Low,None,None,High,High,Indonesia,Retail,5130,Patched,No
+CVE-2017-04201,2017-06-16,Buffer Overflow,Juniper,Junos,2.9,Low,Physical,High,None,None,Low,None,None,South Korea,Manufacturing,32648,Actively Exploited,No
+CVE-2017-98423,2017-01-24,DoS/DDoS,Oracle,WebLogic,2.1,Low,Physical,Low,Low,None,Low,Low,High,France,Education,10536,Actively Exploited,No
+CVE-2017-40577,2017-08-05,Ransomware,Fortinet,FortiManager,2.7,Low,Network,Low,None,None,None,None,High,Turkey,Energy,15906,Actively Exploited,No
+CVE-2017-07226,2017-07-02,Command Injection,F5,BIG-IP,5.5,Medium,Adjacent,Low,High,Required,High,Low,Low,Canada,Defense,27497,Resolved,Yes
+CVE-2017-27006,2017-02-17,RCE,Google,Android,9.1,Critical,Adjacent,High,Low,None,High,High,None,India,Finance,31273,Resolved,Yes
+CVE-2017-16726,2017-06-18,XXE,Fortinet,FortiGate,4.7,Medium,Physical,Low,Low,Required,High,High,High,Brazil,Energy,16624,Under Investigation,No
+CVE-2017-85733,2017-11-05,RCE,F5,BIG-IP,9.6,Critical,Network,Low,None,Required,High,Low,High,Nigeria,Education,7676,Exploited,Yes
+CVE-2017-50752,2017-06-01,XXE,Palo Alto,PAN-OS,3.2,Low,Adjacent,High,Low,Required,Low,High,None,Iran,Finance,37522,Exploited,Yes
+CVE-2017-89037,2017-06-26,Credential Stuffing,SAP,HANA,5.0,Medium,Adjacent,High,None,None,High,Low,Low,China,Government,32171,Exploited,Yes
+CVE-2017-24152,2017-02-26,DoS/DDoS,Atlassian,Confluence,7.5,High,Adjacent,High,None,None,Low,None,Low,Pakistan,IT,20157,Resolved,No
+CVE-2017-85021,2017-11-16,Logic Flaw,Cisco,AnyConnect,8.2,High,Network,Low,High,Required,High,High,Low,Germany,IT,46611,Patched,No
+CVE-2017-24761,2017-10-25,SQL Injection,Linux,Kernel,3.3,Low,Adjacent,Low,None,None,High,Low,None,China,Finance,2628,Resolved,Yes
+CVE-2017-07217,2017-07-03,DoS/DDoS,Apple,iOS,2.4,Low,Network,Low,High,Required,Low,None,High,Netherlands,Transport,1988,Under Investigation,No
+CVE-2017-58588,2017-03-01,SQL Injection,Atlassian,Jira,8.4,High,Network,High,Low,None,Low,Low,Low,Netherlands,Defense,47252,Exploited,Yes
+CVE-2017-74414,2017-01-23,XXE,F5,BIG-IP,7.9,High,Local,Low,High,Required,High,High,High,Indonesia,Retail,30281,Actively Exploited,Yes
+CVE-2017-25803,2017-03-04,Ransomware,Apple,macOS,4.2,Medium,Local,Low,None,Required,Low,None,Low,India,Government,48628,Actively Exploited,Yes
+CVE-2017-36096,2017-02-15,XXE,SAP,NetWeaver,6.6,Medium,Local,High,Low,Required,Low,High,Low,Vietnam,Manufacturing,25989,Under Investigation,No
+CVE-2017-36445,2017-03-26,Zero-Day Exploit,Drupal,Core,7.1,High,Network,Low,None,None,High,None,None,Romania,Energy,12542,Actively Exploited,No
+CVE-2017-02260,2017-09-01,DoS/DDoS,F5,BIG-IP,2.4,Low,Adjacent,Low,None,Required,High,High,High,South Korea,Education,14628,Actively Exploited,No
+CVE-2017-95725,2017-03-14,Phishing,Apple,Safari,8.7,High,Adjacent,High,Low,None,None,Low,Low,Iran,Manufacturing,32363,Actively Exploited,No
+CVE-2017-57291,2017-02-10,XSS,Nginx,Nginx,0.4,Low,Network,Low,Low,None,None,High,Low,Brazil,IT,47955,Under Investigation,No
+CVE-2017-81678,2017-04-21,Phishing,Drupal,Core,6.3,Medium,Local,Low,Low,None,None,Low,High,Vietnam,Education,5649,Under Investigation,No
+CVE-2017-68905,2017-01-25,Brute Force,SAP,HANA,6.5,Medium,Physical,High,Low,Required,Low,Low,None,India,Healthcare,33356,Patched,Yes
+CVE-2017-07107,2017-12-07,MITM,Adobe,ColdFusion,7.4,High,Local,High,Low,Required,None,None,High,India,IT,35500,Exploited,Yes
+CVE-2017-93705,2017-12-13,Buffer Overflow,Juniper,Junos,3.0,Low,Local,Low,High,None,None,Low,High,UK,Retail,29726,Exploited,Yes
+CVE-2017-32717,2017-04-28,Credential Stuffing,F5,BIG-IP,8.4,High,Network,Low,None,Required,Low,None,Low,China,Retail,19302,Resolved,No
+CVE-2017-61995,2017-10-23,XSS,Oracle,Database,2.3,Low,Adjacent,High,None,Required,Low,Low,Low,Canada,Defense,46113,Resolved,Yes
+CVE-2017-02889,2017-06-03,XXE,Linux,glibc,1.2,Low,Physical,Low,High,Required,Low,Low,None,USA,Transport,12247,Resolved,Yes
+CVE-2017-63022,2017-06-10,Zero-Day Exploit,Oracle,WebLogic,5.0,Medium,Adjacent,High,High,None,None,High,Low,Ukraine,Education,12990,Actively Exploited,Yes
+CVE-2017-75793,2017-03-10,Logic Flaw,Apache,Tomcat,5.0,Medium,Physical,Low,High,Required,None,High,Low,Ukraine,IT,25867,Resolved,No
+CVE-2017-41571,2017-12-04,Logic Flaw,Adobe,Photoshop,2.7,Low,Physical,High,High,None,None,None,Low,Netherlands,Defense,43540,Patched,No
+CVE-2017-31537,2017-01-28,CSRF,IBM,QRadar,0.1,Low,Network,High,Low,Required,High,None,Low,France,Defense,6349,Exploited,No
+CVE-2017-73076,2017-10-07,RCE,VMware,Workstation,2.4,Low,Adjacent,High,High,None,Low,Low,High,India,Energy,3086,Actively Exploited,Yes
+CVE-2017-10355,2017-10-13,Credential Stuffing,Google,Workspace,0.9,Low,Network,High,Low,None,None,None,None,France,Finance,11437,Exploited,No
+CVE-2017-08658,2017-09-13,Deserialization,VMware,Horizon,3.1,Low,Local,Low,Low,None,High,Low,High,Indonesia,Finance,1178,Exploited,Yes
+CVE-2017-29841,2017-05-03,DoS/DDoS,Microsoft,Windows,0.6,Low,Network,High,High,None,Low,None,None,USA,Education,42110,Resolved,Yes
+CVE-2017-86574,2017-11-22,RCE,Apache,Tomcat,5.6,Medium,Adjacent,High,Low,None,Low,Low,None,Romania,Telecom,18940,Under Investigation,No
+CVE-2017-55874,2017-10-15,Buffer Overflow,Oracle,E-Business Suite,5.7,Medium,Local,Low,None,Required,Low,High,Low,France,Manufacturing,2917,Resolved,Yes
+CVE-2017-97273,2017-12-19,DoS/DDoS,Palo Alto,GlobalProtect,1.2,Low,Network,Low,None,None,High,Low,Low,Pakistan,Healthcare,37131,Actively Exploited,No
+CVE-2017-17776,2017-07-13,Logic Flaw,Zimbra,Collaboration Suite,4.0,Medium,Network,High,High,None,High,High,Low,Romania,IT,1758,Resolved,No
+CVE-2017-38856,2017-10-03,CSRF,Atlassian,Confluence,7.3,High,Physical,High,High,Required,High,Low,Low,Pakistan,Manufacturing,14021,Resolved,Yes
+CVE-2017-41695,2017-01-18,XXE,Cisco,AnyConnect,7.3,High,Adjacent,Low,High,None,Low,None,None,Netherlands,Education,18288,Actively Exploited,No
+CVE-2017-56886,2017-09-13,SSRF,Oracle,Database,5.6,Medium,Local,High,None,Required,None,High,High,Turkey,Energy,26388,Exploited,No
+CVE-2017-60282,2017-04-18,Ransomware,Google,Chrome,1.4,Low,Adjacent,Low,High,Required,High,Low,High,South Korea,Defense,10975,Resolved,Yes
+CVE-2017-88630,2017-03-22,CSRF,Apple,Safari,5.9,Medium,Local,High,Low,None,None,High,High,South Korea,Education,32648,Exploited,No
+CVE-2017-91091,2017-12-11,SQL Injection,Drupal,Core,6.0,Medium,Physical,Low,None,None,Low,High,Low,Germany,Energy,19242,Resolved,Yes
+CVE-2017-40670,2017-08-21,Command Injection,WordPress,Plugins,0.0,None,Local,High,Low,None,None,High,Low,Brazil,Energy,39954,Resolved,No
+CVE-2017-31406,2017-05-12,CSRF,WordPress,Plugins,2.0,Low,Network,High,None,Required,None,High,High,Vietnam,Manufacturing,11699,Under Investigation,Yes
+CVE-2017-21490,2017-10-14,XSS,Juniper,Junos,6.6,Medium,Network,Low,None,None,Low,Low,Low,Romania,Finance,4131,Resolved,Yes
+CVE-2017-15568,2017-08-26,MITM,Juniper,Junos,1.1,Low,Local,Low,High,None,Low,None,High,Canada,Transport,43800,Exploited,Yes
+CVE-2017-31758,2017-02-23,Logic Flaw,Apple,iOS,9.9,Critical,Physical,Low,Low,None,None,Low,Low,Iran,IT,5891,Actively Exploited,Yes
+CVE-2017-63239,2017-12-28,RCE,Palo Alto,PAN-OS,2.6,Low,Local,High,Low,Required,Low,Low,None,Brazil,Education,13530,Under Investigation,No
+CVE-2017-54399,2017-06-04,RCE,WordPress,Core,7.5,High,Local,High,Low,None,None,High,None,Vietnam,Education,15250,Resolved,No
+CVE-2017-43618,2017-01-10,Zero-Day Exploit,Palo Alto,GlobalProtect,0.5,Low,Local,Low,Low,None,Low,High,None,USA,Defense,5744,Actively Exploited,No
+CVE-2017-34033,2017-08-25,SSRF,VMware,Horizon,0.2,Low,Physical,High,High,Required,Low,High,High,Iran,Education,17351,Exploited,No
+CVE-2017-35919,2017-05-22,XXE,IBM,WebSphere,5.5,Medium,Local,Low,High,Required,None,Low,None,Netherlands,Finance,43821,Under Investigation,Yes
+CVE-2017-99207,2017-02-08,MITM,SAP,HANA,8.3,High,Network,High,None,None,High,High,Low,Vietnam,Retail,6444,Patched,Yes
+CVE-2017-06445,2017-01-18,Logic Flaw,Nginx,Nginx,3.0,Low,Network,Low,Low,Required,None,High,Low,Nigeria,Finance,48031,Resolved,Yes
+CVE-2017-84819,2017-01-09,Buffer Overflow,WordPress,Core,3.6,Low,Physical,Low,None,None,High,None,Low,North Korea,Retail,38177,Patched,Yes
+CVE-2017-47358,2017-09-08,Buffer Overflow,Zimbra,Collaboration Suite,7.5,High,Network,Low,High,Required,High,High,None,North Korea,Transport,48758,Patched,Yes
+CVE-2017-22701,2017-05-03,Buffer Overflow,Microsoft,Office,7.6,High,Adjacent,Low,Low,Required,None,Low,Low,Netherlands,Healthcare,32346,Actively Exploited,No
+CVE-2017-57241,2017-01-05,RCE,Apache,Kafka,4.9,Medium,Network,High,None,None,None,None,High,Ukraine,Defense,8053,Patched,Yes
+CVE-2017-10790,2017-07-11,XXE,SAP,NetWeaver,2.5,Low,Adjacent,High,High,None,High,Low,Low,Russia,Energy,47104,Exploited,No
+CVE-2017-58499,2017-12-07,XXE,Apache,Tomcat,5.0,Medium,Adjacent,Low,None,None,Low,Low,Low,South Korea,Government,6342,Actively Exploited,Yes
+CVE-2017-78367,2017-09-07,Brute Force,Atlassian,Jira,0.0,None,Physical,High,High,Required,None,None,High,Brazil,Education,9114,Patched,No
+CVE-2017-26209,2017-08-20,Command Injection,Apple,macOS,9.8,Critical,Adjacent,High,High,None,None,Low,Low,Iran,Energy,22437,Patched,No
+CVE-2017-62498,2017-06-27,MITM,Zimbra,Collaboration Suite,6.1,Medium,Local,High,Low,None,Low,Low,Low,India,Energy,17620,Exploited,Yes
+CVE-2017-76838,2017-06-03,XSS,SAP,Business One,6.7,Medium,Physical,High,None,Required,None,None,High,Germany,IT,8402,Under Investigation,No
+CVE-2017-70465,2017-04-29,CSRF,Fortinet,FortiManager,2.8,Low,Network,High,Low,None,High,High,High,Canada,Manufacturing,31643,Under Investigation,No
+CVE-2017-93979,2017-10-06,Path Traversal,F5,BIG-IP,7.8,High,Physical,Low,Low,Required,None,Low,High,Russia,Healthcare,46264,Actively Exploited,Yes
+CVE-2017-39421,2017-04-10,Deserialization,Apple,iOS,6.6,Medium,Physical,Low,Low,Required,High,Low,None,France,Transport,16406,Resolved,Yes
+CVE-2017-45678,2017-03-30,Ransomware,Linux,Kernel,9.3,Critical,Network,High,Low,None,High,None,High,China,Transport,11508,Exploited,No
+CVE-2017-77853,2017-09-14,DoS/DDoS,Juniper,Junos,5.1,Medium,Adjacent,Low,High,None,Low,None,High,Iran,Finance,42385,Resolved,No
+CVE-2017-83259,2017-06-26,Credential Stuffing,Google,Chrome,6.8,Medium,Network,Low,None,None,Low,High,None,Netherlands,Defense,737,Patched,No
+CVE-2017-02027,2017-12-11,DoS/DDoS,Oracle,WebLogic,9.1,Critical,Physical,Low,Low,Required,High,High,High,Indonesia,Education,21821,Resolved,No
+CVE-2017-56520,2017-01-18,DoS/DDoS,Adobe,Flash,2.3,Low,Local,Low,High,None,High,Low,Low,China,Finance,15269,Actively Exploited,Yes
+CVE-2017-45503,2017-01-26,Command Injection,F5,BIG-IP,9.0,Critical,Local,Low,Low,Required,None,High,High,South Korea,Defense,24195,Resolved,Yes
+CVE-2017-42804,2017-03-01,RCE,Cisco,Firepower,9.5,Critical,Adjacent,Low,High,Required,Low,None,None,Netherlands,Defense,40842,Actively Exploited,No
+CVE-2017-14365,2017-02-22,Buffer Overflow,WordPress,Plugins,7.8,High,Local,Low,None,Required,Low,High,High,Nigeria,Education,30883,Patched,No
+CVE-2017-98939,2017-02-24,Logic Flaw,Drupal,Core,1.5,Low,Physical,High,High,None,Low,None,High,North Korea,Defense,44900,Actively Exploited,No
+CVE-2017-43937,2017-06-09,DoS/DDoS,F5,BIG-IP,9.8,Critical,Local,High,Low,None,High,Low,Low,Nigeria,Finance,2915,Actively Exploited,Yes
+CVE-2017-97218,2017-11-26,XSS,Drupal,Core,7.0,High,Adjacent,High,None,None,Low,None,Low,Canada,Government,7498,Actively Exploited,Yes
+CVE-2017-01443,2017-06-23,RCE,Adobe,Photoshop,7.5,High,Local,High,High,Required,Low,None,None,UK,IT,14500,Resolved,No
+CVE-2017-14407,2017-02-02,Privilege Escalation,Cisco,AnyConnect,3.4,Low,Network,Low,High,Required,High,Low,High,Iran,Defense,9696,Actively Exploited,No
+CVE-2017-15414,2017-09-01,SSRF,WordPress,Plugins,2.1,Low,Physical,High,Low,None,Low,None,None,India,Manufacturing,17293,Exploited,Yes
+CVE-2017-15346,2017-02-25,XXE,Oracle,WebLogic,0.0,None,Adjacent,Low,None,Required,Low,None,None,Vietnam,Retail,17401,Resolved,No
+CVE-2017-84114,2017-10-24,Path Traversal,Oracle,WebLogic,4.9,Medium,Local,Low,Low,None,Low,Low,None,Vietnam,Defense,36573,Exploited,Yes
+CVE-2017-78965,2017-05-12,Phishing,Fortinet,FortiOS,5.3,Medium,Network,High,High,Required,None,High,None,Canada,Healthcare,2193,Exploited,No
+CVE-2017-52525,2017-11-10,Command Injection,WordPress,Plugins,5.4,Medium,Adjacent,Low,None,None,Low,Low,High,Brazil,Telecom,25219,Under Investigation,Yes
+CVE-2017-58584,2017-06-27,Logic Flaw,VMware,vCenter,0.0,None,Network,High,Low,None,High,None,None,Vietnam,Manufacturing,7226,Exploited,Yes
+CVE-2017-48435,2017-02-20,Path Traversal,Nginx,Nginx,0.2,Low,Adjacent,Low,High,Required,Low,None,High,Nigeria,Energy,37960,Under Investigation,No
+CVE-2017-69860,2017-04-11,RCE,SAP,HANA,5.9,Medium,Local,High,Low,Required,Low,High,None,UK,Manufacturing,33427,Exploited,Yes
+CVE-2017-71868,2017-09-21,SQL Injection,Linux,glibc,7.3,High,Physical,High,High,None,None,None,None,Canada,Manufacturing,2610,Patched,Yes
+CVE-2017-60849,2017-08-05,DoS/DDoS,F5,BIG-IP,1.3,Low,Local,High,High,None,None,High,High,Canada,IT,7624,Patched,No
+CVE-2017-12911,2017-07-05,Command Injection,Nginx,Nginx,8.5,High,Network,High,High,Required,Low,None,Low,Vietnam,Manufacturing,28491,Exploited,Yes
+CVE-2017-18212,2017-06-26,XXE,Fortinet,FortiManager,6.1,Medium,Local,High,None,None,Low,Low,Low,Turkey,Transport,19748,Actively Exploited,No
+CVE-2017-08358,2017-05-11,SQL Injection,Oracle,Java SE,5.7,Medium,Network,High,None,None,Low,Low,High,France,Energy,37452,Actively Exploited,Yes
+CVE-2017-14356,2017-08-04,Command Injection,SAP,NetWeaver,3.5,Low,Physical,Low,High,None,Low,Low,Low,Vietnam,Manufacturing,23372,Patched,No
+CVE-2017-01849,2017-05-04,Path Traversal,Palo Alto,PAN-OS,1.0,Low,Physical,High,None,Required,Low,High,None,Iran,Government,18184,Under Investigation,Yes
+CVE-2017-72177,2017-04-30,Path Traversal,F5,BIG-IP,4.4,Medium,Network,High,High,None,None,High,None,North Korea,Manufacturing,7849,Actively Exploited,No
+CVE-2017-79594,2017-11-27,DoS/DDoS,Apple,iOS,2.3,Low,Physical,Low,None,Required,High,Low,None,Pakistan,Retail,22006,Resolved,Yes
+CVE-2017-56965,2017-02-20,MITM,Adobe,Flash,1.9,Low,Adjacent,High,None,None,High,High,None,India,Education,42344,Patched,Yes
+CVE-2017-42507,2017-12-17,MITM,Cisco,ASA,2.2,Low,Physical,High,High,Required,None,Low,None,South Korea,Retail,14424,Patched,Yes
+CVE-2017-52902,2017-06-01,Ransomware,Oracle,E-Business Suite,7.0,High,Local,High,None,Required,Low,None,High,Iran,Transport,16951,Resolved,Yes
+CVE-2017-37708,2017-10-16,CSRF,VMware,Horizon,1.5,Low,Adjacent,High,Low,Required,High,Low,None,Vietnam,Telecom,12721,Resolved,Yes
+CVE-2017-17377,2017-03-24,Command Injection,Cisco,ASA,1.0,Low,Network,High,None,None,High,None,None,Ukraine,Retail,32071,Under Investigation,Yes
+CVE-2017-13164,2017-04-02,Command Injection,Google,Android,1.0,Low,Adjacent,Low,Low,None,High,None,Low,Netherlands,Healthcare,38856,Under Investigation,No
+CVE-2017-47934,2017-08-31,SSRF,IBM,QRadar,9.0,Critical,Physical,Low,Low,None,Low,Low,None,Iran,Manufacturing,8051,Patched,Yes
+CVE-2017-48076,2017-12-20,MITM,VMware,Workstation,9.7,Critical,Network,High,Low,Required,Low,High,High,Brazil,Education,382,Exploited,Yes
+CVE-2017-23366,2017-03-08,Deserialization,Apple,macOS,2.3,Low,Network,High,Low,Required,None,None,High,India,Retail,5537,Resolved,No
+CVE-2017-08659,2017-02-05,DoS/DDoS,Apple,iOS,3.2,Low,Physical,Low,High,None,High,None,Low,Nigeria,Telecom,41324,Under Investigation,Yes
+CVE-2017-95381,2017-02-17,Ransomware,Cisco,IOS,5.0,Medium,Network,Low,None,None,High,None,None,UK,Telecom,2351,Exploited,No
+CVE-2017-06137,2017-06-09,SSRF,Apple,Safari,5.9,Medium,Physical,High,High,Required,None,None,None,South Korea,Defense,23483,Patched,No
+CVE-2017-60212,2017-12-28,Ransomware,Apple,iOS,7.8,High,Adjacent,Low,None,Required,None,None,Low,UK,Transport,35639,Resolved,Yes
+CVE-2017-78456,2017-12-30,Deserialization,F5,BIG-IP,4.4,Medium,Physical,High,Low,Required,None,High,Low,Canada,Government,36316,Resolved,Yes
+CVE-2017-30938,2017-02-07,Zero-Day Exploit,Fortinet,FortiOS,1.7,Low,Local,Low,Low,Required,Low,High,High,USA,Healthcare,26622,Exploited,No
+CVE-2017-73141,2017-03-22,Phishing,Nginx,Nginx,1.4,Low,Local,High,High,Required,Low,Low,High,France,Transport,19908,Resolved,No
+CVE-2017-96368,2017-06-08,Path Traversal,Atlassian,Bitbucket,3.0,Low,Network,High,None,None,High,Low,Low,North Korea,Defense,48690,Resolved,Yes
+CVE-2017-49734,2017-01-29,Ransomware,Fortinet,FortiGate,4.8,Medium,Adjacent,Low,Low,None,High,None,Low,Vietnam,Energy,43459,Actively Exploited,Yes
+CVE-2017-96123,2017-11-04,MITM,Google,Chrome,3.5,Low,Local,Low,Low,None,None,Low,None,Russia,Telecom,30710,Actively Exploited,Yes
+CVE-2017-88656,2017-08-24,Ransomware,Cisco,Firepower,5.6,Medium,Adjacent,High,Low,Required,None,None,High,Nigeria,Retail,13901,Resolved,Yes
+CVE-2017-99715,2017-12-04,Logic Flaw,Drupal,Core,7.8,High,Adjacent,Low,High,None,High,High,None,Ukraine,Finance,28994,Patched,No
+CVE-2017-44529,2017-01-06,SSRF,Zimbra,Collaboration Suite,3.6,Low,Network,High,None,None,Low,Low,None,Romania,Transport,21868,Actively Exploited,No
+CVE-2017-61536,2017-12-28,DoS/DDoS,Apple,iOS,7.5,High,Physical,Low,Low,None,High,None,Low,UK,Retail,26840,Under Investigation,Yes
+CVE-2017-78976,2017-08-20,XSS,Fortinet,FortiManager,3.4,Low,Network,High,Low,Required,High,None,None,South Korea,Energy,21067,Under Investigation,No
+CVE-2017-11700,2017-03-06,Privilege Escalation,IBM,WebSphere,6.6,Medium,Network,High,High,None,None,None,None,China,Retail,39757,Patched,Yes
+CVE-2017-03120,2017-10-17,DoS/DDoS,Zimbra,Collaboration Suite,7.0,High,Adjacent,Low,None,Required,None,Low,Low,Pakistan,Defense,28749,Exploited,No
+CVE-2017-91324,2017-10-08,DoS/DDoS,Juniper,Junos,1.6,Low,Physical,High,Low,Required,None,High,None,Russia,Defense,43465,Actively Exploited,No
+CVE-2017-90545,2017-05-31,XXE,VMware,Workstation,5.8,Medium,Adjacent,High,High,Required,High,None,High,Iran,Government,5948,Patched,No
+CVE-2017-06790,2017-03-02,Ransomware,IBM,WebSphere,1.6,Low,Local,Low,Low,Required,Low,Low,High,Germany,Manufacturing,4033,Actively Exploited,No
+CVE-2017-39118,2017-05-29,RCE,IBM,MQ,0.2,Low,Local,Low,None,None,None,High,High,UK,Retail,49456,Actively Exploited,Yes
+CVE-2017-49150,2017-06-13,DoS/DDoS,Microsoft,SharePoint,9.8,Critical,Network,High,High,Required,Low,Low,None,North Korea,Telecom,39046,Under Investigation,No
+CVE-2017-68532,2017-04-17,XSS,Microsoft,SharePoint,7.3,High,Physical,Low,None,Required,High,High,None,Netherlands,Government,47765,Resolved,No
+CVE-2017-75825,2017-09-28,SQL Injection,Atlassian,Bitbucket,0.1,Low,Physical,High,High,None,High,Low,Low,France,Education,2097,Under Investigation,Yes
+CVE-2017-13530,2017-05-11,Buffer Overflow,Adobe,ColdFusion,8.7,High,Physical,Low,High,Required,None,Low,High,Brazil,Manufacturing,17086,Patched,Yes
+CVE-2017-06940,2017-04-04,Zero-Day Exploit,Cisco,Webex,6.5,Medium,Network,High,High,None,High,Low,Low,South Korea,Transport,5461,Exploited,No
+CVE-2017-76769,2017-02-21,SQL Injection,Juniper,Junos,9.4,Critical,Local,High,None,Required,High,Low,High,France,IT,2887,Under Investigation,Yes
+CVE-2017-13692,2017-05-14,Brute Force,Palo Alto,GlobalProtect,0.1,Low,Physical,High,High,Required,None,Low,High,Vietnam,Defense,38587,Patched,Yes
+CVE-2017-84647,2017-04-13,Logic Flaw,WordPress,Core,4.6,Medium,Network,Low,Low,Required,High,None,Low,Nigeria,Telecom,45196,Patched,Yes
+CVE-2017-90648,2017-10-25,Buffer Overflow,Microsoft,Azure AD,3.1,Low,Local,Low,Low,None,High,Low,None,Romania,Telecom,32135,Actively Exploited,No
+CVE-2017-44057,2017-05-04,MITM,Apache,Log4j,7.8,High,Physical,High,Low,Required,Low,None,High,Romania,Healthcare,24767,Under Investigation,Yes
+CVE-2017-85598,2017-12-28,SSRF,Atlassian,Jira,1.1,Low,Local,High,None,Required,None,Low,None,Pakistan,Transport,32370,Under Investigation,No
+CVE-2017-41224,2017-07-28,MITM,Zimbra,Collaboration Suite,6.4,Medium,Adjacent,Low,Low,None,None,None,None,Russia,Government,43125,Resolved,Yes
+CVE-2017-74923,2017-12-08,MITM,Apache,Tomcat,7.7,High,Network,Low,None,None,High,None,None,USA,IT,29712,Under Investigation,No
+CVE-2017-73414,2017-02-17,Credential Stuffing,Fortinet,FortiManager,10.0,Critical,Physical,Low,High,Required,None,None,High,China,Government,48427,Exploited,Yes
+CVE-2017-90895,2017-10-03,Credential Stuffing,Fortinet,FortiOS,1.5,Low,Network,Low,High,Required,None,High,None,Romania,Transport,42190,Under Investigation,No
+CVE-2017-25307,2017-07-29,DoS/DDoS,Fortinet,FortiManager,6.9,Medium,Local,High,None,Required,High,Low,None,Brazil,Telecom,40929,Exploited,No
+CVE-2017-53175,2017-08-12,Privilege Escalation,Palo Alto,GlobalProtect,6.1,Medium,Network,High,High,None,High,Low,None,North Korea,Education,45927,Exploited,No
+CVE-2017-53772,2017-12-21,Zero-Day Exploit,Microsoft,Azure AD,2.4,Low,Local,High,None,Required,Low,None,High,Brazil,Defense,42871,Exploited,Yes
+CVE-2017-51038,2017-12-25,Brute Force,Juniper,Junos,8.6,High,Network,Low,High,Required,Low,None,None,Romania,Transport,13119,Actively Exploited,Yes
+CVE-2017-94058,2017-05-22,Zero-Day Exploit,Atlassian,Bitbucket,6.2,Medium,Network,High,Low,None,Low,Low,Low,Ukraine,Healthcare,22690,Patched,No
+CVE-2017-52534,2017-11-23,XXE,Drupal,Core,0.2,Low,Network,Low,None,None,None,High,None,Russia,IT,41713,Patched,No
+CVE-2017-55214,2017-11-23,Command Injection,Zimbra,Collaboration Suite,4.8,Medium,Adjacent,High,Low,Required,High,Low,None,Russia,Defense,9663,Patched,Yes
+CVE-2017-16749,2017-09-21,SSRF,Apple,iOS,5.5,Medium,Network,Low,Low,None,None,High,None,Germany,Government,32433,Patched,Yes
+CVE-2017-18113,2017-05-18,SSRF,Palo Alto,GlobalProtect,0.7,Low,Network,Low,High,None,Low,High,High,Canada,Energy,35517,Patched,Yes
+CVE-2017-16634,2017-04-01,Zero-Day Exploit,Adobe,Flash,5.0,Medium,Physical,High,None,Required,None,None,High,Iran,Transport,26216,Patched,Yes
+CVE-2017-84302,2017-04-27,Path Traversal,Apache,Struts,4.5,Medium,Adjacent,Low,Low,Required,High,Low,Low,UK,Manufacturing,8601,Patched,No
+CVE-2017-34621,2017-09-22,Credential Stuffing,Microsoft,Windows,9.1,Critical,Local,High,None,None,High,Low,High,Romania,Education,2087,Patched,No
+CVE-2017-47808,2017-11-28,Phishing,Fortinet,FortiManager,0.5,Low,Physical,High,None,None,High,None,None,Vietnam,IT,291,Resolved,Yes
+CVE-2017-63900,2017-05-05,SSRF,Microsoft,Office,9.5,Critical,Physical,High,High,Required,High,High,Low,Nigeria,Healthcare,47658,Under Investigation,No
+CVE-2017-30489,2017-06-20,Brute Force,VMware,ESXi,10.0,Critical,Adjacent,High,High,None,None,None,High,Netherlands,Energy,44231,Exploited,No
+CVE-2017-95867,2017-05-29,Deserialization,Linux,glibc,6.8,Medium,Physical,Low,High,None,Low,High,High,Iran,Government,48703,Exploited,No
+CVE-2017-20283,2017-05-24,Logic Flaw,Drupal,Modules,5.4,Medium,Local,Low,None,Required,High,None,Low,Ukraine,Telecom,7592,Actively Exploited,Yes
+CVE-2017-07127,2017-02-10,SQL Injection,Nginx,Nginx,4.8,Medium,Network,Low,Low,Required,High,Low,Low,Vietnam,Manufacturing,30122,Under Investigation,No
+CVE-2017-14665,2017-01-23,Deserialization,VMware,Workstation,8.9,High,Local,High,Low,None,High,Low,None,Vietnam,Manufacturing,41150,Actively Exploited,Yes
+CVE-2017-21719,2017-05-27,Logic Flaw,VMware,vCenter,9.8,Critical,Adjacent,Low,High,None,None,High,None,Germany,Energy,7908,Resolved,No
+CVE-2017-92650,2017-06-10,SQL Injection,Apache,Tomcat,7.9,High,Adjacent,Low,None,None,High,None,None,Turkey,Energy,13488,Exploited,Yes
+CVE-2017-14331,2017-03-19,Logic Flaw,Nginx,Nginx,9.3,Critical,Local,Low,Low,None,High,High,Low,Turkey,Defense,37100,Actively Exploited,Yes
+CVE-2017-23255,2017-11-25,Credential Stuffing,Google,Workspace,5.8,Medium,Network,Low,High,None,High,High,High,South Korea,Telecom,13807,Resolved,Yes
+CVE-2017-23399,2017-01-16,XXE,Cisco,AnyConnect,2.8,Low,Physical,High,None,None,None,High,None,Vietnam,Defense,4418,Resolved,No
+CVE-2017-62873,2017-01-21,SSRF,Zimbra,Collaboration Suite,4.7,Medium,Physical,High,Low,Required,High,None,None,South Korea,Retail,5365,Exploited,Yes
+CVE-2017-87675,2017-03-27,DoS/DDoS,IBM,MQ,4.4,Medium,Local,High,Low,None,None,High,None,Indonesia,Finance,34435,Actively Exploited,Yes
+CVE-2017-39509,2017-03-31,SQL Injection,IBM,QRadar,8.5,High,Adjacent,Low,High,Required,None,Low,High,Turkey,Government,7513,Under Investigation,Yes
+CVE-2017-31639,2017-02-05,MITM,F5,BIG-IP,8.7,High,Adjacent,High,None,Required,Low,None,High,Brazil,Telecom,30279,Actively Exploited,No
+CVE-2017-17283,2017-08-27,Buffer Overflow,WordPress,Plugins,4.4,Medium,Local,High,None,Required,None,High,Low,Vietnam,Retail,41840,Actively Exploited,No
+CVE-2017-49937,2017-10-03,Command Injection,Cisco,Firepower,2.3,Low,Physical,High,None,Required,High,Low,Low,Brazil,Defense,8247,Resolved,Yes
+CVE-2017-98551,2017-04-09,SQL Injection,F5,BIG-IP,3.9,Low,Local,Low,High,None,High,None,None,Russia,Finance,2095,Actively Exploited,No
+CVE-2017-15325,2017-09-23,DoS/DDoS,Zimbra,Collaboration Suite,8.3,High,Physical,Low,Low,Required,None,High,High,Nigeria,IT,48832,Exploited,Yes
+CVE-2017-41644,2017-01-29,RCE,Apple,iOS,7.3,High,Adjacent,Low,High,None,None,Low,Low,France,Retail,17373,Under Investigation,No
+CVE-2017-21012,2017-08-16,Credential Stuffing,Palo Alto,GlobalProtect,5.2,Medium,Adjacent,High,Low,Required,High,High,High,Romania,Healthcare,29859,Under Investigation,Yes
+CVE-2017-73146,2017-07-18,Logic Flaw,Linux,systemd,4.5,Medium,Local,Low,None,Required,None,None,Low,Pakistan,Defense,34858,Patched,Yes
+CVE-2017-11194,2017-10-15,Phishing,Nginx,Nginx,1.3,Low,Network,High,High,Required,High,None,High,USA,Government,32788,Exploited,Yes
+CVE-2017-53195,2017-04-22,Command Injection,Oracle,Database,3.2,Low,Network,High,Low,Required,None,None,None,Vietnam,Government,11172,Under Investigation,Yes
+CVE-2017-25166,2017-06-12,Brute Force,Drupal,Core,4.2,Medium,Local,High,None,Required,High,None,High,Brazil,Transport,16656,Exploited,Yes
+CVE-2017-91377,2017-03-09,MITM,Apple,macOS,0.6,Low,Adjacent,Low,None,None,High,None,High,Iran,Government,19113,Actively Exploited,No
+CVE-2017-86637,2017-08-27,SQL Injection,Linux,systemd,5.1,Medium,Adjacent,Low,Low,None,High,High,Low,China,Defense,39938,Patched,No
+CVE-2017-27934,2017-09-07,Command Injection,SAP,NetWeaver,4.2,Medium,Local,Low,Low,None,High,High,High,Vietnam,Manufacturing,36921,Resolved,Yes
+CVE-2017-42774,2017-02-04,SQL Injection,Zimbra,Collaboration Suite,6.2,Medium,Local,High,Low,None,High,Low,None,Netherlands,Energy,2570,Under Investigation,No
+CVE-2017-98802,2017-12-16,Logic Flaw,Zimbra,Collaboration Suite,3.5,Low,Adjacent,High,None,None,None,Low,Low,Brazil,Transport,29675,Resolved,No
+CVE-2017-44523,2017-08-30,Path Traversal,Apple,iOS,7.9,High,Network,Low,None,Required,High,None,High,Iran,IT,10257,Patched,No
+CVE-2017-35269,2017-05-27,Logic Flaw,Apple,macOS,6.8,Medium,Local,High,High,None,None,High,None,Romania,Defense,20788,Resolved,Yes
+CVE-2017-56092,2017-08-29,Privilege Escalation,IBM,MQ,9.7,Critical,Adjacent,High,Low,Required,High,None,High,Russia,Manufacturing,20929,Exploited,No
+CVE-2017-52516,2017-08-07,Credential Stuffing,Adobe,Acrobat,1.8,Low,Local,Low,High,None,Low,None,Low,North Korea,Government,40454,Exploited,No
+CVE-2017-69837,2017-01-08,RCE,Atlassian,Confluence,2.2,Low,Local,High,Low,Required,None,High,High,Brazil,Defense,5233,Resolved,No
+CVE-2017-02534,2017-12-07,Brute Force,Atlassian,Confluence,8.3,High,Local,High,None,Required,High,None,None,South Korea,Education,21497,Actively Exploited,Yes
+CVE-2017-77775,2017-04-30,RCE,Google,Chrome,9.8,Critical,Network,High,Low,Required,None,Low,High,Germany,Transport,48187,Exploited,No
+CVE-2017-51337,2017-01-18,MITM,Zimbra,Collaboration Suite,4.7,Medium,Adjacent,High,High,None,Low,Low,High,India,Healthcare,28675,Patched,No
+CVE-2017-70926,2017-12-11,Path Traversal,Oracle,WebLogic,8.2,High,Physical,Low,High,None,Low,Low,High,Netherlands,Telecom,6815,Patched,No
+CVE-2017-69150,2017-10-02,Credential Stuffing,IBM,WebSphere,7.1,High,Local,High,High,Required,None,Low,High,Canada,IT,31253,Resolved,Yes
+CVE-2017-54953,2017-09-21,SSRF,Linux,glibc,6.3,Medium,Local,Low,None,Required,Low,High,Low,Nigeria,Education,11842,Exploited,No
+CVE-2017-38454,2017-06-12,Credential Stuffing,Nginx,Nginx,4.6,Medium,Physical,Low,Low,None,High,High,Low,Ukraine,Transport,47293,Resolved,Yes
+CVE-2017-54289,2017-05-26,Ransomware,Palo Alto,GlobalProtect,7.5,High,Adjacent,High,High,Required,Low,None,None,Ukraine,Telecom,23848,Patched,No
+CVE-2017-11069,2017-11-25,SSRF,Nginx,Nginx,3.4,Low,Adjacent,High,Low,None,High,None,Low,North Korea,Manufacturing,38528,Patched,Yes
+CVE-2017-42695,2017-05-11,Buffer Overflow,Cisco,Firepower,4.0,Medium,Physical,High,High,Required,None,Low,High,Vietnam,IT,20255,Resolved,Yes
+CVE-2017-63551,2017-06-21,Command Injection,Apple,iOS,3.3,Low,Adjacent,Low,High,None,None,High,None,UK,Defense,16319,Patched,No
+CVE-2017-75755,2017-12-18,DoS/DDoS,Palo Alto,GlobalProtect,1.6,Low,Network,High,Low,Required,Low,None,Low,Nigeria,Defense,29391,Exploited,Yes
+CVE-2017-02811,2017-03-19,RCE,WordPress,Core,8.4,High,Network,Low,None,None,None,High,Low,Vietnam,Telecom,5901,Actively Exploited,Yes
+CVE-2017-33663,2017-06-07,Logic Flaw,Juniper,Junos,6.9,Medium,Network,High,None,Required,High,Low,Low,Turkey,Finance,9681,Resolved,No
+CVE-2017-08183,2017-02-13,Logic Flaw,Apple,macOS,1.5,Low,Network,High,None,Required,None,Low,Low,Netherlands,Government,31533,Exploited,No
+CVE-2017-51692,2017-03-01,Zero-Day Exploit,Atlassian,Bitbucket,3.8,Low,Adjacent,Low,None,None,None,High,None,Nigeria,IT,2913,Exploited,No
+CVE-2017-40437,2017-07-22,Ransomware,Nginx,Nginx,0.2,Low,Local,High,Low,None,Low,High,Low,Russia,Manufacturing,35888,Patched,Yes
+CVE-2017-29181,2017-03-01,Ransomware,Google,Chrome,8.6,High,Local,High,Low,None,None,Low,Low,USA,IT,1955,Patched,No
+CVE-2017-39082,2017-02-24,Command Injection,SAP,NetWeaver,3.8,Low,Physical,High,High,None,None,High,High,Romania,IT,12628,Patched,No
+CVE-2017-04213,2017-03-23,Zero-Day Exploit,Juniper,Junos,8.1,High,Physical,Low,Low,Required,Low,High,High,Russia,Healthcare,9252,Exploited,Yes
+CVE-2017-77606,2017-10-29,Path Traversal,Fortinet,FortiManager,3.5,Low,Adjacent,High,High,Required,None,None,None,Netherlands,Telecom,23908,Under Investigation,No
+CVE-2017-81731,2017-05-29,CSRF,Cisco,Webex,9.7,Critical,Network,High,Low,None,None,None,None,China,IT,49886,Patched,No
+CVE-2017-09547,2017-05-07,XXE,Microsoft,Office,8.4,High,Network,High,None,None,None,None,None,China,Energy,26690,Resolved,No
+CVE-2017-46357,2017-03-15,XSS,Drupal,Modules,0.8,Low,Local,High,Low,Required,None,Low,High,Ukraine,Telecom,46172,Resolved,No
+CVE-2017-21679,2017-11-13,Path Traversal,Google,Chrome,0.6,Low,Local,High,None,Required,None,None,Low,Vietnam,Manufacturing,14078,Resolved,Yes
+CVE-2017-91488,2017-11-27,Logic Flaw,Drupal,Core,4.1,Medium,Network,High,None,Required,Low,High,High,Nigeria,Government,46854,Patched,No
+CVE-2017-73603,2017-11-20,Path Traversal,Juniper,Junos,9.1,Critical,Network,High,Low,None,None,Low,Low,Nigeria,Finance,2610,Under Investigation,Yes
+CVE-2017-51215,2017-03-08,Ransomware,Microsoft,Office,4.6,Medium,Adjacent,High,Low,None,High,None,Low,France,Education,36602,Patched,Yes
+CVE-2017-16712,2017-06-22,Phishing,Atlassian,Jira,0.6,Low,Local,Low,Low,None,High,High,High,North Korea,Education,187,Exploited,No
+CVE-2017-55580,2017-09-05,SQL Injection,Linux,systemd,3.6,Low,Adjacent,Low,High,Required,High,Low,None,South Korea,Retail,45557,Patched,Yes
+CVE-2017-13779,2017-01-23,Buffer Overflow,Adobe,ColdFusion,8.1,High,Network,High,Low,None,None,None,Low,China,Defense,35351,Exploited,Yes
+CVE-2017-86981,2017-10-24,SQL Injection,Fortinet,FortiGate,8.4,High,Network,High,Low,Required,High,High,Low,Turkey,Retail,34172,Under Investigation,Yes
+CVE-2017-24257,2017-08-26,Brute Force,Apple,macOS,4.4,Medium,Local,High,Low,Required,High,Low,Low,France,Government,38098,Patched,No
+CVE-2017-03023,2017-02-14,Privilege Escalation,F5,BIG-IP,6.0,Medium,Local,Low,High,Required,Low,Low,High,UK,Government,12257,Patched,Yes
+CVE-2017-07605,2017-11-10,CSRF,Linux,systemd,9.6,Critical,Adjacent,Low,High,None,Low,High,High,Romania,Healthcare,45158,Under Investigation,Yes
+CVE-2017-87104,2017-06-12,Credential Stuffing,Microsoft,Exchange Server,4.6,Medium,Physical,Low,None,None,Low,None,Low,Netherlands,Education,33905,Actively Exploited,Yes
+CVE-2017-98882,2017-04-28,Credential Stuffing,Atlassian,Jira,9.9,Critical,Local,High,None,None,High,Low,None,France,Manufacturing,30667,Actively Exploited,Yes
+CVE-2017-41980,2017-10-02,Privilege Escalation,Cisco,AnyConnect,3.6,Low,Physical,High,Low,Required,High,Low,High,Netherlands,Healthcare,22630,Resolved,No
+CVE-2017-83919,2017-05-06,Brute Force,VMware,vCenter,7.1,High,Local,Low,Low,Required,High,None,High,Indonesia,Education,26755,Resolved,No
+CVE-2017-81798,2017-01-11,SQL Injection,Linux,Kernel,4.6,Medium,Local,High,None,None,High,Low,Low,Turkey,Healthcare,2843,Actively Exploited,No
+CVE-2017-73716,2017-09-24,SSRF,Drupal,Core,4.0,Medium,Network,Low,Low,None,None,Low,None,Indonesia,Manufacturing,8263,Resolved,No
+CVE-2017-95582,2017-04-06,Brute Force,Microsoft,Windows,8.8,High,Adjacent,Low,Low,Required,None,High,Low,Brazil,Finance,25582,Exploited,No
+CVE-2017-52925,2017-11-16,Credential Stuffing,Oracle,WebLogic,7.7,High,Physical,Low,Low,Required,None,Low,None,Vietnam,Transport,8217,Exploited,No
+CVE-2017-76281,2017-01-01,Ransomware,Nginx,Nginx,6.9,Medium,Adjacent,High,High,None,None,High,Low,Germany,Government,22289,Actively Exploited,No
+CVE-2017-15785,2017-04-03,XSS,Drupal,Core,2.4,Low,Adjacent,High,High,None,Low,Low,High,UK,Education,5351,Actively Exploited,Yes
+CVE-2017-84677,2017-12-01,SSRF,Oracle,WebLogic,2.8,Low,Adjacent,Low,None,Required,High,Low,None,USA,Defense,35217,Actively Exploited,Yes
+CVE-2017-89468,2017-06-13,Zero-Day Exploit,SAP,NetWeaver,3.0,Low,Local,Low,None,None,None,None,None,Turkey,Energy,29049,Exploited,No
+CVE-2017-13544,2017-05-01,SQL Injection,Adobe,Photoshop,3.6,Low,Local,High,High,None,Low,Low,Low,Nigeria,Healthcare,42583,Resolved,No
+CVE-2017-76979,2017-05-19,Command Injection,Google,Workspace,1.9,Low,Network,Low,None,Required,Low,None,High,France,Transport,42603,Exploited,No
+CVE-2017-57756,2017-09-30,CSRF,Google,Chrome,8.5,High,Local,High,High,Required,None,None,None,Brazil,Manufacturing,47172,Actively Exploited,No
+CVE-2017-12557,2017-10-11,XXE,Microsoft,Exchange Server,9.8,Critical,Physical,High,None,Required,None,Low,High,India,Energy,16675,Under Investigation,No
+CVE-2017-05013,2017-07-27,Zero-Day Exploit,Apache,Kafka,4.4,Medium,Adjacent,Low,High,None,High,None,None,Pakistan,Education,47435,Under Investigation,No
+CVE-2017-13480,2017-01-10,Brute Force,Adobe,ColdFusion,6.8,Medium,Local,Low,Low,Required,High,Low,Low,Brazil,Education,30160,Patched,No
+CVE-2017-74124,2017-08-22,Zero-Day Exploit,Adobe,Photoshop,1.3,Low,Physical,Low,None,None,Low,None,Low,Russia,Government,11925,Actively Exploited,No
+CVE-2017-51845,2017-11-24,Phishing,Fortinet,FortiManager,5.8,Medium,Adjacent,High,Low,None,None,Low,None,Ukraine,Transport,32382,Actively Exploited,No
+CVE-2017-23911,2017-02-12,DoS/DDoS,Google,Chrome,8.5,High,Network,Low,High,Required,None,High,None,India,IT,18431,Patched,Yes
+CVE-2017-88854,2017-10-07,Phishing,Adobe,Flash,4.8,Medium,Local,High,None,Required,None,None,None,Iran,Retail,43471,Actively Exploited,Yes
+CVE-2017-52812,2017-07-13,MITM,Zimbra,Collaboration Suite,4.2,Medium,Adjacent,High,Low,Required,High,High,Low,Canada,Healthcare,39699,Resolved,No
+CVE-2017-90935,2017-02-28,Zero-Day Exploit,Zimbra,Collaboration Suite,8.4,High,Local,High,High,Required,None,High,None,Canada,Telecom,32637,Actively Exploited,Yes
+CVE-2017-76224,2017-06-09,Privilege Escalation,F5,BIG-IP,8.7,High,Adjacent,Low,High,Required,None,Low,Low,Vietnam,Education,15982,Under Investigation,Yes
+CVE-2017-79066,2017-02-11,MITM,Juniper,Junos,1.0,Low,Network,High,High,None,Low,High,Low,Romania,Finance,49557,Under Investigation,No
+CVE-2017-09262,2017-12-12,MITM,WordPress,Core,9.3,Critical,Network,High,Low,Required,Low,Low,Low,Iran,Government,27792,Actively Exploited,No
+CVE-2017-60035,2017-07-02,CSRF,Drupal,Core,8.0,High,Network,Low,High,None,Low,Low,Low,Brazil,Defense,14167,Patched,No
+CVE-2017-55307,2017-06-19,Command Injection,Drupal,Modules,1.1,Low,Adjacent,Low,High,None,None,High,Low,Nigeria,Telecom,2382,Under Investigation,No
+CVE-2017-96937,2017-07-06,XXE,Nginx,Nginx,6.7,Medium,Network,Low,Low,None,None,Low,Low,Iran,Energy,25028,Actively Exploited,No
+CVE-2017-66749,2017-10-28,DoS/DDoS,WordPress,Core,1.5,Low,Network,High,High,None,Low,None,Low,Brazil,Defense,3126,Resolved,Yes
+CVE-2017-91986,2017-07-20,Brute Force,Oracle,WebLogic,6.9,Medium,Physical,High,High,Required,Low,Low,High,Pakistan,Transport,29518,Patched,Yes
+CVE-2017-08299,2017-09-30,Buffer Overflow,Microsoft,Office,0.9,Low,Physical,High,Low,None,High,High,None,Vietnam,Defense,32644,Exploited,No
+CVE-2017-44936,2017-04-27,Command Injection,Cisco,IOS,7.2,High,Physical,High,None,Required,Low,None,High,USA,Defense,49929,Resolved,No
+CVE-2017-86067,2017-03-04,Credential Stuffing,Drupal,Modules,8.5,High,Local,Low,Low,None,Low,None,None,Romania,Energy,1865,Under Investigation,No
+CVE-2017-21816,2017-09-26,Brute Force,Oracle,Database,6.8,Medium,Adjacent,High,None,None,None,High,None,Turkey,Manufacturing,44794,Under Investigation,Yes
+CVE-2017-04855,2017-01-16,Logic Flaw,Oracle,WebLogic,3.1,Low,Adjacent,High,Low,None,None,None,High,Turkey,Energy,43747,Resolved,No
+CVE-2017-29881,2017-02-21,XSS,Apple,macOS,6.5,Medium,Network,Low,High,Required,Low,Low,None,UK,IT,8474,Resolved,No
+CVE-2017-27909,2017-06-14,XSS,Nginx,Nginx,2.8,Low,Physical,High,None,None,None,Low,High,Indonesia,Energy,34918,Resolved,No
+CVE-2017-86879,2017-02-10,XXE,Atlassian,Bitbucket,5.4,Medium,Local,High,None,None,None,None,None,France,Defense,24877,Exploited,No
+CVE-2017-99249,2017-09-13,SSRF,Drupal,Core,0.4,Low,Adjacent,High,None,None,Low,None,Low,UK,Education,25006,Exploited,Yes
+CVE-2017-07574,2017-12-29,Buffer Overflow,VMware,Horizon,3.2,Low,Physical,Low,High,Required,Low,High,Low,France,Transport,32302,Exploited,Yes
+CVE-2017-33420,2017-07-30,SSRF,WordPress,Plugins,1.2,Low,Local,Low,High,Required,Low,High,None,Iran,Telecom,27704,Resolved,No
+CVE-2017-59575,2017-08-14,Path Traversal,Zimbra,Collaboration Suite,5.3,Medium,Adjacent,Low,Low,Required,Low,None,High,India,Finance,14874,Actively Exploited,Yes
+CVE-2017-16501,2017-07-13,Ransomware,Drupal,Core,7.3,High,Physical,Low,High,Required,High,Low,High,France,Government,48499,Patched,No
+CVE-2017-58907,2017-09-26,Phishing,Zimbra,Collaboration Suite,0.1,Low,Physical,Low,Low,None,High,Low,Low,South Korea,Transport,1399,Actively Exploited,No
+CVE-2017-90476,2017-03-17,XXE,Atlassian,Jira,0.4,Low,Local,High,Low,Required,Low,Low,Low,Germany,Telecom,49100,Patched,No
+CVE-2017-27375,2017-11-13,Privilege Escalation,Adobe,Acrobat,1.4,Low,Adjacent,Low,None,Required,None,None,None,Germany,Manufacturing,38960,Resolved,Yes
+CVE-2017-84237,2017-10-03,Phishing,Microsoft,SharePoint,4.5,Medium,Physical,Low,None,None,None,None,Low,Romania,Defense,48805,Patched,No
+CVE-2017-78258,2017-01-04,Privilege Escalation,F5,BIG-IP,0.8,Low,Adjacent,Low,None,None,None,None,Low,Russia,Energy,21044,Actively Exploited,No
+CVE-2017-42186,2017-01-26,Credential Stuffing,Microsoft,Azure AD,9.2,Critical,Local,Low,None,None,High,None,High,North Korea,Education,26968,Resolved,No
+CVE-2017-71570,2017-03-17,Command Injection,Palo Alto,PAN-OS,7.7,High,Adjacent,Low,None,None,High,None,High,India,Education,36837,Patched,Yes
+CVE-2017-59768,2017-04-12,SSRF,Linux,glibc,9.4,Critical,Network,High,High,None,Low,Low,High,Pakistan,Healthcare,39704,Under Investigation,No
+CVE-2017-87769,2017-06-13,Brute Force,Linux,Kernel,5.4,Medium,Network,Low,None,Required,High,High,High,France,IT,9905,Resolved,Yes
+CVE-2017-08323,2017-11-14,Brute Force,Apple,iOS,4.9,Medium,Local,Low,High,None,None,None,None,South Korea,Defense,33940,Exploited,Yes
+CVE-2017-30104,2017-03-17,Privilege Escalation,F5,BIG-IP,7.3,High,Physical,High,High,Required,High,None,None,USA,Defense,49882,Under Investigation,No
+CVE-2017-66710,2017-10-02,MITM,Apache,HTTP Server,2.0,Low,Local,Low,Low,None,Low,Low,None,UK,Defense,49682,Under Investigation,Yes
+CVE-2017-71950,2017-05-15,Credential Stuffing,F5,BIG-IP,4.8,Medium,Network,Low,None,None,High,High,High,India,Healthcare,3624,Resolved,Yes
+CVE-2017-08981,2017-11-02,SQL Injection,SAP,Business One,8.7,High,Local,Low,High,Required,High,High,None,Germany,Energy,5945,Exploited,Yes
+CVE-2017-45639,2017-01-24,SSRF,Palo Alto,PAN-OS,3.2,Low,Adjacent,Low,None,Required,None,Low,High,France,Energy,4341,Resolved,No
+CVE-2017-88207,2017-10-04,RCE,Nginx,Nginx,6.1,Medium,Physical,High,High,Required,High,None,High,Pakistan,Government,47441,Exploited,No
+CVE-2017-64542,2017-07-07,Command Injection,Apple,Safari,7.9,High,Network,Low,None,Required,None,None,High,Russia,Transport,47676,Patched,No
+CVE-2017-27735,2017-01-25,Buffer Overflow,WordPress,Core,3.9,Low,Network,High,Low,None,Low,None,Low,North Korea,Transport,33673,Exploited,Yes
+CVE-2017-03228,2017-07-06,Logic Flaw,Palo Alto,GlobalProtect,2.7,Low,Network,High,None,Required,High,High,High,Ukraine,IT,5710,Actively Exploited,Yes
+CVE-2017-06514,2017-05-25,SQL Injection,Fortinet,FortiGate,4.8,Medium,Physical,High,Low,None,Low,None,None,Brazil,Transport,16668,Under Investigation,Yes
+CVE-2017-88963,2017-04-09,XSS,VMware,ESXi,3.2,Low,Adjacent,Low,None,None,Low,High,Low,Russia,Finance,9304,Patched,Yes
+CVE-2017-18271,2017-04-12,SQL Injection,IBM,QRadar,3.3,Low,Physical,Low,Low,Required,High,None,High,Turkey,Manufacturing,3493,Resolved,Yes
+CVE-2017-51532,2017-01-19,SSRF,Apple,Safari,2.6,Low,Network,High,None,Required,Low,None,High,France,Defense,7360,Resolved,Yes
+CVE-2017-87074,2017-06-11,Zero-Day Exploit,Palo Alto,GlobalProtect,4.5,Medium,Physical,High,High,None,None,None,None,UK,Finance,14221,Exploited,No
+CVE-2017-65652,2017-03-02,Brute Force,Zimbra,Collaboration Suite,3.6,Low,Local,Low,Low,None,Low,None,High,North Korea,Retail,35087,Exploited,No
+CVE-2017-74633,2017-12-02,MITM,Drupal,Core,8.5,High,Adjacent,High,None,None,None,None,None,Canada,Education,45691,Resolved,No
+CVE-2017-52820,2017-10-10,XSS,SAP,Business One,3.4,Low,Adjacent,Low,None,None,Low,None,High,France,Manufacturing,44184,Resolved,Yes
+CVE-2017-08562,2017-04-19,MITM,Nginx,Nginx,8.6,High,Physical,High,None,None,High,Low,High,Iran,Energy,28493,Exploited,Yes
+CVE-2017-95705,2017-05-16,Deserialization,Cisco,IOS,0.4,Low,Adjacent,High,None,None,Low,Low,None,Pakistan,IT,3927,Exploited,Yes
+CVE-2017-14390,2017-08-14,Zero-Day Exploit,Zimbra,Collaboration Suite,8.1,High,Physical,Low,None,None,Low,Low,None,Germany,Defense,30421,Under Investigation,Yes
+CVE-2017-42906,2017-03-09,Command Injection,Apache,Log4j,8.2,High,Physical,Low,None,None,Low,None,High,China,Finance,8830,Under Investigation,Yes
+CVE-2017-70742,2017-02-12,Path Traversal,F5,BIG-IP,5.3,Medium,Network,Low,None,None,High,Low,High,UK,Finance,43974,Resolved,No
+CVE-2017-63999,2017-12-27,MITM,SAP,HANA,5.2,Medium,Adjacent,Low,Low,None,High,High,High,China,Government,28431,Under Investigation,Yes
+CVE-2017-76732,2017-03-13,Brute Force,Apache,Tomcat,8.7,High,Local,Low,Low,None,High,Low,Low,Nigeria,Manufacturing,42597,Resolved,Yes
+CVE-2017-80233,2017-04-12,Privilege Escalation,F5,BIG-IP,6.2,Medium,Network,High,Low,None,Low,High,High,Romania,Finance,16451,Under Investigation,Yes
+CVE-2017-37939,2017-04-23,MITM,VMware,vCenter,2.5,Low,Network,High,High,None,High,Low,High,Nigeria,Energy,19079,Patched,Yes
+CVE-2017-14601,2017-05-15,SQL Injection,F5,BIG-IP,6.3,Medium,Adjacent,Low,None,None,None,High,None,Russia,Education,39796,Exploited,Yes
+CVE-2017-01634,2017-09-09,Logic Flaw,Apache,Tomcat,3.4,Low,Physical,High,None,None,Low,None,Low,Indonesia,Energy,48463,Under Investigation,Yes
+CVE-2017-27955,2017-06-04,Credential Stuffing,Cisco,Webex,9.3,Critical,Local,High,None,None,None,High,None,Indonesia,IT,34950,Resolved,Yes
+CVE-2017-30539,2017-08-23,Logic Flaw,Atlassian,Jira,6.5,Medium,Local,Low,Low,None,None,Low,None,France,Telecom,14632,Under Investigation,No
+CVE-2017-69998,2017-06-06,Brute Force,Palo Alto,PAN-OS,4.3,Medium,Physical,Low,High,Required,None,None,None,Brazil,Education,34425,Patched,Yes
+CVE-2017-07937,2017-06-09,Ransomware,Google,Android,6.1,Medium,Adjacent,High,High,Required,None,None,Low,Turkey,Retail,36022,Under Investigation,Yes
+CVE-2017-73363,2017-01-26,Ransomware,Fortinet,FortiOS,1.7,Low,Network,Low,High,None,High,Low,High,UK,Transport,47827,Exploited,No
+CVE-2017-30887,2017-12-04,DoS/DDoS,Oracle,E-Business Suite,5.2,Medium,Physical,Low,Low,Required,High,None,High,Netherlands,Energy,43037,Under Investigation,No
+CVE-2017-94633,2017-04-14,Privilege Escalation,Oracle,WebLogic,8.3,High,Local,Low,Low,None,None,High,Low,Pakistan,Healthcare,15229,Patched,No
+CVE-2017-24791,2017-05-07,DoS/DDoS,Fortinet,FortiOS,4.7,Medium,Local,High,Low,Required,None,Low,High,South Korea,Healthcare,17377,Exploited,No
+CVE-2017-87052,2017-02-26,XSS,Nginx,Nginx,9.9,Critical,Physical,High,High,None,None,High,High,India,Defense,28101,Actively Exploited,No
+CVE-2017-83131,2017-07-07,MITM,Google,Workspace,7.0,High,Network,Low,High,None,Low,Low,Low,Romania,Energy,24455,Actively Exploited,No
+CVE-2017-48685,2017-01-10,Phishing,WordPress,Core,4.9,Medium,Adjacent,High,High,None,Low,Low,None,Turkey,Education,32471,Exploited,Yes
+CVE-2017-51661,2017-05-05,XSS,Apache,Tomcat,0.5,Low,Network,High,High,None,None,Low,None,South Korea,Telecom,14219,Patched,Yes
+CVE-2017-23216,2017-07-26,Path Traversal,Oracle,WebLogic,3.6,Low,Physical,High,Low,Required,High,Low,High,India,Telecom,25786,Actively Exploited,Yes
+CVE-2017-13025,2017-07-24,Ransomware,IBM,WebSphere,0.2,Low,Local,Low,None,Required,Low,None,High,India,IT,38348,Patched,No
+CVE-2017-36652,2017-09-01,Phishing,Drupal,Modules,8.1,High,Local,Low,High,Required,Low,None,None,Ukraine,Energy,9802,Actively Exploited,Yes
+CVE-2017-10626,2017-09-27,DoS/DDoS,Linux,systemd,5.4,Medium,Physical,High,None,None,None,Low,None,Netherlands,Healthcare,27026,Actively Exploited,No
+CVE-2017-18668,2017-03-03,Deserialization,VMware,ESXi,7.0,High,Physical,High,High,Required,None,Low,Low,Nigeria,Manufacturing,48303,Patched,Yes
+CVE-2017-29567,2017-04-25,Deserialization,Fortinet,FortiOS,9.7,Critical,Physical,High,High,None,High,Low,None,Romania,Telecom,9855,Under Investigation,Yes
+CVE-2017-86313,2017-01-26,Ransomware,WordPress,Plugins,7.5,High,Network,Low,Low,None,None,High,None,South Korea,Defense,4996,Actively Exploited,No
+CVE-2017-54885,2017-04-24,RCE,Adobe,Photoshop,6.2,Medium,Network,High,High,None,High,Low,None,Vietnam,IT,37592,Resolved,No
+CVE-2017-43039,2017-12-11,XSS,Nginx,Nginx,1.2,Low,Local,High,None,Required,Low,Low,High,Ukraine,Finance,2415,Resolved,No
+CVE-2017-59851,2017-12-07,Logic Flaw,Nginx,Nginx,7.6,High,Adjacent,Low,High,Required,High,None,Low,Pakistan,Government,47911,Resolved,Yes
+CVE-2017-75163,2017-03-09,Command Injection,Zimbra,Collaboration Suite,5.7,Medium,Physical,Low,High,Required,High,High,Low,Romania,Telecom,15118,Resolved,No
+CVE-2017-48779,2017-03-07,SSRF,Atlassian,Jira,4.8,Medium,Network,Low,Low,Required,Low,None,Low,Russia,IT,36628,Under Investigation,Yes
+CVE-2017-65603,2017-10-21,RCE,Adobe,Flash,0.5,Low,Physical,High,None,None,None,High,Low,Canada,Finance,32590,Actively Exploited,No
+CVE-2017-22830,2017-07-11,RCE,Apache,Kafka,4.1,Medium,Physical,High,Low,None,None,High,High,Russia,Government,36766,Exploited,Yes
+CVE-2017-89055,2017-06-04,SSRF,Apple,iOS,2.9,Low,Physical,Low,High,Required,Low,None,Low,Turkey,Transport,28371,Actively Exploited,No
+CVE-2017-46513,2017-09-12,Zero-Day Exploit,Apple,macOS,8.1,High,Adjacent,Low,None,None,None,High,High,Indonesia,Energy,1658,Resolved,Yes
+CVE-2017-78485,2017-02-09,MITM,Apple,macOS,4.6,Medium,Local,High,Low,Required,None,Low,None,Ukraine,Defense,36232,Under Investigation,Yes
+CVE-2017-94720,2017-06-14,Privilege Escalation,Nginx,Nginx,3.0,Low,Network,Low,Low,Required,Low,High,Low,North Korea,Defense,27057,Actively Exploited,No
+CVE-2017-65670,2017-11-06,RCE,F5,BIG-IP,8.4,High,Physical,High,High,None,Low,None,High,Iran,Finance,1884,Exploited,No
+CVE-2017-61587,2017-07-25,XSS,WordPress,Plugins,3.8,Low,Network,Low,None,None,None,High,None,Pakistan,Energy,8569,Patched,Yes
+CVE-2017-45045,2017-06-13,SQL Injection,Google,Chrome,1.8,Low,Local,Low,None,Required,Low,High,High,Vietnam,Government,41509,Exploited,Yes
+CVE-2017-47323,2017-05-13,SQL Injection,Microsoft,Exchange Server,10.0,Critical,Local,Low,None,None,High,Low,Low,UK,Retail,10439,Under Investigation,No
+CVE-2017-51051,2017-06-13,Command Injection,Apache,Log4j,4.2,Medium,Adjacent,High,Low,Required,None,High,High,Brazil,Telecom,9668,Resolved,No
+CVE-2017-64363,2017-03-20,Phishing,SAP,HANA,0.6,Low,Network,High,High,None,None,Low,None,France,Education,11623,Resolved,No
+CVE-2017-59350,2017-01-21,Logic Flaw,Juniper,Junos,6.0,Medium,Network,High,High,None,High,High,None,Germany,Manufacturing,4684,Exploited,No
+CVE-2017-64874,2017-02-19,Ransomware,Palo Alto,PAN-OS,6.6,Medium,Physical,High,Low,None,Low,High,High,Indonesia,Manufacturing,33735,Under Investigation,Yes
+CVE-2017-18644,2017-11-26,Credential Stuffing,Adobe,Acrobat,8.0,High,Network,High,None,Required,Low,None,High,Indonesia,Defense,22340,Patched,No
+CVE-2017-59183,2017-11-25,Ransomware,Apple,Safari,9.5,Critical,Physical,High,None,None,High,None,None,UK,Healthcare,16790,Patched,Yes
+CVE-2017-89890,2017-11-27,Zero-Day Exploit,Linux,glibc,9.4,Critical,Local,Low,None,Required,None,None,None,Russia,Finance,45648,Resolved,No
+CVE-2017-49172,2017-03-31,Phishing,SAP,HANA,7.0,High,Adjacent,High,High,Required,High,None,High,Germany,Energy,10959,Exploited,Yes
+CVE-2017-84511,2017-05-25,Path Traversal,Palo Alto,GlobalProtect,4.0,Medium,Physical,Low,None,Required,None,High,High,UK,Healthcare,21848,Actively Exploited,Yes
+CVE-2017-11298,2017-04-01,Privilege Escalation,Nginx,Nginx,2.8,Low,Network,High,High,None,Low,Low,High,Vietnam,Healthcare,30308,Under Investigation,Yes
+CVE-2017-83448,2017-12-31,XSS,VMware,Workstation,2.0,Low,Network,High,Low,Required,None,Low,None,Nigeria,Education,17762,Exploited,No
+CVE-2017-43217,2017-05-15,DoS/DDoS,WordPress,Plugins,1.2,Low,Physical,Low,High,None,High,None,Low,China,Transport,41997,Resolved,Yes
+CVE-2017-66111,2017-04-14,Privilege Escalation,Google,Workspace,0.4,Low,Adjacent,Low,None,None,Low,None,Low,Ukraine,Finance,14194,Resolved,No
+CVE-2017-21544,2017-11-14,XSS,Microsoft,Office,3.0,Low,Physical,Low,High,Required,None,Low,Low,Iran,Government,37584,Under Investigation,Yes
+CVE-2017-88335,2017-12-17,Command Injection,Drupal,Modules,10.0,Critical,Local,High,High,Required,Low,High,High,Germany,Healthcare,24866,Exploited,Yes
+CVE-2017-25718,2017-06-01,Deserialization,F5,BIG-IP,5.3,Medium,Physical,High,High,Required,High,None,None,Indonesia,Finance,26754,Resolved,No
+CVE-2017-16381,2017-02-23,Path Traversal,IBM,WebSphere,0.4,Low,Adjacent,Low,Low,None,Low,Low,Low,Nigeria,Transport,44885,Under Investigation,No
+CVE-2017-35151,2017-02-07,Privilege Escalation,Apache,Struts,1.1,Low,Adjacent,Low,None,Required,None,None,High,Ukraine,IT,11857,Under Investigation,No
+CVE-2017-41882,2017-12-19,Zero-Day Exploit,Drupal,Modules,8.3,High,Local,Low,High,Required,Low,Low,High,Indonesia,Retail,39363,Resolved,Yes
+CVE-2017-06594,2017-06-06,Command Injection,Atlassian,Bitbucket,2.4,Low,Physical,High,High,Required,Low,None,Low,China,Government,25439,Resolved,Yes
+CVE-2017-78136,2017-06-07,Privilege Escalation,WordPress,Plugins,0.5,Low,Network,Low,None,None,Low,Low,Low,India,Finance,34941,Resolved,Yes
+CVE-2017-02621,2017-03-25,Ransomware,IBM,WebSphere,9.7,Critical,Adjacent,Low,Low,Required,Low,None,Low,North Korea,Defense,32322,Resolved,Yes
+CVE-2017-70877,2017-06-07,Privilege Escalation,SAP,NetWeaver,1.0,Low,Physical,Low,None,None,Low,None,None,North Korea,Retail,34083,Resolved,No
+CVE-2017-99341,2017-02-10,Credential Stuffing,Microsoft,SharePoint,4.2,Medium,Local,Low,None,None,None,High,None,USA,Retail,19732,Under Investigation,No
+CVE-2017-02017,2017-03-16,XXE,Juniper,Junos,6.8,Medium,Network,Low,High,None,Low,High,None,Russia,Manufacturing,6704,Patched,No
+CVE-2017-30340,2017-01-08,Path Traversal,F5,BIG-IP,9.4,Critical,Network,High,High,Required,None,Low,None,Nigeria,Government,3737,Under Investigation,Yes
+CVE-2017-39107,2017-01-05,SQL Injection,VMware,ESXi,2.8,Low,Network,Low,None,Required,High,Low,Low,India,IT,49575,Under Investigation,Yes
+CVE-2017-35900,2017-06-22,XSS,Atlassian,Jira,3.6,Low,Network,Low,High,None,Low,None,None,Brazil,Transport,28493,Resolved,No
+CVE-2017-57493,2017-06-26,SSRF,Linux,systemd,3.8,Low,Adjacent,High,None,None,None,None,High,France,Transport,48763,Exploited,No
+CVE-2017-24982,2017-02-13,Logic Flaw,Juniper,Junos,8.8,High,Network,High,None,None,Low,Low,None,Indonesia,Manufacturing,3726,Patched,No
+CVE-2017-34936,2017-07-19,Ransomware,VMware,ESXi,4.6,Medium,Network,High,High,Required,Low,None,Low,Russia,Transport,33899,Patched,Yes
+CVE-2017-82889,2017-04-12,Logic Flaw,Google,Android,6.2,Medium,Physical,High,High,Required,High,Low,None,North Korea,Education,32249,Patched,No
+CVE-2017-79227,2017-03-26,Ransomware,WordPress,Core,6.5,Medium,Adjacent,Low,Low,None,Low,None,High,Vietnam,IT,40262,Under Investigation,No
+CVE-2017-51927,2017-10-29,Privilege Escalation,Microsoft,SharePoint,8.1,High,Physical,High,Low,None,Low,High,High,Pakistan,Defense,23497,Resolved,Yes
+CVE-2017-56294,2017-10-26,MITM,Atlassian,Jira,0.9,Low,Adjacent,Low,None,Required,High,None,None,Ukraine,Telecom,11091,Exploited,No
+CVE-2017-57125,2017-01-25,Zero-Day Exploit,Fortinet,FortiOS,3.0,Low,Network,High,None,Required,None,Low,None,Pakistan,Retail,24590,Patched,No
+CVE-2017-07184,2017-05-12,Ransomware,Oracle,Java SE,4.0,Medium,Network,Low,Low,None,Low,Low,Low,Vietnam,Finance,23393,Patched,Yes
+CVE-2017-99178,2017-09-28,Zero-Day Exploit,Adobe,ColdFusion,2.1,Low,Physical,High,Low,None,Low,Low,High,Nigeria,Government,19997,Patched,No
+CVE-2017-66841,2017-06-09,RCE,Apple,macOS,7.8,High,Adjacent,High,High,Required,None,None,High,Indonesia,Government,27962,Exploited,Yes
+CVE-2017-76445,2017-11-10,Command Injection,Fortinet,FortiManager,8.7,High,Physical,High,High,Required,High,High,None,Netherlands,Energy,45419,Exploited,No
+CVE-2017-23267,2017-08-23,RCE,Zimbra,Collaboration Suite,3.5,Low,Network,High,None,Required,Low,None,None,Ukraine,Transport,25740,Resolved,No
+CVE-2017-03959,2017-07-13,MITM,Juniper,Junos,8.5,High,Physical,Low,Low,Required,Low,High,None,South Korea,Telecom,20771,Exploited,Yes
+CVE-2017-34451,2017-02-26,Privilege Escalation,Microsoft,SharePoint,3.5,Low,Network,High,High,Required,Low,Low,Low,Russia,Healthcare,27547,Resolved,No
+CVE-2017-97636,2017-03-19,Phishing,Google,Chrome,6.6,Medium,Physical,Low,Low,None,Low,Low,None,South Korea,Healthcare,13660,Actively Exploited,No
+CVE-2017-18036,2017-04-14,Ransomware,Atlassian,Bitbucket,3.3,Low,Local,Low,None,None,Low,Low,High,Netherlands,Telecom,14357,Resolved,No
+CVE-2017-18082,2017-05-29,XSS,Drupal,Modules,8.2,High,Local,Low,None,Required,Low,None,High,Russia,Telecom,42116,Actively Exploited,No
+CVE-2017-72897,2017-09-20,Path Traversal,Microsoft,SharePoint,0.4,Low,Adjacent,High,None,None,Low,High,High,Indonesia,Education,10688,Patched,No
+CVE-2017-22094,2017-02-26,Command Injection,F5,BIG-IP,1.1,Low,Physical,High,High,None,None,High,High,Brazil,Transport,6142,Under Investigation,No
+CVE-2017-86130,2017-10-29,Buffer Overflow,SAP,Business One,6.6,Medium,Physical,Low,Low,Required,High,High,High,India,Telecom,5684,Exploited,No
+CVE-2017-29172,2017-07-13,Zero-Day Exploit,VMware,ESXi,3.9,Low,Local,Low,Low,Required,High,Low,None,China,Education,19298,Patched,No
+CVE-2017-44718,2017-07-22,RCE,Nginx,Nginx,4.3,Medium,Network,High,Low,Required,High,High,None,Pakistan,Finance,39077,Actively Exploited,No
+CVE-2017-57506,2017-09-19,XXE,Cisco,Webex,4.9,Medium,Physical,Low,High,None,Low,High,None,Canada,Telecom,6287,Under Investigation,No
+CVE-2017-59307,2017-05-30,SQL Injection,VMware,vCenter,9.2,Critical,Adjacent,High,High,Required,High,High,High,North Korea,Manufacturing,13259,Exploited,Yes
+CVE-2017-81914,2017-10-27,CSRF,WordPress,Plugins,3.0,Low,Adjacent,Low,Low,Required,Low,High,Low,Ukraine,Transport,38144,Resolved,No
+CVE-2017-73668,2017-06-01,Ransomware,Adobe,ColdFusion,8.3,High,Network,High,High,Required,None,Low,Low,Romania,Defense,23180,Under Investigation,No
+CVE-2017-44870,2017-11-21,Deserialization,Adobe,Acrobat,4.2,Medium,Physical,Low,High,None,Low,Low,None,India,IT,1399,Patched,Yes
+CVE-2017-52784,2017-04-21,RCE,Apple,macOS,5.9,Medium,Physical,High,High,Required,None,High,Low,Vietnam,Transport,30398,Actively Exploited,No
+CVE-2017-38731,2017-09-13,RCE,WordPress,Plugins,1.1,Low,Physical,High,None,Required,None,High,Low,Iran,IT,37636,Resolved,No
+CVE-2017-11409,2017-09-06,Phishing,SAP,NetWeaver,3.2,Low,Local,High,None,Required,None,None,None,China,Defense,6639,Actively Exploited,Yes
+CVE-2017-54437,2017-11-14,Credential Stuffing,Linux,glibc,9.6,Critical,Adjacent,High,High,None,None,None,None,Vietnam,Education,32253,Patched,Yes
+CVE-2017-67713,2017-03-31,XXE,WordPress,Plugins,3.0,Low,Network,Low,None,None,Low,Low,High,Canada,Manufacturing,10352,Actively Exploited,No
+CVE-2017-55312,2017-10-27,Zero-Day Exploit,Apache,Tomcat,0.9,Low,Physical,Low,None,None,High,High,None,Netherlands,Energy,44942,Under Investigation,No
+CVE-2017-36135,2017-07-17,Buffer Overflow,Oracle,Java SE,0.3,Low,Local,Low,None,Required,High,High,High,Vietnam,Retail,10870,Resolved,No
+CVE-2017-04137,2017-05-14,Credential Stuffing,Adobe,Acrobat,3.3,Low,Physical,High,High,None,None,None,None,China,Finance,25223,Under Investigation,No
+CVE-2017-84110,2017-03-01,Privilege Escalation,Nginx,Nginx,3.0,Low,Network,Low,High,None,None,Low,None,Russia,Telecom,48071,Resolved,No
+CVE-2017-65481,2017-01-15,XXE,Apple,iOS,2.8,Low,Physical,High,High,None,High,High,High,South Korea,Healthcare,32044,Resolved,No
+CVE-2017-10561,2017-08-11,Privilege Escalation,Google,Chrome,4.8,Medium,Adjacent,Low,Low,Required,High,Low,High,Germany,Telecom,23908,Resolved,Yes
+CVE-2017-87836,2017-08-01,Buffer Overflow,Apache,Log4j,3.6,Low,Adjacent,High,Low,None,None,None,None,South Korea,Telecom,4127,Exploited,Yes
+CVE-2017-02742,2017-12-30,SQL Injection,Apache,Struts,7.0,High,Physical,Low,High,Required,Low,High,None,France,Transport,35854,Exploited,No
+CVE-2017-88100,2017-10-13,Deserialization,Atlassian,Jira,1.5,Low,Local,Low,High,Required,High,High,Low,India,Energy,20425,Under Investigation,Yes
+CVE-2017-49365,2017-08-08,RCE,Nginx,Nginx,8.5,High,Physical,Low,None,None,None,None,High,Brazil,Defense,24478,Exploited,Yes
+CVE-2017-50407,2017-02-12,Phishing,WordPress,Plugins,0.4,Low,Adjacent,Low,Low,Required,High,High,None,South Korea,Manufacturing,9833,Actively Exploited,No
+CVE-2017-86349,2017-02-08,Ransomware,Cisco,Webex,7.3,High,Adjacent,Low,High,None,Low,Low,High,Indonesia,Healthcare,25865,Actively Exploited,Yes
+CVE-2017-78741,2017-05-05,Privilege Escalation,Drupal,Core,0.1,Low,Network,Low,High,Required,High,None,Low,Brazil,Manufacturing,14895,Exploited,Yes
+CVE-2017-51586,2017-06-29,Credential Stuffing,Zimbra,Collaboration Suite,8.7,High,Adjacent,Low,Low,None,None,High,Low,Ukraine,Finance,45841,Patched,No
+CVE-2017-12575,2017-12-13,Logic Flaw,Apache,HTTP Server,5.7,Medium,Adjacent,Low,None,Required,High,None,High,UK,Energy,17280,Exploited,No
+CVE-2017-45299,2017-10-21,Privilege Escalation,Linux,Kernel,6.3,Medium,Adjacent,Low,High,Required,Low,High,High,UK,Transport,25340,Exploited,Yes
+CVE-2017-45676,2017-06-22,Buffer Overflow,Zimbra,Collaboration Suite,6.9,Medium,Local,Low,None,None,None,High,Low,Brazil,Energy,22941,Actively Exploited,Yes
+CVE-2017-67076,2017-03-31,XSS,SAP,NetWeaver,0.6,Low,Physical,Low,Low,None,High,Low,None,India,Retail,14678,Resolved,No
+CVE-2017-19603,2017-05-16,XSS,Nginx,Nginx,1.5,Low,Local,High,None,None,Low,Low,High,Turkey,Defense,12243,Under Investigation,No
+CVE-2017-95387,2017-04-06,Credential Stuffing,Microsoft,Office,7.9,High,Adjacent,Low,High,Required,High,Low,High,Netherlands,Defense,35263,Exploited,Yes
+CVE-2017-11262,2017-11-29,Credential Stuffing,Nginx,Nginx,9.9,Critical,Network,Low,High,Required,High,None,Low,Nigeria,Healthcare,25313,Actively Exploited,Yes
+CVE-2017-19802,2017-03-16,RCE,F5,BIG-IP,7.3,High,Network,Low,Low,None,None,None,High,India,Finance,36019,Patched,Yes
+CVE-2017-11359,2017-06-05,Buffer Overflow,Microsoft,Azure AD,7.1,High,Adjacent,High,None,Required,None,None,High,USA,Transport,38935,Patched,Yes
+CVE-2017-30306,2017-02-10,Deserialization,Cisco,AnyConnect,2.3,Low,Adjacent,High,None,Required,Low,None,None,China,Energy,9222,Patched,No
+CVE-2017-02950,2017-10-28,Credential Stuffing,Atlassian,Bitbucket,0.1,Low,Physical,High,Low,None,High,Low,Low,China,Defense,30312,Resolved,No
+CVE-2017-32226,2017-10-28,RCE,Google,Android,6.2,Medium,Adjacent,High,Low,None,None,None,High,Romania,IT,42512,Under Investigation,No
+CVE-2017-91571,2017-03-04,CSRF,Zimbra,Collaboration Suite,8.0,High,Local,High,None,None,None,Low,Low,China,Government,24446,Resolved,No
+CVE-2017-01219,2017-09-27,Privilege Escalation,IBM,WebSphere,5.2,Medium,Network,High,None,None,High,High,Low,UK,Transport,21306,Patched,Yes
+CVE-2017-82707,2017-11-01,SSRF,IBM,QRadar,4.3,Medium,Network,High,High,None,Low,Low,Low,Nigeria,Manufacturing,21666,Patched,Yes
+CVE-2017-70374,2017-04-26,Privilege Escalation,Nginx,Nginx,3.7,Low,Local,High,High,None,High,None,None,Iran,Telecom,9906,Exploited,No
+CVE-2017-55235,2017-10-25,Phishing,Fortinet,FortiOS,7.7,High,Network,High,High,None,High,Low,High,USA,Telecom,18840,Resolved,Yes
+CVE-2017-64684,2017-01-25,MITM,Drupal,Core,6.3,Medium,Local,Low,High,Required,Low,High,None,Germany,Finance,24930,Actively Exploited,Yes
+CVE-2017-15021,2017-09-03,Brute Force,Drupal,Core,6.5,Medium,Local,Low,Low,None,Low,Low,Low,Iran,Defense,14288,Exploited,No
+CVE-2017-26054,2017-12-19,Brute Force,Palo Alto,GlobalProtect,5.8,Medium,Physical,High,None,Required,High,High,High,South Korea,Education,10610,Under Investigation,Yes
+CVE-2017-78967,2017-07-04,Buffer Overflow,IBM,QRadar,9.2,Critical,Adjacent,Low,None,None,High,Low,High,Canada,Retail,17591,Patched,Yes
+CVE-2017-36158,2017-08-01,CSRF,VMware,ESXi,5.7,Medium,Local,Low,Low,Required,High,High,None,Nigeria,Manufacturing,31583,Patched,Yes
+CVE-2017-73748,2017-09-12,Brute Force,Palo Alto,PAN-OS,8.6,High,Local,Low,Low,None,High,Low,High,Canada,Telecom,20732,Actively Exploited,No
+CVE-2017-96181,2017-04-22,DoS/DDoS,SAP,Business One,7.9,High,Local,Low,None,Required,Low,Low,High,Vietnam,Energy,48574,Under Investigation,No
+CVE-2017-54765,2017-07-21,Logic Flaw,Palo Alto,PAN-OS,5.2,Medium,Local,Low,Low,None,None,High,None,Vietnam,Defense,15219,Exploited,Yes
+CVE-2017-84889,2017-12-09,Credential Stuffing,Oracle,WebLogic,8.4,High,Adjacent,Low,High,None,High,High,High,India,Finance,10776,Exploited,Yes
+CVE-2017-82199,2017-11-28,DoS/DDoS,SAP,Business One,3.4,Low,Adjacent,High,High,None,Low,High,None,USA,Transport,28156,Exploited,Yes
+CVE-2017-88764,2017-05-19,XXE,VMware,Horizon,9.8,Critical,Local,Low,Low,None,High,Low,None,France,IT,32375,Actively Exploited,Yes
+CVE-2017-30875,2017-03-03,Brute Force,SAP,NetWeaver,5.1,Medium,Local,High,Low,None,Low,None,None,Brazil,Transport,20497,Under Investigation,No
+CVE-2017-55363,2017-07-28,SQL Injection,VMware,ESXi,8.3,High,Adjacent,Low,Low,None,High,None,Low,Netherlands,IT,8771,Exploited,Yes
+CVE-2017-70068,2017-10-21,SQL Injection,Zimbra,Collaboration Suite,0.7,Low,Local,Low,None,None,Low,None,High,Russia,Retail,42013,Resolved,Yes
+CVE-2017-81944,2017-10-22,XSS,Fortinet,FortiOS,4.2,Medium,Local,High,None,None,None,None,High,UK,Manufacturing,37795,Actively Exploited,No
+CVE-2017-95175,2017-05-17,SSRF,Juniper,Junos,2.0,Low,Local,High,High,None,High,Low,Low,Vietnam,Education,31251,Patched,Yes
+CVE-2017-05484,2017-04-25,MITM,VMware,vCenter,7.3,High,Physical,Low,Low,Required,None,None,Low,Brazil,Retail,16217,Exploited,Yes
+CVE-2017-68985,2017-11-19,Logic Flaw,Google,Workspace,8.0,High,Local,Low,None,None,None,None,High,Turkey,Government,3380,Actively Exploited,Yes
+CVE-2017-96179,2017-12-03,Zero-Day Exploit,Zimbra,Collaboration Suite,2.9,Low,Physical,High,Low,Required,High,None,Low,China,Manufacturing,2440,Under Investigation,Yes
+CVE-2017-59761,2017-12-27,MITM,F5,BIG-IP,3.7,Low,Adjacent,High,None,Required,Low,High,Low,Pakistan,Government,8259,Patched,No
+CVE-2017-50726,2017-01-19,Credential Stuffing,Nginx,Nginx,0.6,Low,Local,Low,High,None,High,None,Low,Iran,Defense,14840,Under Investigation,Yes
+CVE-2017-38999,2017-02-19,CSRF,SAP,NetWeaver,5.4,Medium,Local,Low,None,Required,High,High,Low,Ukraine,Telecom,511,Resolved,No
+CVE-2017-48359,2017-05-19,Path Traversal,Atlassian,Bitbucket,6.7,Medium,Physical,High,Low,Required,Low,Low,None,Brazil,Education,19119,Exploited,Yes
+CVE-2017-17499,2017-04-02,Zero-Day Exploit,Oracle,E-Business Suite,6.1,Medium,Network,Low,Low,None,Low,Low,None,Netherlands,Energy,11185,Exploited,Yes
+CVE-2017-14317,2017-08-24,DoS/DDoS,Google,Workspace,1.4,Low,Network,High,None,Required,None,None,None,Indonesia,Government,19472,Exploited,No
+CVE-2017-95350,2017-09-20,Zero-Day Exploit,Nginx,Nginx,4.7,Medium,Network,Low,Low,None,None,None,High,Romania,Education,20669,Actively Exploited,Yes
+CVE-2017-96406,2017-02-05,Deserialization,Adobe,ColdFusion,5.0,Medium,Local,High,High,Required,None,High,High,Turkey,Government,21033,Resolved,No
+CVE-2017-42418,2017-11-22,Logic Flaw,VMware,Workstation,7.4,High,Local,Low,Low,Required,None,Low,None,Pakistan,Finance,18936,Patched,No
+CVE-2017-30840,2017-01-02,Brute Force,Google,Android,9.8,Critical,Local,High,High,None,Low,Low,High,Iran,Energy,19678,Patched,No
+CVE-2017-88781,2017-07-15,Ransomware,Cisco,Firepower,5.8,Medium,Physical,High,High,Required,High,High,None,Iran,Retail,23297,Exploited,Yes
+CVE-2017-75080,2017-06-23,Path Traversal,Linux,Kernel,5.2,Medium,Local,High,None,Required,High,High,High,Brazil,Defense,25492,Under Investigation,Yes
+CVE-2017-33324,2017-08-31,Brute Force,F5,BIG-IP,4.1,Medium,Network,High,Low,None,Low,None,Low,Iran,Transport,15544,Under Investigation,No
+CVE-2017-60003,2017-07-05,Credential Stuffing,Microsoft,Exchange Server,3.6,Low,Network,Low,Low,None,High,Low,None,Germany,IT,13187,Actively Exploited,Yes
+CVE-2017-29481,2017-06-03,Buffer Overflow,Atlassian,Bitbucket,0.4,Low,Network,Low,Low,Required,Low,High,High,China,IT,41077,Under Investigation,No
+CVE-2017-47119,2017-04-07,Logic Flaw,Microsoft,Office,9.1,Critical,Adjacent,Low,High,Required,Low,Low,None,France,Defense,8146,Actively Exploited,No
+CVE-2017-97313,2017-06-15,Phishing,Cisco,Webex,4.9,Medium,Network,High,Low,Required,High,Low,None,Pakistan,Government,14552,Patched,Yes
+CVE-2017-09676,2017-12-24,RCE,Drupal,Core,1.6,Low,Network,Low,None,None,None,High,Low,Nigeria,Education,47629,Resolved,Yes
+CVE-2017-97090,2017-09-13,Command Injection,Cisco,AnyConnect,7.8,High,Network,High,High,Required,None,High,Low,Vietnam,Telecom,33381,Resolved,No
+CVE-2017-11590,2017-08-10,Command Injection,Adobe,Flash,3.2,Low,Adjacent,Low,High,None,High,None,Low,North Korea,Energy,39739,Exploited,Yes
+CVE-2017-47178,2017-06-06,Ransomware,Fortinet,FortiGate,2.0,Low,Local,High,High,Required,Low,High,None,Indonesia,Energy,16263,Resolved,No
+CVE-2017-23323,2017-07-08,SQL Injection,Adobe,ColdFusion,7.2,High,Network,High,None,Required,High,Low,High,Pakistan,Government,1161,Exploited,Yes
+CVE-2017-04627,2017-03-25,Privilege Escalation,Apple,iOS,0.1,Low,Physical,High,None,None,Low,None,High,Turkey,Retail,45197,Under Investigation,No
+CVE-2017-45301,2017-02-18,RCE,SAP,NetWeaver,6.3,Medium,Physical,High,None,Required,None,Low,Low,North Korea,Energy,20033,Patched,No
+CVE-2017-99901,2017-12-28,MITM,F5,BIG-IP,0.0,None,Network,Low,None,None,None,High,None,Vietnam,Energy,40497,Exploited,Yes
+CVE-2017-77205,2017-09-02,Brute Force,IBM,QRadar,2.6,Low,Local,High,Low,None,Low,None,Low,Ukraine,Education,5914,Actively Exploited,No
+CVE-2017-00876,2017-07-05,Deserialization,WordPress,Core,7.8,High,Adjacent,High,Low,Required,Low,None,None,Nigeria,Education,16866,Patched,No
+CVE-2017-80957,2017-01-31,SQL Injection,Zimbra,Collaboration Suite,0.3,Low,Network,Low,Low,None,None,None,None,Romania,Manufacturing,24609,Exploited,No
+CVE-2017-48922,2017-12-09,Credential Stuffing,Atlassian,Jira,5.8,Medium,Physical,High,Low,None,None,None,High,Indonesia,Energy,32852,Under Investigation,Yes
+CVE-2017-96301,2017-03-31,Credential Stuffing,Oracle,Java SE,10.0,Critical,Local,Low,None,Required,None,High,High,France,Manufacturing,36506,Resolved,Yes
+CVE-2017-62899,2017-02-26,XXE,Adobe,ColdFusion,4.4,Medium,Local,Low,High,None,Low,None,High,Indonesia,Government,29585,Resolved,No
+CVE-2017-45929,2017-11-27,CSRF,Oracle,E-Business Suite,9.2,Critical,Network,High,None,None,None,None,High,Indonesia,Manufacturing,3044,Patched,Yes
+CVE-2017-77655,2017-10-07,Privilege Escalation,Fortinet,FortiGate,3.6,Low,Physical,Low,Low,Required,High,High,None,UK,Energy,20043,Actively Exploited,Yes
+CVE-2017-34196,2017-09-04,XXE,Palo Alto,GlobalProtect,2.6,Low,Local,Low,None,None,None,None,None,Turkey,Government,10841,Exploited,Yes
+CVE-2017-46584,2017-10-04,DoS/DDoS,SAP,HANA,5.3,Medium,Adjacent,High,High,Required,Low,None,High,South Korea,Government,15218,Patched,Yes
+CVE-2017-09373,2017-05-07,Path Traversal,SAP,NetWeaver,6.6,Medium,Adjacent,Low,Low,Required,High,High,Low,Turkey,Manufacturing,1263,Patched,Yes
+CVE-2017-71546,2017-12-04,RCE,F5,BIG-IP,1.0,Low,Adjacent,Low,Low,Required,None,Low,None,China,Transport,6483,Under Investigation,Yes
+CVE-2017-29208,2017-08-13,MITM,Fortinet,FortiGate,3.6,Low,Local,High,Low,None,Low,None,High,India,Finance,4403,Actively Exploited,No
+CVE-2017-59711,2017-07-20,Brute Force,Fortinet,FortiManager,3.7,Low,Network,High,High,None,Low,Low,Low,Ukraine,IT,44095,Exploited,No
+CVE-2017-50711,2017-05-09,Phishing,Google,Workspace,1.5,Low,Physical,Low,None,Required,None,Low,Low,Brazil,Government,44255,Patched,No
+CVE-2017-12952,2017-10-16,Path Traversal,IBM,WebSphere,4.1,Medium,Network,High,Low,Required,None,High,High,Russia,Retail,17570,Exploited,Yes
+CVE-2017-95204,2017-04-26,SQL Injection,Juniper,Junos,5.2,Medium,Local,Low,None,Required,High,Low,High,Iran,Defense,38745,Exploited,No
+CVE-2017-43142,2017-10-22,Ransomware,WordPress,Plugins,7.0,High,Network,Low,High,Required,None,High,High,Romania,Transport,48569,Exploited,No
+CVE-2017-90976,2017-10-27,Buffer Overflow,Nginx,Nginx,9.3,Critical,Physical,High,None,Required,Low,Low,Low,China,IT,37703,Resolved,No
+CVE-2017-71674,2017-10-01,XXE,Linux,systemd,3.3,Low,Adjacent,Low,None,Required,None,High,High,Turkey,Manufacturing,40106,Under Investigation,Yes
+CVE-2017-37808,2017-12-25,CSRF,Oracle,E-Business Suite,0.8,Low,Network,High,High,Required,None,None,High,South Korea,IT,5973,Exploited,No
+CVE-2017-26176,2017-05-20,XSS,F5,BIG-IP,5.1,Medium,Local,Low,High,Required,High,Low,Low,Romania,Retail,30018,Exploited,No
+CVE-2017-38067,2017-01-13,Buffer Overflow,WordPress,Plugins,1.4,Low,Adjacent,High,None,Required,High,None,High,Vietnam,Defense,40543,Under Investigation,No
+CVE-2017-83242,2017-11-21,CSRF,Apache,Struts,6.1,Medium,Physical,Low,None,None,Low,High,Low,Turkey,Healthcare,41003,Patched,Yes
+CVE-2017-08129,2017-03-31,Deserialization,Fortinet,FortiManager,2.2,Low,Adjacent,Low,None,None,Low,High,Low,Vietnam,Finance,18020,Exploited,No
+CVE-2017-55378,2017-03-15,DoS/DDoS,Apple,Safari,9.0,Critical,Adjacent,High,High,Required,None,Low,Low,Brazil,Healthcare,364,Resolved,No
+CVE-2017-93812,2017-08-16,Privilege Escalation,Adobe,Flash,1.3,Low,Network,High,Low,Required,Low,Low,High,Russia,Retail,37839,Actively Exploited,Yes
+CVE-2017-59876,2017-06-15,Credential Stuffing,Microsoft,Exchange Server,6.7,Medium,Local,High,High,None,High,High,High,India,Finance,47057,Actively Exploited,Yes
+CVE-2017-67675,2017-03-04,XSS,WordPress,Plugins,8.6,High,Local,High,Low,None,High,Low,None,Romania,Defense,5526,Resolved,Yes
+CVE-2017-59243,2017-12-22,SQL Injection,Linux,Kernel,6.2,Medium,Network,High,Low,None,None,None,High,Indonesia,Transport,36483,Patched,Yes
+CVE-2017-73729,2017-09-07,Command Injection,WordPress,Plugins,0.0,None,Physical,High,None,None,Low,High,None,France,IT,11331,Under Investigation,No
+CVE-2017-05824,2017-03-06,Phishing,VMware,vCenter,6.2,Medium,Adjacent,Low,None,None,Low,Low,High,UK,Finance,2329,Resolved,Yes
+CVE-2017-96150,2017-05-15,SQL Injection,IBM,QRadar,1.5,Low,Adjacent,Low,High,None,High,None,None,UK,Education,1923,Actively Exploited,Yes
+CVE-2017-05493,2017-06-19,Zero-Day Exploit,Palo Alto,PAN-OS,7.5,High,Local,Low,High,None,Low,High,Low,Canada,Transport,46519,Actively Exploited,No
+CVE-2017-77977,2017-09-10,Command Injection,Zimbra,Collaboration Suite,2.8,Low,Local,High,High,Required,Low,High,None,Brazil,Education,11206,Resolved,No
+CVE-2017-43870,2017-01-05,MITM,Fortinet,FortiGate,3.0,Low,Physical,Low,High,Required,Low,None,Low,Turkey,Transport,35708,Under Investigation,Yes
+CVE-2017-11124,2017-03-18,SQL Injection,Linux,systemd,2.7,Low,Network,Low,Low,None,None,None,High,UK,Healthcare,36344,Exploited,Yes
+CVE-2017-59809,2017-07-23,Buffer Overflow,Linux,Kernel,1.8,Low,Network,High,High,None,Low,High,None,USA,Telecom,36766,Under Investigation,No
+CVE-2017-02433,2017-03-22,Phishing,Apple,Safari,0.5,Low,Network,High,None,None,High,None,Low,UK,Education,11929,Resolved,No
+CVE-2017-87086,2017-06-26,Brute Force,Palo Alto,PAN-OS,8.0,High,Physical,High,None,Required,High,None,High,Nigeria,Government,18159,Actively Exploited,Yes
+CVE-2017-08951,2017-09-26,Logic Flaw,F5,BIG-IP,8.6,High,Physical,Low,Low,None,Low,Low,Low,North Korea,Finance,13814,Actively Exploited,No
+CVE-2017-62329,2017-02-07,RCE,Palo Alto,GlobalProtect,5.8,Medium,Physical,High,None,Required,High,None,High,USA,Energy,9476,Exploited,Yes
+CVE-2017-60759,2017-12-02,RCE,Fortinet,FortiGate,5.6,Medium,Adjacent,High,High,Required,Low,High,None,Netherlands,Finance,32416,Exploited,Yes
+CVE-2017-73888,2017-05-30,Buffer Overflow,Juniper,Junos,1.7,Low,Adjacent,High,None,Required,Low,None,Low,France,IT,43777,Resolved,Yes
+CVE-2017-41231,2017-12-22,Buffer Overflow,Google,Chrome,4.5,Medium,Physical,High,None,None,Low,High,High,Netherlands,Retail,10685,Under Investigation,Yes
+CVE-2017-83515,2017-05-24,CSRF,Fortinet,FortiGate,7.9,High,Physical,High,Low,Required,None,High,Low,USA,Transport,2755,Exploited,Yes
+CVE-2017-27178,2017-05-04,Credential Stuffing,Cisco,AnyConnect,3.5,Low,Local,High,High,Required,High,Low,Low,Vietnam,Manufacturing,23331,Actively Exploited,No
+CVE-2017-55323,2017-09-11,Deserialization,Atlassian,Bitbucket,3.8,Low,Local,Low,None,Required,High,High,None,Vietnam,Defense,47602,Under Investigation,Yes
+CVE-2017-39552,2017-03-14,XXE,Adobe,Flash,1.6,Low,Local,High,None,None,High,Low,High,France,IT,8730,Exploited,No
+CVE-2017-01730,2017-01-09,Brute Force,Atlassian,Jira,2.8,Low,Adjacent,High,High,None,None,Low,High,Iran,Defense,36737,Patched,No
+CVE-2017-38382,2017-07-24,Path Traversal,SAP,NetWeaver,5.8,Medium,Network,Low,Low,Required,Low,None,High,Romania,Defense,49267,Exploited,Yes
+CVE-2017-70636,2017-04-21,RCE,IBM,MQ,7.7,High,Network,Low,Low,Required,None,High,Low,China,IT,13872,Under Investigation,No
+CVE-2017-27458,2017-08-09,XSS,SAP,NetWeaver,9.8,Critical,Adjacent,High,None,None,High,None,High,South Korea,Retail,38385,Under Investigation,Yes
+CVE-2017-18994,2017-12-24,CSRF,Adobe,Acrobat,8.4,High,Local,High,High,Required,High,None,Low,USA,Defense,45516,Actively Exploited,Yes
+CVE-2017-44312,2017-06-15,Phishing,Linux,systemd,9.1,Critical,Physical,Low,None,None,None,High,Low,Russia,Education,8509,Resolved,Yes
+CVE-2017-90947,2017-07-01,Phishing,VMware,ESXi,2.0,Low,Physical,Low,Low,Required,High,High,High,Iran,Manufacturing,37982,Patched,Yes
+CVE-2017-09603,2017-06-09,Command Injection,Linux,systemd,8.3,High,Network,Low,None,Required,Low,High,Low,Brazil,Telecom,7570,Exploited,No
+CVE-2017-01899,2017-03-30,Phishing,VMware,Horizon,1.2,Low,Local,High,None,None,Low,Low,High,Netherlands,Defense,26036,Actively Exploited,Yes
+CVE-2017-87057,2017-02-24,Phishing,Oracle,Database,1.5,Low,Network,Low,Low,None,Low,High,High,Vietnam,Telecom,45688,Actively Exploited,Yes
+CVE-2017-26389,2017-12-22,DoS/DDoS,Drupal,Core,8.1,High,Network,High,None,Required,Low,None,Low,Russia,Healthcare,19100,Actively Exploited,Yes
+CVE-2017-44986,2017-10-11,Command Injection,Google,Chrome,2.8,Low,Local,High,Low,Required,None,High,None,Pakistan,Finance,1825,Actively Exploited,No
+CVE-2017-26487,2017-12-17,Ransomware,Juniper,Junos,1.9,Low,Adjacent,Low,Low,Required,None,Low,Low,Iran,Transport,1927,Exploited,No
+CVE-2017-48172,2017-10-02,Path Traversal,SAP,Business One,1.4,Low,Local,Low,High,Required,High,High,Low,USA,Government,13024,Under Investigation,No
+CVE-2017-00595,2017-09-03,XSS,Drupal,Core,8.1,High,Network,High,None,Required,High,High,High,Ukraine,Telecom,16275,Actively Exploited,No
+CVE-2017-25399,2017-02-20,Phishing,Atlassian,Confluence,9.1,Critical,Physical,Low,High,Required,None,None,High,Netherlands,Manufacturing,21891,Under Investigation,No
+CVE-2017-87636,2017-02-10,Zero-Day Exploit,Microsoft,Windows,1.8,Low,Adjacent,High,High,None,High,None,High,UK,Government,29160,Patched,Yes
+CVE-2017-46035,2017-08-02,SSRF,Zimbra,Collaboration Suite,3.7,Low,Network,High,None,None,High,High,Low,France,Energy,30167,Actively Exploited,Yes
+CVE-2017-71168,2017-02-10,Path Traversal,Atlassian,Confluence,2.1,Low,Physical,Low,High,None,Low,High,Low,North Korea,Education,21307,Exploited,No
+CVE-2017-28217,2017-10-31,Ransomware,Zimbra,Collaboration Suite,2.5,Low,Physical,Low,Low,None,Low,None,High,North Korea,Education,40645,Exploited,Yes
+CVE-2017-61638,2017-12-24,Credential Stuffing,WordPress,Plugins,7.5,High,Local,High,Low,Required,Low,High,High,Russia,Education,43501,Exploited,No
+CVE-2017-47264,2017-10-26,Zero-Day Exploit,Juniper,Junos,1.8,Low,Network,Low,High,Required,Low,Low,Low,Indonesia,Government,30187,Actively Exploited,Yes
+CVE-2017-79205,2017-02-11,Buffer Overflow,WordPress,Plugins,9.5,Critical,Local,Low,High,None,Low,Low,Low,Romania,Manufacturing,10538,Resolved,Yes
+CVE-2017-65861,2017-05-26,XSS,Apache,Kafka,8.6,High,Network,High,Low,None,High,None,None,USA,IT,38767,Actively Exploited,Yes
+CVE-2017-46253,2017-09-20,Privilege Escalation,F5,BIG-IP,8.6,High,Local,High,High,None,Low,None,High,Indonesia,Finance,17343,Under Investigation,No
+CVE-2017-23037,2017-10-05,Logic Flaw,Drupal,Core,8.7,High,Local,Low,None,None,High,High,Low,France,IT,20206,Actively Exploited,No
+CVE-2017-97476,2017-04-28,Buffer Overflow,Linux,glibc,3.9,Low,Adjacent,High,None,Required,Low,None,High,Brazil,Education,29698,Exploited,Yes
+CVE-2017-49387,2017-09-18,Privilege Escalation,SAP,NetWeaver,1.9,Low,Network,Low,Low,None,None,High,High,Romania,Defense,43300,Under Investigation,Yes
+CVE-2017-83099,2017-04-04,CSRF,Drupal,Modules,7.0,High,Adjacent,High,None,Required,Low,High,High,Romania,Government,15268,Under Investigation,Yes
+CVE-2017-46935,2017-03-22,Privilege Escalation,WordPress,Plugins,8.5,High,Physical,High,None,None,Low,High,High,South Korea,Energy,23275,Resolved,No
+CVE-2017-17833,2017-03-22,Path Traversal,IBM,MQ,8.4,High,Local,High,None,None,None,High,High,Netherlands,Telecom,29356,Patched,Yes
+CVE-2017-90022,2017-05-01,XXE,SAP,HANA,4.6,Medium,Adjacent,Low,None,None,None,High,None,Romania,Healthcare,39874,Under Investigation,No
+CVE-2017-24763,2017-03-09,CSRF,F5,BIG-IP,6.0,Medium,Network,High,Low,None,None,Low,High,Pakistan,IT,30983,Under Investigation,No
+CVE-2017-37050,2017-09-09,SQL Injection,Adobe,ColdFusion,0.5,Low,Adjacent,High,Low,None,High,Low,High,China,Government,25296,Resolved,No
+CVE-2017-43722,2017-09-15,SQL Injection,Apache,Log4j,2.6,Low,Local,Low,None,Required,Low,High,Low,Brazil,Government,33217,Resolved,No
+CVE-2017-16142,2017-08-17,MITM,Atlassian,Bitbucket,1.6,Low,Physical,Low,None,None,Low,None,None,Turkey,Transport,36504,Patched,No
+CVE-2017-48893,2017-02-15,Logic Flaw,Microsoft,Exchange Server,4.8,Medium,Local,High,Low,Required,None,None,High,Nigeria,Finance,28000,Under Investigation,No
+CVE-2017-86509,2017-02-06,Path Traversal,Cisco,AnyConnect,6.4,Medium,Adjacent,High,Low,None,None,Low,Low,Ukraine,Government,17054,Exploited,Yes
+CVE-2017-07056,2017-02-28,RCE,Nginx,Nginx,3.6,Low,Network,Low,None,None,High,Low,None,Iran,Healthcare,28418,Resolved,No
+CVE-2017-16701,2017-03-17,Phishing,Apache,Tomcat,8.8,High,Local,High,None,Required,None,High,Low,USA,Education,31998,Actively Exploited,No
+CVE-2017-86151,2017-10-15,SSRF,Nginx,Nginx,8.8,High,Network,High,None,Required,High,None,High,Pakistan,Energy,1834,Under Investigation,Yes
+CVE-2017-23331,2017-10-10,SQL Injection,Oracle,Database,7.3,High,Network,High,High,Required,None,Low,High,Russia,Energy,13248,Resolved,Yes
+CVE-2017-13272,2017-08-21,Privilege Escalation,IBM,WebSphere,1.9,Low,Local,High,None,Required,High,Low,None,North Korea,Energy,42669,Exploited,Yes
+CVE-2017-10345,2017-05-31,Buffer Overflow,VMware,Workstation,8.8,High,Adjacent,High,High,None,Low,Low,High,Germany,Retail,41684,Patched,No
+CVE-2017-95172,2017-11-29,XXE,VMware,ESXi,9.5,Critical,Local,High,None,Required,High,Low,Low,Vietnam,Transport,41245,Under Investigation,No
+CVE-2017-28210,2017-02-11,Credential Stuffing,Cisco,Firepower,6.2,Medium,Physical,High,High,None,None,High,None,Canada,Energy,16828,Resolved,No
+CVE-2017-00649,2017-08-26,Command Injection,Drupal,Core,6.5,Medium,Local,High,Low,Required,Low,High,High,China,Government,49173,Patched,Yes
+CVE-2017-15011,2017-06-08,Path Traversal,F5,BIG-IP,6.6,Medium,Network,Low,High,Required,None,None,None,Indonesia,Education,29136,Actively Exploited,Yes
+CVE-2017-09530,2017-10-07,Command Injection,Cisco,Firepower,7.1,High,Network,Low,Low,None,None,None,None,France,Manufacturing,215,Resolved,No
+CVE-2017-33164,2017-05-11,Ransomware,Fortinet,FortiManager,3.2,Low,Adjacent,High,Low,Required,None,None,High,USA,Defense,44584,Under Investigation,Yes
+CVE-2017-74484,2017-05-20,Privilege Escalation,Oracle,WebLogic,3.6,Low,Physical,High,High,None,None,Low,Low,Turkey,Healthcare,19664,Actively Exploited,Yes
+CVE-2017-00902,2017-09-30,Command Injection,Microsoft,Windows,10.0,Critical,Physical,High,Low,None,Low,None,Low,Romania,Government,10493,Patched,No
+CVE-2017-75951,2017-12-17,MITM,IBM,MQ,1.9,Low,Adjacent,High,Low,None,High,None,High,Nigeria,Education,9380,Actively Exploited,No
+CVE-2017-31044,2017-08-18,Deserialization,Oracle,WebLogic,9.6,Critical,Adjacent,Low,None,None,None,Low,High,India,Manufacturing,43209,Under Investigation,Yes
+CVE-2017-71277,2017-06-10,CSRF,Adobe,Photoshop,1.1,Low,Network,High,High,Required,None,High,None,Nigeria,Energy,28285,Actively Exploited,Yes
+CVE-2017-81632,2017-09-25,RCE,VMware,Horizon,5.4,Medium,Network,Low,None,None,Low,Low,High,China,Retail,43655,Resolved,No
+CVE-2017-86283,2017-11-21,Deserialization,IBM,QRadar,6.9,Medium,Network,High,None,Required,None,High,Low,Romania,Telecom,38878,Actively Exploited,No
+CVE-2017-35550,2017-10-28,SQL Injection,VMware,ESXi,3.9,Low,Physical,Low,None,Required,None,Low,None,India,Transport,1865,Under Investigation,No
+CVE-2017-15188,2017-07-26,XXE,Apache,Struts,8.5,High,Adjacent,High,High,Required,High,High,High,Brazil,Manufacturing,14999,Under Investigation,Yes
+CVE-2017-85685,2017-05-16,Command Injection,Juniper,Junos,1.7,Low,Local,High,Low,Required,None,High,High,Vietnam,Transport,34544,Resolved,No
+CVE-2017-19079,2017-02-06,Ransomware,Juniper,Junos,6.2,Medium,Adjacent,Low,Low,Required,None,None,Low,Canada,Retail,13777,Under Investigation,No
+CVE-2017-45883,2017-01-08,XXE,Linux,systemd,2.8,Low,Adjacent,High,None,Required,High,High,Low,Iran,Telecom,14138,Exploited,No
+CVE-2017-12481,2017-09-07,XSS,Atlassian,Confluence,0.5,Low,Adjacent,Low,Low,None,Low,Low,Low,North Korea,Healthcare,8696,Exploited,No
+CVE-2017-49140,2017-12-12,SQL Injection,Atlassian,Jira,7.6,High,Local,High,High,None,None,High,High,Netherlands,Healthcare,41113,Actively Exploited,Yes
+CVE-2017-57533,2017-03-14,XSS,Juniper,Junos,2.8,Low,Physical,High,None,None,High,High,Low,Romania,Government,9931,Actively Exploited,No
+CVE-2017-29583,2017-05-23,Brute Force,Atlassian,Confluence,6.2,Medium,Physical,Low,None,Required,High,None,None,Indonesia,Retail,36402,Under Investigation,No
+CVE-2017-93311,2017-05-30,CSRF,WordPress,Core,6.9,Medium,Network,High,Low,None,None,None,Low,USA,Defense,20981,Patched,No
+CVE-2017-16068,2017-09-20,XSS,Oracle,Java SE,4.2,Medium,Physical,Low,High,Required,None,None,None,Pakistan,Energy,35474,Under Investigation,No
+CVE-2017-32303,2017-04-23,Path Traversal,Nginx,Nginx,1.3,Low,Network,High,None,Required,High,None,None,Russia,Finance,19904,Patched,No
+CVE-2017-84129,2017-07-20,Path Traversal,Google,Android,5.7,Medium,Adjacent,Low,None,Required,High,None,High,Nigeria,Telecom,10833,Under Investigation,Yes
+CVE-2017-49540,2017-02-17,RCE,Fortinet,FortiOS,0.3,Low,Network,High,High,None,High,Low,High,Indonesia,Healthcare,24625,Exploited,Yes
+CVE-2017-91252,2017-10-05,Phishing,Google,Workspace,4.3,Medium,Physical,High,None,Required,Low,None,High,USA,Transport,4701,Resolved,No
+CVE-2017-07461,2017-04-27,Zero-Day Exploit,Zimbra,Collaboration Suite,8.1,High,Adjacent,High,High,None,None,Low,None,France,Government,49669,Actively Exploited,Yes
+CVE-2017-17097,2017-06-09,DoS/DDoS,Juniper,Junos,0.6,Low,Network,Low,None,None,None,High,Low,India,Finance,2957,Actively Exploited,Yes
+CVE-2017-66274,2017-10-29,CSRF,VMware,ESXi,4.4,Medium,Physical,Low,Low,Required,Low,Low,High,France,IT,6742,Exploited,No
+CVE-2017-04126,2017-09-03,Path Traversal,SAP,NetWeaver,1.3,Low,Local,Low,None,Required,Low,Low,High,France,Healthcare,12670,Patched,Yes
+CVE-2017-95938,2017-06-13,Privilege Escalation,WordPress,Plugins,3.6,Low,Local,High,Low,Required,None,None,High,Ukraine,Healthcare,16991,Exploited,Yes
+CVE-2017-26562,2017-03-17,Path Traversal,Atlassian,Bitbucket,3.5,Low,Physical,Low,None,None,High,None,High,India,Finance,22793,Actively Exploited,Yes
+CVE-2017-10211,2017-03-05,Ransomware,VMware,vCenter,6.7,Medium,Physical,Low,None,Required,Low,High,High,Canada,Finance,33531,Patched,Yes
+CVE-2017-95169,2017-11-20,Privilege Escalation,Adobe,Photoshop,1.8,Low,Network,Low,None,None,High,High,None,Netherlands,Transport,14159,Exploited,No
+CVE-2017-28698,2017-04-16,RCE,WordPress,Core,0.5,Low,Adjacent,Low,High,Required,None,None,None,Indonesia,Government,36824,Resolved,No
+CVE-2017-71513,2017-03-03,Phishing,Juniper,Junos,2.7,Low,Local,High,None,None,Low,High,High,South Korea,Finance,23747,Resolved,No
+CVE-2017-65569,2017-01-19,Command Injection,F5,BIG-IP,4.6,Medium,Physical,Low,None,Required,Low,Low,Low,UK,Government,13084,Under Investigation,No
+CVE-2017-35828,2017-01-15,Logic Flaw,Fortinet,FortiManager,6.9,Medium,Adjacent,High,None,None,High,None,Low,Turkey,Energy,9497,Patched,No
+CVE-2017-11881,2017-06-04,Command Injection,Zimbra,Collaboration Suite,4.6,Medium,Adjacent,High,None,None,Low,High,Low,Turkey,Transport,24589,Actively Exploited,Yes
+CVE-2017-32306,2017-05-19,MITM,Fortinet,FortiGate,5.4,Medium,Local,High,Low,None,Low,Low,High,India,IT,49514,Patched,No
+CVE-2017-34155,2017-06-26,XSS,Adobe,Flash,6.8,Medium,Network,Low,Low,Required,High,Low,Low,USA,Energy,20048,Actively Exploited,No
+CVE-2017-87481,2017-05-18,XSS,SAP,HANA,9.3,Critical,Local,High,None,None,Low,None,Low,Iran,Healthcare,16832,Exploited,Yes
+CVE-2017-28059,2017-11-24,Logic Flaw,Apple,Safari,3.4,Low,Physical,Low,Low,Required,High,Low,Low,Brazil,Government,49838,Resolved,No
+CVE-2017-88042,2017-06-04,XXE,Microsoft,Azure AD,2.9,Low,Network,High,High,Required,High,High,High,Vietnam,Healthcare,34940,Exploited,No
+CVE-2017-57624,2017-06-11,Brute Force,Palo Alto,GlobalProtect,4.4,Medium,Adjacent,High,High,None,Low,High,High,Russia,IT,2380,Resolved,No
+CVE-2017-28935,2017-08-06,XSS,VMware,vCenter,3.6,Low,Physical,High,Low,Required,Low,Low,None,India,Energy,426,Resolved,No
+CVE-2017-44298,2017-06-22,Buffer Overflow,Cisco,Webex,7.9,High,Adjacent,Low,None,Required,None,High,None,Nigeria,Government,44846,Actively Exploited,No
+CVE-2017-91160,2017-04-25,Brute Force,Drupal,Modules,1.0,Low,Local,Low,High,Required,None,None,Low,Iran,IT,3185,Exploited,No
+CVE-2017-19946,2017-07-15,DoS/DDoS,Juniper,Junos,2.1,Low,Adjacent,Low,None,Required,High,High,High,Ukraine,Manufacturing,31048,Resolved,No
+CVE-2017-04193,2017-07-10,Privilege Escalation,Linux,Kernel,8.4,High,Network,Low,None,Required,Low,High,None,Nigeria,Government,26168,Patched,No
+CVE-2017-66760,2017-10-07,Logic Flaw,Cisco,IOS,0.9,Low,Physical,High,High,Required,None,High,None,Indonesia,Government,30355,Exploited,No
+CVE-2017-98314,2017-02-26,Brute Force,Apache,Struts,5.9,Medium,Adjacent,Low,Low,Required,High,None,Low,India,Defense,17246,Actively Exploited,Yes
+CVE-2017-96177,2017-02-23,Brute Force,SAP,Business One,5.3,Medium,Physical,Low,Low,Required,Low,None,Low,France,Retail,30203,Exploited,No
+CVE-2017-58760,2017-05-16,Deserialization,Nginx,Nginx,9.4,Critical,Adjacent,Low,High,None,Low,None,None,Germany,Education,27785,Actively Exploited,Yes
+CVE-2017-14086,2017-06-19,DoS/DDoS,Google,Workspace,3.5,Low,Adjacent,High,None,Required,Low,High,High,Russia,Energy,44434,Exploited,No
+CVE-2017-69910,2017-07-31,SSRF,IBM,QRadar,0.8,Low,Local,Low,None,None,Low,High,None,Vietnam,Education,8363,Resolved,No
