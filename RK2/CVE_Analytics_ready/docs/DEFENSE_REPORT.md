@@ -60,17 +60,23 @@ flowchart LR
 
 ## 3. Подготовка и запуск
 
+
+## 3. Подготовка и запуск
+
 py -m venv .venv
-
 .\.venv\Scripts\Activate.ps1
-
 python -m pip install -r requirements.txt
-
-python -m pip install pytest
-
 python -m streamlit run app.py
 
-После запуска открыть адрес, указанный Streamlit (обычно `http://localhost:8501`). Для остановки нажать `Ctrl+C`. Исходные CSV должны находиться в `data/`.
+После запуска приложение доступно по адресу
+http://localhost:8501.
+
+Для выполнения тестов:
+
+python -m pytest -v
+
+Исходные CSV-файлы должны находиться в папке `data/`.
+Остановить приложение можно сочетанием `Ctrl+C`.
 
 ## 4. Загрузка и проверка исходных данных
 
