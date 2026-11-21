@@ -41,8 +41,8 @@ CSV-файлы `cyberattacks_cve_2014.csv` … `cyberattacks_cve_2026.csv` до�
 
 ### Пример интерфейса настроек
 
-![Настройки пользователя manya](docs/screenshots/настройки manya.png)
-![Настройки пользователя manya](docs/screenshots/результат manya.jpg)
+![Настройки пользователя manya](<docs/screenshots/настройки manya.png>)
+![Настройки пользователя manya](<docs/screenshots/результат manya.jpg>)
 
 _Рисунок 1 — экран настроек пользователя manya._
 
